@@ -1,0 +1,34 @@
+{
+  "name": "elden-ring-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "ts-node ./src/index.ts --section=weapons",
+    "build": "ts-node ./src/index.ts --prod",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misspia/elden-ring-data.git"
+  },
+  "author": "misspia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misspia/elden-ring-data/issues"
+  },
+  "homepage": "https://github.com/misspia/elden-ring-data#readme",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "i": "^0.3.7",
+    "npm": "^11.1.0",
+    "puppeteer": "^24.1.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "tsconfig-paths": "^4.2.0"
+  }
+}
