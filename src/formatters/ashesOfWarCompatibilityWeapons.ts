@@ -79,15 +79,38 @@ type FormattedAshesOfWarCompatibilityAshes = {
   id: string;
   weaponName: string;
   weaponType: WeaponType;
-  affinity: WeaponAffinity;
   defaultAshOfWar: string;
   canApplyAshOfWar: boolean;
   compatibleAshesOfWar: string[];
+  affinity?: WeaponAffinity;
 };
 
 export const ashesOfWarCompatibilityWeaponsFormatter: JSONFormatter<
-  UnformattedAshesOfWarCompatibilityAshes,
-  FormattedAshesOfWarCompatibilityAshes
-> = (json) => {
-  return json;
-};
+  UnformattedAshesOfWarCompatibilityAshes[],
+  FormattedAshesOfWarCompatibilityAshes[]
+> = (json) =>
+  json.map((weapon) => {
+    const {
+      ID: id,
+      "Weapon Name": weaponName,
+      "Weapon Type": weaponType,
+      Affinity: affinity,
+      "Default Ash of War": defaultAshOfWar,
+      "Can Apply Ash of War": canApplyAshOfWar,
+      "Weapon Type Column": _weaponTypeColumn,
+      "Affinity Column": _affinityColumn,
+      ...compatibleAshes
+    } = weapon;
+    const compatibleAshesOfWar: string[] = Object.values(
+      compatibleAshes
+    ).filter((ash) => ash !== "");
+    return {
+      id,
+      weaponName,
+      weaponType,
+      affinity: affinity === "-" ? undefined : affinity,
+      defaultAshOfWar,
+      canApplyAshOfWar: canApplyAshOfWar === "Yes",
+      compatibleAshesOfWar,
+    };
+  });
