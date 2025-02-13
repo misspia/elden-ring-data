@@ -1,12 +1,12 @@
 import * as fs from "fs";
-import { FilesMap } from "@/types/files";
+import { DBFilesMap } from "@/types/files";
 import { CSVToJSON } from "@/CSVToJSON";
 
 export class Cleanser {
-  public filesMap: FilesMap;
+  public DBfilesMap: DBFilesMap;
 
-  constructor(filesMap: FilesMap) {
-    this.filesMap = filesMap;
+  constructor(DBfilesMap: DBFilesMap) {
+    this.DBfilesMap = DBfilesMap;
   }
 
   readCSV(path: string): string {
@@ -18,7 +18,7 @@ export class Cleanser {
   format() {}
 
   cleanse() {
-    this.filesMap.forEach(({ formatter, ...paths }) => {
+    this.DBfilesMap.forEach(({ formatter, ...paths }) => {
       const strCSV = this.readCSV(paths.csv);
       const unformattedJSON = CSVToJSON(strCSV);
       const formattedJSON = formatter(unformattedJSON);

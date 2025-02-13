@@ -1,4 +1,12 @@
 /**
+ * @description Removes \r string present in the last line of the CSV string
+ * If not the last line, returns the string unmodified
+ */
+const cleanseLastLine = (isLastLine: boolean, str: string): string => {
+  return isLastLine ? str.replace("\r", "") : str;
+};
+
+/**
  * Taken from
  * https://stackoverflow.com/a/27979069
  */
@@ -19,11 +27,11 @@ export const CSVToJSON = (csv: string) => {
     const currentLine = lines[i].split(",");
 
     for (let j = 0; j < headers.length; j++) {
-      const value =
-        j === currentLine.length - 1
-          ? currentLine[j].replace("\r", "")
-          : currentLine[j];
-      obj[headers[j]] = value;
+      const isLastLine = j === currentLine.length - 1;
+      const header = cleanseLastLine(isLastLine, headers[j]);
+      const value = cleanseLastLine(isLastLine, currentLine[j]);
+
+      obj[header] = value;
     }
 
     result.push(obj);
