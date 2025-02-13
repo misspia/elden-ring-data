@@ -2,6 +2,7 @@ import { CSV_BASE_PATH, JSON_BASE_PATH } from "@/contants/db";
 import { DBFilesMap } from "@/types/files";
 import { ashesOfWarCompatibilityWeaponsFormatter } from "@/formatters/ashesOfWarCompatibilityWeapons";
 import { ashesOfWarCompatibilityAshesFormatter } from "@/formatters/ashesOfWarCompatibilityAshes";
+import { bossesFormatter } from "@/formatters/bosses";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -18,6 +19,12 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
     csv: "Elden Ring Compatible Ash of War Sheet - Weapons.csv",
     json: "ashes-of-war-compatibility-weapons.json",
     formatter: ashesOfWarCompatibilityWeaponsFormatter,
+  },
+  // https://docs.google.com/spreadsheets/d/1aujq95UfL_oUs3voPt3nGqM1hLhaVJOj6JKB6Np3FD8/edit?gid=1466577964#gid=1466577964
+  {
+    csv: "Elden Ring NPC Data Sheet (1.05) - Boss_Data.csv",
+    json: "bosses.json",
+    formatter: bossesFormatter,
   },
 ];
 
