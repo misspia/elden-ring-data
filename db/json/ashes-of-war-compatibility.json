@@ -48,7 +48,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Impaling Thrust",
@@ -99,7 +99,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Piercing Fang",
@@ -150,7 +150,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Spinning Slash",
@@ -201,7 +201,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Charge Forth",
@@ -252,7 +252,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Stamp (Upward Cut)",
@@ -303,7 +303,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Stamp (Sweep)",
@@ -354,7 +354,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Blood Tax",
@@ -405,7 +405,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Repeating Thrust",
@@ -456,7 +456,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Wild Strikes",
@@ -507,7 +507,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Spinning Strikes",
@@ -558,7 +558,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Double Slash",
@@ -609,7 +609,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Prelate's Charge",
@@ -660,7 +660,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Unsheathe",
@@ -711,7 +711,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Square Off",
@@ -762,7 +762,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Giant Hunt",
@@ -813,7 +813,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Loretta's Slash",
@@ -864,7 +864,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Poison Moth Flight",
@@ -915,7 +915,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Spinning Weapon",
@@ -966,7 +966,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Storm Assault",
@@ -1017,7 +1017,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Stormcaller",
@@ -1068,7 +1068,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Sword Dance",
@@ -1119,7 +1119,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Glintblade Phalanx",
@@ -1170,7 +1170,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Sacred Blade",
@@ -1221,7 +1221,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Ice Spear",
@@ -1272,7 +1272,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Glintstone Pebble",
@@ -1323,7 +1323,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Bloody Slash",
@@ -1374,7 +1374,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Lifesteal Fist",
@@ -1425,7 +1425,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Eruption",
@@ -1476,7 +1476,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Prayerful Strike",
@@ -1527,7 +1527,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Gravitas",
@@ -1578,7 +1578,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Storm Blade",
@@ -1629,7 +1629,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Earthshaker",
@@ -1680,7 +1680,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Golden Land",
@@ -1731,7 +1731,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Flaming Strike",
@@ -1782,7 +1782,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Thunderbolt",
@@ -1833,7 +1833,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Lightning Slash",
@@ -1884,7 +1884,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Carian Grandeur",
@@ -1935,7 +1935,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Carian Greatsword",
@@ -1986,7 +1986,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Vacuum Slice",
@@ -2037,7 +2037,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Black Flame Tornado",
@@ -2088,7 +2088,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Sacred Ring of Light",
@@ -2139,7 +2139,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Blood Blade",
@@ -2190,7 +2190,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Phantom Slash",
@@ -2241,7 +2241,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Spectral Lance",
@@ -2292,7 +2292,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Chilling Mist",
@@ -2343,7 +2343,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Poisonous Mist",
@@ -2394,7 +2394,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Shield Bash",
@@ -2445,7 +2445,7 @@
         "mediumShield": true,
         "greatshield": true,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Barricade Shield",
@@ -2496,7 +2496,7 @@
         "mediumShield": true,
         "greatshield": true,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Parry",
@@ -2547,7 +2547,7 @@
         "mediumShield": true,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Carian Retaliation",
@@ -2598,7 +2598,7 @@
         "mediumShield": true,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Storm Wall",
@@ -2649,7 +2649,7 @@
         "mediumShield": true,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Golden Parry",
@@ -2700,7 +2700,7 @@
         "mediumShield": true,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Shield Crash",
@@ -2751,7 +2751,7 @@
         "mediumShield": true,
         "greatshield": true,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "No Skill",
@@ -2802,7 +2802,7 @@
         "mediumShield": true,
         "greatshield": true,
         "torch": true,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Thops's Barrier",
@@ -2853,7 +2853,7 @@
         "mediumShield": true,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Through and Through",
@@ -2904,7 +2904,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Barrage",
@@ -2955,7 +2955,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Mighty Shot",
@@ -3006,7 +3006,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Enchanted Shot",
@@ -3057,7 +3057,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Sky Shot",
@@ -3108,7 +3108,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Rain of Arrows",
@@ -3159,7 +3159,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Hoarfrost Stomp",
@@ -3210,7 +3210,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Storm Stomp",
@@ -3261,7 +3261,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Kick",
@@ -3312,7 +3312,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Lightning Ram",
@@ -3363,7 +3363,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Flame of the Redmanes",
@@ -3414,7 +3414,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Ground Slam",
@@ -3465,7 +3465,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Golden Slam",
@@ -3516,7 +3516,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Waves of Darkness",
@@ -3567,7 +3567,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Hoarah Loux's Earthshaker",
@@ -3618,7 +3618,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Determination",
@@ -3669,7 +3669,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Royal Knight's Resolve",
@@ -3720,7 +3720,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Assassin's Gambit",
@@ -3771,7 +3771,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Golden Vow",
@@ -3822,7 +3822,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Sacred Order",
@@ -3873,7 +3873,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Shared Order",
@@ -3924,7 +3924,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Seppuku",
@@ -3975,7 +3975,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Cragblade",
@@ -4026,7 +4026,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Barbaric Roar",
@@ -4077,7 +4077,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "War Cry",
@@ -4128,7 +4128,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Beast's Roar",
@@ -4179,7 +4179,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Troll's Roar",
@@ -4230,7 +4230,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Braggart's Roar",
@@ -4281,7 +4281,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Endure",
@@ -4332,7 +4332,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Vow of the Indomitable",
@@ -4383,7 +4383,7 @@
         "mediumShield": true,
         "greatshield": true,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Holy Ground",
@@ -4434,7 +4434,7 @@
         "mediumShield": true,
         "greatshield": true,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Quickstep",
@@ -4485,7 +4485,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Bloodhound's Step",
@@ -4536,7 +4536,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "Raptor of the Mists",
@@ -4587,7 +4587,7 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     },
     {
         "name": "White Shadow's Lure",
@@ -4638,6 +4638,6 @@
         "mediumShield": false,
         "greatshield": false,
         "torch": false,
-        "nONE": false
+        "none": false
     }
 ]
