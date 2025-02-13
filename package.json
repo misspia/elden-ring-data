@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "scrape": "ts-node ./src/index.ts --section=weapons",
+    "cleanse": "ts-node ./src/index.ts --section=weapons",
     "build": "ts-node ./src/index.ts --prod",
     "format": "prettier --write ."
   },
@@ -20,13 +20,6 @@
   "homepage": "https://github.com/misspia/elden-ring-data#readme",
   "dependencies": {
     "commander": "^13.1.0",
-    "crawlee": "^3.12.2",
-    "i": "^0.3.7",
-    "npm": "^11.1.0",
-    "playwright": "^1.50.1",
-    "puppeteer": "^24.1.1",
-    "puppeteer-extra": "^3.3.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "ts-node": "^10.9.2"
   },
   "devDependencies": {

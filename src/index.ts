@@ -1,7 +1,5 @@
-import * as fs from "fs";
-import * as path from "path";
-import { DATA_OUTPUT_FILE_PATH } from "@/types/scraper";
-import { EldenRingScraper } from "@/scrapers";
+import { FILES_MAP } from "@/contants/filesMap";
+import { Cleanser } from "./Cleanser";
 
 /**
  * @description Runs a web scraper for the Elden Ring Wiki at
@@ -13,12 +11,9 @@ import { EldenRingScraper } from "@/scrapers";
 (async () => {
   try {
     const args = process.argv.slice(2);
-    const scraper = new EldenRingScraper();
-    scraper.init();
-
-    // const data = JSON.stringify({ test: "data!" });
-    // fs.writeFileSync(path.resolve(DATA_OUTPUT_FILE_PATH, `test.json`), data);
+    const cleanser = new Cleanser(FILES_MAP);
+    cleanser.cleanse();
   } catch (e) {
-    console.log("error");
+    console.log("error", e);
   }
 })();
