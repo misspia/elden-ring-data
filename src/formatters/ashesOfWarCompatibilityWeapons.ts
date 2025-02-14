@@ -104,7 +104,7 @@ export const ashesOfWarCompatibilityWeaponsFormatter: JSONFormatter<
       ...compatibleAshes
     } = weapon;
     const compatibleAshesOfWar: string[] = Object.values(
-      compatibleAshes
+      compatibleAshes,
     ).filter((ash) => ash !== "" && ash !== "-");
     return {
       id,

@@ -78,7 +78,7 @@ export const ashesOfWarCompatibilityAshesFormatter: JSONFormatter<
           ...acc,
           [sentenceToCamelCase(key)]: toBool(value),
         }),
-        {} as Record<string, boolean>
+        {} as Record<string, boolean>,
       ),
     } as FormattedAshesOfWarCompatibilityWeapon;
   });

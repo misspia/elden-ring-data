@@ -1,5 +1,5 @@
 export type JSONFormatter<UnformattedJSON, FormattedJSON> = (
-  unformattedJSON: UnformattedJSON
+  unformattedJSON: UnformattedJSON,
 ) => FormattedJSON;
 
 type DBFileMapItem<UnformattedJSON = any, FormattedJSON = any> = {

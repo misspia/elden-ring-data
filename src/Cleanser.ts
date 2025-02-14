@@ -29,7 +29,7 @@ export class Cleanser {
       fs.promises.writeFile(
         paths.json,
         JSON.stringify(formattedJSON, null, 4),
-        "utf-8"
+        "utf-8",
       );
       // const unformattedJSON = CSVToJSON(strCSV);
       // const formattedJSON = formatter(unformattedJSON);

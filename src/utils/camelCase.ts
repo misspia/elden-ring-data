@@ -1,7 +1,7 @@
 import { SentenceToCamelCase } from "@/types/camelCase";
 
 export const sentenceToCamelCase = <T extends string>(
-  str: T
+  str: T,
 ): SentenceToCamelCase<T> => {
   const isAllUppercase = str === str.toUpperCase();
   if (isAllUppercase) {
@@ -10,7 +10,7 @@ export const sentenceToCamelCase = <T extends string>(
 
   const result = str
     .replace(/(?:^\w|[A-Z]|\b\w)/g, (word: string, index: number) =>
-      index === 0 ? word.toLowerCase() : word.toUpperCase()
+      index === 0 ? word.toLowerCase() : word.toUpperCase(),
     )
     .replace(/\s+/g, "");
 

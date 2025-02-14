@@ -1,0 +1,1117 @@
+[
+  {
+    "id": "523090010",
+    "name": "Patches",
+    "actualName": "Patches",
+    "encounterName": "Patches",
+    "condition": "-",
+    "encounterHP": 1,
+    "runes": 800,
+    "hp": 1,
+    "defence": {
+      "physical": 85,
+      "magic": 98,
+      "fire": 98,
+      "lightning": 81,
+      "holy": 96
+    },
+    "negation": {
+      "standard": 13,
+      "slash": 13,
+      "pierce": 15,
+      "magic": 16,
+      "fire": 16,
+      "lightning": -3,
+      "holy": 17,
+      "immunity": 218,
+      "robustness": 168,
+      "focusSleep": 182,
+      "focusMadness": 182,
+      "vitality": "IMMUNE"
+    },
+    "poise": 4,
+    "spells": [],
+    "vigor": 24,
+    "mind": 9,
+    "endurance": 14,
+    "strength": 12,
+    "dexterity": 15,
+    "itelligence": 8,
+    "faith": 8,
+    "arcane": 7,
+    "region": "Limgrave",
+    "location": "Murkwater Cave",
+    "nearestGrace": "Murkwater Cave"
+  },
+  {
+    "id": "523560020",
+    "name": "Adan, Thief of Fire",
+    "actualName": "Adan, Thief of Fire",
+    "encounterName": "Adan, Thief of Fire",
+    "condition": "-",
+    "encounterHP": 1,
+    "runes": 3,
+    "hp": 1,
+    "defence": {
+      "physical": 92,
+      "magic": 91,
+      "fire": 103,
+      "lightning": 86,
+      "holy": 93
+    },
+    "negation": {
+      "standard": 34,
+      "slash": 32,
+      "pierce": 32,
+      "magic": 25,
+      "fire": 34,
+      "lightning": 4,
+      "holy": 24,
+      "immunity": 245,
+      "robustness": 248,
+      "focusSleep": 287,
+      "focusMadness": 287,
+      "vitality": 999
+    },
+    "poise": 74,
+    "spells": [
+      {
+        "name": "O, Flame!",
+        "boost": 1.2
+      },
+      {
+        "name": "Flame of the Fell God",
+        "boost": 1.2
+      }
+    ],
+    "vigor": 22,
+    "mind": 7,
+    "endurance": 11,
+    "strength": 16,
+    "dexterity": 18,
+    "itelligence": 2,
+    "faith": 18,
+    "arcane": 3,
+    "region": "Liurnia",
+    "location": "Malefactor's Evergaol",
+    "nearestGrace": "Liurnia Lake Shore"
+  },
+  {
+    "id": "523760930",
+    "name": "Necromancer Garris",
+    "actualName": "Necromancer Garris",
+    "encounterName": "Necromancer Garris",
+    "condition": "-",
+    "encounterHP": 3,
+    "runes": 9,
+    "hp": 3,
+    "defence": {
+      "physical": 100,
+      "magic": 131,
+      "fire": 117,
+      "lightning": 95,
+      "holy": 100
+    },
+    "negation": {
+      "standard": 9,
+      "slash": 8,
+      "pierce": 5,
+      "magic": 20,
+      "fire": 18,
+      "lightning": 0,
+      "holy": 20,
+      "immunity": 174,
+      "robustness": 148,
+      "focusSleep": 229,
+      "focusMadness": 229,
+      "vitality": 999
+    },
+    "poise": 3,
+    "spells": [
+      {
+        "name": "Tibia's Summons"
+      }
+    ],
+    "vigor": 29,
+    "mind": 5,
+    "endurance": 11,
+    "strength": 14,
+    "dexterity": 18,
+    "itelligence": 16,
+    "faith": 16,
+    "arcane": 2,
+    "region": "Altus Plateau",
+    "location": "Sage's Cave",
+    "nearestGrace": "Sage's Cave"
+  },
+  {
+    "id": "523860000",
+    "name": "Esgar, Priest of Blood",
+    "actualName": "Esgar, Priest of Blood",
+    "encounterName": "Esgar, Priest of Blood",
+    "condition": "-",
+    "encounterHP": 3,
+    "runes": 30,
+    "hp": 3,
+    "defence": {
+      "physical": 94,
+      "magic": 101,
+      "fire": 109,
+      "lightning": 92,
+      "holy": 101
+    },
+    "negation": {
+      "standard": 12,
+      "slash": 10,
+      "pierce": 10,
+      "magic": 24,
+      "fire": 21,
+      "lightning": 4,
+      "holy": 25,
+      "immunity": 236,
+      "robustness": 168,
+      "focusSleep": 306,
+      "focusMadness": 306,
+      "vitality": 999
+    },
+    "poise": 5,
+    "spells": [
+      {
+        "name": "Bloodflame Talons"
+      },
+      {
+        "name": "Swarm of Flies"
+      }
+    ],
+    "vigor": 22,
+    "mind": 8,
+    "endurance": 11,
+    "strength": 6,
+    "dexterity": 22,
+    "itelligence": 4,
+    "faith": 20,
+    "arcane": 4,
+    "region": "Leyndell, Royal Capital",
+    "location": "Leyndell Catacombs",
+    "nearestGrace": "Leyndell Catacombs"
+  },
+  {
+    "id": "523040050",
+    "name": "Roundtable Knight Vyke",
+    "actualName": "Roundtable Knight Vyke",
+    "encounterName": "Roundtable Knight Vyke",
+    "condition": "-",
+    "encounterHP": 5,
+    "runes": 75,
+    "hp": 5,
+    "defence": {
+      "physical": 104,
+      "magic": 108,
+      "fire": 120,
+      "lightning": 98,
+      "holy": 108
+    },
+    "negation": {
+      "standard": 41,
+      "slash": 38,
+      "pierce": 38,
+      "magic": 26,
+      "fire": 31,
+      "lightning": -7,
+      "holy": 26,
+      "immunity": 199,
+      "robustness": 274,
+      "focusSleep": 143,
+      "focusMadness": "IMMUNE",
+      "vitality": "IMMUNE"
+    },
+    "poise": 40,
+    "spells": [
+      {
+        "name": "Lightning Strike",
+        "boost": 1.15
+      },
+      {
+        "name": "Fortissax's Lightning Spear",
+        "boost": 1.15
+      },
+      {
+        "name": "Vyke's Dragonbolt"
+      }
+    ],
+    "vigor": 28,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 14,
+    "dexterity": 20,
+    "itelligence": 4,
+    "faith": 18,
+    "arcane": 4,
+    "region": "Mountaintops of the Giants",
+    "location": "Lord Contender's Evergaol",
+    "nearestGrace": "Whiteridge Road"
+  },
+  {
+    "id": "523610066",
+    "name": "Fia's Champion #1",
+    "actualName": "Fia's Champion",
+    "encounterName": "Fia's Champion",
+    "condition": "-",
+    "encounterHP": 8,
+    "runes": 40,
+    "hp": 1,
+    "defence": {
+      "physical": 139,
+      "magic": 134,
+      "fire": 150,
+      "lightning": 120,
+      "holy": 136
+    },
+    "negation": {
+      "standard": 25,
+      "slash": 26,
+      "pierce": 26,
+      "magic": 19,
+      "fire": 21,
+      "lightning": -5,
+      "holy": 22,
+      "immunity": 224,
+      "robustness": 257,
+      "focusSleep": 187,
+      "focusMadness": 187,
+      "vitality": 999
+    },
+    "poise": 34,
+    "spells": [],
+    "vigor": 35,
+    "mind": 13,
+    "endurance": 15,
+    "strength": 45,
+    "dexterity": 44,
+    "itelligence": 7,
+    "faith": 5,
+    "arcane": 8,
+    "region": "Deeproot Depths",
+    "location": "Deeproot Depths",
+    "nearestGrace": "Across the Roots"
+  },
+  {
+    "id": "523250066",
+    "name": "Sorcerer Rogier",
+    "actualName": "Sorcerer Rogier",
+    "encounterName": "Fia's Champion",
+    "condition": "-",
+    "encounterHP": 8,
+    "runes": 40,
+    "hp": 2,
+    "defence": {
+      "physical": 93,
+      "magic": 129,
+      "fire": 106,
+      "lightning": 90,
+      "holy": 97
+    },
+    "negation": {
+      "standard": 8,
+      "slash": 8,
+      "pierce": 8,
+      "magic": 25,
+      "fire": 22,
+      "lightning": 4,
+      "holy": 25,
+      "immunity": 202,
+      "robustness": 155,
+      "focusSleep": 263,
+      "focusMadness": 263,
+      "vitality": 999
+    },
+    "poise": 2,
+    "spells": [
+      {
+        "name": "Glintstone Pebble"
+      },
+      {
+        "name": "Magic Downpour"
+      },
+      {
+        "name": "Scholar's Armament"
+      }
+    ],
+    "vigor": 22,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 8,
+    "dexterity": 24,
+    "itelligence": 17,
+    "faith": 3,
+    "arcane": 3,
+    "region": "Deeproot Depths",
+    "location": "Deeproot Depths",
+    "nearestGrace": "Across the Roots"
+  },
+  {
+    "id": "523290066",
+    "name": "Lionel the Lionhearted",
+    "actualName": "Lionel the Lionhearted",
+    "encounterName": "Fia's Champion",
+    "condition": "-",
+    "encounterHP": 8,
+    "runes": 40,
+    "hp": 2,
+    "defence": {
+      "physical": 96,
+      "magic": 124,
+      "fire": 106,
+      "lightning": 90,
+      "holy": 99
+    },
+    "negation": {
+      "standard": 33,
+      "slash": 36,
+      "pierce": 37,
+      "magic": 26,
+      "fire": 28,
+      "lightning": 7,
+      "holy": 26,
+      "immunity": 272,
+      "robustness": 366,
+      "focusSleep": 216,
+      "focusMadness": 216,
+      "vitality": 999
+    },
+    "poise": 79,
+    "spells": [
+      {
+        "name": "Rancorcall"
+      },
+      {
+        "name": "Fia's Mist"
+      }
+    ],
+    "vigor": 22,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 16,
+    "dexterity": 16,
+    "itelligence": 15,
+    "faith": 4,
+    "arcane": 4,
+    "region": "Deeproot Depths",
+    "location": "Deeproot Depths",
+    "nearestGrace": "Across the Roots"
+  },
+  {
+    "id": "523610066",
+    "name": "Fia's Champion #2",
+    "actualName": "Fia's Champion",
+    "encounterName": "Fia's Champion",
+    "condition": "-",
+    "encounterHP": 8,
+    "runes": 40,
+    "hp": 1,
+    "defence": {
+      "physical": 139,
+      "magic": 134,
+      "fire": 150,
+      "lightning": 120,
+      "holy": 136
+    },
+    "negation": {
+      "standard": 27,
+      "slash": 28,
+      "pierce": 27,
+      "magic": 21,
+      "fire": 22,
+      "lightning": -1,
+      "holy": 21,
+      "immunity": 240,
+      "robustness": 276,
+      "focusSleep": 222,
+      "focusMadness": 222,
+      "vitality": 999
+    },
+    "poise": 38,
+    "spells": [],
+    "vigor": 35,
+    "mind": 13,
+    "endurance": 15,
+    "strength": 45,
+    "dexterity": 44,
+    "itelligence": 7,
+    "faith": 5,
+    "arcane": 8,
+    "region": "Deeproot Depths",
+    "location": "Deeproot Depths",
+    "nearestGrace": "Across the Roots"
+  },
+  {
+    "id": "523610066",
+    "name": "Fia's Champion #3",
+    "actualName": "Fia's Champion",
+    "encounterName": "Fia's Champion",
+    "condition": "-",
+    "encounterHP": 8,
+    "runes": 40,
+    "hp": 833,
+    "defence": {
+      "physical": 123,
+      "magic": 180,
+      "fire": 137,
+      "lightning": 120,
+      "holy": 144
+    },
+    "negation": {
+      "standard": 11,
+      "slash": 10,
+      "pierce": 6,
+      "magic": 25,
+      "fire": 24,
+      "lightning": 6,
+      "holy": 26,
+      "immunity": 227,
+      "robustness": 178,
+      "focusSleep": 292,
+      "focusMadness": 292,
+      "vitality": 999
+    },
+    "poise": 4,
+    "spells": [
+      {
+        "name": "Carian Slicer",
+        "boost": 1.15
+      }
+    ],
+    "vigor": 26,
+    "mind": 26,
+    "endurance": 12,
+    "strength": 10,
+    "dexterity": 20,
+    "itelligence": 59,
+    "faith": 7,
+    "arcane": 12,
+    "region": "Deeproot Depths",
+    "location": "Deeproot Depths",
+    "nearestGrace": "Across the Roots"
+  },
+  {
+    "id": "523240070",
+    "name": "Sir Gideon Ofnir, the All-Knowing (Default)",
+    "actualName": "Sir Gideon Ofnir, the All-Knowing",
+    "encounterName": "Sir Gideon Ofnir, the All-Knowing (Default)",
+    "condition": "Rykard, Malenia, and Mohg Undefeated",
+    "encounterHP": 6,
+    "runes": 150,
+    "hp": 6,
+    "defence": {
+      "physical": 105,
+      "magic": 139,
+      "fire": 129,
+      "lightning": 103,
+      "holy": 110
+    },
+    "negation": {
+      "standard": 25,
+      "slash": 26,
+      "pierce": 23,
+      "magic": 24,
+      "fire": 19,
+      "lightning": 0,
+      "holy": 17,
+      "immunity": 193,
+      "robustness": 240,
+      "focusSleep": 171,
+      "focusMadness": 171,
+      "vitality": "IMMUNE"
+    },
+    "poise": 35,
+    "spells": [
+      {
+        "name": "Comet"
+      },
+      {
+        "name": "Comet Azur"
+      },
+      {
+        "name": "Carian Phalanx",
+        "boost": 1.15
+      },
+      {
+        "name": "Black Flame Ritual"
+      },
+      {
+        "name": "Triple Rings of Light"
+      },
+      {
+        "name": "Law of Causality"
+      }
+    ],
+    "vigor": 31,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 6,
+    "dexterity": 20,
+    "itelligence": 15,
+    "faith": 20,
+    "arcane": 3,
+    "region": "Leyndell, Ashen Capital",
+    "location": "Leyndell, Ashen Capital",
+    "nearestGrace": "The Ashen Capital"
+  },
+  {
+    "id": "523240070",
+    "name": "Sir Gideon Ofnir, the All-Knowing (Rykard)",
+    "actualName": "Sir Gideon Ofnir, the All-Knowing",
+    "encounterName": "Sir Gideon Ofnir, the All-Knowing (Rykard)",
+    "condition": "Rykard Defeated",
+    "encounterHP": 6,
+    "runes": 150,
+    "hp": 6,
+    "defence": {
+      "physical": 105,
+      "magic": 139,
+      "fire": 129,
+      "lightning": 103,
+      "holy": 110
+    },
+    "negation": {
+      "standard": 25,
+      "slash": 26,
+      "pierce": 23,
+      "magic": 24,
+      "fire": 19,
+      "lightning": 0,
+      "holy": 17,
+      "immunity": 193,
+      "robustness": 240,
+      "focusSleep": 171,
+      "focusMadness": 171,
+      "vitality": "IMMUNE"
+    },
+    "poise": 35,
+    "spells": [
+      {
+        "name": "Comet"
+      },
+      {
+        "name": "Comet Azur"
+      },
+      {
+        "name": "Carian Phalanx",
+        "boost": 1.15
+      },
+      {
+        "name": "Black Flame Ritual"
+      },
+      {
+        "name": "Triple Rings of Light"
+      },
+      {
+        "name": "Law of Causality"
+      },
+      {
+        "name": "Rykard's Rancor"
+      }
+    ],
+    "vigor": 31,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 6,
+    "dexterity": 20,
+    "itelligence": 15,
+    "faith": 20,
+    "arcane": 3,
+    "region": "Leyndell, Ashen Capital",
+    "location": "Leyndell, Ashen Capital",
+    "nearestGrace": "The Ashen Capital"
+  },
+  {
+    "id": "523240070",
+    "name": "Sir Gideon Ofnir, the All-Knowing (Malenia)",
+    "actualName": "Sir Gideon Ofnir, the All-Knowing",
+    "encounterName": "Sir Gideon Ofnir, the All-Knowing (Malenia)",
+    "condition": "Malenia Defeated",
+    "encounterHP": 6,
+    "runes": 150,
+    "hp": 6,
+    "defence": {
+      "physical": 105,
+      "magic": 139,
+      "fire": 129,
+      "lightning": 103,
+      "holy": 110
+    },
+    "negation": {
+      "standard": 25,
+      "slash": 26,
+      "pierce": 23,
+      "magic": 24,
+      "fire": 19,
+      "lightning": 0,
+      "holy": 17,
+      "immunity": 193,
+      "robustness": 240,
+      "focusSleep": 171,
+      "focusMadness": 171,
+      "vitality": "IMMUNE"
+    },
+    "poise": 35,
+    "spells": [
+      {
+        "name": "Comet"
+      },
+      {
+        "name": "Comet Azur"
+      },
+      {
+        "name": "Carian Phalanx",
+        "boost": 1.15
+      },
+      {
+        "name": "Black Flame Ritual"
+      },
+      {
+        "name": "Triple Rings of Light"
+      },
+      {
+        "name": "Law of Causality"
+      },
+      {
+        "name": "Scarlet Aeonia"
+      }
+    ],
+    "vigor": 31,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 6,
+    "dexterity": 20,
+    "itelligence": 15,
+    "faith": 20,
+    "arcane": 3,
+    "region": "Leyndell, Ashen Capital",
+    "location": "Leyndell, Ashen Capital",
+    "nearestGrace": "The Ashen Capital"
+  },
+  {
+    "id": "523240070",
+    "name": "Sir Gideon Ofnir, the All-Knowing (Mohg)",
+    "actualName": "Sir Gideon Ofnir, the All-Knowing",
+    "encounterName": "Sir Gideon Ofnir, the All-Knowing (Mohg)",
+    "condition": "Mohg Defeated",
+    "encounterHP": 6,
+    "runes": 150,
+    "hp": 6,
+    "defence": {
+      "physical": 105,
+      "magic": 139,
+      "fire": 129,
+      "lightning": 103,
+      "holy": 110
+    },
+    "negation": {
+      "standard": 25,
+      "slash": 26,
+      "pierce": 23,
+      "magic": 24,
+      "fire": 19,
+      "lightning": 0,
+      "holy": 17,
+      "immunity": 193,
+      "robustness": 240,
+      "focusSleep": 171,
+      "focusMadness": 171,
+      "vitality": "IMMUNE"
+    },
+    "poise": 35,
+    "spells": [
+      {
+        "name": "Comet"
+      },
+      {
+        "name": "Comet Azur"
+      },
+      {
+        "name": "Carian Phalanx",
+        "boost": 1.15
+      },
+      {
+        "name": "Black Flame Ritual"
+      },
+      {
+        "name": "Triple Rings of Light"
+      },
+      {
+        "name": "Law of Causality"
+      },
+      {
+        "name": "Bloodboon"
+      }
+    ],
+    "vigor": 31,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 6,
+    "dexterity": 20,
+    "itelligence": 15,
+    "faith": 20,
+    "arcane": 3,
+    "region": "Leyndell, Ashen Capital",
+    "location": "Leyndell, Ashen Capital",
+    "nearestGrace": "The Ashen Capital"
+  },
+  {
+    "id": "523240070",
+    "name": "Sir Gideon Ofnir, the All-Knowing (Rykard and Malenia)",
+    "actualName": "Sir Gideon Ofnir, the All-Knowing",
+    "encounterName": "Sir Gideon Ofnir, the All-Knowing (Rykard and Malenia)",
+    "condition": "Rykard and Malenia Defeated",
+    "encounterHP": 6,
+    "runes": 150,
+    "hp": 6,
+    "defence": {
+      "physical": 105,
+      "magic": 139,
+      "fire": 129,
+      "lightning": 103,
+      "holy": 110
+    },
+    "negation": {
+      "standard": 25,
+      "slash": 26,
+      "pierce": 23,
+      "magic": 24,
+      "fire": 19,
+      "lightning": 0,
+      "holy": 17,
+      "immunity": 193,
+      "robustness": 240,
+      "focusSleep": 171,
+      "focusMadness": 171,
+      "vitality": "IMMUNE"
+    },
+    "poise": 35,
+    "spells": [
+      {
+        "name": "Comet"
+      },
+      {
+        "name": "Rykard's Rancor"
+      },
+      {
+        "name": "Carian Phalanx",
+        "boost": 1.15
+      },
+      {
+        "name": "Black Flame Ritual"
+      },
+      {
+        "name": "Triple Rings of Light"
+      },
+      {
+        "name": "Law of Causality"
+      },
+      {
+        "name": "Scarlet Aeonia"
+      }
+    ],
+    "vigor": 31,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 6,
+    "dexterity": 20,
+    "itelligence": 15,
+    "faith": 20,
+    "arcane": 3,
+    "region": "Leyndell, Ashen Capital",
+    "location": "Leyndell, Ashen Capital",
+    "nearestGrace": "The Ashen Capital"
+  },
+  {
+    "id": "523240070",
+    "name": "Sir Gideon Ofnir, the All-Knowing (Malenia and Mohg)",
+    "actualName": "Sir Gideon Ofnir, the All-Knowing",
+    "encounterName": "Sir Gideon Ofnir, the All-Knowing (Malenia and Mohg)",
+    "condition": "Malenia and Mohg Defeated",
+    "encounterHP": 6,
+    "runes": 150,
+    "hp": 6,
+    "defence": {
+      "physical": 105,
+      "magic": 139,
+      "fire": 129,
+      "lightning": 103,
+      "holy": 110
+    },
+    "negation": {
+      "standard": 25,
+      "slash": 26,
+      "pierce": 23,
+      "magic": 24,
+      "fire": 19,
+      "lightning": 0,
+      "holy": 17,
+      "immunity": 193,
+      "robustness": 240,
+      "focusSleep": 171,
+      "focusMadness": 171,
+      "vitality": "IMMUNE"
+    },
+    "poise": 35,
+    "spells": [
+      {
+        "name": "Comet"
+      },
+      {
+        "name": "Bloodboon"
+      },
+      {
+        "name": "Carian Phalanx",
+        "boost": 1.15
+      },
+      {
+        "name": "Black Flame Ritual"
+      },
+      {
+        "name": "Triple Rings of Light"
+      },
+      {
+        "name": "Law of Causality"
+      },
+      {
+        "name": "Scarlet Aeonia"
+      }
+    ],
+    "vigor": 31,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 6,
+    "dexterity": 20,
+    "itelligence": 15,
+    "faith": 20,
+    "arcane": 3,
+    "region": "Leyndell, Ashen Capital",
+    "location": "Leyndell, Ashen Capital",
+    "nearestGrace": "The Ashen Capital"
+  },
+  {
+    "id": "523240070",
+    "name": "Sir Gideon Ofnir, the All-Knowing (Rykard and Mohg)",
+    "actualName": "Sir Gideon Ofnir, the All-Knowing",
+    "encounterName": "Sir Gideon Ofnir, the All-Knowing (Rykard and Mohg)",
+    "condition": "Rykard and Mohg Defeated",
+    "encounterHP": 6,
+    "runes": 150,
+    "hp": 6,
+    "defence": {
+      "physical": 105,
+      "magic": 139,
+      "fire": 129,
+      "lightning": 103,
+      "holy": 110
+    },
+    "negation": {
+      "standard": 25,
+      "slash": 26,
+      "pierce": 23,
+      "magic": 24,
+      "fire": 19,
+      "lightning": 0,
+      "holy": 17,
+      "immunity": 193,
+      "robustness": 240,
+      "focusSleep": 171,
+      "focusMadness": 171,
+      "vitality": "IMMUNE"
+    },
+    "poise": 35,
+    "spells": [
+      {
+        "name": "Comet"
+      },
+      {
+        "name": "Rykard's Rancor"
+      },
+      {
+        "name": "Carian Phalanx",
+        "boost": 1.15
+      },
+      {
+        "name": "Black Flame Ritual"
+      },
+      {
+        "name": "Triple Rings of Light"
+      },
+      {
+        "name": "Law of Causality"
+      },
+      {
+        "name": "Bloodboon"
+      }
+    ],
+    "vigor": 31,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 6,
+    "dexterity": 20,
+    "itelligence": 15,
+    "faith": 20,
+    "arcane": 3,
+    "region": "Leyndell, Ashen Capital",
+    "location": "Leyndell, Ashen Capital",
+    "nearestGrace": "The Ashen Capital"
+  },
+  {
+    "id": "523240070",
+    "name": "Sir Gideon Ofnir, the All-Knowing (Rykard, Malenia, and Mohg)",
+    "actualName": "Sir Gideon Ofnir, the All-Knowing",
+    "encounterName": "Sir Gideon Ofnir, the All-Knowing (Rykard, Malenia, and Mohg)",
+    "condition": "Rykard, Malenia, and Mohg Defeated",
+    "encounterHP": 6,
+    "runes": 150,
+    "hp": 6,
+    "defence": {
+      "physical": 105,
+      "magic": 139,
+      "fire": 129,
+      "lightning": 103,
+      "holy": 110
+    },
+    "negation": {
+      "standard": 25,
+      "slash": 26,
+      "pierce": 23,
+      "magic": 24,
+      "fire": 19,
+      "lightning": 0,
+      "holy": 17,
+      "immunity": 193,
+      "robustness": 240,
+      "focusSleep": 171,
+      "focusMadness": 171,
+      "vitality": "IMMUNE"
+    },
+    "poise": 35,
+    "spells": [
+      {
+        "name": "Comet"
+      },
+      {
+        "name": "Rykard's Rancor"
+      },
+      {
+        "name": "Carian Phalanx",
+        "boost": 1.15
+      },
+      {
+        "name": "Black Flame Ritual"
+      },
+      {
+        "name": "Bloodboon"
+      },
+      {
+        "name": "Law of Causality"
+      },
+      {
+        "name": "Scarlet Aeonia"
+      }
+    ],
+    "vigor": 31,
+    "mind": 9,
+    "endurance": 11,
+    "strength": 6,
+    "dexterity": 20,
+    "itelligence": 15,
+    "faith": 20,
+    "arcane": 3,
+    "region": "Leyndell, Ashen Capital",
+    "location": "Leyndell, Ashen Capital",
+    "nearestGrace": "The Ashen Capital"
+  },
+  {
+    "id": "526100965",
+    "name": "Mimic Tear",
+    "actualName": "Mimic Tear",
+    "encounterName": "Mimic Tear",
+    "condition": "-",
+    "encounterHP": 1,
+    "runes": 10,
+    "hp": 1,
+    "defence": {
+      "physical": 75,
+      "magic": 91,
+      "fire": 78,
+      "lightning": 71,
+      "holy": 91
+    },
+    "negation": {
+      "standard": 0,
+      "slash": 0,
+      "pierce": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0,
+      "immunity": 90,
+      "robustness": 90,
+      "focusSleep": 90,
+      "focusMadness": 90,
+      "vitality": "IMMUNE"
+    },
+    "poise": 0,
+    "spells": [],
+    "vigor": 10,
+    "mind": 10,
+    "endurance": 10,
+    "strength": 10,
+    "dexterity": 10,
+    "itelligence": 10,
+    "faith": 10,
+    "arcane": 10,
+    "region": "Siofra River",
+    "location": "Siofra River",
+    "nearestGrace": "Nokron, Eternal City"
+  },
+  {
+    "id": "526100052",
+    "name": "Stray Mimic Tear",
+    "actualName": "Stray Mimic Tear",
+    "encounterName": "Stray Mimic Tear",
+    "condition": "-",
+    "encounterHP": 1,
+    "runes": 50,
+    "hp": 1,
+    "defence": {
+      "physical": 75,
+      "magic": 91,
+      "fire": 78,
+      "lightning": 71,
+      "holy": 91
+    },
+    "negation": {
+      "standard": 0,
+      "slash": 0,
+      "pierce": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0,
+      "immunity": 90,
+      "robustness": 90,
+      "focusSleep": 90,
+      "focusMadness": 90,
+      "vitality": 100
+    },
+    "poise": 0,
+    "spells": [],
+    "vigor": 10,
+    "mind": 10,
+    "endurance": 10,
+    "strength": 10,
+    "dexterity": 10,
+    "itelligence": 10,
+    "faith": 10,
+    "arcane": 10,
+    "region": "Mountaintops of the Giants",
+    "location": "Hidden Path to the Haligtree",
+    "nearestGrace": "Hidden Path to the Haligtree"
+  }
+]
