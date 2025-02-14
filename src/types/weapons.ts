@@ -89,14 +89,18 @@ export type WeaponTypeColumnRaw =
   | "Y"
   | "Z";
 
-// https://docs.google.com/spreadsheets/d/1BTwjJaSX8iEK7TjUi0TbCY34apgH_028_a_j2XcITqY/edit?gid=0#gid=0
 export type WeaponAffinityColumnRaw =
-  | ""
-  | ""
-  | ""
-  | ""
-  | ""
-  | ""
-  | ""
-  | ""
-  | "";
+  | "B"
+  | "C"
+  | "D"
+  | "E"
+  | "F"
+  | "G"
+  | "H"
+  | "I"
+  | "J"
+  | "K"
+  | "L"
+  | "M"
+  | "N"
+  | "AW";
