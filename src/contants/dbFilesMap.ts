@@ -4,6 +4,7 @@ import { ashesOfWarCompatibilityWeaponsFormatter } from "@/formatters/ashesOfWar
 import { ashesOfWarCompatibilityAshesFormatter } from "@/formatters/ashesOfWarCompatibilityAshes";
 import { bossesFormatter } from "@/formatters/bosses";
 import { playerBossesFormatter } from "@/formatters/playerBosses";
+import { weaponsFormatter } from "@/formatters/weapons";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -37,10 +38,18 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   /**
    * https://docs.google.com/spreadsheets/d/1jV0LNCStg769ZpTMwYGGgHn7Le3cncPg5D8RJ7f8nv8/edit?gid=934475621#gid=934475621
    */
+  // {
+  //   csv: "Elden Ring NPC Data Sheet (1.05) - Player_Boss_Data.csv",
+  //   json: "player-bosses.json",
+  //   formatter: playerBossesFormatter,
+  // },
+  /**
+   * https://docs.google.com/spreadsheets/d/1ybiI1WgyRs67kGklUXeroi58KDab2KsU_hKutBORiW0/edit?gid=0#gid=0
+   */
   {
-    csv: "Elden Ring NPC Data Sheet (1.05) - Player_Boss_Data.csv",
-    json: "player-bosses.json",
-    formatter: playerBossesFormatter,
+    csv: "Elden Ring Weapon Data Sheet (1.09) - Raw_Data.csv",
+    json: "weapons.json",
+    formatter: weaponsFormatter,
   },
 ];
 

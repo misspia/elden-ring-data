@@ -29,11 +29,13 @@ export type WeaponType =
   | "Medium Shield"
   | "Greatshield"
   | "Staff"
+  | "Glintstone Staff"
   | "Light Bow"
   | "Bow"
   | "Greatbow"
   | "Crossbow"
-  | "Ballista";
+  | "Ballista"
+  | "Sacred Seal";
 
 export type WeaponAffinityRaw =
   | "-"
@@ -104,3 +106,26 @@ export type WeaponAffinityColumnRaw =
   | "M"
   | "N"
   | "AW";
+
+export type WeaponEffectRaw =
+  | "None"
+  | "Blood"
+  | "Madness"
+  | "Poison"
+  | "Rot"
+  | "Frost"
+  | "Sleep";
+
+export type WeaponEffect = Omit<WeaponEffectRaw, "None">;
+
+export type PhysicalDamageTypeRaw =
+  | "-"
+  | "Pierce"
+  | "Slash"
+  | "Slash/Pierce"
+  | "Standard"
+  | "Standard/Pierce"
+  | "Strike"
+  | "Strike/Pierce";
+
+export type PhysicalDamageType = Omit<PhysicalDamageTypeRaw, "-">;
