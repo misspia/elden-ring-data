@@ -6,6 +6,7 @@ import { bossesFormatter } from "@/formatters/bosses";
 import { playerBossesFormatter } from "@/formatters/playerBosses";
 import { weaponsFormatter } from "@/formatters/weapons";
 import { levelUpCostFormatter } from "@/formatters/levelUpCost";
+import { weaponsEffectsFormatter } from "@/formatters/weaponsEffects";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -44,21 +45,29 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   //   json: "player-bosses.json",
   //   formatter: playerBossesFormatter,
   // },
-  /**
-   * https://docs.google.com/spreadsheets/d/1ybiI1WgyRs67kGklUXeroi58KDab2KsU_hKutBORiW0/edit?gid=0#gid=0
-   */
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1ybiI1WgyRs67kGklUXeroi58KDab2KsU_hKutBORiW0/edit?gid=0#gid=0
+  //  */
   // {
   //   csv: "Elden Ring Weapon Data Sheet (1.09) - Raw_Data.csv",
   //   json: "weapons.json",
   //   formatter: weaponsFormatter,
   // },
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=1688610004#gid=1688610004
+  //  */
+  // {
+  //   csv: "ER - Miscellaneous Data (App Ver. 1.16) - Level Up Cost.csv",
+  //   json: "level-up-cost.json",
+  //   formatter: levelUpCostFormatter,
+  // },
   /**
-   * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=1688610004#gid=1688610004
+   * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=500408578#gid=500408578
    */
   {
-    csv: "ER - Miscellaneous Data (App Ver. 1.16) - Level Up Cost.csv",
-    json: "level-up-cost.json",
-    formatter: levelUpCostFormatter,
+    csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Weapons.csv",
+    json: "weapons-effects.json",
+    formatter: weaponsEffectsFormatter,
   },
 ];
 

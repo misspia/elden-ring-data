@@ -17,14 +17,15 @@ export const levelUpCostFormatter: JSONFormatter<
   UnformattedLevelUpCost[],
   FormattedLevelUpCost[]
 > = (json) => {
-  return json.map((item) => {
-    const test = Object.entries(item).reduce(
-      (acc, [key, value]) => ({
-        ...acc,
-        [sentenceToCamelCase(key) as FormattedLevelUpCostKey]: parseInt(value),
-      }),
-      {},
-    );
-    return test as FormattedLevelUpCost;
-  });
+  return json.map(
+    (item) =>
+      Object.entries(item).reduce(
+        (acc, [key, value]) => ({
+          ...acc,
+          [sentenceToCamelCase(key) as FormattedLevelUpCostKey]:
+            parseInt(value),
+        }),
+        {},
+      ) as FormattedLevelUpCost,
+  );
 };
