@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Godrick's Great Rune",
+    "listedEffectInGame": "Raises all attributes",
+    "effect": "Increases all attributes by 5",
+    "notes": ""
+  },
+  {
+    "name": "Rykard's Great Rune",
+    "listedEffectInGame": "Restores HP upon defeating enemies",
+    "effect": "Restores ⌊MaxHP * 0.07⌋ + 80 HP when an enemy dies",
+    "notes": ""
+  },
+  {
+    "name": "Radahn's Great Rune",
+    "listedEffectInGame": "Raises maximum HP, FP and stamina",
+    "effect": "Increases HP, FP, and stamina, by ⌊1.15x⌋",
+    "notes": ""
+  },
+  {
+    "name": "Morgott's Great Rune",
+    "listedEffectInGame": "Greatly raises maximum HP",
+    "effect": "Increases HP by ⌊1.25x⌋",
+    "notes": ""
+  },
+  {
+    "name": "Mohg's Great Rune",
+    "listedEffectInGame": "Grants a blessing of blood to phantoms",
+    "effect": "Spirit ashes restore ⌊MaxHP * 0.05⌋ + 60 when an enemy dies and get increased damage by 1.3x for 40 seconds when bleed is triggered within 7m",
+    "notes": "Provides 3 Phantom Great Runes when invading"
+  },
+  {
+    "name": "Malenia's Great Rune",
+    "listedEffectInGame": "Attacks recover HP after damage is taken",
+    "effect": "Attacks recover HP after damage is recieved, but decreases Flask of Crimson Tears restoration by ⌊0.85x⌋",
+    "notes": ""
+  }
+]

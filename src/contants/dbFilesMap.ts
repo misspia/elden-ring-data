@@ -8,6 +8,7 @@ import { weaponsFormatter } from "@/formatters/weapons";
 import { levelUpCostFormatter } from "@/formatters/levelUpCost";
 import { weaponsEffectsFormatter } from "@/formatters/weaponsEffects";
 import { consumablesEffectsFormatter } from "@/formatters/consumablesEffects";
+import { greatRunesEffectsFormatter } from "@/formatters/greatRunesEffects";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -73,10 +74,18 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   /**
    * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=2041613656#gid=2041613656
    */
+  // {
+  //   csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Consumables.csv",
+  //   json: "consumables-effects.json",
+  //   formatter: consumablesEffectsFormatter,
+  // },
+  /**
+   * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=69936079#gid=69936079
+   */
   {
-    csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Consumables.csv",
-    json: "consumables-effects.json",
-    formatter: consumablesEffectsFormatter,
+    csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Great Runes.csv",
+    json: "great-runes-effects.json",
+    formatter: greatRunesEffectsFormatter,
   },
 ];
 

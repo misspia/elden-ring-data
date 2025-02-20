@@ -1,0 +1,7 @@
+Name,Listed Effect In-game,Effect,Notes
+Godrick's Great Rune,Raises all attributes,Increases all attributes by 5,
+Rykard's Great Rune,Restores HP upon defeating enemies,Restores ⌊MaxHP * 0.07⌋ + 80 HP when an enemy dies,
+Radahn's Great Rune,"Raises maximum HP, FP and stamina","Increases HP, FP, and stamina, by ⌊1.15x⌋",
+Morgott's Great Rune,Greatly raises maximum HP,Increases HP by ⌊1.25x⌋,
+Mohg's Great Rune,Grants a blessing of blood to phantoms,Spirit ashes restore ⌊MaxHP * 0.05⌋ + 60 when an enemy dies and get increased damage by 1.3x for 40 seconds when bleed is triggered within 7m,Provides 3 Phantom Great Runes when invading
+Malenia's Great Rune,Attacks recover HP after damage is taken,"Attacks recover HP after damage is recieved, but decreases Flask of Crimson Tears restoration by ⌊0.85x⌋",

@@ -24,6 +24,6 @@ export const weaponsEffectsFormatter: JSONFormatter<
           ...acc,
           [sentenceToCamelCase(key) as FormattedWeaponsEffectsKey]: value,
         }),
-        {}
-      ) as FormattedWeaponsEffects
+        {},
+      ) as FormattedWeaponsEffects,
   );

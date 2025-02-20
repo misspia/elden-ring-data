@@ -1,834 +1,834 @@
 [
-    {
-        "name": "Starlight Shards",
-        "listedEffectInGame": "Use to gradually recover FP",
-        "effect": "Regenerates 2 FP/s for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Lulling Branch",
-        "listedEffectInGame": "",
-        "effect": "Regenerates 5 FP and applies 20 sleep buildup every 2 seconds for 60 seconds; sleep triggered by this does not drain FP",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Blessing of Marika",
-        "listedEffectInGame": "",
-        "effect": "Restores HP to full, cures all status effects, and removes all status effect buildup",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Neutralizing Boluses",
-        "listedEffectInGame": "Alleviates poison buildup and cures poison",
-        "effect": "Cures poison and removes buildup",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Preserving Boluses",
-        "listedEffectInGame": "Alleviates scarlet rot buildup and cures rot",
-        "effect": "Cures scarlet rot and removes buildup",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Stanching Boluses",
-        "listedEffectInGame": "Alleviates impending blood loss",
-        "effect": "Removes bleed buildup",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Thawfrost Boluses",
-        "listedEffectInGame": "Alleviates buildup of frost",
-        "effect": "Cures frost and removes buildup",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Stimulating Boluses",
-        "listedEffectInGame": "Alleviates buildup of sleep",
-        "effect": "Removes sleep buildup",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Clarifying Boluses",
-        "listedEffectInGame": "Alleviates madness buildup",
-        "effect": "Removes madness buildup",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Rejuvenating Boluses",
-        "listedEffectInGame": "Alleviates death blight buildup",
-        "effect": "Removes deathblight buildup",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Spellproof Dried Liver",
-        "listedEffectInGame": "Temporarily boosts magic damage negation",
-        "effect": "Increases magic damage negation by 15% (10% in PvP) for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Spellproof Pickled Liver",
-        "listedEffectInGame": "Temporarily grants large boost to magic damage negation",
-        "effect": "Increases magic damage negation by 25% (12% in PvP) for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Fireproof Dried Liver",
-        "listedEffectInGame": "Temporarily boosts fire damage negation",
-        "effect": "Increases fire damage negation by 15% (10% in PvP) for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Fireproof Pickled Liver",
-        "listedEffectInGame": "Temporarily grants large boost to fire damage negation",
-        "effect": "Increases fire damage negation by 25% (12% in PvP) for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Lightningproof Dried Liver",
-        "listedEffectInGame": "Temporarily boosts lightning damage negation",
-        "effect": "Increases lightning damage negation by 15% (10% in PvP) for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Lightningproof Pickled Liver",
-        "listedEffectInGame": "Temporarily grants large boost to lightning damage negation",
-        "effect": "Increases lightning damage negation by 25% (12% in PvP) for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Holyproof Dried Liver",
-        "listedEffectInGame": "Temporarily boosts holy damage negation",
-        "effect": "Increases holy damage negation by 35% (10% in PvP) for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Holyproof Pickled Liver",
-        "listedEffectInGame": "Temporarily grants large boost to holy damage negation",
-        "effect": "Increases holy damage negation by 25% (12% in PvP) for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Opaline Pickled Liver",
-        "listedEffectInGame": "",
-        "effect": "Increases elemental damage negations by 18% (6% in PvP) for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Immunizing Cured Meat",
-        "listedEffectInGame": "Temporarily boosts immunity",
-        "effect": "Increases immunity by 100 for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Invigorating Cured Meat",
-        "listedEffectInGame": "Temporarily boosts robustness",
-        "effect": "Increases robustness by 100 for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Clarifying Cured Meat",
-        "listedEffectInGame": "",
-        "effect": "Increases focus by 100 for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Dappled Cured Meat",
-        "listedEffectInGame": "Temporarily boosts immunity, robustness, and focus",
-        "effect": "Increases immunity, robustness, and focus by 100 for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Immunizing White Cured Meat",
-        "listedEffectInGame": "Temporarily boosts immunity",
-        "effect": "Increases immunity by 75 for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Invigorating White Cured Meat",
-        "listedEffectInGame": "Temporarily boosts robustness",
-        "effect": "Increases robustness by 75 for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Clarifying White Cured Meat",
-        "listedEffectInGame": "Temporarily boosts focus",
-        "effect": "Increases focus by 75 for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Dappled White Cured Meat",
-        "listedEffectInGame": "Temporarily boosts immunity, robustness, and focus",
-        "effect": "Increases immunity, robustness, and focus by 75 for 120 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Pickled Turtle Neck",
-        "listedEffectInGame": "Temporarily boosts stamina recovery",
-        "effect": "Increases stamina regeneration by 10/s for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Well-Pickled Turtle Neck",
-        "listedEffectInGame": "Temporarily grants large boost to stamina recovery speed",
-        "effect": "Increases stamina regeneration by 13/s for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Exalted Flesh",
-        "listedEffectInGame": "Temporarily boosts physical attack",
-        "effect": "Increases physical damage by 1.2x (1.15x in PvP) for 30 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Dragon Communion Flesh",
-        "listedEffectInGame": "",
-        "effect": "Increases vigor, endurance, strength, and dexterity by 6, but drains 3 HP/s for 90 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Dragonscale Flesh",
-        "listedEffectInGame": "",
-        "effect": "Increases vigor, endurance, strength, and dexterity by 8, but drains 4 HP/s for 90 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Fingerprint Nostrum",
-        "listedEffectInGame": "",
-        "effect": "Increases mind, intelligence, faith, and arcane by 6, but drains 3 HP/s for 90 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Silver-Pickled Fowl Foot",
-        "listedEffectInGame": "Temporarily boosts item discovery",
-        "effect": "Increases discovery by 50 for 180 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Gold-Pickled Fowl Foot",
-        "listedEffectInGame": "Boosts rune acquisition for a time",
-        "effect": "Increases runes gained by 1.3x runes for 180 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Silver Horn Tender",
-        "listedEffectInGame": "Temporarily boosts item discovery",
-        "effect": "Increases discovery by 60 for 180 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Golden Horn Tender",
-        "listedEffectInGame": "Boosts rune acquisition for a time",
-        "effect": "Increases runes gained by 1.4x runes for 180 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Boiled Prawn",
-        "listedEffectInGame": "Boosts physical damage negation for a time",
-        "effect": "Increases physical damage negations by 15% (10% in PvP) for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Boiled Crab",
-        "listedEffectInGame": "Greatly boosts physical damage negation for a time",
-        "effect": "Increases physical damage negations by 20% (15% in PvP) for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Scorpion Stew",
-        "listedEffectInGame": "",
-        "effect": "Increases physical damage negations by 10% (8% in PvP) and regenerates 8 HP/s for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Gourmet Scorpion Stew",
-        "listedEffectInGame": "",
-        "effect": "Increases physical damage negations by 10% (8% in PvP) and regenerates 12 HP/s for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Raw Meat Dumpling",
-        "listedEffectInGame": "Restores HP but also poisons the user",
-        "effect": "Restores ⌊MaxHP * 0.5⌋ HP, but poisons the user",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Poison damages ⌊MaxHP * 0.0007⌋ + 7 health per second for 90 seconds"
-    },
-    {
-        "name": "Sacred Bloody Flesh",
-        "listedEffectInGame": "",
-        "effect": "Increases damage by 1.07x and arcane by 10 for for 30 seconds; increases damage further by 1.18x when bleed is triggered within 7m",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Scriptstone",
-        "listedEffectInGame": "",
-        "effect": "",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Warming Stone",
-        "listedEffectInGame": "Uses FP to continuously heal nearby allies",
-        "effect": "Regenerates 25 HP/s while within 3m; lasts for 30 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Costs 20 FP"
-    },
-    {
-        "name": "Sunwarmth Stone",
-        "listedEffectInGame": "",
-        "effect": "Regenerates 30 HP/s while within 3m; lasts for 30 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Frenzyflame Stone",
-        "listedEffectInGame": "Uses FP to continuously heal chaos followers",
-        "effect": "Regenerates 35 HP/s while within 3m, but applies 15 madness buildup per second to those not aligned with the frenzy flame; lasts for 30 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Costs 15 FP"
-    },
-    {
-        "name": "Bewitching Branch",
-        "listedEffectInGame": "",
-        "effect": "Allies the target for 180 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Charming Branch",
-        "listedEffectInGame": "",
-        "effect": "Allies the target and surrounding targets within 5.3m for 180 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Golden Vow",
-        "listedEffectInGame": "",
-        "effect": "Increases damage by 1.127x (1.05x in PvP) and damage negations by 8.8% (3.3% in PvP) for 45 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Baldachin's Blessing",
-        "listedEffectInGame": "",
-        "effect": "Increases physical damage negations by 35% (10% in PvP), decreases incoming poise damage by 0.66x, and prevents stagger from dmgLevel 0, 1, and 8 for 15 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Radiant Baldachin's Blessing",
-        "listedEffectInGame": "",
-        "effect": "Increases physical damage negations by 35% (10% in PvP), decreases incoming poise damage by 0.55x, and prevents stagger from dmgLevel 0, 1, and 8 for 70 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Ancient Dragon's Blessing",
-        "listedEffectInGame": "",
-        "effect": "Increases damage negations by 10% (5% in PvP) and increases guard damage negations by 20% for 70 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Fire Grease",
-        "listedEffectInGame": "Coats armament, inflicting fire damage",
-        "effect": "Adds 85 fire attack power to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Messmerfire Grease",
-        "listedEffectInGame": "Coats armament, inflicting heavy fire damage",
-        "effect": "Adds 120 fire attack power to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Magic Grease",
-        "listedEffectInGame": "Coats armament, inflicting magic damage",
-        "effect": "Adds 85 magic attack power to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Royal Magic Grease",
-        "listedEffectInGame": "",
-        "effect": "Adds 120 magic attack power to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Lightning Grease",
-        "listedEffectInGame": "Coats armament, inflicting lightning damage",
-        "effect": "Adds 85 lightning attack power to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Dragonbolt Grease",
-        "listedEffectInGame": "",
-        "effect": "Adds 120 lightning attack power to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Holy Grease",
-        "listedEffectInGame": "Coats armament, inflicting holy damage",
-        "effect": "Adds 85 holy attack power to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Golden Grease",
-        "listedEffectInGame": "",
-        "effect": "Adds 120 holy attack power to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Festive Grease",
-        "listedEffectInGame": "",
-        "effect": "Adds 100 holy attack power to weapon and gives 25 runes on hit for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Poison Grease",
-        "listedEffectInGame": "Coats armament, inflicting poison",
-        "effect": "Adds 63 poison buildup to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Poison damages ⌊MaxHP * 0.0007⌋ +7 health per second for 90 seconds"
-    },
-    {
-        "name": "Rot Grease",
-        "listedEffectInGame": "Coats armament, inflicting scarlet rot",
-        "effect": "Adds 63 scarlet rot buildup to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Scarlet rot damages ⌊MaxHP * 0.0018⌋ + 15 health per second for 90 seconds"
-    },
-    {
-        "name": "Blood Grease",
-        "listedEffectInGame": "Coats armament, inflicting blood loss",
-        "effect": "Adds 30 bleed buildup to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Bleed damages ⌊MaxHP * 0.15⌋ + 100 health"
-    },
-    {
-        "name": "Freezing Grease",
-        "listedEffectInGame": "Coats armament, inflicting frost",
-        "effect": "Adds 63 frost buildup to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Frost damages ⌊MaxHP * 0.1⌋ + 30 health and reduces damage negations by -20% for 30 seconds"
-    },
-    {
-        "name": "Soporific Grease",
-        "listedEffectInGame": "Coats armament, inflicting sleep",
-        "effect": "Adds 33 sleep buildup to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Sleep drains ⌊MaxFP * 0.1⌋ + 30 FP"
-    },
-    {
-        "name": "Eternal Sleep Grease",
-        "listedEffectInGame": "",
-        "effect": "Adds 28 eternal sleep buildup to weapon for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Dragonwound Grease",
-        "listedEffectInGame": "Coats armament, granting special dragon attacks",
-        "effect": "Increases damage by 1.2x to Ancient Draconic enemies and 1.3x to Draconic enemies for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Dragon Communion Grease",
-        "listedEffectInGame": "",
-        "effect": "Increases damage by 1.28x to Ancient Draconic enemies and 1.38x to Draconic enemies for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Shield Grease",
-        "listedEffectInGame": "Boosts guarding ability and all damage negation",
-        "effect": "Increases guard damage negations by 20% and decreases incoming stamina damage by 0.65x for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Drawstring Fire Grease",
-        "listedEffectInGame": "Quickly coats armament, inflicting fire damage",
-        "effect": "Adds 110 fire attack power to weapon for 11 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Drawstring Messmerfire Grease",
-        "listedEffectInGame": "",
-        "effect": "Adds 135 fire attack power to weapon for 25 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Drawstring Magic Grease",
-        "listedEffectInGame": "Quickly coats armament, inflicting magic damage",
-        "effect": "Adds 110 magic attack power to weapon for 11 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Drawstring Royal Magic Grease",
-        "listedEffectInGame": "",
-        "effect": "Adds 135 magic attack power to weapon for 25 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Drawstring Lightning Grease",
-        "listedEffectInGame": "Quickly coats armament, inflicting lightning damage",
-        "effect": "Adds 110 lightning attack power to weapon for 11 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Drawstring Dragonbolt Grease",
-        "listedEffectInGame": "",
-        "effect": "Adds 135 lightning attack power to weapon for 25 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Drawstring Holy Grease",
-        "listedEffectInGame": "Quickly coats armament, inflicting holy damage",
-        "effect": "Adds 110 holy attack power to weapon for 11 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Drawstring Golden Grease",
-        "listedEffectInGame": "",
-        "effect": "Adds 135 holy attack power to weapon for 25 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Drawstring Poison Grease",
-        "listedEffectInGame": "Quickly coats armament, inflicting poison",
-        "effect": "Adds 80 poison buildup to weapon for 15 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Poison damages ⌊MaxHP * 0.0007⌋ + 7 health per second for 90 seconds"
-    },
-    {
-        "name": "Drawstring Rot Grease",
-        "listedEffectInGame": "Quickly coats armament, inflicting scarlet rot",
-        "effect": "Adds 80 scarlet rot buildup to weapon for 11 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Scarlet rot damages ⌊MaxHP * 0.0018⌋ + 15 health per second for 90 seconds"
-    },
-    {
-        "name": "Drawstring Blood Grease",
-        "listedEffectInGame": "Quickly coats armament, inflicting blood loss",
-        "effect": "Adds 38 bleed buildup to weapon for 15 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Bleed damages ⌊MaxHP * 0.15⌋ + 100 health"
-    },
-    {
-        "name": "Drawstring Soporific Grease",
-        "listedEffectInGame": "Quickly coats armament, inflicting sleep",
-        "effect": "Adds 42 sleep buildup to weapon for 15 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": "Sleep drains ⌊MaxFP * 0.1⌋ + 30 FP"
-    },
-    {
-        "name": "Drawstring Eternal Sleep Grease",
-        "listedEffectInGame": "",
-        "effect": "Adds 37 eternal sleep buildup to weapon for 25 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Rowa Raisin",
-        "listedEffectInGame": "On horseback, feed to Torrent to restore HP",
-        "effect": "Restores ⌊MaxHP * 0.15⌋ + 300 HP to Torrent",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Sweet Raisin",
-        "listedEffectInGame": "On horseback, feed to Torrent to greatly restore HP",
-        "effect": "Restores ⌊MaxHP * 0.23⌋ + 450 HP to Torrent",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Frozen Raisin",
-        "listedEffectInGame": "On horseback, feed to Torrent to vastly restore HP",
-        "effect": "Restores ⌊MaxHP * 0.3⌋ + 600 HP to Torrent",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Spirit Raisin",
-        "listedEffectInGame": "",
-        "effect": "While sprinting on Torrent enemies will be pushed back",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Soft Cotton",
-        "listedEffectInGame": "Temporarily reduces fall damage and sound",
-        "effect": "Makes user silent protects from non-lethal fall damage for 20 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Soap",
-        "listedEffectInGame": "Cleans off filth and other accumulations on the body while also slightly reducing poison buildup",
-        "effect": "Removes blood vfx and reduces poison buildup by -100",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Rock Heart (Form Change)",
-        "listedEffectInGame": "",
-        "effect": "Increases damage negations by 10% and increases all resistances by 50",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Rock Heart (Buff)",
-        "listedEffectInGame": "",
-        "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Dragon Communion incantations for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Priestess Heart (Form Change)",
-        "listedEffectInGame": "",
-        "effect": "Increases damage negations by 7% and increases all resistances by 70",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Priestess Heart (Buff)",
-        "listedEffectInGame": "",
-        "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Dragon Cult incantations for 60 seconds",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Lamenter's Mask (Form Change)",
-        "listedEffectInGame": "",
-        "effect": "Increases damage negations by 5% (holy by 20%), increases immunity/robustness/vitality by 30, and increases arcane by 8, but decreases Flask of Crimson Tears restoration by ⌊0.91x⌋ and decreases focus by -50",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Albinauric Pot",
-        "listedEffectInGame": "Throw at enemies to impede recovery actions using a flask of tears for a certain duration",
-        "effect": "Prevents target from using Crimson/Cerulean Flasks for duration",
-        "pvPAlter": "",
-        "duration": "25",
-        "notes": ""
-    },
-    {
-        "name": "Oil Pot",
-        "listedEffectInGame": "Throw at enemies to soak them in oil, making them heavily susceptible to fire damage",
-        "effect": "Reduces target fire damage negation by -50%",
-        "pvPAlter": "",
-        "duration": "30",
-        "notes": ""
-    },
-    {
-        "name": "Roped Oil Pot",
-        "listedEffectInGame": "Throw at rearward enemies to soak them in oil, making them heavily susceptible to fire damage",
-        "effect": "Reduces target fire damage negation by -50%",
-        "pvPAlter": "",
-        "duration": "30",
-        "notes": ""
-    },
-    {
-        "name": "Hefty Oil Pot",
-        "listedEffectInGame": "",
-        "effect": "Reduces target fire damage negation by -65%",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    },
-    {
-        "name": "Uplifting Aromatic",
-        "listedEffectInGame": "Raise the attack power of the user and nearby allies while also reducing the damage from one incoming attack by half",
-        "effect": "1.1x physical damage and increases damage negations by 90% for one hit",
-        "pvPAlter": "1.075x",
-        "duration": "40",
-        "notes": ""
-    },
-    {
-        "name": "Acid Spraymist",
-        "listedEffectInGame": "Release an acidic mist from user's mouth, damaging armaments and temporarily lowering attack power",
-        "effect": "Reduces target's damage by 0.85x",
-        "pvPAlter": "",
-        "duration": "60",
-        "notes": ""
-    },
-    {
-        "name": "Bloodboil Aromatic",
-        "listedEffectInGame": "Enter a temporary state of fervor, raising maximum attack power and stamina while also increasing damage received",
-        "effect": "1.3x physical damage, 1.2x max stamina, +5/s stamina regen, and -25% to all damage negations",
-        "pvPAlter": "1.2x\nphys dmg",
-        "duration": "60",
-        "notes": ""
-    },
-    {
-        "name": "Ironjar Aromatic",
-        "listedEffectInGame": "Temporarily turn body to steel, boosting poise, resistances, and damage negation at the expense of mobility and lightning resistance",
-        "effect": "Increases physical damage negations by 40% (reduces lightning by -60%), increases all resistances by 45, defFlickPower 90, and prevents stagger from Damage Level  0, 1, 2, 3, 5, 8, and 11 with reduced stagger from Damage Level 4, 6, 7, 9, and 10",
-        "pvPAlter": "",
-        "duration": "40",
-        "notes": ""
-    },
-    {
-        "name": "Phantom Great Rune",
-        "listedEffectInGame": "Enemies inside the invaded world receive a blessing of blood, which boosts their attack power when blood loss occurs nearby. Also, your HP recovers when blessed enemies defeat a player.",
-        "effect": "User has a 0.9x MaxHP multiplier applied to them.\nEnemies with a blessing of blood restore 100% of user's HP when they kill a player and recieve a 1.3x damage multiplier when bleed is procced within 7m",
-        "pvPAlter": "",
-        "duration": "",
-        "notes": ""
-    }
+  {
+    "name": "Starlight Shards",
+    "listedEffectInGame": "Use to gradually recover FP",
+    "effect": "Regenerates 2 FP/s for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Lulling Branch",
+    "listedEffectInGame": "",
+    "effect": "Regenerates 5 FP and applies 20 sleep buildup every 2 seconds for 60 seconds; sleep triggered by this does not drain FP",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Blessing of Marika",
+    "listedEffectInGame": "",
+    "effect": "Restores HP to full, cures all status effects, and removes all status effect buildup",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Neutralizing Boluses",
+    "listedEffectInGame": "Alleviates poison buildup and cures poison",
+    "effect": "Cures poison and removes buildup",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Preserving Boluses",
+    "listedEffectInGame": "Alleviates scarlet rot buildup and cures rot",
+    "effect": "Cures scarlet rot and removes buildup",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Stanching Boluses",
+    "listedEffectInGame": "Alleviates impending blood loss",
+    "effect": "Removes bleed buildup",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Thawfrost Boluses",
+    "listedEffectInGame": "Alleviates buildup of frost",
+    "effect": "Cures frost and removes buildup",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Stimulating Boluses",
+    "listedEffectInGame": "Alleviates buildup of sleep",
+    "effect": "Removes sleep buildup",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Clarifying Boluses",
+    "listedEffectInGame": "Alleviates madness buildup",
+    "effect": "Removes madness buildup",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Rejuvenating Boluses",
+    "listedEffectInGame": "Alleviates death blight buildup",
+    "effect": "Removes deathblight buildup",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Spellproof Dried Liver",
+    "listedEffectInGame": "Temporarily boosts magic damage negation",
+    "effect": "Increases magic damage negation by 15% (10% in PvP) for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Spellproof Pickled Liver",
+    "listedEffectInGame": "Temporarily grants large boost to magic damage negation",
+    "effect": "Increases magic damage negation by 25% (12% in PvP) for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Fireproof Dried Liver",
+    "listedEffectInGame": "Temporarily boosts fire damage negation",
+    "effect": "Increases fire damage negation by 15% (10% in PvP) for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Fireproof Pickled Liver",
+    "listedEffectInGame": "Temporarily grants large boost to fire damage negation",
+    "effect": "Increases fire damage negation by 25% (12% in PvP) for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Lightningproof Dried Liver",
+    "listedEffectInGame": "Temporarily boosts lightning damage negation",
+    "effect": "Increases lightning damage negation by 15% (10% in PvP) for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Lightningproof Pickled Liver",
+    "listedEffectInGame": "Temporarily grants large boost to lightning damage negation",
+    "effect": "Increases lightning damage negation by 25% (12% in PvP) for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Holyproof Dried Liver",
+    "listedEffectInGame": "Temporarily boosts holy damage negation",
+    "effect": "Increases holy damage negation by 35% (10% in PvP) for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Holyproof Pickled Liver",
+    "listedEffectInGame": "Temporarily grants large boost to holy damage negation",
+    "effect": "Increases holy damage negation by 25% (12% in PvP) for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Opaline Pickled Liver",
+    "listedEffectInGame": "",
+    "effect": "Increases elemental damage negations by 18% (6% in PvP) for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Immunizing Cured Meat",
+    "listedEffectInGame": "Temporarily boosts immunity",
+    "effect": "Increases immunity by 100 for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Invigorating Cured Meat",
+    "listedEffectInGame": "Temporarily boosts robustness",
+    "effect": "Increases robustness by 100 for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Clarifying Cured Meat",
+    "listedEffectInGame": "",
+    "effect": "Increases focus by 100 for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Dappled Cured Meat",
+    "listedEffectInGame": "Temporarily boosts immunity, robustness, and focus",
+    "effect": "Increases immunity, robustness, and focus by 100 for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Immunizing White Cured Meat",
+    "listedEffectInGame": "Temporarily boosts immunity",
+    "effect": "Increases immunity by 75 for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Invigorating White Cured Meat",
+    "listedEffectInGame": "Temporarily boosts robustness",
+    "effect": "Increases robustness by 75 for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Clarifying White Cured Meat",
+    "listedEffectInGame": "Temporarily boosts focus",
+    "effect": "Increases focus by 75 for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Dappled White Cured Meat",
+    "listedEffectInGame": "Temporarily boosts immunity, robustness, and focus",
+    "effect": "Increases immunity, robustness, and focus by 75 for 120 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Pickled Turtle Neck",
+    "listedEffectInGame": "Temporarily boosts stamina recovery",
+    "effect": "Increases stamina regeneration by 10/s for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Well-Pickled Turtle Neck",
+    "listedEffectInGame": "Temporarily grants large boost to stamina recovery speed",
+    "effect": "Increases stamina regeneration by 13/s for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Exalted Flesh",
+    "listedEffectInGame": "Temporarily boosts physical attack",
+    "effect": "Increases physical damage by 1.2x (1.15x in PvP) for 30 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Dragon Communion Flesh",
+    "listedEffectInGame": "",
+    "effect": "Increases vigor, endurance, strength, and dexterity by 6, but drains 3 HP/s for 90 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Dragonscale Flesh",
+    "listedEffectInGame": "",
+    "effect": "Increases vigor, endurance, strength, and dexterity by 8, but drains 4 HP/s for 90 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Fingerprint Nostrum",
+    "listedEffectInGame": "",
+    "effect": "Increases mind, intelligence, faith, and arcane by 6, but drains 3 HP/s for 90 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Silver-Pickled Fowl Foot",
+    "listedEffectInGame": "Temporarily boosts item discovery",
+    "effect": "Increases discovery by 50 for 180 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Gold-Pickled Fowl Foot",
+    "listedEffectInGame": "Boosts rune acquisition for a time",
+    "effect": "Increases runes gained by 1.3x runes for 180 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Silver Horn Tender",
+    "listedEffectInGame": "Temporarily boosts item discovery",
+    "effect": "Increases discovery by 60 for 180 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Golden Horn Tender",
+    "listedEffectInGame": "Boosts rune acquisition for a time",
+    "effect": "Increases runes gained by 1.4x runes for 180 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Boiled Prawn",
+    "listedEffectInGame": "Boosts physical damage negation for a time",
+    "effect": "Increases physical damage negations by 15% (10% in PvP) for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Boiled Crab",
+    "listedEffectInGame": "Greatly boosts physical damage negation for a time",
+    "effect": "Increases physical damage negations by 20% (15% in PvP) for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Scorpion Stew",
+    "listedEffectInGame": "",
+    "effect": "Increases physical damage negations by 10% (8% in PvP) and regenerates 8 HP/s for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Gourmet Scorpion Stew",
+    "listedEffectInGame": "",
+    "effect": "Increases physical damage negations by 10% (8% in PvP) and regenerates 12 HP/s for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Raw Meat Dumpling",
+    "listedEffectInGame": "Restores HP but also poisons the user",
+    "effect": "Restores ⌊MaxHP * 0.5⌋ HP, but poisons the user",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Poison damages ⌊MaxHP * 0.0007⌋ + 7 health per second for 90 seconds"
+  },
+  {
+    "name": "Sacred Bloody Flesh",
+    "listedEffectInGame": "",
+    "effect": "Increases damage by 1.07x and arcane by 10 for for 30 seconds; increases damage further by 1.18x when bleed is triggered within 7m",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Scriptstone",
+    "listedEffectInGame": "",
+    "effect": "",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Warming Stone",
+    "listedEffectInGame": "Uses FP to continuously heal nearby allies",
+    "effect": "Regenerates 25 HP/s while within 3m; lasts for 30 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Costs 20 FP"
+  },
+  {
+    "name": "Sunwarmth Stone",
+    "listedEffectInGame": "",
+    "effect": "Regenerates 30 HP/s while within 3m; lasts for 30 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Frenzyflame Stone",
+    "listedEffectInGame": "Uses FP to continuously heal chaos followers",
+    "effect": "Regenerates 35 HP/s while within 3m, but applies 15 madness buildup per second to those not aligned with the frenzy flame; lasts for 30 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Costs 15 FP"
+  },
+  {
+    "name": "Bewitching Branch",
+    "listedEffectInGame": "",
+    "effect": "Allies the target for 180 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Charming Branch",
+    "listedEffectInGame": "",
+    "effect": "Allies the target and surrounding targets within 5.3m for 180 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Golden Vow",
+    "listedEffectInGame": "",
+    "effect": "Increases damage by 1.127x (1.05x in PvP) and damage negations by 8.8% (3.3% in PvP) for 45 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Baldachin's Blessing",
+    "listedEffectInGame": "",
+    "effect": "Increases physical damage negations by 35% (10% in PvP), decreases incoming poise damage by 0.66x, and prevents stagger from dmgLevel 0, 1, and 8 for 15 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Radiant Baldachin's Blessing",
+    "listedEffectInGame": "",
+    "effect": "Increases physical damage negations by 35% (10% in PvP), decreases incoming poise damage by 0.55x, and prevents stagger from dmgLevel 0, 1, and 8 for 70 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Ancient Dragon's Blessing",
+    "listedEffectInGame": "",
+    "effect": "Increases damage negations by 10% (5% in PvP) and increases guard damage negations by 20% for 70 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Fire Grease",
+    "listedEffectInGame": "Coats armament, inflicting fire damage",
+    "effect": "Adds 85 fire attack power to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Messmerfire Grease",
+    "listedEffectInGame": "Coats armament, inflicting heavy fire damage",
+    "effect": "Adds 120 fire attack power to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Magic Grease",
+    "listedEffectInGame": "Coats armament, inflicting magic damage",
+    "effect": "Adds 85 magic attack power to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Royal Magic Grease",
+    "listedEffectInGame": "",
+    "effect": "Adds 120 magic attack power to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Lightning Grease",
+    "listedEffectInGame": "Coats armament, inflicting lightning damage",
+    "effect": "Adds 85 lightning attack power to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Dragonbolt Grease",
+    "listedEffectInGame": "",
+    "effect": "Adds 120 lightning attack power to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Holy Grease",
+    "listedEffectInGame": "Coats armament, inflicting holy damage",
+    "effect": "Adds 85 holy attack power to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Golden Grease",
+    "listedEffectInGame": "",
+    "effect": "Adds 120 holy attack power to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Festive Grease",
+    "listedEffectInGame": "",
+    "effect": "Adds 100 holy attack power to weapon and gives 25 runes on hit for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Poison Grease",
+    "listedEffectInGame": "Coats armament, inflicting poison",
+    "effect": "Adds 63 poison buildup to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Poison damages ⌊MaxHP * 0.0007⌋ +7 health per second for 90 seconds"
+  },
+  {
+    "name": "Rot Grease",
+    "listedEffectInGame": "Coats armament, inflicting scarlet rot",
+    "effect": "Adds 63 scarlet rot buildup to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Scarlet rot damages ⌊MaxHP * 0.0018⌋ + 15 health per second for 90 seconds"
+  },
+  {
+    "name": "Blood Grease",
+    "listedEffectInGame": "Coats armament, inflicting blood loss",
+    "effect": "Adds 30 bleed buildup to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Bleed damages ⌊MaxHP * 0.15⌋ + 100 health"
+  },
+  {
+    "name": "Freezing Grease",
+    "listedEffectInGame": "Coats armament, inflicting frost",
+    "effect": "Adds 63 frost buildup to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Frost damages ⌊MaxHP * 0.1⌋ + 30 health and reduces damage negations by -20% for 30 seconds"
+  },
+  {
+    "name": "Soporific Grease",
+    "listedEffectInGame": "Coats armament, inflicting sleep",
+    "effect": "Adds 33 sleep buildup to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Sleep drains ⌊MaxFP * 0.1⌋ + 30 FP"
+  },
+  {
+    "name": "Eternal Sleep Grease",
+    "listedEffectInGame": "",
+    "effect": "Adds 28 eternal sleep buildup to weapon for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Dragonwound Grease",
+    "listedEffectInGame": "Coats armament, granting special dragon attacks",
+    "effect": "Increases damage by 1.2x to Ancient Draconic enemies and 1.3x to Draconic enemies for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Dragon Communion Grease",
+    "listedEffectInGame": "",
+    "effect": "Increases damage by 1.28x to Ancient Draconic enemies and 1.38x to Draconic enemies for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Shield Grease",
+    "listedEffectInGame": "Boosts guarding ability and all damage negation",
+    "effect": "Increases guard damage negations by 20% and decreases incoming stamina damage by 0.65x for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Drawstring Fire Grease",
+    "listedEffectInGame": "Quickly coats armament, inflicting fire damage",
+    "effect": "Adds 110 fire attack power to weapon for 11 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Drawstring Messmerfire Grease",
+    "listedEffectInGame": "",
+    "effect": "Adds 135 fire attack power to weapon for 25 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Drawstring Magic Grease",
+    "listedEffectInGame": "Quickly coats armament, inflicting magic damage",
+    "effect": "Adds 110 magic attack power to weapon for 11 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Drawstring Royal Magic Grease",
+    "listedEffectInGame": "",
+    "effect": "Adds 135 magic attack power to weapon for 25 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Drawstring Lightning Grease",
+    "listedEffectInGame": "Quickly coats armament, inflicting lightning damage",
+    "effect": "Adds 110 lightning attack power to weapon for 11 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Drawstring Dragonbolt Grease",
+    "listedEffectInGame": "",
+    "effect": "Adds 135 lightning attack power to weapon for 25 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Drawstring Holy Grease",
+    "listedEffectInGame": "Quickly coats armament, inflicting holy damage",
+    "effect": "Adds 110 holy attack power to weapon for 11 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Drawstring Golden Grease",
+    "listedEffectInGame": "",
+    "effect": "Adds 135 holy attack power to weapon for 25 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Drawstring Poison Grease",
+    "listedEffectInGame": "Quickly coats armament, inflicting poison",
+    "effect": "Adds 80 poison buildup to weapon for 15 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Poison damages ⌊MaxHP * 0.0007⌋ + 7 health per second for 90 seconds"
+  },
+  {
+    "name": "Drawstring Rot Grease",
+    "listedEffectInGame": "Quickly coats armament, inflicting scarlet rot",
+    "effect": "Adds 80 scarlet rot buildup to weapon for 11 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Scarlet rot damages ⌊MaxHP * 0.0018⌋ + 15 health per second for 90 seconds"
+  },
+  {
+    "name": "Drawstring Blood Grease",
+    "listedEffectInGame": "Quickly coats armament, inflicting blood loss",
+    "effect": "Adds 38 bleed buildup to weapon for 15 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Bleed damages ⌊MaxHP * 0.15⌋ + 100 health"
+  },
+  {
+    "name": "Drawstring Soporific Grease",
+    "listedEffectInGame": "Quickly coats armament, inflicting sleep",
+    "effect": "Adds 42 sleep buildup to weapon for 15 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": "Sleep drains ⌊MaxFP * 0.1⌋ + 30 FP"
+  },
+  {
+    "name": "Drawstring Eternal Sleep Grease",
+    "listedEffectInGame": "",
+    "effect": "Adds 37 eternal sleep buildup to weapon for 25 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Rowa Raisin",
+    "listedEffectInGame": "On horseback, feed to Torrent to restore HP",
+    "effect": "Restores ⌊MaxHP * 0.15⌋ + 300 HP to Torrent",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Sweet Raisin",
+    "listedEffectInGame": "On horseback, feed to Torrent to greatly restore HP",
+    "effect": "Restores ⌊MaxHP * 0.23⌋ + 450 HP to Torrent",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Frozen Raisin",
+    "listedEffectInGame": "On horseback, feed to Torrent to vastly restore HP",
+    "effect": "Restores ⌊MaxHP * 0.3⌋ + 600 HP to Torrent",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Spirit Raisin",
+    "listedEffectInGame": "",
+    "effect": "While sprinting on Torrent enemies will be pushed back",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Soft Cotton",
+    "listedEffectInGame": "Temporarily reduces fall damage and sound",
+    "effect": "Makes user silent protects from non-lethal fall damage for 20 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Soap",
+    "listedEffectInGame": "Cleans off filth and other accumulations on the body while also slightly reducing poison buildup",
+    "effect": "Removes blood vfx and reduces poison buildup by -100",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Rock Heart (Form Change)",
+    "listedEffectInGame": "",
+    "effect": "Increases damage negations by 10% and increases all resistances by 50",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Rock Heart (Buff)",
+    "listedEffectInGame": "",
+    "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Dragon Communion incantations for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Priestess Heart (Form Change)",
+    "listedEffectInGame": "",
+    "effect": "Increases damage negations by 7% and increases all resistances by 70",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Priestess Heart (Buff)",
+    "listedEffectInGame": "",
+    "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Dragon Cult incantations for 60 seconds",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Lamenter's Mask (Form Change)",
+    "listedEffectInGame": "",
+    "effect": "Increases damage negations by 5% (holy by 20%), increases immunity/robustness/vitality by 30, and increases arcane by 8, but decreases Flask of Crimson Tears restoration by ⌊0.91x⌋ and decreases focus by -50",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Albinauric Pot",
+    "listedEffectInGame": "Throw at enemies to impede recovery actions using a flask of tears for a certain duration",
+    "effect": "Prevents target from using Crimson/Cerulean Flasks for duration",
+    "pvPAlter": "",
+    "duration": "25",
+    "notes": ""
+  },
+  {
+    "name": "Oil Pot",
+    "listedEffectInGame": "Throw at enemies to soak them in oil, making them heavily susceptible to fire damage",
+    "effect": "Reduces target fire damage negation by -50%",
+    "pvPAlter": "",
+    "duration": "30",
+    "notes": ""
+  },
+  {
+    "name": "Roped Oil Pot",
+    "listedEffectInGame": "Throw at rearward enemies to soak them in oil, making them heavily susceptible to fire damage",
+    "effect": "Reduces target fire damage negation by -50%",
+    "pvPAlter": "",
+    "duration": "30",
+    "notes": ""
+  },
+  {
+    "name": "Hefty Oil Pot",
+    "listedEffectInGame": "",
+    "effect": "Reduces target fire damage negation by -65%",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  },
+  {
+    "name": "Uplifting Aromatic",
+    "listedEffectInGame": "Raise the attack power of the user and nearby allies while also reducing the damage from one incoming attack by half",
+    "effect": "1.1x physical damage and increases damage negations by 90% for one hit",
+    "pvPAlter": "1.075x",
+    "duration": "40",
+    "notes": ""
+  },
+  {
+    "name": "Acid Spraymist",
+    "listedEffectInGame": "Release an acidic mist from user's mouth, damaging armaments and temporarily lowering attack power",
+    "effect": "Reduces target's damage by 0.85x",
+    "pvPAlter": "",
+    "duration": "60",
+    "notes": ""
+  },
+  {
+    "name": "Bloodboil Aromatic",
+    "listedEffectInGame": "Enter a temporary state of fervor, raising maximum attack power and stamina while also increasing damage received",
+    "effect": "1.3x physical damage, 1.2x max stamina, +5/s stamina regen, and -25% to all damage negations",
+    "pvPAlter": "1.2x\nphys dmg",
+    "duration": "60",
+    "notes": ""
+  },
+  {
+    "name": "Ironjar Aromatic",
+    "listedEffectInGame": "Temporarily turn body to steel, boosting poise, resistances, and damage negation at the expense of mobility and lightning resistance",
+    "effect": "Increases physical damage negations by 40% (reduces lightning by -60%), increases all resistances by 45, defFlickPower 90, and prevents stagger from Damage Level  0, 1, 2, 3, 5, 8, and 11 with reduced stagger from Damage Level 4, 6, 7, 9, and 10",
+    "pvPAlter": "",
+    "duration": "40",
+    "notes": ""
+  },
+  {
+    "name": "Phantom Great Rune",
+    "listedEffectInGame": "Enemies inside the invaded world receive a blessing of blood, which boosts their attack power when blood loss occurs nearby. Also, your HP recovers when blessed enemies defeat a player.",
+    "effect": "User has a 0.9x MaxHP multiplier applied to them.\nEnemies with a blessing of blood restore 100% of user's HP when they kill a player and recieve a 1.3x damage multiplier when bleed is procced within 7m",
+    "pvPAlter": "",
+    "duration": "",
+    "notes": ""
+  }
 ]
