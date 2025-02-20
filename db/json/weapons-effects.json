@@ -1,554 +1,554 @@
 [
-  {
-    "weaponClass": "Dagger",
-    "weapon": "Celebrant's Sickle",
-    "effect": "Gain 10 runes on hit",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Dagger",
-    "weapon": "Cinquedea",
-    "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with bestial incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Straight Sword",
-    "weapon": "Golden Epitaph",
-    "effect": "Increases damage by 1.3x to Those Who Live in Death enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatsword",
-    "weapon": "Inseparable Sword",
-    "effect": "Increases damage by 1.2x to Those Who Live in Death enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatsword",
-    "weapon": "Sword of Milos",
-    "effect": "Restores 5 FP when an enemy dies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatsword",
-    "weapon": "Alabaster Lord's Sword",
-    "effect": "Increases damage by 1.2x to Void enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatsword",
-    "weapon": "Blasphemous Blade",
-    "effect": "Restores ⌊MaxHP * 0.04⌋ + 40 HP when an enemy dies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatsword",
-    "weapon": "Golden Order Greatsword",
-    "effect": "Increases damage by 1.2x to Those Who Live in Death enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Colossal Sword",
-    "weapon": "Starscourge Greatsword",
-    "effect": "Increases damage by 1.3x to Void enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Thrusting Sword",
-    "weapon": "Carian Sorcery Sword",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Heavy Thrusting Sword",
-    "weapon": "Dragon King's Cragblade",
-    "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Curved Sword",
-    "weapon": "Serpent-God's Curved Sword",
-    "effect": "Restores ⌊MaxHP * 0.025⌋ + 25 HP when an enemy dies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Curved Sword",
-    "weapon": "Wing of Astel",
-    "effect": "Increases damage by 1.2x to Void enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Curved Greatsword",
-    "weapon": "Freyja's Greatsword",
-    "effect": "Increases damage by 1.1x (1.07x in PvP)  with Redmane battle skills",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Curved Greatsword",
-    "weapon": "Onyx Lord's Greatsword",
-    "effect": "Increases damage by 1.2x to Void enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Katana",
-    "weapon": "Meteoric Ore Blade",
-    "effect": "Increases damage by 1.2x to Void enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Katana",
-    "weapon": "Dragonscale Blade",
-    "effect": "Increases damage by 1.1x to Ancient Draconic enemies and 1.2x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Great Katana",
-    "weapon": "Dragon-Hunter's Great Katana",
-    "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Great Katana",
-    "weapon": "Rakshasa's Great Katana",
-    "effect": "Gains hyper armor frames during attacks, but decreases damage negations by -10%",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Twinblade",
-    "weapon": "Euporia",
-    "effect": "Gains \"Luster\" tier 1 at 25 accumuVal (adds 95 holy attack power) and \"Luster\" tier 2 at 50 accumuVal (adds 120 holy attack power); \"Luster\" tier lingers for 30 seconds",
-    "notes": "accumuVal information"
-  },
-  {
-    "weaponClass": "Axe",
-    "weapon": "Highland Axe",
-    "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with roar attacks and Shriek of Milos",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Axe",
-    "weapon": "Celebrant's Cleaver",
-    "effect": "Gain 10 runes on hit",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Axe",
-    "weapon": "Sacrificial Axe",
-    "effect": "Restores 4 FP when an enemy dies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Axe",
-    "weapon": "Icerind Hatchet",
-    "effect": "Increases damage by 1.1x to Ancient Draconic enemies and 1.2x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greataxe",
-    "weapon": "Butchering Knife",
-    "effect": "Restores ⌊MaxHP * 0.01⌋ HP on hit",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greataxe",
-    "weapon": "Bonny Butchering Knife",
-    "effect": "Restores ⌊MaxHP * 0.01⌋ HP on hit",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Hammer",
-    "weapon": "Flowerstone Gavel",
-    "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Flail",
-    "weapon": "Bastard's Stars",
-    "effect": "Increases damage by 1.2x to Void enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Great Hammer",
-    "weapon": "Celebrant's Skull",
-    "effect": "Gain 20 runes on hit",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Great Hammer",
-    "weapon": "Great Stars",
-    "effect": "Restores ⌊MaxHP * 0.01⌋ HP on hit",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Great Hammer",
-    "weapon": "Greathorn Hammer",
-    "effect": "Restores ⌊MaxHP * 0.02⌋ + 20 HP when an enemy dies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Colossal Weapon",
-    "weapon": "Dragon Greatclaw",
-    "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Colossal Weapon",
-    "weapon": "Fallingstar Beast Jaw",
-    "effect": "Increases damage by 1.2x to Void enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Spear",
-    "weapon": "Celebrant's Rib-Rake",
-    "effect": "Gain 10 runes on hit",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Spear",
-    "weapon": "Cleanrot Spear",
-    "effect": "Increases immunity by 50",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Spear",
-    "weapon": "Bolt of Gransax",
-    "effect": "Increases damage by 1.1x to Ancient Draconic enemies and 1.2x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Halberd",
-    "weapon": "Nightrider Glaive",
-    "effect": "",
-    "notes": "Has unique SpEffect(s), currently invalid so no actual effect"
-  },
-  {
-    "weaponClass": "Halberd",
-    "weapon": "Pest's Glaive",
-    "effect": "Increases elemental damage negations by 2%",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Halberd",
-    "weapon": "Dragon Halberd",
-    "effect": "Increases damage by 1.05x to Ancient Draconic enemies and 1.1x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Reaper",
-    "weapon": "Grave Scythe",
-    "effect": "Increases vitality by 35",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Fist",
-    "weapon": "Poisoned Hand",
-    "effect": "Increases damage by 1.075x (1.05x in PvP) for 20 seconds when poison/scarlet rot is triggered within 7m",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Fist",
-    "weapon": "Madding Hand",
-    "effect": "Increases damage by 1.075x (1.05x in PvP) for 30 seconds when madness is triggered within 7m",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Fist",
-    "weapon": "Grafted Dragon",
-    "effect": "Increases damage by 1.05x to Ancient Draconic enemies and 1.1x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Claw",
-    "weapon": "Raptor Talons",
-    "effect": "",
-    "notes": "Has unique SpEffect(s), currently invalid so no actual effect"
-  },
-  {
-    "weaponClass": "Beast Claw",
-    "weapon": "Beast Claw",
-    "effect": "vfx?",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Beast Claw",
-    "weapon": "Red Bear's Claw",
-    "effect": "vfx?",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatbow",
-    "weapon": "Igon's Greatbow",
-    "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Igon's Harpoon",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatbow",
-    "weapon": "Lion Greatbow",
-    "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Radahn's Spear",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Digger's Staff",
-    "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with stonedigger sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Azur's Glintstone Staff",
-    "effect": "Increases vdex by 40, but increases the FP cost of sorceries by ⌈1.2x⌉",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Lusat's Glintstone Staff",
-    "effect": "Increases the FP cost of sorceries by ⌈1.5x⌉",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Carian Glintstone Staff",
-    "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with carian sword sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Carian Glintblade Staff",
-    "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with glintblade sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Carian Regal Scepter",
-    "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with full moon sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Staff of Loss",
-    "effect": "Increases damage by 1.3x (holy bugged in PvP: 1x) with night sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Gelmir Glintstone Staff",
-    "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with lava sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Crystal Staff",
-    "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with crystalian sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Rotten Crystal Staff",
-    "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with crystalian sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Meteorite Staff",
-    "effect": "Increases damage by 1.3x (holy bugged in PvP: 1x) with gravity sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Staff of the Guilty",
-    "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with thorn / aberrant sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Prince of Death's Staff",
-    "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with death sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Glintstone Staff",
-    "weapon": "Maternal Staff",
-    "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with finger sorceries",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Sacred Seal",
-    "weapon": "Golden Order Seal",
-    "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with Golden Order Fundamentalist incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Sacred Seal",
-    "weapon": "Dryleaf Seal",
-    "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with golden ring of light incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Sacred Seal",
-    "weapon": "Fire Knight's Seal",
-    "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with Messmer's flame incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Sacred Seal",
-    "weapon": "Spiraltree Seal",
-    "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with spiral incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Sacred Seal",
-    "weapon": "Gravel Stone Seal",
-    "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with Dragon Cult incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Sacred Seal",
-    "weapon": "Giant's Seal",
-    "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Giants' Flame incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Sacred Seal",
-    "weapon": "Godslayer's Seal",
-    "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with godslayer incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Sacred Seal",
-    "weapon": "Clawmark Seal",
-    "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with bestial incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Sacred Seal",
-    "weapon": "Frenzied Flame Seal",
-    "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Frenzied Flame incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Sacred Seal",
-    "weapon": "Dragon Communion Seal",
-    "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with Dragon Communion incantations",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Great Arrow",
-    "weapon": "Radahn's Spear",
-    "effect": "Increases damage by 1.2x to Void enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Great Arrow",
-    "weapon": "Igon's Harpoon",
-    "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Torch",
-    "weapon": "Beast-Repellent Torch",
-    "effect": "Prevents certain enemies from being aggressive",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Torch",
-    "weapon": "Sentry's Torch",
-    "effect": "Makes invisible enemies visible",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Torch",
-    "weapon": "Lamenting Visage",
-    "effect": "",
-    "notes": "Has unique SpEffect(s), currently invalid so no actual effect"
-  },
-  {
-    "weaponClass": "Small Shield",
-    "weapon": "Pillory Shield",
-    "effect": "Increases vitality by 50",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Small Shield",
-    "weapon": "Ice Crest Shield",
-    "effect": "Increases robustness by 40",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Small Shield",
-    "weapon": "Rift Shield",
-    "effect": "Increases focus by 40",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Small Shield",
-    "weapon": "Perfumer's Shield",
-    "effect": "Increases immunity by 40",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Small Shield",
-    "weapon": "Shield of the Guilty",
-    "effect": "Increases focus by 40",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Small Shield",
-    "weapon": "Spiralhorn Shield",
-    "effect": "Increases immunity, robustness, and focus by 50",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Small Shield",
-    "weapon": "Smoldering Shield",
-    "effect": "Increases robustness by 30",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Small Shield",
-    "weapon": "Coil Shield",
-    "effect": "Increases immunity by 40",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Small Shield",
-    "weapon": "Shield of Night",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Medium Shield",
-    "weapon": "Twinbird Kite Shield",
-    "effect": "Increases damage by 1.05x and damage negations by 10% while at less than 20% HP",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Medium Shield",
-    "weapon": "Great Turtle Shell",
-    "effect": "Increases stamina regeneration by 3/s",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatshield",
-    "weapon": "Icon Shield",
-    "effect": "Regenerates 3 HP/s",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatshield",
-    "weapon": "Dragonclaw Shield",
-    "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatshield",
-    "weapon": "Eclipse Crest Greatshield",
-    "effect": "Increases immunity, robustness, and focus by 50",
-    "notes": ""
-  },
-  {
-    "weaponClass": "Greatshield",
-    "weapon": "Ant's Skull Plate",
-    "effect": "Increases immunity by 60",
-    "notes": ""
-  }
+    {
+        "weaponClass": "Dagger",
+        "weapon": "Celebrant's Sickle",
+        "effect": "Gain 10 runes on hit",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Dagger",
+        "weapon": "Cinquedea",
+        "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with bestial incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Straight Sword",
+        "weapon": "Golden Epitaph",
+        "effect": "Increases damage by 1.3x to Those Who Live in Death enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatsword",
+        "weapon": "Inseparable Sword",
+        "effect": "Increases damage by 1.2x to Those Who Live in Death enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatsword",
+        "weapon": "Sword of Milos",
+        "effect": "Restores 5 FP when an enemy dies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatsword",
+        "weapon": "Alabaster Lord's Sword",
+        "effect": "Increases damage by 1.2x to Void enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatsword",
+        "weapon": "Blasphemous Blade",
+        "effect": "Restores ⌊MaxHP * 0.04⌋ + 40 HP when an enemy dies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatsword",
+        "weapon": "Golden Order Greatsword",
+        "effect": "Increases damage by 1.2x to Those Who Live in Death enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Colossal Sword",
+        "weapon": "Starscourge Greatsword",
+        "effect": "Increases damage by 1.3x to Void enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Thrusting Sword",
+        "weapon": "Carian Sorcery Sword",
+        "effect": "",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Heavy Thrusting Sword",
+        "weapon": "Dragon King's Cragblade",
+        "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Curved Sword",
+        "weapon": "Serpent-God's Curved Sword",
+        "effect": "Restores ⌊MaxHP * 0.025⌋ + 25 HP when an enemy dies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Curved Sword",
+        "weapon": "Wing of Astel",
+        "effect": "Increases damage by 1.2x to Void enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Curved Greatsword",
+        "weapon": "Freyja's Greatsword",
+        "effect": "Increases damage by 1.1x (1.07x in PvP)  with Redmane battle skills",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Curved Greatsword",
+        "weapon": "Onyx Lord's Greatsword",
+        "effect": "Increases damage by 1.2x to Void enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Katana",
+        "weapon": "Meteoric Ore Blade",
+        "effect": "Increases damage by 1.2x to Void enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Katana",
+        "weapon": "Dragonscale Blade",
+        "effect": "Increases damage by 1.1x to Ancient Draconic enemies and 1.2x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Great Katana",
+        "weapon": "Dragon-Hunter's Great Katana",
+        "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Great Katana",
+        "weapon": "Rakshasa's Great Katana",
+        "effect": "Gains hyper armor frames during attacks, but decreases damage negations by -10%",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Twinblade",
+        "weapon": "Euporia",
+        "effect": "Gains \"Luster\" tier 1 at 25 accumuVal (adds 95 holy attack power) and \"Luster\" tier 2 at 50 accumuVal (adds 120 holy attack power); \"Luster\" tier lingers for 30 seconds",
+        "notes": "accumuVal information"
+    },
+    {
+        "weaponClass": "Axe",
+        "weapon": "Highland Axe",
+        "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with roar attacks and Shriek of Milos",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Axe",
+        "weapon": "Celebrant's Cleaver",
+        "effect": "Gain 10 runes on hit",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Axe",
+        "weapon": "Sacrificial Axe",
+        "effect": "Restores 4 FP when an enemy dies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Axe",
+        "weapon": "Icerind Hatchet",
+        "effect": "Increases damage by 1.1x to Ancient Draconic enemies and 1.2x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greataxe",
+        "weapon": "Butchering Knife",
+        "effect": "Restores ⌊MaxHP * 0.01⌋ HP on hit",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greataxe",
+        "weapon": "Bonny Butchering Knife",
+        "effect": "Restores ⌊MaxHP * 0.01⌋ HP on hit",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Hammer",
+        "weapon": "Flowerstone Gavel",
+        "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Flail",
+        "weapon": "Bastard's Stars",
+        "effect": "Increases damage by 1.2x to Void enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Great Hammer",
+        "weapon": "Celebrant's Skull",
+        "effect": "Gain 20 runes on hit",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Great Hammer",
+        "weapon": "Great Stars",
+        "effect": "Restores ⌊MaxHP * 0.01⌋ HP on hit",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Great Hammer",
+        "weapon": "Greathorn Hammer",
+        "effect": "Restores ⌊MaxHP * 0.02⌋ + 20 HP when an enemy dies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Colossal Weapon",
+        "weapon": "Dragon Greatclaw",
+        "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Colossal Weapon",
+        "weapon": "Fallingstar Beast Jaw",
+        "effect": "Increases damage by 1.2x to Void enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Spear",
+        "weapon": "Celebrant's Rib-Rake",
+        "effect": "Gain 10 runes on hit",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Spear",
+        "weapon": "Cleanrot Spear",
+        "effect": "Increases immunity by 50",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Spear",
+        "weapon": "Bolt of Gransax",
+        "effect": "Increases damage by 1.1x to Ancient Draconic enemies and 1.2x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Halberd",
+        "weapon": "Nightrider Glaive",
+        "effect": "",
+        "notes": "Has unique SpEffect(s), currently invalid so no actual effect"
+    },
+    {
+        "weaponClass": "Halberd",
+        "weapon": "Pest's Glaive",
+        "effect": "Increases elemental damage negations by 2%",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Halberd",
+        "weapon": "Dragon Halberd",
+        "effect": "Increases damage by 1.05x to Ancient Draconic enemies and 1.1x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Reaper",
+        "weapon": "Grave Scythe",
+        "effect": "Increases vitality by 35",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Fist",
+        "weapon": "Poisoned Hand",
+        "effect": "Increases damage by 1.075x (1.05x in PvP) for 20 seconds when poison/scarlet rot is triggered within 7m",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Fist",
+        "weapon": "Madding Hand",
+        "effect": "Increases damage by 1.075x (1.05x in PvP) for 30 seconds when madness is triggered within 7m",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Fist",
+        "weapon": "Grafted Dragon",
+        "effect": "Increases damage by 1.05x to Ancient Draconic enemies and 1.1x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Claw",
+        "weapon": "Raptor Talons",
+        "effect": "",
+        "notes": "Has unique SpEffect(s), currently invalid so no actual effect"
+    },
+    {
+        "weaponClass": "Beast Claw",
+        "weapon": "Beast Claw",
+        "effect": "vfx?",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Beast Claw",
+        "weapon": "Red Bear's Claw",
+        "effect": "vfx?",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatbow",
+        "weapon": "Igon's Greatbow",
+        "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Igon's Harpoon",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatbow",
+        "weapon": "Lion Greatbow",
+        "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Radahn's Spear",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Digger's Staff",
+        "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with stonedigger sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Azur's Glintstone Staff",
+        "effect": "Increases vdex by 40, but increases the FP cost of sorceries by ⌈1.2x⌉",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Lusat's Glintstone Staff",
+        "effect": "Increases the FP cost of sorceries by ⌈1.5x⌉",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Carian Glintstone Staff",
+        "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with carian sword sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Carian Glintblade Staff",
+        "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with glintblade sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Carian Regal Scepter",
+        "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with full moon sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Staff of Loss",
+        "effect": "Increases damage by 1.3x (holy bugged in PvP: 1x) with night sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Gelmir Glintstone Staff",
+        "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with lava sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Crystal Staff",
+        "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with crystalian sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Rotten Crystal Staff",
+        "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with crystalian sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Meteorite Staff",
+        "effect": "Increases damage by 1.3x (holy bugged in PvP: 1x) with gravity sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Staff of the Guilty",
+        "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with thorn / aberrant sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Prince of Death's Staff",
+        "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with death sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Glintstone Staff",
+        "weapon": "Maternal Staff",
+        "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with finger sorceries",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Sacred Seal",
+        "weapon": "Golden Order Seal",
+        "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with Golden Order Fundamentalist incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Sacred Seal",
+        "weapon": "Dryleaf Seal",
+        "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with golden ring of light incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Sacred Seal",
+        "weapon": "Fire Knight's Seal",
+        "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with Messmer's flame incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Sacred Seal",
+        "weapon": "Spiraltree Seal",
+        "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with spiral incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Sacred Seal",
+        "weapon": "Gravel Stone Seal",
+        "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with Dragon Cult incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Sacred Seal",
+        "weapon": "Giant's Seal",
+        "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Giants' Flame incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Sacred Seal",
+        "weapon": "Godslayer's Seal",
+        "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with godslayer incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Sacred Seal",
+        "weapon": "Clawmark Seal",
+        "effect": "Increases damage by 1.1x (holy bugged in PvP: 1x) with bestial incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Sacred Seal",
+        "weapon": "Frenzied Flame Seal",
+        "effect": "Increases damage by 1.2x (holy bugged in PvP: 1x) with Frenzied Flame incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Sacred Seal",
+        "weapon": "Dragon Communion Seal",
+        "effect": "Increases damage by 1.15x (holy bugged in PvP: 1x) with Dragon Communion incantations",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Great Arrow",
+        "weapon": "Radahn's Spear",
+        "effect": "Increases damage by 1.2x to Void enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Great Arrow",
+        "weapon": "Igon's Harpoon",
+        "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Torch",
+        "weapon": "Beast-Repellent Torch",
+        "effect": "Prevents certain enemies from being aggressive",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Torch",
+        "weapon": "Sentry's Torch",
+        "effect": "Makes invisible enemies visible",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Torch",
+        "weapon": "Lamenting Visage",
+        "effect": "",
+        "notes": "Has unique SpEffect(s), currently invalid so no actual effect"
+    },
+    {
+        "weaponClass": "Small Shield",
+        "weapon": "Pillory Shield",
+        "effect": "Increases vitality by 50",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Small Shield",
+        "weapon": "Ice Crest Shield",
+        "effect": "Increases robustness by 40",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Small Shield",
+        "weapon": "Rift Shield",
+        "effect": "Increases focus by 40",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Small Shield",
+        "weapon": "Perfumer's Shield",
+        "effect": "Increases immunity by 40",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Small Shield",
+        "weapon": "Shield of the Guilty",
+        "effect": "Increases focus by 40",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Small Shield",
+        "weapon": "Spiralhorn Shield",
+        "effect": "Increases immunity, robustness, and focus by 50",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Small Shield",
+        "weapon": "Smoldering Shield",
+        "effect": "Increases robustness by 30",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Small Shield",
+        "weapon": "Coil Shield",
+        "effect": "Increases immunity by 40",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Small Shield",
+        "weapon": "Shield of Night",
+        "effect": "",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Medium Shield",
+        "weapon": "Twinbird Kite Shield",
+        "effect": "Increases damage by 1.05x and damage negations by 10% while at less than 20% HP",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Medium Shield",
+        "weapon": "Great Turtle Shell",
+        "effect": "Increases stamina regeneration by 3/s",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatshield",
+        "weapon": "Icon Shield",
+        "effect": "Regenerates 3 HP/s",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatshield",
+        "weapon": "Dragonclaw Shield",
+        "effect": "Increases damage by 1.15x to Ancient Draconic enemies and 1.3x to Draconic enemies",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatshield",
+        "weapon": "Eclipse Crest Greatshield",
+        "effect": "Increases immunity, robustness, and focus by 50",
+        "notes": ""
+    },
+    {
+        "weaponClass": "Greatshield",
+        "weapon": "Ant's Skull Plate",
+        "effect": "Increases immunity by 60",
+        "notes": ""
+    }
 ]

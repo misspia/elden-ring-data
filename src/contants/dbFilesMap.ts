@@ -7,6 +7,7 @@ import { playerBossesFormatter } from "@/formatters/playerBosses";
 import { weaponsFormatter } from "@/formatters/weapons";
 import { levelUpCostFormatter } from "@/formatters/levelUpCost";
 import { weaponsEffectsFormatter } from "@/formatters/weaponsEffects";
+import { consumablesEffectsFormatter } from "@/formatters/consumablesEffects";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -61,13 +62,21 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   //   json: "level-up-cost.json",
   //   formatter: levelUpCostFormatter,
   // },
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=500408578#gid=500408578
+  //  */
+  // {
+  //   csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Weapons.csv",
+  //   json: "weapons-effects.json",
+  //   formatter: weaponsEffectsFormatter,
+  // },
   /**
-   * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=500408578#gid=500408578
+   * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=2041613656#gid=2041613656
    */
   {
-    csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Weapons.csv",
-    json: "weapons-effects.json",
-    formatter: weaponsEffectsFormatter,
+    csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Consumables.csv",
+    json: "consumables-effects.json",
+    formatter: consumablesEffectsFormatter,
   },
 ];
 
