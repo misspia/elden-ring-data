@@ -1,0 +1,4280 @@
+[
+  {
+    "level": 1,
+    "runesToNext": 673,
+    "costIncrease": 0,
+    "totalRunes": 0
+  },
+  {
+    "level": 2,
+    "runesToNext": 689,
+    "costIncrease": 16,
+    "totalRunes": 673
+  },
+  {
+    "level": 3,
+    "runesToNext": 706,
+    "costIncrease": 17,
+    "totalRunes": 1
+  },
+  {
+    "level": 4,
+    "runesToNext": 723,
+    "costIncrease": 17,
+    "totalRunes": 2
+  },
+  {
+    "level": 5,
+    "runesToNext": 740,
+    "costIncrease": 17,
+    "totalRunes": 2
+  },
+  {
+    "level": 6,
+    "runesToNext": 757,
+    "costIncrease": 17,
+    "totalRunes": 3
+  },
+  {
+    "level": 7,
+    "runesToNext": 775,
+    "costIncrease": 18,
+    "totalRunes": 4
+  },
+  {
+    "level": 8,
+    "runesToNext": 793,
+    "costIncrease": 18,
+    "totalRunes": 5
+  },
+  {
+    "level": 9,
+    "runesToNext": 811,
+    "costIncrease": 18,
+    "totalRunes": 5
+  },
+  {
+    "level": 10,
+    "runesToNext": 829,
+    "costIncrease": 18,
+    "totalRunes": 6
+  },
+  {
+    "level": 11,
+    "runesToNext": 847,
+    "costIncrease": 18,
+    "totalRunes": 7
+  },
+  {
+    "level": 12,
+    "runesToNext": 1,
+    "costIncrease": 191,
+    "totalRunes": 8
+  },
+  {
+    "level": 13,
+    "runesToNext": 1,
+    "costIncrease": 200,
+    "totalRunes": 9
+  },
+  {
+    "level": 14,
+    "runesToNext": 1,
+    "costIncrease": 207,
+    "totalRunes": 10
+  },
+  {
+    "level": 15,
+    "runesToNext": 1,
+    "costIncrease": 214,
+    "totalRunes": 12
+  },
+  {
+    "level": 16,
+    "runesToNext": 1,
+    "costIncrease": 223,
+    "totalRunes": 13
+  },
+  {
+    "level": 17,
+    "runesToNext": 2,
+    "costIncrease": 231,
+    "totalRunes": 15
+  },
+  {
+    "level": 18,
+    "runesToNext": 2,
+    "costIncrease": 240,
+    "totalRunes": 17
+  },
+  {
+    "level": 19,
+    "runesToNext": 2,
+    "costIncrease": 248,
+    "totalRunes": 20
+  },
+  {
+    "level": 20,
+    "runesToNext": 2,
+    "costIncrease": 256,
+    "totalRunes": 22
+  },
+  {
+    "level": 21,
+    "runesToNext": 3,
+    "costIncrease": 265,
+    "totalRunes": 25
+  },
+  {
+    "level": 22,
+    "runesToNext": 3,
+    "costIncrease": 273,
+    "totalRunes": 28
+  },
+  {
+    "level": 23,
+    "runesToNext": 3,
+    "costIncrease": 283,
+    "totalRunes": 32
+  },
+  {
+    "level": 24,
+    "runesToNext": 3,
+    "costIncrease": 292,
+    "totalRunes": 35
+  },
+  {
+    "level": 25,
+    "runesToNext": 4,
+    "costIncrease": 300,
+    "totalRunes": 39
+  },
+  {
+    "level": 26,
+    "runesToNext": 4,
+    "costIncrease": 310,
+    "totalRunes": 43
+  },
+  {
+    "level": 27,
+    "runesToNext": 4,
+    "costIncrease": 319,
+    "totalRunes": 48
+  },
+  {
+    "level": 28,
+    "runesToNext": 5,
+    "costIncrease": 329,
+    "totalRunes": 53
+  },
+  {
+    "level": 29,
+    "runesToNext": 5,
+    "costIncrease": 339,
+    "totalRunes": 58
+  },
+  {
+    "level": 30,
+    "runesToNext": 5,
+    "costIncrease": 348,
+    "totalRunes": 64
+  },
+  {
+    "level": 31,
+    "runesToNext": 6,
+    "costIncrease": 358,
+    "totalRunes": 70
+  },
+  {
+    "level": 32,
+    "runesToNext": 6,
+    "costIncrease": 367,
+    "totalRunes": 76
+  },
+  {
+    "level": 33,
+    "runesToNext": 7,
+    "costIncrease": 378,
+    "totalRunes": 83
+  },
+  {
+    "level": 34,
+    "runesToNext": 7,
+    "costIncrease": 389,
+    "totalRunes": 90
+  },
+  {
+    "level": 35,
+    "runesToNext": 7,
+    "costIncrease": 398,
+    "totalRunes": 97
+  },
+  {
+    "level": 36,
+    "runesToNext": 8,
+    "costIncrease": 409,
+    "totalRunes": 105
+  },
+  {
+    "level": 37,
+    "runesToNext": 8,
+    "costIncrease": 419,
+    "totalRunes": 113
+  },
+  {
+    "level": 38,
+    "runesToNext": 9,
+    "costIncrease": 431,
+    "totalRunes": 122
+  },
+  {
+    "level": 39,
+    "runesToNext": 9,
+    "costIncrease": 441,
+    "totalRunes": 131
+  },
+  {
+    "level": 40,
+    "runesToNext": 9,
+    "costIncrease": 451,
+    "totalRunes": 140
+  },
+  {
+    "level": 41,
+    "runesToNext": 10,
+    "costIncrease": 463,
+    "totalRunes": 150
+  },
+  {
+    "level": 42,
+    "runesToNext": 10,
+    "costIncrease": 474,
+    "totalRunes": 161
+  },
+  {
+    "level": 43,
+    "runesToNext": 11,
+    "costIncrease": 486,
+    "totalRunes": 171
+  },
+  {
+    "level": 44,
+    "runesToNext": 11,
+    "costIncrease": 497,
+    "totalRunes": 183
+  },
+  {
+    "level": 45,
+    "runesToNext": 12,
+    "costIncrease": 508,
+    "totalRunes": 195
+  },
+  {
+    "level": 46,
+    "runesToNext": 12,
+    "costIncrease": 520,
+    "totalRunes": 207
+  },
+  {
+    "level": 47,
+    "runesToNext": 13,
+    "costIncrease": 531,
+    "totalRunes": 220
+  },
+  {
+    "level": 48,
+    "runesToNext": 13,
+    "costIncrease": 544,
+    "totalRunes": 233
+  },
+  {
+    "level": 49,
+    "runesToNext": 14,
+    "costIncrease": 556,
+    "totalRunes": 247
+  },
+  {
+    "level": 50,
+    "runesToNext": 15,
+    "costIncrease": 567,
+    "totalRunes": 262
+  },
+  {
+    "level": 51,
+    "runesToNext": 15,
+    "costIncrease": 580,
+    "totalRunes": 277
+  },
+  {
+    "level": 52,
+    "runesToNext": 16,
+    "costIncrease": 592,
+    "totalRunes": 293
+  },
+  {
+    "level": 53,
+    "runesToNext": 16,
+    "costIncrease": 605,
+    "totalRunes": 309
+  },
+  {
+    "level": 54,
+    "runesToNext": 17,
+    "costIncrease": 618,
+    "totalRunes": 326
+  },
+  {
+    "level": 55,
+    "runesToNext": 18,
+    "costIncrease": 630,
+    "totalRunes": 343
+  },
+  {
+    "level": 56,
+    "runesToNext": 18,
+    "costIncrease": 643,
+    "totalRunes": 362
+  },
+  {
+    "level": 57,
+    "runesToNext": 19,
+    "costIncrease": 655,
+    "totalRunes": 380
+  },
+  {
+    "level": 58,
+    "runesToNext": 20,
+    "costIncrease": 669,
+    "totalRunes": 400
+  },
+  {
+    "level": 59,
+    "runesToNext": 20,
+    "costIncrease": 683,
+    "totalRunes": 420
+  },
+  {
+    "level": 60,
+    "runesToNext": 21,
+    "costIncrease": 695,
+    "totalRunes": 441
+  },
+  {
+    "level": 61,
+    "runesToNext": 22,
+    "costIncrease": 709,
+    "totalRunes": 462
+  },
+  {
+    "level": 62,
+    "runesToNext": 22,
+    "costIncrease": 722,
+    "totalRunes": 484
+  },
+  {
+    "level": 63,
+    "runesToNext": 23,
+    "costIncrease": 737,
+    "totalRunes": 507
+  },
+  {
+    "level": 64,
+    "runesToNext": 24,
+    "costIncrease": 750,
+    "totalRunes": 531
+  },
+  {
+    "level": 65,
+    "runesToNext": 25,
+    "costIncrease": 763,
+    "totalRunes": 555
+  },
+  {
+    "level": 66,
+    "runesToNext": 25,
+    "costIncrease": 778,
+    "totalRunes": 580
+  },
+  {
+    "level": 67,
+    "runesToNext": 26,
+    "costIncrease": 792,
+    "totalRunes": 606
+  },
+  {
+    "level": 68,
+    "runesToNext": 27,
+    "costIncrease": 807,
+    "totalRunes": 633
+  },
+  {
+    "level": 69,
+    "runesToNext": 28,
+    "costIncrease": 821,
+    "totalRunes": 661
+  },
+  {
+    "level": 70,
+    "runesToNext": 29,
+    "costIncrease": 835,
+    "totalRunes": 689
+  },
+  {
+    "level": 71,
+    "runesToNext": 30,
+    "costIncrease": 850,
+    "totalRunes": 718
+  },
+  {
+    "level": 72,
+    "runesToNext": 30,
+    "costIncrease": 864,
+    "totalRunes": 748
+  },
+  {
+    "level": 73,
+    "runesToNext": 31,
+    "costIncrease": 880,
+    "totalRunes": 779
+  },
+  {
+    "level": 74,
+    "runesToNext": 32,
+    "costIncrease": 895,
+    "totalRunes": 811
+  },
+  {
+    "level": 75,
+    "runesToNext": 33,
+    "costIncrease": 909,
+    "totalRunes": 843
+  },
+  {
+    "level": 76,
+    "runesToNext": 34,
+    "costIncrease": 925,
+    "totalRunes": 877
+  },
+  {
+    "level": 77,
+    "runesToNext": 35,
+    "costIncrease": 940,
+    "totalRunes": 912
+  },
+  {
+    "level": 78,
+    "runesToNext": 36,
+    "costIncrease": 956,
+    "totalRunes": 947
+  },
+  {
+    "level": 79,
+    "runesToNext": 37,
+    "costIncrease": 972,
+    "totalRunes": 983
+  },
+  {
+    "level": 80,
+    "runesToNext": 38,
+    "costIncrease": 987,
+    "totalRunes": 1
+  },
+  {
+    "level": 81,
+    "runesToNext": 39,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 82,
+    "runesToNext": 40,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 83,
+    "runesToNext": 41,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 84,
+    "runesToNext": 42,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 85,
+    "runesToNext": 43,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 86,
+    "runesToNext": 44,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 87,
+    "runesToNext": 45,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 88,
+    "runesToNext": 46,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 89,
+    "runesToNext": 47,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 90,
+    "runesToNext": 49,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 91,
+    "runesToNext": 50,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 92,
+    "runesToNext": 51,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 93,
+    "runesToNext": 52,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 94,
+    "runesToNext": 53,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 95,
+    "runesToNext": 55,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 96,
+    "runesToNext": 56,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 97,
+    "runesToNext": 57,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 98,
+    "runesToNext": 58,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 99,
+    "runesToNext": 60,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 100,
+    "runesToNext": 61,
+    "costIncrease": 1,
+    "totalRunes": 1
+  },
+  {
+    "level": 101,
+    "runesToNext": 62,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 102,
+    "runesToNext": 64,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 103,
+    "runesToNext": 65,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 104,
+    "runesToNext": 67,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 105,
+    "runesToNext": 68,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 106,
+    "runesToNext": 69,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 107,
+    "runesToNext": 71,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 108,
+    "runesToNext": 72,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 109,
+    "runesToNext": 74,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 110,
+    "runesToNext": 75,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 111,
+    "runesToNext": 77,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 112,
+    "runesToNext": 78,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 113,
+    "runesToNext": 80,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 114,
+    "runesToNext": 82,
+    "costIncrease": 1,
+    "totalRunes": 2
+  },
+  {
+    "level": 115,
+    "runesToNext": 83,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 116,
+    "runesToNext": 85,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 117,
+    "runesToNext": 87,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 118,
+    "runesToNext": 88,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 119,
+    "runesToNext": 90,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 120,
+    "runesToNext": 92,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 121,
+    "runesToNext": 93,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 122,
+    "runesToNext": 95,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 123,
+    "runesToNext": 97,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 124,
+    "runesToNext": 99,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 125,
+    "runesToNext": 100,
+    "costIncrease": 1,
+    "totalRunes": 3
+  },
+  {
+    "level": 126,
+    "runesToNext": 102,
+    "costIncrease": 1,
+    "totalRunes": 4
+  },
+  {
+    "level": 127,
+    "runesToNext": 104,
+    "costIncrease": 1,
+    "totalRunes": 4
+  },
+  {
+    "level": 128,
+    "runesToNext": 106,
+    "costIncrease": 1,
+    "totalRunes": 4
+  },
+  {
+    "level": 129,
+    "runesToNext": 108,
+    "costIncrease": 1,
+    "totalRunes": 4
+  },
+  {
+    "level": 130,
+    "runesToNext": 110,
+    "costIncrease": 1,
+    "totalRunes": 4
+  },
+  {
+    "level": 131,
+    "runesToNext": 112,
+    "costIncrease": 1,
+    "totalRunes": 4
+  },
+  {
+    "level": 132,
+    "runesToNext": 114,
+    "costIncrease": 1,
+    "totalRunes": 4
+  },
+  {
+    "level": 133,
+    "runesToNext": 116,
+    "costIncrease": 1,
+    "totalRunes": 4
+  },
+  {
+    "level": 134,
+    "runesToNext": 118,
+    "costIncrease": 2,
+    "totalRunes": 4
+  },
+  {
+    "level": 135,
+    "runesToNext": 120,
+    "costIncrease": 2,
+    "totalRunes": 5
+  },
+  {
+    "level": 136,
+    "runesToNext": 122,
+    "costIncrease": 2,
+    "totalRunes": 5
+  },
+  {
+    "level": 137,
+    "runesToNext": 124,
+    "costIncrease": 2,
+    "totalRunes": 5
+  },
+  {
+    "level": 138,
+    "runesToNext": 126,
+    "costIncrease": 2,
+    "totalRunes": 5
+  },
+  {
+    "level": 139,
+    "runesToNext": 128,
+    "costIncrease": 2,
+    "totalRunes": 5
+  },
+  {
+    "level": 140,
+    "runesToNext": 130,
+    "costIncrease": 2,
+    "totalRunes": 5
+  },
+  {
+    "level": 141,
+    "runesToNext": 133,
+    "costIncrease": 2,
+    "totalRunes": 5
+  },
+  {
+    "level": 142,
+    "runesToNext": 135,
+    "costIncrease": 2,
+    "totalRunes": 5
+  },
+  {
+    "level": 143,
+    "runesToNext": 137,
+    "costIncrease": 2,
+    "totalRunes": 6
+  },
+  {
+    "level": 144,
+    "runesToNext": 139,
+    "costIncrease": 2,
+    "totalRunes": 6
+  },
+  {
+    "level": 145,
+    "runesToNext": 141,
+    "costIncrease": 2,
+    "totalRunes": 6
+  },
+  {
+    "level": 146,
+    "runesToNext": 144,
+    "costIncrease": 2,
+    "totalRunes": 6
+  },
+  {
+    "level": 147,
+    "runesToNext": 146,
+    "costIncrease": 2,
+    "totalRunes": 6
+  },
+  {
+    "level": 148,
+    "runesToNext": 148,
+    "costIncrease": 2,
+    "totalRunes": 6
+  },
+  {
+    "level": 149,
+    "runesToNext": 151,
+    "costIncrease": 2,
+    "totalRunes": 6
+  },
+  {
+    "level": 150,
+    "runesToNext": 153,
+    "costIncrease": 2,
+    "totalRunes": 7
+  },
+  {
+    "level": 151,
+    "runesToNext": 156,
+    "costIncrease": 2,
+    "totalRunes": 7
+  },
+  {
+    "level": 152,
+    "runesToNext": 158,
+    "costIncrease": 2,
+    "totalRunes": 7
+  },
+  {
+    "level": 153,
+    "runesToNext": 160,
+    "costIncrease": 2,
+    "totalRunes": 7
+  },
+  {
+    "level": 154,
+    "runesToNext": 163,
+    "costIncrease": 2,
+    "totalRunes": 7
+  },
+  {
+    "level": 155,
+    "runesToNext": 165,
+    "costIncrease": 2,
+    "totalRunes": 7
+  },
+  {
+    "level": 156,
+    "runesToNext": 168,
+    "costIncrease": 2,
+    "totalRunes": 8
+  },
+  {
+    "level": 157,
+    "runesToNext": 171,
+    "costIncrease": 2,
+    "totalRunes": 8
+  },
+  {
+    "level": 158,
+    "runesToNext": 173,
+    "costIncrease": 2,
+    "totalRunes": 8
+  },
+  {
+    "level": 159,
+    "runesToNext": 176,
+    "costIncrease": 2,
+    "totalRunes": 8
+  },
+  {
+    "level": 160,
+    "runesToNext": 178,
+    "costIncrease": 2,
+    "totalRunes": 8
+  },
+  {
+    "level": 161,
+    "runesToNext": 181,
+    "costIncrease": 2,
+    "totalRunes": 8
+  },
+  {
+    "level": 162,
+    "runesToNext": 184,
+    "costIncrease": 2,
+    "totalRunes": 9
+  },
+  {
+    "level": 163,
+    "runesToNext": 186,
+    "costIncrease": 2,
+    "totalRunes": 9
+  },
+  {
+    "level": 164,
+    "runesToNext": 189,
+    "costIncrease": 2,
+    "totalRunes": 9
+  },
+  {
+    "level": 165,
+    "runesToNext": 192,
+    "costIncrease": 2,
+    "totalRunes": 9
+  },
+  {
+    "level": 166,
+    "runesToNext": 195,
+    "costIncrease": 2,
+    "totalRunes": 9
+  },
+  {
+    "level": 167,
+    "runesToNext": 198,
+    "costIncrease": 2,
+    "totalRunes": 10
+  },
+  {
+    "level": 168,
+    "runesToNext": 200,
+    "costIncrease": 2,
+    "totalRunes": 10
+  },
+  {
+    "level": 169,
+    "runesToNext": 203,
+    "costIncrease": 2,
+    "totalRunes": 10
+  },
+  {
+    "level": 170,
+    "runesToNext": 206,
+    "costIncrease": 2,
+    "totalRunes": 10
+  },
+  {
+    "level": 171,
+    "runesToNext": 209,
+    "costIncrease": 2,
+    "totalRunes": 10
+  },
+  {
+    "level": 172,
+    "runesToNext": 212,
+    "costIncrease": 2,
+    "totalRunes": 11
+  },
+  {
+    "level": 173,
+    "runesToNext": 215,
+    "costIncrease": 2,
+    "totalRunes": 11
+  },
+  {
+    "level": 174,
+    "runesToNext": 218,
+    "costIncrease": 3,
+    "totalRunes": 11
+  },
+  {
+    "level": 175,
+    "runesToNext": 221,
+    "costIncrease": 3,
+    "totalRunes": 11
+  },
+  {
+    "level": 176,
+    "runesToNext": 224,
+    "costIncrease": 3,
+    "totalRunes": 11
+  },
+  {
+    "level": 177,
+    "runesToNext": 227,
+    "costIncrease": 3,
+    "totalRunes": 12
+  },
+  {
+    "level": 178,
+    "runesToNext": 230,
+    "costIncrease": 3,
+    "totalRunes": 12
+  },
+  {
+    "level": 179,
+    "runesToNext": 233,
+    "costIncrease": 3,
+    "totalRunes": 12
+  },
+  {
+    "level": 180,
+    "runesToNext": 237,
+    "costIncrease": 3,
+    "totalRunes": 12
+  },
+  {
+    "level": 181,
+    "runesToNext": 240,
+    "costIncrease": 3,
+    "totalRunes": 13
+  },
+  {
+    "level": 182,
+    "runesToNext": 243,
+    "costIncrease": 3,
+    "totalRunes": 13
+  },
+  {
+    "level": 183,
+    "runesToNext": 246,
+    "costIncrease": 3,
+    "totalRunes": 13
+  },
+  {
+    "level": 184,
+    "runesToNext": 250,
+    "costIncrease": 3,
+    "totalRunes": 13
+  },
+  {
+    "level": 185,
+    "runesToNext": 253,
+    "costIncrease": 3,
+    "totalRunes": 14
+  },
+  {
+    "level": 186,
+    "runesToNext": 256,
+    "costIncrease": 3,
+    "totalRunes": 14
+  },
+  {
+    "level": 187,
+    "runesToNext": 260,
+    "costIncrease": 3,
+    "totalRunes": 14
+  },
+  {
+    "level": 188,
+    "runesToNext": 263,
+    "costIncrease": 3,
+    "totalRunes": 14
+  },
+  {
+    "level": 189,
+    "runesToNext": 266,
+    "costIncrease": 3,
+    "totalRunes": 15
+  },
+  {
+    "level": 190,
+    "runesToNext": 270,
+    "costIncrease": 3,
+    "totalRunes": 15
+  },
+  {
+    "level": 191,
+    "runesToNext": 273,
+    "costIncrease": 3,
+    "totalRunes": 15
+  },
+  {
+    "level": 192,
+    "runesToNext": 277,
+    "costIncrease": 3,
+    "totalRunes": 15
+  },
+  {
+    "level": 193,
+    "runesToNext": 280,
+    "costIncrease": 3,
+    "totalRunes": 16
+  },
+  {
+    "level": 194,
+    "runesToNext": 284,
+    "costIncrease": 3,
+    "totalRunes": 16
+  },
+  {
+    "level": 195,
+    "runesToNext": 287,
+    "costIncrease": 3,
+    "totalRunes": 16
+  },
+  {
+    "level": 196,
+    "runesToNext": 291,
+    "costIncrease": 3,
+    "totalRunes": 17
+  },
+  {
+    "level": 197,
+    "runesToNext": 295,
+    "costIncrease": 3,
+    "totalRunes": 17
+  },
+  {
+    "level": 198,
+    "runesToNext": 298,
+    "costIncrease": 3,
+    "totalRunes": 17
+  },
+  {
+    "level": 199,
+    "runesToNext": 302,
+    "costIncrease": 3,
+    "totalRunes": 17
+  },
+  {
+    "level": 200,
+    "runesToNext": 306,
+    "costIncrease": 3,
+    "totalRunes": 18
+  },
+  {
+    "level": 201,
+    "runesToNext": 310,
+    "costIncrease": 3,
+    "totalRunes": 18
+  },
+  {
+    "level": 202,
+    "runesToNext": 313,
+    "costIncrease": 3,
+    "totalRunes": 18
+  },
+  {
+    "level": 203,
+    "runesToNext": 317,
+    "costIncrease": 3,
+    "totalRunes": 19
+  },
+  {
+    "level": 204,
+    "runesToNext": 321,
+    "costIncrease": 3,
+    "totalRunes": 19
+  },
+  {
+    "level": 205,
+    "runesToNext": 325,
+    "costIncrease": 3,
+    "totalRunes": 19
+  },
+  {
+    "level": 206,
+    "runesToNext": 329,
+    "costIncrease": 3,
+    "totalRunes": 20
+  },
+  {
+    "level": 207,
+    "runesToNext": 333,
+    "costIncrease": 3,
+    "totalRunes": 20
+  },
+  {
+    "level": 208,
+    "runesToNext": 337,
+    "costIncrease": 3,
+    "totalRunes": 20
+  },
+  {
+    "level": 209,
+    "runesToNext": 341,
+    "costIncrease": 4,
+    "totalRunes": 21
+  },
+  {
+    "level": 210,
+    "runesToNext": 345,
+    "costIncrease": 4,
+    "totalRunes": 21
+  },
+  {
+    "level": 211,
+    "runesToNext": 349,
+    "costIncrease": 4,
+    "totalRunes": 21
+  },
+  {
+    "level": 212,
+    "runesToNext": 353,
+    "costIncrease": 4,
+    "totalRunes": 22
+  },
+  {
+    "level": 213,
+    "runesToNext": 357,
+    "costIncrease": 4,
+    "totalRunes": 22
+  },
+  {
+    "level": 214,
+    "runesToNext": 362,
+    "costIncrease": 4,
+    "totalRunes": 22
+  },
+  {
+    "level": 215,
+    "runesToNext": 366,
+    "costIncrease": 4,
+    "totalRunes": 23
+  },
+  {
+    "level": 216,
+    "runesToNext": 370,
+    "costIncrease": 4,
+    "totalRunes": 23
+  },
+  {
+    "level": 217,
+    "runesToNext": 374,
+    "costIncrease": 4,
+    "totalRunes": 23
+  },
+  {
+    "level": 218,
+    "runesToNext": 379,
+    "costIncrease": 4,
+    "totalRunes": 24
+  },
+  {
+    "level": 219,
+    "runesToNext": 383,
+    "costIncrease": 4,
+    "totalRunes": 24
+  },
+  {
+    "level": 220,
+    "runesToNext": 387,
+    "costIncrease": 4,
+    "totalRunes": 25
+  },
+  {
+    "level": 221,
+    "runesToNext": 392,
+    "costIncrease": 4,
+    "totalRunes": 25
+  },
+  {
+    "level": 222,
+    "runesToNext": 396,
+    "costIncrease": 4,
+    "totalRunes": 25
+  },
+  {
+    "level": 223,
+    "runesToNext": 401,
+    "costIncrease": 4,
+    "totalRunes": 26
+  },
+  {
+    "level": 224,
+    "runesToNext": 405,
+    "costIncrease": 4,
+    "totalRunes": 26
+  },
+  {
+    "level": 225,
+    "runesToNext": 410,
+    "costIncrease": 4,
+    "totalRunes": 27
+  },
+  {
+    "level": 226,
+    "runesToNext": 414,
+    "costIncrease": 4,
+    "totalRunes": 27
+  },
+  {
+    "level": 227,
+    "runesToNext": 419,
+    "costIncrease": 4,
+    "totalRunes": 27
+  },
+  {
+    "level": 228,
+    "runesToNext": 423,
+    "costIncrease": 4,
+    "totalRunes": 28
+  },
+  {
+    "level": 229,
+    "runesToNext": 428,
+    "costIncrease": 4,
+    "totalRunes": 28
+  },
+  {
+    "level": 230,
+    "runesToNext": 433,
+    "costIncrease": 4,
+    "totalRunes": 29
+  },
+  {
+    "level": 231,
+    "runesToNext": 438,
+    "costIncrease": 4,
+    "totalRunes": 29
+  },
+  {
+    "level": 232,
+    "runesToNext": 442,
+    "costIncrease": 4,
+    "totalRunes": 30
+  },
+  {
+    "level": 233,
+    "runesToNext": 447,
+    "costIncrease": 4,
+    "totalRunes": 30
+  },
+  {
+    "level": 234,
+    "runesToNext": 452,
+    "costIncrease": 4,
+    "totalRunes": 30
+  },
+  {
+    "level": 235,
+    "runesToNext": 457,
+    "costIncrease": 4,
+    "totalRunes": 31
+  },
+  {
+    "level": 236,
+    "runesToNext": 462,
+    "costIncrease": 4,
+    "totalRunes": 31
+  },
+  {
+    "level": 237,
+    "runesToNext": 467,
+    "costIncrease": 4,
+    "totalRunes": 32
+  },
+  {
+    "level": 238,
+    "runesToNext": 472,
+    "costIncrease": 4,
+    "totalRunes": 32
+  },
+  {
+    "level": 239,
+    "runesToNext": 477,
+    "costIncrease": 5,
+    "totalRunes": 33
+  },
+  {
+    "level": 240,
+    "runesToNext": 482,
+    "costIncrease": 5,
+    "totalRunes": 33
+  },
+  {
+    "level": 241,
+    "runesToNext": 487,
+    "costIncrease": 5,
+    "totalRunes": 34
+  },
+  {
+    "level": 242,
+    "runesToNext": 492,
+    "costIncrease": 5,
+    "totalRunes": 34
+  },
+  {
+    "level": 243,
+    "runesToNext": 497,
+    "costIncrease": 5,
+    "totalRunes": 35
+  },
+  {
+    "level": 244,
+    "runesToNext": 502,
+    "costIncrease": 5,
+    "totalRunes": 35
+  },
+  {
+    "level": 245,
+    "runesToNext": 508,
+    "costIncrease": 5,
+    "totalRunes": 36
+  },
+  {
+    "level": 246,
+    "runesToNext": 513,
+    "costIncrease": 5,
+    "totalRunes": 36
+  },
+  {
+    "level": 247,
+    "runesToNext": 518,
+    "costIncrease": 5,
+    "totalRunes": 37
+  },
+  {
+    "level": 248,
+    "runesToNext": 523,
+    "costIncrease": 5,
+    "totalRunes": 37
+  },
+  {
+    "level": 249,
+    "runesToNext": 529,
+    "costIncrease": 5,
+    "totalRunes": 38
+  },
+  {
+    "level": 250,
+    "runesToNext": 534,
+    "costIncrease": 5,
+    "totalRunes": 38
+  },
+  {
+    "level": 251,
+    "runesToNext": 540,
+    "costIncrease": 5,
+    "totalRunes": 39
+  },
+  {
+    "level": 252,
+    "runesToNext": 545,
+    "costIncrease": 5,
+    "totalRunes": 39
+  },
+  {
+    "level": 253,
+    "runesToNext": 551,
+    "costIncrease": 5,
+    "totalRunes": 40
+  },
+  {
+    "level": 254,
+    "runesToNext": 556,
+    "costIncrease": 5,
+    "totalRunes": 40
+  },
+  {
+    "level": 255,
+    "runesToNext": 562,
+    "costIncrease": 5,
+    "totalRunes": 41
+  },
+  {
+    "level": 256,
+    "runesToNext": 567,
+    "costIncrease": 5,
+    "totalRunes": 42
+  },
+  {
+    "level": 257,
+    "runesToNext": 573,
+    "costIncrease": 5,
+    "totalRunes": 42
+  },
+  {
+    "level": 258,
+    "runesToNext": 579,
+    "costIncrease": 5,
+    "totalRunes": 43
+  },
+  {
+    "level": 259,
+    "runesToNext": 584,
+    "costIncrease": 5,
+    "totalRunes": 43
+  },
+  {
+    "level": 260,
+    "runesToNext": 590,
+    "costIncrease": 5,
+    "totalRunes": 44
+  },
+  {
+    "level": 261,
+    "runesToNext": 596,
+    "costIncrease": 5,
+    "totalRunes": 45
+  },
+  {
+    "level": 262,
+    "runesToNext": 602,
+    "costIncrease": 5,
+    "totalRunes": 45
+  },
+  {
+    "level": 263,
+    "runesToNext": 608,
+    "costIncrease": 5,
+    "totalRunes": 46
+  },
+  {
+    "level": 264,
+    "runesToNext": 614,
+    "costIncrease": 5,
+    "totalRunes": 46
+  },
+  {
+    "level": 265,
+    "runesToNext": 620,
+    "costIncrease": 5,
+    "totalRunes": 47
+  },
+  {
+    "level": 266,
+    "runesToNext": 626,
+    "costIncrease": 5,
+    "totalRunes": 48
+  },
+  {
+    "level": 267,
+    "runesToNext": 632,
+    "costIncrease": 6,
+    "totalRunes": 48
+  },
+  {
+    "level": 268,
+    "runesToNext": 638,
+    "costIncrease": 6,
+    "totalRunes": 49
+  },
+  {
+    "level": 269,
+    "runesToNext": 644,
+    "costIncrease": 6,
+    "totalRunes": 49
+  },
+  {
+    "level": 270,
+    "runesToNext": 650,
+    "costIncrease": 6,
+    "totalRunes": 50
+  },
+  {
+    "level": 271,
+    "runesToNext": 656,
+    "costIncrease": 6,
+    "totalRunes": 51
+  },
+  {
+    "level": 272,
+    "runesToNext": 662,
+    "costIncrease": 6,
+    "totalRunes": 51
+  },
+  {
+    "level": 273,
+    "runesToNext": 669,
+    "costIncrease": 6,
+    "totalRunes": 52
+  },
+  {
+    "level": 274,
+    "runesToNext": 675,
+    "costIncrease": 6,
+    "totalRunes": 53
+  },
+  {
+    "level": 275,
+    "runesToNext": 681,
+    "costIncrease": 6,
+    "totalRunes": 53
+  },
+  {
+    "level": 276,
+    "runesToNext": 688,
+    "costIncrease": 6,
+    "totalRunes": 54
+  },
+  {
+    "level": 277,
+    "runesToNext": 694,
+    "costIncrease": 6,
+    "totalRunes": 55
+  },
+  {
+    "level": 278,
+    "runesToNext": 701,
+    "costIncrease": 6,
+    "totalRunes": 55
+  },
+  {
+    "level": 279,
+    "runesToNext": 707,
+    "costIncrease": 6,
+    "totalRunes": 56
+  },
+  {
+    "level": 280,
+    "runesToNext": 714,
+    "costIncrease": 6,
+    "totalRunes": 57
+  },
+  {
+    "level": 281,
+    "runesToNext": 720,
+    "costIncrease": 6,
+    "totalRunes": 58
+  },
+  {
+    "level": 282,
+    "runesToNext": 727,
+    "costIncrease": 6,
+    "totalRunes": 58
+  },
+  {
+    "level": 283,
+    "runesToNext": 734,
+    "costIncrease": 6,
+    "totalRunes": 59
+  },
+  {
+    "level": 284,
+    "runesToNext": 740,
+    "costIncrease": 6,
+    "totalRunes": 60
+  },
+  {
+    "level": 285,
+    "runesToNext": 747,
+    "costIncrease": 6,
+    "totalRunes": 61
+  },
+  {
+    "level": 286,
+    "runesToNext": 754,
+    "costIncrease": 6,
+    "totalRunes": 61
+  },
+  {
+    "level": 287,
+    "runesToNext": 761,
+    "costIncrease": 6,
+    "totalRunes": 62
+  },
+  {
+    "level": 288,
+    "runesToNext": 767,
+    "costIncrease": 6,
+    "totalRunes": 63
+  },
+  {
+    "level": 289,
+    "runesToNext": 774,
+    "costIncrease": 6,
+    "totalRunes": 64
+  },
+  {
+    "level": 290,
+    "runesToNext": 781,
+    "costIncrease": 6,
+    "totalRunes": 64
+  },
+  {
+    "level": 291,
+    "runesToNext": 788,
+    "costIncrease": 6,
+    "totalRunes": 65
+  },
+  {
+    "level": 292,
+    "runesToNext": 795,
+    "costIncrease": 7,
+    "totalRunes": 66
+  },
+  {
+    "level": 293,
+    "runesToNext": 802,
+    "costIncrease": 7,
+    "totalRunes": 67
+  },
+  {
+    "level": 294,
+    "runesToNext": 810,
+    "costIncrease": 7,
+    "totalRunes": 67
+  },
+  {
+    "level": 295,
+    "runesToNext": 817,
+    "costIncrease": 7,
+    "totalRunes": 68
+  },
+  {
+    "level": 296,
+    "runesToNext": 824,
+    "costIncrease": 7,
+    "totalRunes": 69
+  },
+  {
+    "level": 297,
+    "runesToNext": 831,
+    "costIncrease": 7,
+    "totalRunes": 70
+  },
+  {
+    "level": 298,
+    "runesToNext": 838,
+    "costIncrease": 7,
+    "totalRunes": 71
+  },
+  {
+    "level": 299,
+    "runesToNext": 846,
+    "costIncrease": 7,
+    "totalRunes": 72
+  },
+  {
+    "level": 300,
+    "runesToNext": 853,
+    "costIncrease": 7,
+    "totalRunes": 72
+  },
+  {
+    "level": 301,
+    "runesToNext": 860,
+    "costIncrease": 7,
+    "totalRunes": 73
+  },
+  {
+    "level": 302,
+    "runesToNext": 868,
+    "costIncrease": 7,
+    "totalRunes": 74
+  },
+  {
+    "level": 303,
+    "runesToNext": 875,
+    "costIncrease": 7,
+    "totalRunes": 75
+  },
+  {
+    "level": 304,
+    "runesToNext": 883,
+    "costIncrease": 7,
+    "totalRunes": 76
+  },
+  {
+    "level": 305,
+    "runesToNext": 890,
+    "costIncrease": 7,
+    "totalRunes": 77
+  },
+  {
+    "level": 306,
+    "runesToNext": 898,
+    "costIncrease": 7,
+    "totalRunes": 78
+  },
+  {
+    "level": 307,
+    "runesToNext": 906,
+    "costIncrease": 7,
+    "totalRunes": 79
+  },
+  {
+    "level": 308,
+    "runesToNext": 913,
+    "costIncrease": 7,
+    "totalRunes": 79
+  },
+  {
+    "level": 309,
+    "runesToNext": 921,
+    "costIncrease": 7,
+    "totalRunes": 80
+  },
+  {
+    "level": 310,
+    "runesToNext": 929,
+    "costIncrease": 7,
+    "totalRunes": 81
+  },
+  {
+    "level": 311,
+    "runesToNext": 937,
+    "costIncrease": 7,
+    "totalRunes": 82
+  },
+  {
+    "level": 312,
+    "runesToNext": 945,
+    "costIncrease": 7,
+    "totalRunes": 83
+  },
+  {
+    "level": 313,
+    "runesToNext": 953,
+    "costIncrease": 7,
+    "totalRunes": 84
+  },
+  {
+    "level": 314,
+    "runesToNext": 961,
+    "costIncrease": 7,
+    "totalRunes": 85
+  },
+  {
+    "level": 315,
+    "runesToNext": 969,
+    "costIncrease": 8,
+    "totalRunes": 86
+  },
+  {
+    "level": 316,
+    "runesToNext": 977,
+    "costIncrease": 8,
+    "totalRunes": 87
+  },
+  {
+    "level": 317,
+    "runesToNext": 985,
+    "costIncrease": 8,
+    "totalRunes": 88
+  },
+  {
+    "level": 318,
+    "runesToNext": 993,
+    "costIncrease": 8,
+    "totalRunes": 89
+  },
+  {
+    "level": 319,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 90
+  },
+  {
+    "level": 320,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 91
+  },
+  {
+    "level": 321,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 92
+  },
+  {
+    "level": 322,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 93
+  },
+  {
+    "level": 323,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 94
+  },
+  {
+    "level": 324,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 95
+  },
+  {
+    "level": 325,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 96
+  },
+  {
+    "level": 326,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 97
+  },
+  {
+    "level": 327,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 98
+  },
+  {
+    "level": 328,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 99
+  },
+  {
+    "level": 329,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 100
+  },
+  {
+    "level": 330,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 101
+  },
+  {
+    "level": 331,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 103
+  },
+  {
+    "level": 332,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 104
+  },
+  {
+    "level": 333,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 105
+  },
+  {
+    "level": 334,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 106
+  },
+  {
+    "level": 335,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 107
+  },
+  {
+    "level": 336,
+    "runesToNext": 1,
+    "costIncrease": 8,
+    "totalRunes": 108
+  },
+  {
+    "level": 337,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 109
+  },
+  {
+    "level": 338,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 110
+  },
+  {
+    "level": 339,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 112
+  },
+  {
+    "level": 340,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 113
+  },
+  {
+    "level": 341,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 114
+  },
+  {
+    "level": 342,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 115
+  },
+  {
+    "level": 343,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 116
+  },
+  {
+    "level": 344,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 118
+  },
+  {
+    "level": 345,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 119
+  },
+  {
+    "level": 346,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 120
+  },
+  {
+    "level": 347,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 121
+  },
+  {
+    "level": 348,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 123
+  },
+  {
+    "level": 349,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 124
+  },
+  {
+    "level": 350,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 125
+  },
+  {
+    "level": 351,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 126
+  },
+  {
+    "level": 352,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 128
+  },
+  {
+    "level": 353,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 129
+  },
+  {
+    "level": 354,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 130
+  },
+  {
+    "level": 355,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 132
+  },
+  {
+    "level": 356,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 133
+  },
+  {
+    "level": 357,
+    "runesToNext": 1,
+    "costIncrease": 9,
+    "totalRunes": 134
+  },
+  {
+    "level": 358,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 136
+  },
+  {
+    "level": 359,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 137
+  },
+  {
+    "level": 360,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 138
+  },
+  {
+    "level": 361,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 140
+  },
+  {
+    "level": 362,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 141
+  },
+  {
+    "level": 363,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 142
+  },
+  {
+    "level": 364,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 144
+  },
+  {
+    "level": 365,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 145
+  },
+  {
+    "level": 366,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 147
+  },
+  {
+    "level": 367,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 148
+  },
+  {
+    "level": 368,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 150
+  },
+  {
+    "level": 369,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 151
+  },
+  {
+    "level": 370,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 153
+  },
+  {
+    "level": 371,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 154
+  },
+  {
+    "level": 372,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 155
+  },
+  {
+    "level": 373,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 157
+  },
+  {
+    "level": 374,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 159
+  },
+  {
+    "level": 375,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 160
+  },
+  {
+    "level": 376,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 162
+  },
+  {
+    "level": 377,
+    "runesToNext": 1,
+    "costIncrease": 10,
+    "totalRunes": 163
+  },
+  {
+    "level": 378,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 165
+  },
+  {
+    "level": 379,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 166
+  },
+  {
+    "level": 380,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 168
+  },
+  {
+    "level": 381,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 169
+  },
+  {
+    "level": 382,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 171
+  },
+  {
+    "level": 383,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 173
+  },
+  {
+    "level": 384,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 174
+  },
+  {
+    "level": 385,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 176
+  },
+  {
+    "level": 386,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 178
+  },
+  {
+    "level": 387,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 179
+  },
+  {
+    "level": 388,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 181
+  },
+  {
+    "level": 389,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 183
+  },
+  {
+    "level": 390,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 184
+  },
+  {
+    "level": 391,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 186
+  },
+  {
+    "level": 392,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 188
+  },
+  {
+    "level": 393,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 189
+  },
+  {
+    "level": 394,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 191
+  },
+  {
+    "level": 395,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 193
+  },
+  {
+    "level": 396,
+    "runesToNext": 1,
+    "costIncrease": 11,
+    "totalRunes": 195
+  },
+  {
+    "level": 397,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 196
+  },
+  {
+    "level": 398,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 198
+  },
+  {
+    "level": 399,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 200
+  },
+  {
+    "level": 400,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 202
+  },
+  {
+    "level": 401,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 204
+  },
+  {
+    "level": 402,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 205
+  },
+  {
+    "level": 403,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 207
+  },
+  {
+    "level": 404,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 209
+  },
+  {
+    "level": 405,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 211
+  },
+  {
+    "level": 406,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 213
+  },
+  {
+    "level": 407,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 215
+  },
+  {
+    "level": 408,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 217
+  },
+  {
+    "level": 409,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 219
+  },
+  {
+    "level": 410,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 221
+  },
+  {
+    "level": 411,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 223
+  },
+  {
+    "level": 412,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 224
+  },
+  {
+    "level": 413,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 226
+  },
+  {
+    "level": 414,
+    "runesToNext": 1,
+    "costIncrease": 12,
+    "totalRunes": 228
+  },
+  {
+    "level": 415,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 230
+  },
+  {
+    "level": 416,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 232
+  },
+  {
+    "level": 417,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 234
+  },
+  {
+    "level": 418,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 237
+  },
+  {
+    "level": 419,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 239
+  },
+  {
+    "level": 420,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 241
+  },
+  {
+    "level": 421,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 243
+  },
+  {
+    "level": 422,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 245
+  },
+  {
+    "level": 423,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 247
+  },
+  {
+    "level": 424,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 249
+  },
+  {
+    "level": 425,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 251
+  },
+  {
+    "level": 426,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 253
+  },
+  {
+    "level": 427,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 255
+  },
+  {
+    "level": 428,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 258
+  },
+  {
+    "level": 429,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 260
+  },
+  {
+    "level": 430,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 262
+  },
+  {
+    "level": 431,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 264
+  },
+  {
+    "level": 432,
+    "runesToNext": 2,
+    "costIncrease": 13,
+    "totalRunes": 266
+  },
+  {
+    "level": 433,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 269
+  },
+  {
+    "level": 434,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 271
+  },
+  {
+    "level": 435,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 273
+  },
+  {
+    "level": 436,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 276
+  },
+  {
+    "level": 437,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 278
+  },
+  {
+    "level": 438,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 280
+  },
+  {
+    "level": 439,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 282
+  },
+  {
+    "level": 440,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 285
+  },
+  {
+    "level": 441,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 287
+  },
+  {
+    "level": 442,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 290
+  },
+  {
+    "level": 443,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 292
+  },
+  {
+    "level": 444,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 294
+  },
+  {
+    "level": 445,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 297
+  },
+  {
+    "level": 446,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 299
+  },
+  {
+    "level": 447,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 302
+  },
+  {
+    "level": 448,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 304
+  },
+  {
+    "level": 449,
+    "runesToNext": 2,
+    "costIncrease": 14,
+    "totalRunes": 307
+  },
+  {
+    "level": 450,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 309
+  },
+  {
+    "level": 451,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 312
+  },
+  {
+    "level": 452,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 314
+  },
+  {
+    "level": 453,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 317
+  },
+  {
+    "level": 454,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 319
+  },
+  {
+    "level": 455,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 322
+  },
+  {
+    "level": 456,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 324
+  },
+  {
+    "level": 457,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 327
+  },
+  {
+    "level": 458,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 329
+  },
+  {
+    "level": 459,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 332
+  },
+  {
+    "level": 460,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 335
+  },
+  {
+    "level": 461,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 337
+  },
+  {
+    "level": 462,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 340
+  },
+  {
+    "level": 463,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 343
+  },
+  {
+    "level": 464,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 345
+  },
+  {
+    "level": 465,
+    "runesToNext": 2,
+    "costIncrease": 15,
+    "totalRunes": 348
+  },
+  {
+    "level": 466,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 351
+  },
+  {
+    "level": 467,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 354
+  },
+  {
+    "level": 468,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 356
+  },
+  {
+    "level": 469,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 359
+  },
+  {
+    "level": 470,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 362
+  },
+  {
+    "level": 471,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 365
+  },
+  {
+    "level": 472,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 368
+  },
+  {
+    "level": 473,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 371
+  },
+  {
+    "level": 474,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 373
+  },
+  {
+    "level": 475,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 376
+  },
+  {
+    "level": 476,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 379
+  },
+  {
+    "level": 477,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 382
+  },
+  {
+    "level": 478,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 385
+  },
+  {
+    "level": 479,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 388
+  },
+  {
+    "level": 480,
+    "runesToNext": 2,
+    "costIncrease": 16,
+    "totalRunes": 391
+  },
+  {
+    "level": 481,
+    "runesToNext": 3,
+    "costIncrease": 16,
+    "totalRunes": 394
+  },
+  {
+    "level": 482,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 397
+  },
+  {
+    "level": 483,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 400
+  },
+  {
+    "level": 484,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 403
+  },
+  {
+    "level": 485,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 406
+  },
+  {
+    "level": 486,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 409
+  },
+  {
+    "level": 487,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 412
+  },
+  {
+    "level": 488,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 415
+  },
+  {
+    "level": 489,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 418
+  },
+  {
+    "level": 490,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 422
+  },
+  {
+    "level": 491,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 425
+  },
+  {
+    "level": 492,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 428
+  },
+  {
+    "level": 493,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 431
+  },
+  {
+    "level": 494,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 434
+  },
+  {
+    "level": 495,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 438
+  },
+  {
+    "level": 496,
+    "runesToNext": 3,
+    "costIncrease": 17,
+    "totalRunes": 441
+  },
+  {
+    "level": 497,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 444
+  },
+  {
+    "level": 498,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 447
+  },
+  {
+    "level": 499,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 451
+  },
+  {
+    "level": 500,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 454
+  },
+  {
+    "level": 501,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 457
+  },
+  {
+    "level": 502,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 461
+  },
+  {
+    "level": 503,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 464
+  },
+  {
+    "level": 504,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 467
+  },
+  {
+    "level": 505,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 471
+  },
+  {
+    "level": 506,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 474
+  },
+  {
+    "level": 507,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 478
+  },
+  {
+    "level": 508,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 481
+  },
+  {
+    "level": 509,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 485
+  },
+  {
+    "level": 510,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 488
+  },
+  {
+    "level": 511,
+    "runesToNext": 3,
+    "costIncrease": 18,
+    "totalRunes": 492
+  },
+  {
+    "level": 512,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 495
+  },
+  {
+    "level": 513,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 499
+  },
+  {
+    "level": 514,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 502
+  },
+  {
+    "level": 515,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 506
+  },
+  {
+    "level": 516,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 510
+  },
+  {
+    "level": 517,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 513
+  },
+  {
+    "level": 518,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 517
+  },
+  {
+    "level": 519,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 520
+  },
+  {
+    "level": 520,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 524
+  },
+  {
+    "level": 521,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 528
+  },
+  {
+    "level": 522,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 532
+  },
+  {
+    "level": 523,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 535
+  },
+  {
+    "level": 524,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 539
+  },
+  {
+    "level": 525,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 543
+  },
+  {
+    "level": 526,
+    "runesToNext": 3,
+    "costIncrease": 19,
+    "totalRunes": 547
+  },
+  {
+    "level": 527,
+    "runesToNext": 3,
+    "costIncrease": 20,
+    "totalRunes": 551
+  },
+  {
+    "level": 528,
+    "runesToNext": 3,
+    "costIncrease": 20,
+    "totalRunes": 554
+  },
+  {
+    "level": 529,
+    "runesToNext": 3,
+    "costIncrease": 20,
+    "totalRunes": 558
+  },
+  {
+    "level": 530,
+    "runesToNext": 3,
+    "costIncrease": 20,
+    "totalRunes": 562
+  },
+  {
+    "level": 531,
+    "runesToNext": 3,
+    "costIncrease": 20,
+    "totalRunes": 566
+  },
+  {
+    "level": 532,
+    "runesToNext": 3,
+    "costIncrease": 20,
+    "totalRunes": 570
+  },
+  {
+    "level": 533,
+    "runesToNext": 3,
+    "costIncrease": 20,
+    "totalRunes": 574
+  },
+  {
+    "level": 534,
+    "runesToNext": 3,
+    "costIncrease": 20,
+    "totalRunes": 578
+  },
+  {
+    "level": 535,
+    "runesToNext": 4,
+    "costIncrease": 20,
+    "totalRunes": 582
+  },
+  {
+    "level": 536,
+    "runesToNext": 4,
+    "costIncrease": 20,
+    "totalRunes": 586
+  },
+  {
+    "level": 537,
+    "runesToNext": 4,
+    "costIncrease": 20,
+    "totalRunes": 590
+  },
+  {
+    "level": 538,
+    "runesToNext": 4,
+    "costIncrease": 20,
+    "totalRunes": 594
+  },
+  {
+    "level": 539,
+    "runesToNext": 4,
+    "costIncrease": 20,
+    "totalRunes": 598
+  },
+  {
+    "level": 540,
+    "runesToNext": 4,
+    "costIncrease": 20,
+    "totalRunes": 602
+  },
+  {
+    "level": 541,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 606
+  },
+  {
+    "level": 542,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 610
+  },
+  {
+    "level": 543,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 615
+  },
+  {
+    "level": 544,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 619
+  },
+  {
+    "level": 545,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 623
+  },
+  {
+    "level": 546,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 627
+  },
+  {
+    "level": 547,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 632
+  },
+  {
+    "level": 548,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 636
+  },
+  {
+    "level": 549,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 640
+  },
+  {
+    "level": 550,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 644
+  },
+  {
+    "level": 551,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 649
+  },
+  {
+    "level": 552,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 653
+  },
+  {
+    "level": 553,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 657
+  },
+  {
+    "level": 554,
+    "runesToNext": 4,
+    "costIncrease": 21,
+    "totalRunes": 662
+  },
+  {
+    "level": 555,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 666
+  },
+  {
+    "level": 556,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 671
+  },
+  {
+    "level": 557,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 675
+  },
+  {
+    "level": 558,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 680
+  },
+  {
+    "level": 559,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 684
+  },
+  {
+    "level": 560,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 689
+  },
+  {
+    "level": 561,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 693
+  },
+  {
+    "level": 562,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 698
+  },
+  {
+    "level": 563,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 702
+  },
+  {
+    "level": 564,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 707
+  },
+  {
+    "level": 565,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 712
+  },
+  {
+    "level": 566,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 716
+  },
+  {
+    "level": 567,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 721
+  },
+  {
+    "level": 568,
+    "runesToNext": 4,
+    "costIncrease": 22,
+    "totalRunes": 726
+  },
+  {
+    "level": 569,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 730
+  },
+  {
+    "level": 570,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 735
+  },
+  {
+    "level": 571,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 740
+  },
+  {
+    "level": 572,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 745
+  },
+  {
+    "level": 573,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 750
+  },
+  {
+    "level": 574,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 754
+  },
+  {
+    "level": 575,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 759
+  },
+  {
+    "level": 576,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 764
+  },
+  {
+    "level": 577,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 769
+  },
+  {
+    "level": 578,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 774
+  },
+  {
+    "level": 579,
+    "runesToNext": 4,
+    "costIncrease": 23,
+    "totalRunes": 779
+  },
+  {
+    "level": 580,
+    "runesToNext": 5,
+    "costIncrease": 23,
+    "totalRunes": 784
+  },
+  {
+    "level": 581,
+    "runesToNext": 5,
+    "costIncrease": 23,
+    "totalRunes": 789
+  },
+  {
+    "level": 582,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 794
+  },
+  {
+    "level": 583,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 799
+  },
+  {
+    "level": 584,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 804
+  },
+  {
+    "level": 585,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 809
+  },
+  {
+    "level": 586,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 815
+  },
+  {
+    "level": 587,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 820
+  },
+  {
+    "level": 588,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 825
+  },
+  {
+    "level": 589,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 830
+  },
+  {
+    "level": 590,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 835
+  },
+  {
+    "level": 591,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 841
+  },
+  {
+    "level": 592,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 846
+  },
+  {
+    "level": 593,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 851
+  },
+  {
+    "level": 594,
+    "runesToNext": 5,
+    "costIncrease": 24,
+    "totalRunes": 857
+  },
+  {
+    "level": 595,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 862
+  },
+  {
+    "level": 596,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 867
+  },
+  {
+    "level": 597,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 873
+  },
+  {
+    "level": 598,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 878
+  },
+  {
+    "level": 599,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 884
+  },
+  {
+    "level": 600,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 889
+  },
+  {
+    "level": 601,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 895
+  },
+  {
+    "level": 602,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 900
+  },
+  {
+    "level": 603,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 906
+  },
+  {
+    "level": 604,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 911
+  },
+  {
+    "level": 605,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 917
+  },
+  {
+    "level": 606,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 922
+  },
+  {
+    "level": 607,
+    "runesToNext": 5,
+    "costIncrease": 25,
+    "totalRunes": 928
+  },
+  {
+    "level": 608,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 934
+  },
+  {
+    "level": 609,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 940
+  },
+  {
+    "level": 610,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 945
+  },
+  {
+    "level": 611,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 951
+  },
+  {
+    "level": 612,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 957
+  },
+  {
+    "level": 613,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 963
+  },
+  {
+    "level": 614,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 969
+  },
+  {
+    "level": 615,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 974
+  },
+  {
+    "level": 616,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 980
+  },
+  {
+    "level": 617,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 986
+  },
+  {
+    "level": 618,
+    "runesToNext": 5,
+    "costIncrease": 26,
+    "totalRunes": 992
+  },
+  {
+    "level": 619,
+    "runesToNext": 6,
+    "costIncrease": 26,
+    "totalRunes": 998
+  },
+  {
+    "level": 620,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 621,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 622,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 623,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 624,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 625,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 626,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 627,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 628,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 629,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 630,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 631,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 632,
+    "runesToNext": 6,
+    "costIncrease": 27,
+    "totalRunes": 1
+  },
+  {
+    "level": 633,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 634,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 635,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 636,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 637,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 638,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 639,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 640,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 641,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 642,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 643,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 644,
+    "runesToNext": 6,
+    "costIncrease": 28,
+    "totalRunes": 1
+  },
+  {
+    "level": 645,
+    "runesToNext": 6,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 646,
+    "runesToNext": 6,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 647,
+    "runesToNext": 6,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 648,
+    "runesToNext": 6,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 649,
+    "runesToNext": 6,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 650,
+    "runesToNext": 6,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 651,
+    "runesToNext": 6,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 652,
+    "runesToNext": 6,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 653,
+    "runesToNext": 6,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 654,
+    "runesToNext": 7,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 655,
+    "runesToNext": 7,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 656,
+    "runesToNext": 7,
+    "costIncrease": 29,
+    "totalRunes": 1
+  },
+  {
+    "level": 657,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 658,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 659,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 660,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 661,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 662,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 663,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 664,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 665,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 666,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 667,
+    "runesToNext": 7,
+    "costIncrease": 30,
+    "totalRunes": 1
+  },
+  {
+    "level": 668,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 669,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 670,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 671,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 672,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 673,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 674,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 675,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 676,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 677,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 678,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 679,
+    "runesToNext": 7,
+    "costIncrease": 31,
+    "totalRunes": 1
+  },
+  {
+    "level": 680,
+    "runesToNext": 7,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 681,
+    "runesToNext": 7,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 682,
+    "runesToNext": 7,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 683,
+    "runesToNext": 7,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 684,
+    "runesToNext": 7,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 685,
+    "runesToNext": 7,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 686,
+    "runesToNext": 8,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 687,
+    "runesToNext": 8,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 688,
+    "runesToNext": 8,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 689,
+    "runesToNext": 8,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 690,
+    "runesToNext": 8,
+    "costIncrease": 32,
+    "totalRunes": 1
+  },
+  {
+    "level": 691,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 692,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 693,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 694,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 695,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 696,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 697,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 698,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 699,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 700,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 701,
+    "runesToNext": 8,
+    "costIncrease": 33,
+    "totalRunes": 1
+  },
+  {
+    "level": 702,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 703,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 704,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 705,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 706,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 707,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 708,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 709,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 710,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 711,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 712,
+    "runesToNext": 8,
+    "costIncrease": 34,
+    "totalRunes": 1
+  },
+  {
+    "level": 713,
+    "runesToNext": 8,
+    "costIncrease": 0,
+    "totalRunes": 1
+  }
+]
