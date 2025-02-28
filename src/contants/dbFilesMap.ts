@@ -12,6 +12,7 @@ import { greatRunesEffectsFormatter } from "@/formatters/greatRunesEffects";
 import { spellDamagesFormatter } from "@/formatters/spellDamages";
 import { weaponsAffinitiesFormatter } from "@/formatters/weaponsAffinities";
 import { armorsFormatter } from "@/formatters/armors";
+import { magicFormatter } from "@/formatters/magic";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -110,12 +111,20 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   //   formatter: spellDamagesFormatter,
   // },
   /**
-   * https://docs.google.com/spreadsheets/d/1ybiI1WgyRs67kGklUXeroi58KDab2KsU_hKutBORiW0/edit?gid=1699546889#gid=1699546889
+   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1685478111#gid=1685478111
+   */
+  // {
+  //   csv: "Elden Ring Item Data Sheet (1.09) - Armor.csv",
+  //   json: "armors.json",
+  //   formatter: armorsFormatter,
+  // },
+  /**
+   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=611749740#gid=611749740
    */
   {
-    csv: "Elden Ring Item Data Sheet (1.09) - Armor.csv",
-    json: "armors.json",
-    formatter: armorsFormatter,
+    csv: "Elden Ring Item Data Sheet (1.09) - Magic.csv",
+    json: "magic.json",
+    formatter: magicFormatter,
   },
 ];
 

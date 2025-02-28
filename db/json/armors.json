@@ -32,7 +32,7 @@
       "poise": 2
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -70,7 +70,7 @@
       "poise": 1
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": true,
     "obtainable": true
@@ -108,7 +108,7 @@
       "poise": 2
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -146,7 +146,7 @@
       "poise": 4
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -184,7 +184,7 @@
       "poise": 3
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -222,7 +222,7 @@
       "poise": 2
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -260,7 +260,7 @@
       "poise": 2
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -298,7 +298,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -336,7 +336,7 @@
       "poise": 2
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -374,7 +374,7 @@
       "poise": 1
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -412,7 +412,7 @@
       "poise": 2
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -450,7 +450,7 @@
       "poise": 2
     },
     "sellPrice": 10,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -488,7 +488,7 @@
       "poise": 12
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -526,7 +526,7 @@
       "poise": 9
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -564,7 +564,7 @@
       "poise": 3
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -602,7 +602,7 @@
       "poise": 4
     },
     "sellPrice": 10,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -640,7 +640,7 @@
       "poise": 2
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -678,7 +678,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -716,7 +716,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -754,7 +754,7 @@
       "poise": 2
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -792,7 +792,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -830,7 +830,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -868,7 +868,7 @@
       "poise": 6
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -906,7 +906,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -944,7 +944,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -982,7 +982,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1020,7 +1020,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1058,7 +1058,7 @@
       "poise": 2
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1096,7 +1096,7 @@
       "poise": 2
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -1134,7 +1134,7 @@
       "poise": 1
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -1172,7 +1172,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1210,7 +1210,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1248,7 +1248,7 @@
       "poise": 4
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1286,7 +1286,7 @@
       "poise": 4
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1324,7 +1324,7 @@
       "poise": 3
     },
     "sellPrice": 2000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1362,7 +1362,7 @@
       "poise": 3
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1400,7 +1400,7 @@
       "poise": 2
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1438,7 +1438,7 @@
       "poise": 1
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1476,7 +1476,7 @@
       "poise": 3
     },
     "sellPrice": 10,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1514,7 +1514,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1552,7 +1552,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1590,7 +1590,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1628,7 +1628,7 @@
       "poise": 3
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1666,7 +1666,7 @@
       "poise": 3
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1704,7 +1704,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1742,7 +1742,7 @@
       "poise": 3
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1780,7 +1780,7 @@
       "poise": 3
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1818,7 +1818,7 @@
       "poise": 5
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1856,7 +1856,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1894,7 +1894,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1932,7 +1932,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -1970,7 +1970,7 @@
       "poise": 3
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2008,7 +2008,7 @@
       "poise": 3
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2046,7 +2046,7 @@
       "poise": 2
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2084,7 +2084,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2122,7 +2122,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2160,7 +2160,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2198,7 +2198,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2236,7 +2236,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2274,7 +2274,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2312,7 +2312,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2350,7 +2350,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2388,7 +2388,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2426,7 +2426,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2464,7 +2464,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2502,7 +2502,7 @@
       "poise": 6
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2540,7 +2540,7 @@
       "poise": 7
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2578,7 +2578,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2616,7 +2616,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2654,7 +2654,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2692,7 +2692,7 @@
       "poise": 10
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2730,7 +2730,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2768,7 +2768,7 @@
       "poise": 9
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2806,7 +2806,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2844,7 +2844,7 @@
       "poise": 3
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2882,7 +2882,7 @@
       "poise": 3
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2920,7 +2920,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2958,7 +2958,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -2996,7 +2996,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3034,7 +3034,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3072,7 +3072,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -3110,7 +3110,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -3148,7 +3148,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3186,7 +3186,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3224,7 +3224,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3262,7 +3262,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3300,7 +3300,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3338,7 +3338,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3376,7 +3376,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3414,7 +3414,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3452,7 +3452,7 @@
       "poise": 6
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3490,7 +3490,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3528,7 +3528,7 @@
       "poise": 9
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3566,7 +3566,7 @@
       "poise": 4
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -3604,7 +3604,7 @@
       "poise": 3
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -3642,7 +3642,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -3680,7 +3680,7 @@
       "poise": 2
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -3718,7 +3718,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3756,7 +3756,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3794,7 +3794,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3832,7 +3832,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3870,7 +3870,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3908,7 +3908,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3946,7 +3946,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -3984,7 +3984,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4022,7 +4022,7 @@
       "poise": 6
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4060,7 +4060,7 @@
       "poise": 6
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4098,7 +4098,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4136,7 +4136,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4174,7 +4174,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4212,7 +4212,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4250,7 +4250,7 @@
       "poise": 6
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -4288,7 +4288,7 @@
       "poise": 6
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -4326,7 +4326,7 @@
       "poise": 6
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4364,7 +4364,7 @@
       "poise": 6
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4402,7 +4402,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4440,7 +4440,7 @@
       "poise": 6
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4478,7 +4478,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4516,7 +4516,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4554,7 +4554,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4592,7 +4592,7 @@
       "poise": 6
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4630,7 +4630,7 @@
       "poise": 5
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4668,7 +4668,7 @@
       "poise": 8
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4706,7 +4706,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4744,7 +4744,7 @@
       "poise": 9
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4782,7 +4782,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4820,7 +4820,7 @@
       "poise": 8
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4858,7 +4858,7 @@
       "poise": 8
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4896,7 +4896,7 @@
       "poise": 8
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4934,7 +4934,7 @@
       "poise": 8
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -4972,7 +4972,7 @@
       "poise": 8
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5010,7 +5010,7 @@
       "poise": 7
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5048,7 +5048,7 @@
       "poise": 6
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5086,7 +5086,7 @@
       "poise": 9
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -5124,7 +5124,7 @@
       "poise": 7
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -5162,7 +5162,7 @@
       "poise": 7
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5200,7 +5200,7 @@
       "poise": 8
     },
     "sellPrice": 3000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5238,7 +5238,7 @@
       "poise": 7
     },
     "sellPrice": 3000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5276,7 +5276,7 @@
       "poise": 7
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5314,7 +5314,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -5352,7 +5352,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -5390,7 +5390,7 @@
       "poise": 9
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5428,7 +5428,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5466,7 +5466,7 @@
       "poise": 7
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5504,7 +5504,7 @@
       "poise": 7
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5542,7 +5542,7 @@
       "poise": 9
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5580,7 +5580,7 @@
       "poise": 8
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5618,7 +5618,7 @@
       "poise": 11
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5656,7 +5656,7 @@
       "poise": 11
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": true,
     "obtainable": true
@@ -5694,7 +5694,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -5732,7 +5732,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -5770,7 +5770,7 @@
       "poise": 12
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5808,7 +5808,7 @@
       "poise": 11
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5846,7 +5846,7 @@
       "poise": 11
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5884,7 +5884,7 @@
       "poise": 12
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5922,7 +5922,7 @@
       "poise": 10
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5960,7 +5960,7 @@
       "poise": 11
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -5998,7 +5998,7 @@
       "poise": 11
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6036,7 +6036,7 @@
       "poise": 11
     },
     "sellPrice": 2000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6074,7 +6074,7 @@
       "poise": 13
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6112,7 +6112,7 @@
       "poise": 15
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6150,7 +6150,7 @@
       "poise": 14
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6188,7 +6188,7 @@
       "poise": 14
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6226,7 +6226,7 @@
       "poise": 11
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6264,7 +6264,7 @@
       "poise": 5
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6302,7 +6302,7 @@
       "poise": 8
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6340,7 +6340,7 @@
       "poise": 8
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -6378,7 +6378,7 @@
       "poise": 7
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -6416,7 +6416,7 @@
       "poise": 8
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -6454,7 +6454,7 @@
       "poise": 7
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -6492,7 +6492,7 @@
       "poise": 12
     },
     "sellPrice": 10,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6530,7 +6530,7 @@
       "poise": 10
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": true,
     "obtainable": true
@@ -6568,7 +6568,7 @@
       "poise": 13
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6606,7 +6606,7 @@
       "poise": 10
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6644,7 +6644,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -6682,7 +6682,7 @@
       "poise": 8
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -6720,7 +6720,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -6758,7 +6758,7 @@
       "poise": 8
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -6796,7 +6796,7 @@
       "poise": 15
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6834,7 +6834,7 @@
       "poise": 15
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6872,7 +6872,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6910,7 +6910,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": true,
     "obtainable": true
@@ -6948,7 +6948,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -6986,7 +6986,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -7024,7 +7024,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -7062,7 +7062,7 @@
       "poise": 12
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -7100,7 +7100,7 @@
       "poise": 10
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -7138,7 +7138,7 @@
       "poise": 7
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -7176,7 +7176,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -7214,7 +7214,7 @@
       "poise": 8
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -7252,7 +7252,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -7290,7 +7290,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -7328,7 +7328,7 @@
       "poise": 7
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -7366,7 +7366,7 @@
       "poise": 7
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -7404,7 +7404,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -7442,7 +7442,7 @@
       "poise": 7
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -7480,7 +7480,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -7518,7 +7518,7 @@
       "poise": 12
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -7556,7 +7556,7 @@
       "poise": 7
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -7594,7 +7594,7 @@
       "poise": 12
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -7632,7 +7632,7 @@
       "poise": 12
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -7670,7 +7670,7 @@
       "poise": 8
     },
     "sellPrice": 2000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -7708,7 +7708,7 @@
       "poise": 8
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -7746,7 +7746,7 @@
       "poise": 7
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -7784,7 +7784,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -7822,7 +7822,7 @@
       "poise": 5
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -7860,7 +7860,7 @@
       "poise": 5
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -7898,7 +7898,7 @@
       "poise": 12
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -7936,7 +7936,7 @@
       "poise": 10
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -7974,7 +7974,7 @@
       "poise": 10
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8012,7 +8012,7 @@
       "poise": 10
     },
     "sellPrice": 10,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -8050,7 +8050,7 @@
       "poise": 8
     },
     "sellPrice": 10,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -8088,7 +8088,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -8126,7 +8126,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -8164,7 +8164,7 @@
       "poise": 8
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8202,7 +8202,7 @@
       "poise": 5
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8240,7 +8240,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -8278,7 +8278,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -8316,7 +8316,7 @@
       "poise": 10
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -8354,7 +8354,7 @@
       "poise": 8
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -8392,7 +8392,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -8430,7 +8430,7 @@
       "poise": 7
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -8468,7 +8468,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8506,7 +8506,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8544,7 +8544,7 @@
       "poise": 7
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8582,7 +8582,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8620,7 +8620,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8658,7 +8658,7 @@
       "poise": 8
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8696,7 +8696,7 @@
       "poise": 10
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8734,7 +8734,7 @@
       "poise": 8
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8772,7 +8772,7 @@
       "poise": 12
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8810,7 +8810,7 @@
       "poise": 8
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8848,7 +8848,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -8886,7 +8886,7 @@
       "poise": 17
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -8924,7 +8924,7 @@
       "poise": 16
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -8962,7 +8962,7 @@
       "poise": 12
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9000,7 +9000,7 @@
       "poise": 16
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9038,7 +9038,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9076,7 +9076,7 @@
       "poise": 13
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -9114,7 +9114,7 @@
       "poise": 12
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -9152,7 +9152,7 @@
       "poise": 13
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -9190,7 +9190,7 @@
       "poise": 12
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -9228,7 +9228,7 @@
       "poise": 15
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9266,7 +9266,7 @@
       "poise": 16
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -9304,7 +9304,7 @@
       "poise": 15
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -9342,7 +9342,7 @@
       "poise": 16
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9380,7 +9380,7 @@
       "poise": 15
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9418,7 +9418,7 @@
       "poise": 17
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9456,7 +9456,7 @@
       "poise": 17
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9494,7 +9494,7 @@
       "poise": 17
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9532,7 +9532,7 @@
       "poise": 16
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9570,7 +9570,7 @@
       "poise": 17
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9608,7 +9608,7 @@
       "poise": 18
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9646,7 +9646,7 @@
       "poise": 16
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9684,7 +9684,7 @@
       "poise": 16
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -9722,7 +9722,7 @@
       "poise": 12
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -9760,7 +9760,7 @@
       "poise": 8
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -9798,7 +9798,7 @@
       "poise": 12
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -9836,7 +9836,7 @@
       "poise": 8
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -9874,7 +9874,7 @@
       "poise": 16
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -9912,7 +9912,7 @@
       "poise": 15
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -9950,7 +9950,7 @@
       "poise": 17
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -9988,7 +9988,7 @@
       "poise": 16
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -10026,7 +10026,7 @@
       "poise": 16
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10064,7 +10064,7 @@
       "poise": 10
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10102,7 +10102,7 @@
       "poise": 17
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10140,7 +10140,7 @@
       "poise": 18
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10178,7 +10178,7 @@
       "poise": 21
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10216,7 +10216,7 @@
       "poise": 21
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10254,7 +10254,7 @@
       "poise": 22
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10292,7 +10292,7 @@
       "poise": 22
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10330,7 +10330,7 @@
       "poise": 22
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10368,7 +10368,7 @@
       "poise": 22
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10406,7 +10406,7 @@
       "poise": 21
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10444,7 +10444,7 @@
       "poise": 24
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10482,7 +10482,7 @@
       "poise": 18
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10520,7 +10520,7 @@
       "poise": 19
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10558,7 +10558,7 @@
       "poise": 18
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10596,7 +10596,7 @@
       "poise": 16
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -10634,7 +10634,7 @@
       "poise": 15
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -10672,7 +10672,7 @@
       "poise": 17
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10710,7 +10710,7 @@
       "poise": 16
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -10748,7 +10748,7 @@
       "poise": 15
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -10786,7 +10786,7 @@
       "poise": 21
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10824,7 +10824,7 @@
       "poise": 18
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10862,7 +10862,7 @@
       "poise": 19
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -10900,7 +10900,7 @@
       "poise": 17
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -10938,7 +10938,7 @@
       "poise": 22
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -10976,7 +10976,7 @@
       "poise": 24
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -11014,7 +11014,7 @@
       "poise": 18
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -11052,7 +11052,7 @@
       "poise": 19
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11090,7 +11090,7 @@
       "poise": 19
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11128,7 +11128,7 @@
       "poise": 16
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11166,7 +11166,7 @@
       "poise": 13
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11204,7 +11204,7 @@
       "poise": 19
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11242,7 +11242,7 @@
       "poise": 17
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11280,7 +11280,7 @@
       "poise": 24
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -11318,7 +11318,7 @@
       "poise": 22
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11356,7 +11356,7 @@
       "poise": 21
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11394,7 +11394,7 @@
       "poise": 19
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11432,7 +11432,7 @@
       "poise": 18
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11470,7 +11470,7 @@
       "poise": 24
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11508,7 +11508,7 @@
       "poise": 24
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11546,7 +11546,7 @@
       "poise": 24
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11584,7 +11584,7 @@
       "poise": 24
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11622,7 +11622,7 @@
       "poise": 24
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11660,7 +11660,7 @@
       "poise": 24
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11698,7 +11698,7 @@
       "poise": 24
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11736,7 +11736,7 @@
       "poise": 24
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11774,7 +11774,7 @@
       "poise": 24
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11812,7 +11812,7 @@
       "poise": 24
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11850,7 +11850,7 @@
       "poise": 22
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11888,7 +11888,7 @@
       "poise": 22
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -11926,7 +11926,7 @@
       "poise": 25
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -11964,7 +11964,7 @@
       "poise": 25
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12002,7 +12002,7 @@
       "poise": 19
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12040,7 +12040,7 @@
       "poise": 19
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12078,7 +12078,7 @@
       "poise": 27
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12116,7 +12116,7 @@
       "poise": 24
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12154,7 +12154,7 @@
       "poise": 21
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12192,7 +12192,7 @@
       "poise": 19
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12230,7 +12230,7 @@
       "poise": 22
     },
     "sellPrice": 3000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12268,7 +12268,7 @@
       "poise": 21
     },
     "sellPrice": 3000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12306,7 +12306,7 @@
       "poise": 25
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12344,7 +12344,7 @@
       "poise": 24
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12382,7 +12382,7 @@
       "poise": 19
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12420,7 +12420,7 @@
       "poise": 16
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12458,7 +12458,7 @@
       "poise": 28
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12496,7 +12496,7 @@
       "poise": 27
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12534,7 +12534,7 @@
       "poise": 21
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12572,7 +12572,7 @@
       "poise": 19
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12610,7 +12610,7 @@
       "poise": 24
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12648,7 +12648,7 @@
       "poise": 24
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12686,7 +12686,7 @@
       "poise": 21
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -12724,7 +12724,7 @@
       "poise": 22
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12762,7 +12762,7 @@
       "poise": 21
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12800,7 +12800,7 @@
       "poise": 24
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12838,7 +12838,7 @@
       "poise": 28
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12876,7 +12876,7 @@
       "poise": 24
     },
     "sellPrice": 2000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -12914,7 +12914,7 @@
       "poise": 22
     },
     "sellPrice": 2000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -12952,7 +12952,7 @@
       "poise": 34
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -12990,7 +12990,7 @@
       "poise": 33
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": true,
     "obtainable": true
@@ -13028,7 +13028,7 @@
       "poise": 25
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -13066,7 +13066,7 @@
       "poise": 24
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -13104,7 +13104,7 @@
       "poise": 38
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -13142,7 +13142,7 @@
       "poise": 35
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -13180,7 +13180,7 @@
       "poise": 33
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -13218,7 +13218,7 @@
       "poise": 30
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -13256,7 +13256,7 @@
       "poise": 34
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -13294,7 +13294,7 @@
       "poise": 34
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -13332,7 +13332,7 @@
       "poise": 39
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -13370,7 +13370,7 @@
       "poise": 35
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -13408,7 +13408,7 @@
       "poise": 31
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -13446,7 +13446,7 @@
       "poise": 33
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -13484,7 +13484,7 @@
       "poise": 31
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -13522,7 +13522,7 @@
       "poise": 33
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -13560,7 +13560,7 @@
       "poise": 31
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -13598,7 +13598,7 @@
       "poise": 34
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -13636,7 +13636,7 @@
       "poise": 33
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -13674,7 +13674,7 @@
       "poise": 40
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": false,
     "obtainable": true
@@ -13712,7 +13712,7 @@
       "poise": 38
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": true,
     "altered": true,
     "obtainable": true
@@ -13750,7 +13750,7 @@
       "poise": 47
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -13788,7 +13788,7 @@
       "poise": 43
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -13826,7 +13826,7 @@
       "poise": 45
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -13864,7 +13864,7 @@
       "poise": 43
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": true,
     "obtainable": true
@@ -13902,7 +13902,7 @@
       "poise": 2
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -13940,7 +13940,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -13978,7 +13978,7 @@
       "poise": 2
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14016,7 +14016,7 @@
       "poise": 1
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14054,7 +14054,7 @@
       "poise": 2
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14092,7 +14092,7 @@
       "poise": 1
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14130,7 +14130,7 @@
       "poise": 2
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14168,7 +14168,7 @@
       "poise": 1
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14206,7 +14206,7 @@
       "poise": 1
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14244,7 +14244,7 @@
       "poise": 1
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14282,7 +14282,7 @@
       "poise": 3
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14320,7 +14320,7 @@
       "poise": 1
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14358,7 +14358,7 @@
       "poise": 1
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14396,7 +14396,7 @@
       "poise": 2
     },
     "sellPrice": 2000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14434,7 +14434,7 @@
       "poise": 2
     },
     "sellPrice": 10,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14472,7 +14472,7 @@
       "poise": 1
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14510,7 +14510,7 @@
       "poise": 2
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14548,7 +14548,7 @@
       "poise": 2
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14586,7 +14586,7 @@
       "poise": 2
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14624,7 +14624,7 @@
       "poise": 3
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14662,7 +14662,7 @@
       "poise": 3
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14700,7 +14700,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14738,7 +14738,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14776,7 +14776,7 @@
       "poise": 2
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14814,7 +14814,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14852,7 +14852,7 @@
       "poise": 2
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14890,7 +14890,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14928,7 +14928,7 @@
       "poise": 3
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -14966,7 +14966,7 @@
       "poise": 3
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15004,7 +15004,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15042,7 +15042,7 @@
       "poise": 3
     },
     "sellPrice": 10,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15080,7 +15080,7 @@
       "poise": 3
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15118,7 +15118,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15156,7 +15156,7 @@
       "poise": 4
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15194,7 +15194,7 @@
       "poise": 4
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15232,7 +15232,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15270,7 +15270,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15308,7 +15308,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15346,7 +15346,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15384,7 +15384,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15422,7 +15422,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15460,7 +15460,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15498,7 +15498,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15536,7 +15536,7 @@
       "poise": 3
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15574,7 +15574,7 @@
       "poise": 4
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15612,7 +15612,7 @@
       "poise": 4
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15650,7 +15650,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15688,7 +15688,7 @@
       "poise": 3
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15726,7 +15726,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15764,7 +15764,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15802,7 +15802,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15840,7 +15840,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15878,7 +15878,7 @@
       "poise": 4
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15916,7 +15916,7 @@
       "poise": 4
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15954,7 +15954,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -15992,7 +15992,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16030,7 +16030,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16068,7 +16068,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16106,7 +16106,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16144,7 +16144,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16182,7 +16182,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16220,7 +16220,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16258,7 +16258,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16296,7 +16296,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16334,7 +16334,7 @@
       "poise": 4
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16372,7 +16372,7 @@
       "poise": 6
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16410,7 +16410,7 @@
       "poise": 4
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16448,7 +16448,7 @@
       "poise": 5
     },
     "sellPrice": 3000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16486,7 +16486,7 @@
       "poise": 5
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16524,7 +16524,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16562,7 +16562,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16600,7 +16600,7 @@
       "poise": 5
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16638,7 +16638,7 @@
       "poise": 5
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16676,7 +16676,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16714,7 +16714,7 @@
       "poise": 5
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16752,7 +16752,7 @@
       "poise": 6
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16790,7 +16790,7 @@
       "poise": 5
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16828,7 +16828,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16866,7 +16866,7 @@
       "poise": 5
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16904,7 +16904,7 @@
       "poise": 8
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16942,7 +16942,7 @@
       "poise": 7
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -16980,7 +16980,7 @@
       "poise": 7
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17018,7 +17018,7 @@
       "poise": 8
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17056,7 +17056,7 @@
       "poise": 7
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17094,7 +17094,7 @@
       "poise": 7
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17132,7 +17132,7 @@
       "poise": 7
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17170,7 +17170,7 @@
       "poise": 9
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17208,7 +17208,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17246,7 +17246,7 @@
       "poise": 9
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17284,7 +17284,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17322,7 +17322,7 @@
       "poise": 3
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17360,7 +17360,7 @@
       "poise": 6
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17398,7 +17398,7 @@
       "poise": 3
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17436,7 +17436,7 @@
       "poise": 7
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17474,7 +17474,7 @@
       "poise": 2
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17512,7 +17512,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17550,7 +17550,7 @@
       "poise": 9
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17588,7 +17588,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17626,7 +17626,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17664,7 +17664,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17702,7 +17702,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17740,7 +17740,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17778,7 +17778,7 @@
       "poise": 5
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17816,7 +17816,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17854,7 +17854,7 @@
       "poise": 5
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17892,7 +17892,7 @@
       "poise": 7
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17930,7 +17930,7 @@
       "poise": 4
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -17968,7 +17968,7 @@
       "poise": 3
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18006,7 +18006,7 @@
       "poise": 5
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18044,7 +18044,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18082,7 +18082,7 @@
       "poise": 6
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18120,7 +18120,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18158,7 +18158,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18196,7 +18196,7 @@
       "poise": 7
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18234,7 +18234,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18272,7 +18272,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18310,7 +18310,7 @@
       "poise": 7
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18348,7 +18348,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18386,7 +18386,7 @@
       "poise": 5
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18424,7 +18424,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18462,7 +18462,7 @@
       "poise": 5
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18500,7 +18500,7 @@
       "poise": 6
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18538,7 +18538,7 @@
       "poise": 5
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18576,7 +18576,7 @@
       "poise": 11
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18614,7 +18614,7 @@
       "poise": 7
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18652,7 +18652,7 @@
       "poise": 10
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18690,7 +18690,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18728,7 +18728,7 @@
       "poise": 8
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18766,7 +18766,7 @@
       "poise": 8
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18804,7 +18804,7 @@
       "poise": 8
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18842,7 +18842,7 @@
       "poise": 9
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18880,7 +18880,7 @@
       "poise": 9
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18918,7 +18918,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18956,7 +18956,7 @@
       "poise": 10
     },
     "sellPrice": 10,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -18994,7 +18994,7 @@
       "poise": 14
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19032,7 +19032,7 @@
       "poise": 13
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19070,7 +19070,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19108,7 +19108,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19146,7 +19146,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19184,7 +19184,7 @@
       "poise": 13
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19222,7 +19222,7 @@
       "poise": 13
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19260,7 +19260,7 @@
       "poise": 13
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19298,7 +19298,7 @@
       "poise": 13
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19336,7 +19336,7 @@
       "poise": 12
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19374,7 +19374,7 @@
       "poise": 14
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19412,7 +19412,7 @@
       "poise": 11
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19450,7 +19450,7 @@
       "poise": 10
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19488,7 +19488,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19526,7 +19526,7 @@
       "poise": 10
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19564,7 +19564,7 @@
       "poise": 11
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19602,7 +19602,7 @@
       "poise": 10
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19640,7 +19640,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19678,7 +19678,7 @@
       "poise": 13
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19716,7 +19716,7 @@
       "poise": 14
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19754,7 +19754,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19792,7 +19792,7 @@
       "poise": 11
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19830,7 +19830,7 @@
       "poise": 11
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19868,7 +19868,7 @@
       "poise": 10
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19906,7 +19906,7 @@
       "poise": 14
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19944,7 +19944,7 @@
       "poise": 12
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -19982,7 +19982,7 @@
       "poise": 11
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20020,7 +20020,7 @@
       "poise": 14
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20058,7 +20058,7 @@
       "poise": 14
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20096,7 +20096,7 @@
       "poise": 14
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20134,7 +20134,7 @@
       "poise": 14
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20172,7 +20172,7 @@
       "poise": 14
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20210,7 +20210,7 @@
       "poise": 13
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20248,7 +20248,7 @@
       "poise": 15
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20286,7 +20286,7 @@
       "poise": 11
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20324,7 +20324,7 @@
       "poise": 16
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20362,7 +20362,7 @@
       "poise": 12
     },
     "sellPrice": 200,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20400,7 +20400,7 @@
       "poise": 13
     },
     "sellPrice": 3000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20438,7 +20438,7 @@
       "poise": 13
     },
     "sellPrice": 1000,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20476,7 +20476,7 @@
       "poise": 11
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20514,7 +20514,7 @@
       "poise": 17
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20552,7 +20552,7 @@
       "poise": 12
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20590,7 +20590,7 @@
       "poise": 14
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20628,7 +20628,7 @@
       "poise": 12
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20666,7 +20666,7 @@
       "poise": 13
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20704,7 +20704,7 @@
       "poise": 14
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20742,7 +20742,7 @@
       "poise": 14
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20780,7 +20780,7 @@
       "poise": 20
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20818,7 +20818,7 @@
       "poise": 15
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20856,7 +20856,7 @@
       "poise": 22
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20894,7 +20894,7 @@
       "poise": 20
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20932,7 +20932,7 @@
       "poise": 20
     },
     "sellPrice": 200,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -20970,7 +20970,7 @@
       "poise": 23
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -21008,7 +21008,7 @@
       "poise": 19
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -21046,7 +21046,7 @@
       "poise": 20
     },
     "sellPrice": 1000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -21084,7 +21084,7 @@
       "poise": 20
     },
     "sellPrice": 2000,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -21122,7 +21122,7 @@
       "poise": 24
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -21160,7 +21160,7 @@
       "poise": 28
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -21198,7 +21198,7 @@
       "poise": 25
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -21236,7 +21236,7 @@
       "poise": 27
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": true
@@ -21274,7 +21274,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21312,7 +21312,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": true,
     "obtainable": false
@@ -21350,7 +21350,7 @@
       "poise": 2
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21388,7 +21388,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21426,7 +21426,7 @@
       "poise": 2
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21464,7 +21464,7 @@
       "poise": 7
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21502,7 +21502,7 @@
       "poise": 10
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21540,7 +21540,7 @@
       "poise": 17
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21578,7 +21578,7 @@
       "poise": 16
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": true,
     "obtainable": false
@@ -21616,7 +21616,7 @@
       "poise": 8
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21654,7 +21654,7 @@
       "poise": 7
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": true,
     "obtainable": false
@@ -21692,7 +21692,7 @@
       "poise": 1
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21730,7 +21730,7 @@
       "poise": 2
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21768,7 +21768,7 @@
       "poise": 4
     },
     "sellPrice": 100,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21806,7 +21806,7 @@
       "poise": 1
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21844,7 +21844,7 @@
       "poise": 3
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21882,7 +21882,7 @@
       "poise": 4
     },
     "sellPrice": 500,
-    "dropType": "White",
+    "rarity": "White",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21920,7 +21920,7 @@
       "poise": 3
     },
     "sellPrice": 100,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false
@@ -21958,7 +21958,7 @@
       "poise": 6
     },
     "sellPrice": 500,
-    "dropType": "Purple",
+    "rarity": "Purple",
     "canBeAltered": false,
     "altered": false,
     "obtainable": false

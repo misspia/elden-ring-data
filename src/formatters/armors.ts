@@ -1,4 +1,5 @@
-import { DropRarity, EquipmentSlot } from "@/types/armors";
+import { EquipmentSlot } from "@/types/armors";
+import { DropRarity } from "@/types/items";
 import { JSONFormatter } from "@/types/files";
 
 type UnformattedArmor = {
@@ -84,7 +85,7 @@ type FormattedArmor = {
     poise: number;
   };
   sellPrice: number;
-  dropType: DropRarity;
+  rarity: DropRarity;
   canBeAltered: boolean;
   altered: boolean;
   obtainable: boolean;
@@ -127,7 +128,7 @@ export const armorsFormatter: JSONFormatter<
       poise: parseInt(armor.Poise),
     },
     sellPrice: parseInt(armor["Sell Price"]),
-    dropType: armor["Drop Type"],
+    rarity: armor["Drop Type"],
     canBeAltered: armor["Can Be Altered"] === "TRUE",
     altered: armor.Name.toLowerCase().includes("altered"),
     obtainable: armor.Obtainable === "Yes",
