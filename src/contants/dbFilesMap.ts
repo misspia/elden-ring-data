@@ -11,6 +11,7 @@ import { consumablesEffectsFormatter } from "@/formatters/consumablesEffects";
 import { greatRunesEffectsFormatter } from "@/formatters/greatRunesEffects";
 import { spellDamagesFormatter } from "@/formatters/spellDamages";
 import { weaponsAffinitiesFormatter } from "@/formatters/weaponsAffinities";
+import { armorsFormatter } from "@/formatters/armors";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -57,17 +58,17 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   //   json: "weapons.json",
   //   formatter: weaponsFormatter,
   // },
-  /**
-   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=0#gid=0
-   * Note: modified Axe of Godrick -- (source: https://eldenring.wiki.fextralife.com/I+Command+Thee,+Kneel!)
-   *  - default weapon skill: I command thee --> I command thee, kneel!
-   *  - default weapon skill fp cost: - --> 15
-   */
-  {
-    csv: "Elden Ring Item Data Sheet (1.09) - Weapons.csv",
-    json: "weapons-affinities.json",
-    formatter: weaponsAffinitiesFormatter,
-  },
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=0#gid=0
+  //  * Note: modified Axe of Godrick -- (source: https://eldenring.wiki.fextralife.com/I+Command+Thee,+Kneel!)
+  //  *  - default weapon skill: I command thee --> I command thee, kneel!
+  //  *  - default weapon skill fp cost: - --> 15
+  //  */
+  // {
+  //   csv: "Elden Ring Item Data Sheet (1.09) - Weapons.csv",
+  //   json: "weapons-affinities.json",
+  //   formatter: weaponsAffinitiesFormatter,
+  // },
   // /**
   //  * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=1688610004#gid=1688610004
   //  */
@@ -108,7 +109,18 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   //   json: "spell-damages.json",
   //   formatter: spellDamagesFormatter,
   // },
+  /**
+   * https://docs.google.com/spreadsheets/d/1ybiI1WgyRs67kGklUXeroi58KDab2KsU_hKutBORiW0/edit?gid=1699546889#gid=1699546889
+   */
+  {
+    csv: "Elden Ring Item Data Sheet (1.09) - Armor.csv",
+    json: "armors.json",
+    formatter: armorsFormatter,
+  },
 ];
+
+// next: armor, talismans, etc
+// https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=0#gid=0
 
 export const DB_FILES_MAP: DBFilesMap = DB_FILES_MAP_NAMES.map((file) => ({
   csv: `${CSV_BASE_PATH}/${file.csv}`,
