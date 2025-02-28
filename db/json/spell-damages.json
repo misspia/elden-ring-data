@@ -1,0 +1,5069 @@
+[
+  {
+    "name": "Glintstone Pebble",
+    "motionValue": {
+      "physical": 0,
+      "magic": 152,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Swift Glintstone Shard",
+    "motionValue": {
+      "physical": 0,
+      "magic": 114,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Great Glintstone Shard",
+    "motionValue": {
+      "physical": 0,
+      "magic": 211,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Glintstone Cometshard",
+    "motionValue": {
+      "physical": 0,
+      "magic": 259,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Glintstone Cometshard - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 324,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Comet",
+    "motionValue": {
+      "physical": 0,
+      "magic": 292,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Comet - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 365,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Comet - Charged (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 365,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Shard Spiral",
+    "motionValue": {
+      "physical": 0,
+      "magic": 92,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Shard Spiral - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 110,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Glintstone Stars",
+    "motionValue": {
+      "physical": 0,
+      "magic": 87,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Glintstone Stars",
+    "motionValue": {
+      "physical": 0,
+      "magic": 78,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Glintstone Stars",
+    "motionValue": {
+      "physical": 0,
+      "magic": 68,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Glintstone Stars - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 99,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Glintstone Stars - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 90,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Glintstone Stars - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 80,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower",
+    "motionValue": {
+      "physical": 0,
+      "magic": 79,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower",
+    "motionValue": {
+      "physical": 0,
+      "magic": 69,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower",
+    "motionValue": {
+      "physical": 0,
+      "magic": 69,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower",
+    "motionValue": {
+      "physical": 0,
+      "magic": 59,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower",
+    "motionValue": {
+      "physical": 0,
+      "magic": 49,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower",
+    "motionValue": {
+      "physical": 0,
+      "magic": 44,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 88,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 78,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 68,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 63,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 58,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Star Shower - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 53,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Glintstone Arc",
+    "motionValue": {
+      "physical": 0,
+      "magic": 148,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Crystal Barrage",
+    "motionValue": {
+      "physical": 0,
+      "magic": 36,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Crystal Burst",
+    "motionValue": {
+      "physical": 0,
+      "magic": 40,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Crystal Burst - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 45,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Cannon of Haima",
+    "motionValue": {
+      "physical": 0,
+      "magic": 285,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Cannon of Haima - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 332,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Gavel of Haima 1",
+    "motionValue": {
+      "physical": 0,
+      "magic": 297,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Gavel of Haima 1 (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 242,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Gavel of Haima 2",
+    "motionValue": {
+      "physical": 0,
+      "magic": 297,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Gavel of Haima 2 (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 242,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Shatter Earth (Bullet)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 182,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Digger's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Shatter Earth (Bullet)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 205,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Digger's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Shatter Earth (Bullet)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 52,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Digger's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Shatter Earth",
+    "motionValue": {
+      "physical": 0,
+      "magic": 68,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Digger's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Shatter Earth",
+    "motionValue": {
+      "physical": 0,
+      "magic": 68,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Digger's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Rock Blaster",
+    "motionValue": {
+      "physical": 0,
+      "magic": 64,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Digger's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Rock Blaster",
+    "motionValue": {
+      "physical": 0,
+      "magic": 260,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Digger's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Rock Blaster",
+    "motionValue": {
+      "physical": 0,
+      "magic": 64,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Digger's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Rock Blaster",
+    "motionValue": {
+      "physical": 0,
+      "magic": 64,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Digger's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Scholar's Armament",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Scholar's Shield",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Starlight",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Terra Magica",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Thops's Barrier",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Comet Azur",
+    "motionValue": {
+      "physical": 0,
+      "magic": 55,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Comet Azur",
+    "motionValue": {
+      "physical": 0,
+      "magic": 75,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Comet Azur",
+    "motionValue": {
+      "physical": 0,
+      "magic": 100,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Comet Azur",
+    "motionValue": {
+      "physical": 0,
+      "magic": 55,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Comet Azur",
+    "motionValue": {
+      "physical": 0,
+      "magic": 90,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 52,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 52,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 49,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 49,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 45,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 45,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 43,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 43,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 65,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 65,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 60,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 60,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 57,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 57,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 54,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Stars of Ruin - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 54,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Founding Rain of Stars",
+    "motionValue": {
+      "physical": 0,
+      "magic": 49,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Founding Rain of Stars - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 54,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Magic Glintblade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 182,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintblade Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Magic Glintblade - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 230,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintblade Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Glintblade Phalanx (above head)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 60,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintblade Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Glintblade Phalanx",
+    "motionValue": {
+      "physical": 0,
+      "magic": 60,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintblade Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Phalanx (above head)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 48,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Carian Phalanx",
+    "motionValue": {
+      "physical": 0,
+      "magic": 48,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintblade Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Greatblade Phalanx (above head)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 100,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintblade Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Greatblade Phalanx",
+    "motionValue": {
+      "physical": 0,
+      "magic": 100,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintblade Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Magic Downpour",
+    "motionValue": {
+      "physical": 0,
+      "magic": 58,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Magic Downpour",
+    "motionValue": {
+      "physical": 0,
+      "magic": 58,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Magic Downpour - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 58,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Magic Downpour - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 58,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Loretta's Greatbow",
+    "motionValue": {
+      "physical": 0,
+      "magic": 270,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Loretta's Greatbow - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 330,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Loretta's Mastery",
+    "motionValue": {
+      "physical": 0,
+      "magic": 108,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Loretta's Mastery - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 127,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Rennala's Full Moon",
+    "motionValue": {
+      "physical": 0,
+      "magic": 360,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Regal Scepter"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ranni's Dark Moon",
+    "motionValue": {
+      "physical": 0,
+      "magic": 330,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 270,
+    "damageBoostedBy": ["Carian Regal Scepter"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Slicer",
+    "motionValue": {
+      "physical": 0,
+      "magic": 180,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Slicer",
+    "motionValue": {
+      "physical": 0,
+      "magic": 180,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Slicer - Running",
+    "motionValue": {
+      "physical": 0,
+      "magic": 180,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Slicer - Rolling",
+    "motionValue": {
+      "physical": 0,
+      "magic": 180,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Slicer - Mounted",
+    "motionValue": {
+      "physical": 0,
+      "magic": 184,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Slicer - Mounted",
+    "motionValue": {
+      "physical": 0,
+      "magic": 184,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Greatsword",
+    "motionValue": {
+      "physical": 0,
+      "magic": 268,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Greatsword",
+    "motionValue": {
+      "physical": 0,
+      "magic": 268,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Greatsword - Running",
+    "motionValue": {
+      "physical": 0,
+      "magic": 268,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Greatsword - Rolling",
+    "motionValue": {
+      "physical": 0,
+      "magic": 268,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Greatsword - Mounted",
+    "motionValue": {
+      "physical": 0,
+      "magic": 272,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Greatsword - Mounted",
+    "motionValue": {
+      "physical": 0,
+      "magic": 272,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Piercer",
+    "motionValue": {
+      "physical": 0,
+      "magic": 287,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Piercer",
+    "motionValue": {
+      "physical": 0,
+      "magic": 287,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Piercer - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 355,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Carian Piercer - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 355,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Adula's Moonblade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 133,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 120,
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Adula's Moonblade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 133,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 120,
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Adula's Moonblade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 133,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 120,
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Adula's Moonblade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 133,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 120,
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Adula's Moonblade - Mounted",
+    "motionValue": {
+      "physical": 0,
+      "magic": 137,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 120,
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Adula's Moonblade - Mounted",
+    "motionValue": {
+      "physical": 0,
+      "magic": 137,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 120,
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Adula's Moonblade (Projectile)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 189,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 35,
+    "damageBoostedBy": ["Carian Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Lucidity",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Carian Retaliation 1 (above head)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 115,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Carian Retaliation 1",
+    "motionValue": {
+      "physical": 0,
+      "magic": 115,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Carian Retaliation 2 (above head)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 165,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Carian Retaliation 2",
+    "motionValue": {
+      "physical": 0,
+      "magic": 165,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Carian Retaliation 3 (above head)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 245,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Carian Retaliation 3",
+    "motionValue": {
+      "physical": 0,
+      "magic": 245,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Ambush Shard",
+    "motionValue": {
+      "physical": 0,
+      "magic": 146,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Night Shard",
+    "motionValue": {
+      "physical": 0,
+      "magic": 111,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Staff of Loss"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Night Comet",
+    "motionValue": {
+      "physical": 0,
+      "magic": 230,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Staff of Loss"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Night Comet - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 276,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Staff of Loss"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Night Maiden's Mist",
+    "motionValue": {
+      "physical": 20,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Night Maiden's Mist - Charged",
+    "motionValue": {
+      "physical": 20,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Unseen Blade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Staff of Loss"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Unseen Form",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Staff of Loss"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Eternal Darkness",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Magma Shot",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 210,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Magma Shot",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 48,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Magma Shot - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 250,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Magma Shot - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 53,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Roiling Magma",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 234,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Roiling Magma",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 318,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Roiling Magma",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 43,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Roiling Magma - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 325,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Roiling Magma - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 390,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Roiling Magma - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 48,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Gelmir's Fury",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 125,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Gelmir's Fury",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 125,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Gelmir's Fury",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 160,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Rykard's Rancor",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 150,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gelmir Glintstone Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Glintstone Icecrag",
+    "motionValue": {
+      "physical": 0,
+      "magic": 199,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 100
+  },
+  {
+    "name": "Freezing Mist",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 20
+  },
+  {
+    "name": "Freezing Mist - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 20
+  },
+  {
+    "name": "Frozen Armament",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 63
+  },
+  {
+    "name": "Zamor Ice Storm",
+    "motionValue": {
+      "physical": 0,
+      "magic": 99,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 80
+  },
+  {
+    "name": "Zamor Ice Storm",
+    "motionValue": {
+      "physical": 0,
+      "magic": 74,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 80
+  },
+  {
+    "name": "Zamor Ice Storm - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 104,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 80
+  },
+  {
+    "name": "Zamor Ice Storm - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 79,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 80
+  },
+  {
+    "name": "Shattering Crystal",
+    "motionValue": {
+      "physical": 0,
+      "magic": 127,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Crystal Staff", "Rotten Crystal Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Shattering Crystal",
+    "motionValue": {
+      "physical": 0,
+      "magic": 60,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Crystal Staff", "Rotten Crystal Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Shattering Crystal",
+    "motionValue": {
+      "physical": 0,
+      "magic": 51,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Crystal Staff", "Rotten Crystal Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Shattering Crystal - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 160,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Crystal Staff", "Rotten Crystal Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Shattering Crystal - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 75,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Crystal Staff", "Rotten Crystal Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Shattering Crystal - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 67,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Crystal Staff", "Rotten Crystal Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Crystal Torrent",
+    "motionValue": {
+      "physical": 0,
+      "magic": 57,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Crystal Staff", "Rotten Crystal Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Crystal Torrent",
+    "motionValue": {
+      "physical": 0,
+      "magic": 57,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Crystal Staff", "Rotten Crystal Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Crystal Release",
+    "motionValue": {
+      "physical": 0,
+      "magic": 125,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Crystal Staff", "Rotten Crystal Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Crystal Release",
+    "motionValue": {
+      "physical": 0,
+      "magic": 100,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Crystal Staff", "Rotten Crystal Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Gravity Well",
+    "motionValue": {
+      "physical": 0,
+      "magic": 148,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Gravity Well - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 180,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Collapsing Stars",
+    "motionValue": {
+      "physical": 0,
+      "magic": 44,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Collapsing Stars",
+    "motionValue": {
+      "physical": 0,
+      "magic": 44,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Collapsing Stars - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 49,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Collapsing Stars - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 49,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Rock Sling",
+    "motionValue": {
+      "physical": 102,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Rock Sling - Charged",
+    "motionValue": {
+      "physical": 102,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Meteorite",
+    "motionValue": {
+      "physical": 180,
+      "magic": 100,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Meteorite",
+    "motionValue": {
+      "physical": 180,
+      "magic": 100,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Meteorite of Astel",
+    "motionValue": {
+      "physical": 185,
+      "magic": 105,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Meteorite of Astel",
+    "motionValue": {
+      "physical": 185,
+      "magic": 105,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Meteorite Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Oracle Bubbles",
+    "motionValue": {
+      "physical": 0,
+      "magic": 54,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Oracle Bubbles - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 65,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Great Oracular Bubble",
+    "motionValue": {
+      "physical": 0,
+      "magic": 298,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Great Oracular Bubble - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 355,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Briars of Sin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 200,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Bleed",
+    "buildUp": 95,
+    "damageBoostedBy": ["Staff of the Guilty"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Briars of Sin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 232,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Bleed",
+    "buildUp": 95,
+    "damageBoostedBy": ["Staff of the Guilty"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Briars of Sin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 233,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Bleed",
+    "buildUp": 95,
+    "damageBoostedBy": ["Staff of the Guilty"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Briars of Punishment",
+    "motionValue": {
+      "physical": 0,
+      "magic": 212,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Bleed",
+    "buildUp": 72,
+    "damageBoostedBy": ["Staff of the Guilty"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Rancorcall",
+    "motionValue": {
+      "physical": 0,
+      "magic": 54,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Prince of Death's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Rancorcall - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 57,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Prince of Death's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ancient Death Rancor",
+    "motionValue": {
+      "physical": 0,
+      "magic": 49,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Prince of Death's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ancient Death Rancor - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 52,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Prince of Death's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Explosive Ghostflame",
+    "motionValue": {
+      "physical": 0,
+      "magic": 312,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 130,
+    "damageBoostedBy": ["Prince of Death's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Explosive Ghostflame",
+    "motionValue": {
+      "physical": 0,
+      "magic": 60,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 38,
+    "damageBoostedBy": ["Prince of Death's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Fia's Mist",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Death",
+    "buildUp": 20,
+    "damageBoostedBy": ["Prince of Death's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Fia's Mist - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Death",
+    "buildUp": 20,
+    "damageBoostedBy": ["Prince of Death's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Tibia's Summons",
+    "motionValue": {
+      "physical": 0,
+      "magic": 125,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Slash",
+    "damageBoostedBy": ["Prince of Death's Staff"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Urgent Heal",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "healMultiplier": 1
+  },
+  {
+    "name": "Heal",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "healMultiplier": 2
+  },
+  {
+    "name": "Heal (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "healMultiplier": 1
+  },
+  {
+    "name": "Great Heal",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "healMultiplier": 3
+  },
+  {
+    "name": "Great Heal (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "healMultiplier": 2
+  },
+  {
+    "name": "Lord's Heal",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "healMultiplier": 4
+  },
+  {
+    "name": "Lord's Heal (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "healMultiplier": 2
+  },
+  {
+    "name": "Cure Poison",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Lord's Aid",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Lord's Aid (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Magic Fortification",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Flame Fortification",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Lightning Fortification",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Divine Fortification",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Lord's Divine Fortification",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Lord's Divine Fortification (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Rejection",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Rejection - Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Shadow Bait",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Shadow Bait",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Darkness",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Darkness",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Assassin's Approach",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Golden Vow",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Barrier of Gold",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Barrier of Gold (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Golden Lightning Fortification",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Golden Lightning Fortification (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Protection of the Erdtree",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Protection of the Erdtree (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Wrath of Gold",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 350
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Wrath of Gold (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 420
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Erdtree Heal",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "healMultiplier": 5
+  },
+  {
+    "name": "Erdtree Heal (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "healMultiplier": 3
+  },
+  {
+    "name": "Blessing's Boon",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Blessing's Boon (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Blessing of the Erdtree",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Blessing of the Erdtree (AoE)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Aspects of the Crucible: Breath",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 98,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Aspects of the Crucible: Tail",
+    "motionValue": {
+      "physical": 202,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Aspects of the Crucible: Tail",
+    "motionValue": {
+      "physical": 274,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Aspects of the Crucible: Horns",
+    "motionValue": {
+      "physical": 277,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Aspects of the Crucible: Horns",
+    "motionValue": {
+      "physical": 277,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Aspects of the Crucible: Horns (Charged)",
+    "motionValue": {
+      "physical": 327,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Aspects of the Crucible: Horns (Charged)",
+    "motionValue": {
+      "physical": 327,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Elden Stars",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 61
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Elden Stars",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 20
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Elden Stars",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 199
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Black Blade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 225
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Black Blade (Bullet)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 162
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Black Blade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 232
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Black Blade (Bullet)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 169
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Black Blade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 225
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Black Blade (Bullet)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 162
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Black Blade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 232
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Black Blade (Bullet)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 169
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Discus of Light",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 150
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Discus of Light",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 150
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Discus of Light",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 150
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Discus of Light",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 150
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Triple Rings of Light",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 155
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Triple Rings of Light",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 155
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Triple Rings of Light",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 155
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Triple Rings of Light",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 155
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Triple Rings of Light",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 155
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Radagon's Rings of Light",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 310
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Radagon's Rings of Light (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 395
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Litany of Proper Death",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 56
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Order Healing",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Order's Blade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Immutable Shield",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Law of Causality",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Law of Regression",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Law of Regression",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Law of Regression",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Law of Regression",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Law of Regression",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Law of Regression",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Law of Regression",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Golden Order Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Lightning Spear",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 234,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Lightning Spear - Water AoE",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 50,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Lightning Spear (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 293,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Lightning Spear (Charged) - Water AoE",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 50,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Lightning Strike",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 246,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Lightning Strike - Water AoE",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 50,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Honed Bolt",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 205,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Honed Bolt - Water AoE",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 50,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ancient Dragons' Lightning Spear",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 360,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ancient Dragons' Lightning Spear",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 285,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ancient Dragons' Lightning Spear",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 122,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ancient Dragons' Lightning Strike",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 317,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ancient Dragons' Lightning Strike - Water AoE",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 50,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ancient Dragons' Lightning Strike (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 379,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ancient Dragons' Lightning Strike (Charged) - Water AoE",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 50,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Lansseax's Glaive (Bullet)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 167,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Lansseax's Glaive",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 325,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Lansseax's Glaive",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 325,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Fortissax's Lightning Spear 1",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 367,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Fortissax's Lightning Spear 1",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 288,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Fortissax's Lightning Spear 1",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 122,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Fortissax's Lightning Spear 2",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 374,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Fortissax's Lightning Spear 2",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 292,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Fortissax's Lightning Spear 2",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 123,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Frozen Lightning Spear",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 240,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 120,
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Frozen Lightning Spear",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 307,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 120,
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Death Lightning",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 513,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Death",
+    "buildUp": 50,
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Death Lightning",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Death",
+    "buildUp": 30,
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Death Lightning (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 564,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Death",
+    "buildUp": 50,
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Death Lightning (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Death",
+    "buildUp": 30,
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Electrify Armament",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Dragonbolt Blessing",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Vyke's Dragonbolt",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Gravel Stone Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Catch Flame",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 225,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "O, Flame!",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 280,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "O, Flame! (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 385,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame Sling",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 202,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Flame Sling",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 202,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Flame Sling (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 255,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Flame Sling (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 255,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Giantsflame Take Thee",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 325,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Giantsflame Take Thee",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 389,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Fall Upon Them",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 115,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Fall Upon Them",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 115,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Fall Upon Them",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 115,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Fall Upon Them (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 140,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Fall Upon Them (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 140,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Fall Upon Them (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 140,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame of the Fell God",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 415,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame of the Fell God",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 35,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Surge, O Flame!",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 51,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Whirl, O Flame!",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 96,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Whirl, O Flame!",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 121,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Burn, O Flame!",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 288,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Cleanse Me",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Cleanse Me",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Cleanse Me",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Protect Me",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Flame, Grant Me Strength",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Giant's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Fire's Deadly Sin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Fire's Deadly Sin (Charged",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Black Flame",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 244,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Godslayer's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Black Flame (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 300,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Godslayer's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Scouring Black Flame",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 255,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Godslayer's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Scouring Black Flame (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 299,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Godslayer's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Black Flame Ritual",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 106,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Godslayer's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Black Flame Ritual",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 106,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Godslayer's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Black Flame Ritual (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 109,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Godslayer's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Black Flame Ritual (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 109,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Godslayer's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Black Flame Blade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Godslayer's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Black Flame's Protection",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Godslayer's Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Noble Presence",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 239,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Noble Presence (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 279,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Beast Claw",
+    "motionValue": {
+      "physical": 193,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Clawmark Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Beast Claw (Charged)",
+    "motionValue": {
+      "physical": 222,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Clawmark Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Gurranq's Beast Claw",
+    "motionValue": {
+      "physical": 225,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Clawmark Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Bestial Sling",
+    "motionValue": {
+      "physical": 87,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Clawmark Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Stone of Gurranq",
+    "motionValue": {
+      "physical": 245,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Clawmark Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Bestial Constitution",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Clawmark Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Bestial Vitality",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Clawmark Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Swarm of Flies",
+    "motionValue": {
+      "physical": 52,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Swarm of Flies",
+    "motionValue": {
+      "physical": 15,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Bleed",
+    "buildUp": 70
+  },
+  {
+    "name": "Bloodflame Talons",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 236,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Bleed",
+    "buildUp": 5
+  },
+  {
+    "name": "Bloodboon",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 159,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Bleed",
+    "buildUp": 3
+  },
+  {
+    "name": "Bloodboon",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 44,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Bleed",
+    "buildUp": 3
+  },
+  {
+    "name": "Bloodflame Blade",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Bleed",
+    "buildUp": 2
+  },
+  {
+    "name": "Poison Mist",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Poison",
+    "buildUp": 20
+  },
+  {
+    "name": "Poison Armament",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Poison",
+    "buildUp": 70
+  },
+  {
+    "name": "Pest Threads",
+    "motionValue": {
+      "physical": 60,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Scarlet Aeonia",
+    "motionValue": {
+      "physical": 40,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Scarlet Aeonia",
+    "motionValue": {
+      "physical": 362,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Scarlet Aeonia",
+    "motionValue": {
+      "physical": 60,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Rot",
+    "buildUp": 150
+  },
+  {
+    "name": "The Flame of Frenzy",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 107,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 21,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "The Flame of Frenzy",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 107,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 21,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "The Flame of Frenzy - Self-Madness",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 4,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "The Flame of Frenzy (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 124,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 28,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "The Flame of Frenzy (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 124,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 28,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "The Flame of Frenzy - Self-Madness (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 4,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Unendurable Frenzy",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 125,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 40,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Unendurable Frenzy",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 125,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 40,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Unendurable Frenzy - Self-Madness",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 3,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Frenzied Burst",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 250,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 90,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Frenzied Burst - Self-Madness",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 20,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Frenzied Burst (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 309,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 105,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Frenzied Burst -Self-Madness (Charged)",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 30,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Howl of Shabriri",
+    "motionValue": {
+      "physical": 22,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 35,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Howl of Shabriri - Self-Madness",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 6,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Inescapable Frenzy",
+    "motionValue": {
+      "physical": 70,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 50,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Inescapable Frenzy",
+    "motionValue": {
+      "physical": 70,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 50,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Inescapable Frenzy - Self-Madness",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 14,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Inescapable Frenzy - Self-Madness",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Madness",
+    "buildUp": 9,
+    "damageBoostedBy": ["Frenzied Flame Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Dragonfire",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 144,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Agheel's Flame",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 169,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Magma Breath",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 223,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Magma Breath",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 34,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Magma Breath",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 223,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Theodorix's Magma",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 315,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Theodorix's Magma",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 40,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Theodorix's Magma",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 315,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Glintstone Breath",
+    "motionValue": {
+      "physical": 0,
+      "magic": 159,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Smarag's Glintstone Breath",
+    "motionValue": {
+      "physical": 0,
+      "magic": 188,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Rotten Breath",
+    "motionValue": {
+      "physical": 131,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Rot",
+    "buildUp": 65,
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Ekzykes's Decay",
+    "motionValue": {
+      "physical": 155,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Rot",
+    "buildUp": 65,
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Dragonice",
+    "motionValue": {
+      "physical": 0,
+      "magic": 135,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 110,
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Borealis's Mist",
+    "motionValue": {
+      "physical": 0,
+      "magic": 158,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "status": "Frost",
+    "buildUp": 110,
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Placidusax's Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 356,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Placidusax's Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 356,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Placidusax's Ruin",
+    "motionValue": {
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 241,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard"
+  },
+  {
+    "name": "Dragonclaw",
+    "motionValue": {
+      "physical": 395,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Dragonclaw",
+    "motionValue": {
+      "physical": 410,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Dragonclaw",
+    "motionValue": {
+      "physical": 395,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Dragonclaw",
+    "motionValue": {
+      "physical": 410,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Dragonclaw",
+    "motionValue": {
+      "physical": 253,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Dragonclaw",
+    "motionValue": {
+      "physical": 263,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Dragonmaw",
+    "motionValue": {
+      "physical": 628,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  },
+  {
+    "name": "Greyoll's Roar",
+    "motionValue": {
+      "physical": 320,
+      "magic": 0,
+      "fire": 0,
+      "lightning": 0,
+      "holy": 0
+    },
+    "physicalDamageType": "Standard",
+    "damageBoostedBy": ["Dragon Communion Seal"],
+    "damageBoostMultiplier": 1
+  }
+]

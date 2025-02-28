@@ -1,0 +1,409 @@
+Name,Physical MV,Magic MV,Fire MV,Lightning MV,Holy MV,Physical Damage Type,Status,Build-Up,Heal Multiplier,Damage Boosted By 1,Damage Boosted By 2,Damage Boost Multiplier
+Glintstone Pebble,0,152,0,0,0,Standard,-,-,-,-,-,-
+Swift Glintstone Shard,0,114,0,0,0,Standard,-,-,-,-,-,-
+Great Glintstone Shard,0,211,0,0,0,Standard,-,-,-,-,-,-
+Glintstone Cometshard,0,259,0,0,0,Standard,-,-,-,-,-,-
+Glintstone Cometshard - Charged,0,324,0,0,0,Standard,-,-,-,-,-,-
+Comet,0,292,0,0,0,Standard,-,-,-,-,-,-
+Comet - Charged,0,365,0,0,0,Standard,-,-,-,-,-,-
+Comet - Charged (AoE),0,365,0,0,0,Standard,-,-,-,-,-,-
+Shard Spiral,0,92,0,0,0,Standard,-,-,-,-,-,-
+Shard Spiral - Charged,0,110,0,0,0,Standard,-,-,-,-,-,-
+Glintstone Stars,0,87,0,0,0,Standard,-,-,-,-,-,-
+Glintstone Stars,0,78,0,0,0,Standard,-,-,-,-,-,-
+Glintstone Stars,0,68,0,0,0,Standard,-,-,-,-,-,-
+Glintstone Stars - Charged,0,99,0,0,0,Standard,-,-,-,-,-,-
+Glintstone Stars - Charged,0,90,0,0,0,Standard,-,-,-,-,-,-
+Glintstone Stars - Charged,0,80,0,0,0,Standard,-,-,-,-,-,-
+Star Shower,0,79,0,0,0,Standard,-,-,-,-,-,-
+Star Shower,0,69,0,0,0,Standard,-,-,-,-,-,-
+Star Shower,0,69,0,0,0,Standard,-,-,-,-,-,-
+Star Shower,0,59,0,0,0,Standard,-,-,-,-,-,-
+Star Shower,0,49,0,0,0,Standard,-,-,-,-,-,-
+Star Shower,0,44,0,0,0,Standard,-,-,-,-,-,-
+Star Shower - Charged,0,88,0,0,0,Standard,-,-,-,-,-,-
+Star Shower - Charged,0,78,0,0,0,Standard,-,-,-,-,-,-
+Star Shower - Charged,0,68,0,0,0,Standard,-,-,-,-,-,-
+Star Shower - Charged,0,63,0,0,0,Standard,-,-,-,-,-,-
+Star Shower - Charged,0,58,0,0,0,Standard,-,-,-,-,-,-
+Star Shower - Charged,0,53,0,0,0,Standard,-,-,-,-,-,-
+Glintstone Arc,0,148,0,0,0,Standard,-,-,-,-,-,-
+Crystal Barrage,0,36,0,0,0,Standard,-,-,-,-,-,-
+Crystal Burst,0,40,0,0,0,Standard,-,-,-,-,-,-
+Crystal Burst - Charged,0,45,0,0,0,Standard,-,-,-,-,-,-
+Cannon of Haima,0,285,0,0,0,Standard,-,-,-,-,-,-
+Cannon of Haima - Charged,0,332,0,0,0,Standard,-,-,-,-,-,-
+Gavel of Haima 1,0,297,0,0,0,Standard,-,-,-,-,-,-
+Gavel of Haima 1 (AoE),0,242,0,0,0,Standard,-,-,-,-,-,-
+Gavel of Haima 2,0,297,0,0,0,Standard,-,-,-,-,-,-
+Gavel of Haima 2 (AoE),0,242,0,0,0,Standard,-,-,-,-,-,-
+Shatter Earth (Bullet),0,182,0,0,0,Standard,-,-,-,Digger's Staff,-,1.2
+Shatter Earth (Bullet),0,205,0,0,0,Standard,-,-,-,Digger's Staff,-,1.2
+Shatter Earth (Bullet),0,52,0,0,0,Standard,-,-,-,Digger's Staff,-,1.2
+Shatter Earth,0,68,0,0,0,Standard,-,-,-,Digger's Staff,-,1.2
+Shatter Earth,0,68,0,0,0,Standard,-,-,-,Digger's Staff,-,1.2
+Rock Blaster,0,64,0,0,0,Standard,-,-,-,Digger's Staff,-,1.2
+Rock Blaster,0,260,0,0,0,Standard,-,-,-,Digger's Staff,-,1.2
+Rock Blaster,0,64,0,0,0,Standard,-,-,-,Digger's Staff,-,1.2
+Rock Blaster,0,64,0,0,0,Standard,-,-,-,Digger's Staff,-,1.2
+Scholar's Armament,,,,,,Standard,-,-,-,-,-,-
+Scholar's Shield,,,,,,Standard,-,-,-,-,-,-
+Starlight,,,,,,Standard,-,-,-,-,-,-
+Terra Magica,0,0,0,0,0,Standard,-,-,-,-,-,-
+Thops's Barrier,0,0,0,0,0,Standard,-,-,-,-,-,-
+Comet Azur,0,55,0,0,0,Standard,-,-,-,-,-,-
+Comet Azur,0,75,0,0,0,Standard,-,-,-,-,-,-
+Comet Azur,0,100,0,0,0,Standard,-,-,-,-,-,-
+Comet Azur,0,55,0,0,0,Standard,-,-,-,-,-,-
+Comet Azur,0,90,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin,0,52,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin,0,52,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin,0,49,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin,0,49,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin,0,45,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin,0,45,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin,0,43,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin,0,43,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin - Charged,0,65,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin - Charged,0,65,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin - Charged,0,60,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin - Charged,0,60,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin - Charged,0,57,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin - Charged,0,57,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin - Charged,0,54,0,0,0,Standard,-,-,-,-,-,-
+Stars of Ruin - Charged,0,54,0,0,0,Standard,-,-,-,-,-,-
+Founding Rain of Stars,0,49,0,0,0,Standard,-,-,-,-,-,-
+Founding Rain of Stars - Charged,0,54,0,0,0,Standard,-,-,-,-,-,-
+Magic Glintblade,0,182,0,0,0,Standard,-,-,-,Carian Glintblade Staff,-,1.15
+Magic Glintblade - Charged,0,230,0,0,0,Standard,-,-,-,Carian Glintblade Staff,-,1.15
+Glintblade Phalanx (above head),0,60,0,0,0,Standard,-,-,-,Carian Glintblade Staff,-,1.15
+Glintblade Phalanx,0,60,0,0,0,Standard,-,-,-,Carian Glintblade Staff,-,1.15
+Carian Phalanx (above head),0,48,0,0,0,Standard,-,-,-,-,-,-
+Carian Phalanx,0,48,0,0,0,Standard,-,-,-,Carian Glintblade Staff,-,1.15
+Greatblade Phalanx (above head),0,100,0,0,0,Standard,-,-,-,Carian Glintblade Staff,-,1.15
+Greatblade Phalanx,0,100,0,0,0,Standard,-,-,-,Carian Glintblade Staff,-,1.15
+Magic Downpour,0,58,0,0,0,Standard,-,-,-,-,-,-
+Magic Downpour,0,58,0,0,0,Standard,-,-,-,-,-,-
+Magic Downpour - Charged,0,58,0,0,0,Standard,-,-,-,-,-,-
+Magic Downpour - Charged,0,58,0,0,0,Standard,-,-,-,-,-,-
+Loretta's Greatbow,0,270,0,0,0,Standard,-,-,-,-,-,-
+Loretta's Greatbow - Charged,0,330,0,0,0,Standard,-,-,-,-,-,-
+Loretta's Mastery,0,108,0,0,0,Standard,-,-,-,-,-,-
+Loretta's Mastery - Charged,0,127,0,0,0,Standard,-,-,-,-,-,-
+Rennala's Full Moon,0,360,0,0,0,Standard,-,-,-,Carian Regal Scepter,-,1.1
+Ranni's Dark Moon,0,330,0,0,0,Standard,Frost,270,-,Carian Regal Scepter,-,1.1
+Carian Slicer,0,180,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Slicer,0,180,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Slicer - Running,0,180,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Slicer - Rolling,0,180,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Slicer - Mounted,0,184,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Slicer - Mounted,0,184,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Greatsword,0,268,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Greatsword,0,268,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Greatsword - Running,0,268,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Greatsword - Rolling,0,268,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Greatsword - Mounted,0,272,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Greatsword - Mounted,0,272,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Piercer,0,287,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Piercer,0,287,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Piercer - Charged,0,355,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Carian Piercer - Charged,0,355,0,0,0,Standard,-,-,-,Carian Glintstone Staff,-,1.15
+Adula's Moonblade,0,133,0,0,0,Standard,Frost,120,-,Carian Glintstone Staff,-,1.15
+Adula's Moonblade,0,133,0,0,0,Standard,Frost,120,-,Carian Glintstone Staff,-,1.15
+Adula's Moonblade,0,133,0,0,0,Standard,Frost,120,-,Carian Glintstone Staff,-,1.15
+Adula's Moonblade,0,133,0,0,0,Standard,Frost,120,-,Carian Glintstone Staff,-,1.15
+Adula's Moonblade - Mounted,0,137,0,0,0,Standard,Frost,120,-,Carian Glintstone Staff,-,1.15
+Adula's Moonblade - Mounted,0,137,0,0,0,Standard,Frost,120,-,Carian Glintstone Staff,-,1.15
+Adula's Moonblade (Projectile),0,189,0,0,0,Standard,Frost,35,-,Carian Glintstone Staff,-,1.15
+Lucidity,0,0,0,0,0,Standard,-,-,-,-,-,-
+Carian Retaliation 1 (above head),0,115,0,0,0,Standard,-,-,-,-,-,-
+Carian Retaliation 1,0,115,0,0,0,Standard,-,-,-,-,-,-
+Carian Retaliation 2 (above head),0,165,0,0,0,Standard,-,-,-,-,-,-
+Carian Retaliation 2,0,165,0,0,0,Standard,-,-,-,-,-,-
+Carian Retaliation 3 (above head),0,245,0,0,0,Standard,-,-,-,-,-,-
+Carian Retaliation 3,0,245,0,0,0,Standard,-,-,-,-,-,-
+Ambush Shard,0,146,0,0,0,Standard,-,-,-,-,-,-
+Night Shard,0,111,0,0,0,Standard,-,-,-,Staff of Loss,-,1.3
+Night Comet,0,230,0,0,0,Standard,-,-,-,Staff of Loss,-,1.3
+Night Comet - Charged,0,276,0,0,0,Standard,-,-,-,Staff of Loss,-,1.3
+Night Maiden's Mist,20,0,0,0,0,Standard,-,-,-,-,-,-
+Night Maiden's Mist - Charged,20,0,0,0,0,Standard,-,-,-,-,-,-
+Unseen Blade,,,,,,Standard,-,-,-,Staff of Loss,-,1.3
+Unseen Form,0,0,0,0,0,Standard,-,-,-,Staff of Loss,-,1.3
+Eternal Darkness,0,0,0,0,0,Standard,-,-,-,-,-,-
+Magma Shot,0,0,210,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Magma Shot,0,0,48,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Magma Shot - Charged,0,0,250,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Magma Shot - Charged,0,0,53,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Roiling Magma,0,0,234,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Roiling Magma,0,0,318,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Roiling Magma,0,0,43,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Roiling Magma - Charged,0,0,325,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Roiling Magma - Charged,0,0,390,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Roiling Magma - Charged,0,0,48,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Gelmir's Fury,0,0,125,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Gelmir's Fury,0,0,125,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Gelmir's Fury,0,0,160,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Rykard's Rancor,0,0,150,0,0,Standard,-,-,-,Gelmir Glintstone Staff,-,1.15
+Glintstone Icecrag,0,199,0,0,0,Standard,Frost,100,-,-,-,-
+Freezing Mist,0,0,0,0,0,Standard,Frost,20,-,-,-,-
+Freezing Mist - Charged,0,0,0,0,0,Standard,Frost,20,-,-,-,-
+Frozen Armament,,,,,,Standard,Frost,63,-,-,-,-
+Zamor Ice Storm,0,99,0,0,0,Standard,Frost,80,-,-,-,-
+Zamor Ice Storm,0,74,0,0,0,Standard,Frost,80,-,-,-,-
+Zamor Ice Storm - Charged,0,104,0,0,0,Standard,Frost,80,-,-,-,-
+Zamor Ice Storm - Charged,0,79,0,0,0,Standard,Frost,80,-,-,-,-
+Shattering Crystal,0,127,0,0,0,Standard,-,-,-,Crystal Staff,Rotten Crystal Staff,1.1
+Shattering Crystal,0,60,0,0,0,Standard,-,-,-,Crystal Staff,Rotten Crystal Staff,1.1
+Shattering Crystal,0,51,0,0,0,Standard,-,-,-,Crystal Staff,Rotten Crystal Staff,1.1
+Shattering Crystal - Charged,0,160,0,0,0,Standard,-,-,-,Crystal Staff,Rotten Crystal Staff,1.1
+Shattering Crystal - Charged,0,75,0,0,0,Standard,-,-,-,Crystal Staff,Rotten Crystal Staff,1.1
+Shattering Crystal - Charged,0,67,0,0,0,Standard,-,-,-,Crystal Staff,Rotten Crystal Staff,1.1
+Crystal Torrent,0,57,0,0,0,Standard,-,-,-,Crystal Staff,Rotten Crystal Staff,1.1
+Crystal Torrent,0,57,0,0,0,Standard,-,-,-,Crystal Staff,Rotten Crystal Staff,1.1
+Crystal Release,0,125,0,0,0,Standard,-,-,-,Crystal Staff,Rotten Crystal Staff,1.1
+Crystal Release,0,100,0,0,0,Standard,-,-,-,Crystal Staff,Rotten Crystal Staff,1.1
+Gravity Well,0,148,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Gravity Well - Charged,0,180,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Collapsing Stars,0,44,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Collapsing Stars,0,44,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Collapsing Stars - Charged,0,49,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Collapsing Stars - Charged,0,49,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Rock Sling,102,0,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Rock Sling - Charged,102,0,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Meteorite,180,100,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Meteorite,180,100,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Meteorite of Astel,185,105,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Meteorite of Astel,185,105,0,0,0,Standard,-,-,-,Meteorite Staff,-,1.3
+Oracle Bubbles,0,54,0,0,0,Standard,-,-,-,-,-,-
+Oracle Bubbles - Charged,0,65,0,0,0,Standard,-,-,-,-,-,-
+Great Oracular Bubble,0,298,0,0,0,Standard,-,-,-,-,-,-
+Great Oracular Bubble - Charged,0,355,0,0,0,Standard,-,-,-,-,-,-
+Briars of Sin,0,200,0,0,0,Standard,Bleed,95,-,Staff of the Guilty,-,1.2
+Briars of Sin,0,232,0,0,0,Standard,Bleed,95,-,Staff of the Guilty,-,1.2
+Briars of Sin,0,233,0,0,0,Standard,Bleed,95,-,Staff of the Guilty,-,1.2
+Briars of Punishment,0,212,0,0,0,Standard,Bleed,72,-,Staff of the Guilty,-,1.2
+Rancorcall,0,54,0,0,0,Standard,-,-,-,Prince of Death's Staff,-,1.1
+Rancorcall - Charged,0,57,0,0,0,Standard,-,-,-,Prince of Death's Staff,-,1.1
+Ancient Death Rancor,0,49,0,0,0,Standard,-,-,-,Prince of Death's Staff,-,1.1
+Ancient Death Rancor - Charged,0,52,0,0,0,Standard,-,-,-,Prince of Death's Staff,-,1.1
+Explosive Ghostflame,0,312,0,0,0,Standard,Frost,130,-,Prince of Death's Staff,-,1.1
+Explosive Ghostflame,0,60,0,0,0,Standard,Frost,38,-,Prince of Death's Staff,-,1.1
+Fia's Mist,0,0,0,0,0,Standard,Death,20,-,Prince of Death's Staff,-,1.1
+Fia's Mist - Charged,0,0,0,0,0,Standard,Death,20,-,Prince of Death's Staff,-,1.1
+Tibia's Summons,0,125,0,0,0,Slash,-,-,-,Prince of Death's Staff,-,1.1
+Urgent Heal,0,0,0,0,0,Standard,-,-,1.15,-,-,-
+Heal,0,0,0,0,0,Standard,-,-,2.3,-,-,-
+Heal (AoE),0,0,0,0,0,Standard,-,-,1.15,-,-,-
+Great Heal,0,0,0,0,0,Standard,-,-,3.64,-,-,-
+Great Heal (AoE),0,0,0,0,0,Standard,-,-,2.07,-,-,-
+Lord's Heal,0,0,0,0,0,Standard,-,-,4.2,-,-,-
+Lord's Heal (AoE),0,0,0,0,0,Standard,-,-,2.1,-,-,-
+Cure Poison,0,0,0,0,0,Standard,-,-,-,-,-,-
+Lord's Aid,0,0,0,0,0,Standard,-,-,-,-,-,-
+Lord's Aid (AoE),0,0,0,0,0,Standard,-,-,-,-,-,-
+Magic Fortification,,,,,,Standard,-,-,-,-,-,-
+Flame Fortification,,,,,,Standard,-,-,-,-,-,-
+Lightning Fortification,,,,,,Standard,-,-,-,-,-,-
+Divine Fortification,,,,,,Standard,-,-,-,-,-,-
+Lord's Divine Fortification,,,,,,Standard,-,-,-,-,-,-
+Lord's Divine Fortification (AoE),,,,,,Standard,-,-,-,-,-,-
+Rejection,0,0,0,0,0,Standard,-,-,-,-,-,-
+Rejection - Charged,0,0,0,0,0,Standard,-,-,-,-,-,-
+Shadow Bait,0,0,0,0,0,Standard,-,-,-,-,-,-
+Shadow Bait,0,0,0,0,0,Standard,-,-,-,-,-,-
+Darkness,0,0,0,0,0,Standard,-,-,-,-,-,-
+Darkness,0,0,0,0,0,Standard,-,-,-,-,-,-
+Assassin's Approach,0,0,0,0,0,Standard,-,-,-,-,-,-
+Golden Vow,0,0,0,0,0,Standard,-,-,-,-,-,-
+Barrier of Gold,0,0,0,0,0,Standard,-,-,-,-,-,-
+Barrier of Gold (AoE),0,0,0,0,0,Standard,-,-,-,-,-,-
+Golden Lightning Fortification,0,0,0,0,0,Standard,-,-,-,-,-,-
+Golden Lightning Fortification (AoE),0,0,0,0,0,Standard,-,-,-,-,-,-
+Protection of the Erdtree,0,0,0,0,0,Standard,-,-,-,-,-,-
+Protection of the Erdtree (AoE),0,0,0,0,0,Standard,-,-,-,-,-,-
+Wrath of Gold,0,0,0,0,350,Standard,-,-,-,-,-,-
+Wrath of Gold (Charged),0,0,0,0,420,Standard,-,-,-,-,-,-
+Erdtree Heal,0,0,0,0,0,Standard,-,-,5.9,-,-,-
+Erdtree Heal (AoE),0,0,0,0,0,Standard,-,-,3.98,-,-,-
+Blessing's Boon,0,0,0,0,0,Standard,-,-,-,-,-,-
+Blessing's Boon (AoE),0,0,0,0,0,Standard,-,-,-,-,-,-
+Blessing of the Erdtree,0,0,0,0,0,Standard,-,-,-,-,-,-
+Blessing of the Erdtree (AoE),0,0,0,0,0,Standard,-,-,-,-,-,-
+Aspects of the Crucible: Breath,0,0,98,0,0,Standard,-,-,-,-,-,-
+Aspects of the Crucible: Tail,202,0,0,0,0,Standard,-,-,-,-,-,-
+Aspects of the Crucible: Tail,274,0,0,0,0,Standard,-,-,-,-,-,-
+Aspects of the Crucible: Horns,277,0,0,0,0,Standard,-,-,-,-,-,-
+Aspects of the Crucible: Horns,277,0,0,0,0,Standard,-,-,-,-,-,-
+Aspects of the Crucible: Horns (Charged),327,0,0,0,0,Standard,-,-,-,-,-,-
+Aspects of the Crucible: Horns (Charged),327,0,0,0,0,Standard,-,-,-,-,-,-
+Elden Stars,0,0,0,0,61,Standard,-,-,-,-,-,-
+Elden Stars,0,0,0,0,20,Standard,-,-,-,-,-,-
+Elden Stars,0,0,0,0,199,Standard,-,-,-,-,-,-
+Black Blade,0,0,0,0,225,Standard,-,-,-,-,-,-
+Black Blade (Bullet),0,0,0,0,162,Standard,-,-,-,-,-,-
+Black Blade,0,0,0,0,232,Standard,-,-,-,-,-,-
+Black Blade (Bullet),0,0,0,0,169,Standard,-,-,-,-,-,-
+Black Blade,0,0,0,0,225,Standard,-,-,-,-,-,-
+Black Blade (Bullet),0,0,0,0,162,Standard,-,-,-,-,-,-
+Black Blade,0,0,0,0,232,Standard,-,-,-,-,-,-
+Black Blade (Bullet),0,0,0,0,169,Standard,-,-,-,-,-,-
+Discus of Light,0,0,0,0,150,Standard,-,-,-,Golden Order Seal,-,1.1
+Discus of Light,0,0,0,0,150,Standard,-,-,-,Golden Order Seal,-,1.1
+Discus of Light,0,0,0,0,150,Standard,-,-,-,Golden Order Seal,-,1.1
+Discus of Light,0,0,0,0,150,Standard,-,-,-,Golden Order Seal,-,1.1
+Triple Rings of Light,0,0,0,0,155,Standard,-,-,-,Golden Order Seal,-,1.1
+Triple Rings of Light,0,0,0,0,155,Standard,-,-,-,Golden Order Seal,-,1.1
+Triple Rings of Light,0,0,0,0,155,Standard,-,-,-,Golden Order Seal,-,1.1
+Triple Rings of Light,0,0,0,0,155,Standard,-,-,-,Golden Order Seal,-,1.1
+Triple Rings of Light,0,0,0,0,155,Standard,-,-,-,Golden Order Seal,-,1.1
+Radagon's Rings of Light,0,0,0,0,310,Standard,-,-,-,Golden Order Seal,-,1.1
+Radagon's Rings of Light (Charged),0,0,0,0,395,Standard,-,-,-,Golden Order Seal,-,1.1
+Litany of Proper Death,0,0,0,0,56,Standard,-,-,-,Golden Order Seal,-,1.1
+Order Healing,0,0,0,0,0,Standard,-,-,-,Golden Order Seal,-,1.1
+Order's Blade,,,,,,Standard,-,-,-,Golden Order Seal,-,1.1
+Immutable Shield,,,,,,Standard,-,-,-,Golden Order Seal,-,1.1
+Law of Causality,0,0,0,0,0,Standard,-,-,-,Golden Order Seal,-,1.1
+Law of Regression,0,0,0,0,0,Standard,-,-,-,Golden Order Seal,-,1.1
+Law of Regression,0,0,0,0,0,Standard,-,-,-,Golden Order Seal,-,1.1
+Law of Regression,0,0,0,0,0,Standard,-,-,-,Golden Order Seal,-,1.1
+Law of Regression,0,0,0,0,0,Standard,-,-,-,Golden Order Seal,-,1.1
+Law of Regression,0,0,0,0,0,Standard,-,-,-,Golden Order Seal,-,1.1
+Law of Regression,0,0,0,0,0,Standard,-,-,-,Golden Order Seal,-,1.1
+Law of Regression,0,0,0,0,0,Standard,-,-,-,Golden Order Seal,-,1.1
+Lightning Spear,0,0,0,234,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Lightning Spear - Water AoE,0,0,0,50,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Lightning Spear (Charged),0,0,0,293,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Lightning Spear (Charged) - Water AoE,0,0,0,50,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Lightning Strike,0,0,0,246,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Lightning Strike - Water AoE,0,0,0,50,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Honed Bolt,0,0,0,205,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Honed Bolt - Water AoE,0,0,0,50,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Ancient Dragons' Lightning Spear,0,0,0,360,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Ancient Dragons' Lightning Spear,0,0,0,285,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Ancient Dragons' Lightning Spear,0,0,0,122,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Ancient Dragons' Lightning Strike,0,0,0,317,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Ancient Dragons' Lightning Strike - Water AoE,0,0,0,50,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Ancient Dragons' Lightning Strike (Charged),0,0,0,379,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Ancient Dragons' Lightning Strike (Charged) - Water AoE,0,0,0,50,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Lansseax's Glaive (Bullet),0,0,0,167,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Lansseax's Glaive,0,0,0,325,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Lansseax's Glaive,0,0,0,325,0,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Fortissax's Lightning Spear 1,0,0,0,367,0,Standard,-,-,-,-,-,-
+Fortissax's Lightning Spear 1,0,0,0,288,0,Standard,-,-,-,-,-,-
+Fortissax's Lightning Spear 1,0,0,0,122,0,Standard,-,-,-,-,-,-
+Fortissax's Lightning Spear 2,0,0,0,374,0,Standard,-,-,-,-,-,-
+Fortissax's Lightning Spear 2,0,0,0,292,0,Standard,-,-,-,-,-,-
+Fortissax's Lightning Spear 2,0,0,0,123,0,Standard,-,-,-,-,-,-
+Frozen Lightning Spear,0,0,0,240,0,Standard,Frost,120,-,Gravel Stone Seal,-,1.15
+Frozen Lightning Spear,0,0,0,307,0,Standard,Frost,120,-,Gravel Stone Seal,-,1.15
+Death Lightning,0,0,0,513,0,Standard,Death,50,-,Gravel Stone Seal,-,1.15
+Death Lightning,0,0,0,0,0,Standard,Death,30,-,Gravel Stone Seal,-,1.15
+Death Lightning (Charged),0,0,0,564,0,Standard,Death,50,-,Gravel Stone Seal,-,1.15
+Death Lightning (Charged),0,0,0,0,0,Standard,Death,30,-,Gravel Stone Seal,-,1.15
+Electrify Armament,,,,,,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Dragonbolt Blessing,,,,,,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Vyke's Dragonbolt,,,,,,Standard,-,-,-,Gravel Stone Seal,-,1.15
+Catch Flame,0,0,225,0,0,Standard,-,-,-,-,-,-
+"O, Flame!",0,0,280,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"O, Flame! (Charged)",0,0,385,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+Flame Sling,0,0,202,0,0,Standard,-,-,-,-,-,-
+Flame Sling,0,0,202,0,0,Standard,-,-,-,-,-,-
+Flame Sling (Charged),0,0,255,0,0,Standard,-,-,-,-,-,-
+Flame Sling (Charged),0,0,255,0,0,Standard,-,-,-,-,-,-
+Giantsflame Take Thee,0,0,325,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+Giantsflame Take Thee,0,0,389,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Fall Upon Them",0,0,115,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Fall Upon Them",0,0,115,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Fall Upon Them",0,0,115,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Fall Upon Them (Charged)",0,0,140,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Fall Upon Them (Charged)",0,0,140,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Fall Upon Them (Charged)",0,0,140,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+Flame of the Fell God,0,0,415,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+Flame of the Fell God,0,0,35,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Surge, O Flame!",0,0,51,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Whirl, O Flame!",0,0,96,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Whirl, O Flame!",0,0,121,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Burn, O Flame!",0,0,288,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Cleanse Me",0,0,0,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Cleanse Me",0,0,0,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Cleanse Me",0,0,0,0,0,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Protect Me",,,,,,Standard,-,-,-,Giant's Seal,-,1.2
+"Flame, Grant Me Strength",,,,,,Standard,-,-,-,Giant's Seal,-,1.2
+Fire's Deadly Sin,,,,,,Standard,-,-,-,-,-,-
+Fire's Deadly Sin (Charged,,,,,,Standard,-,-,-,-,-,-
+Black Flame,0,0,244,0,0,Standard,-,-,-,Godslayer's Seal,-,1.1
+Black Flame (Charged),0,0,300,0,0,Standard,-,-,-,Godslayer's Seal,-,1.1
+Scouring Black Flame,0,0,255,0,0,Standard,-,-,-,Godslayer's Seal,-,1.1
+Scouring Black Flame (Charged),0,0,299,0,0,Standard,-,-,-,Godslayer's Seal,-,1.1
+Black Flame Ritual,0,0,106,0,0,Standard,-,-,-,Godslayer's Seal,-,1.1
+Black Flame Ritual,0,0,106,0,0,Standard,-,-,-,Godslayer's Seal,-,1.1
+Black Flame Ritual (Charged),0,0,109,0,0,Standard,-,-,-,Godslayer's Seal,-,1.1
+Black Flame Ritual (Charged),0,0,109,0,0,Standard,-,-,-,Godslayer's Seal,-,1.1
+Black Flame Blade,,,,,,Standard,-,-,-,Godslayer's Seal,-,1.1
+Black Flame's Protection,,,,,,Standard,-,-,-,Godslayer's Seal,-,1.1
+Noble Presence,0,0,239,0,0,Standard,-,-,-,-,-,-
+Noble Presence (Charged),0,0,279,0,0,Standard,-,-,-,-,-,-
+Beast Claw,193,0,0,0,0,Standard,-,-,-,Clawmark Seal,-,1.1
+Beast Claw (Charged),222,0,0,0,0,Standard,-,-,-,Clawmark Seal,-,1.1
+Gurranq's Beast Claw,225,0,0,0,0,Standard,-,-,-,Clawmark Seal,-,1.1
+Bestial Sling,87,0,0,0,0,Standard,-,-,-,Clawmark Seal,-,1.1
+Stone of Gurranq,245,0,0,0,0,Standard,-,-,-,Clawmark Seal,-,1.1
+Bestial Constitution,0,0,0,0,0,Standard,-,-,-,Clawmark Seal,-,1.1
+Bestial Vitality,,,,,,Standard,-,-,-,Clawmark Seal,-,1.1
+Swarm of Flies,52,0,0,0,0,Standard,-,-,-,-,-,-
+Swarm of Flies,15,0,0,0,0,Standard,Bleed,70 + 4,-,-,-,-
+Bloodflame Talons,0,0,236,0,0,Standard,Bleed,5,-,-,-,-
+Bloodboon,0,0,159,0,0,Standard,Bleed,3,-,-,-,-
+Bloodboon,0,0,44,0,0,Standard,Bleed,3,-,-,-,-
+Bloodflame Blade,,,,,,Standard,Bleed,2,-,-,-,-
+Poison Mist,0,0,0,0,0,Standard,Poison,20,-,-,-,-
+Poison Armament,,,,,,Standard,Poison,70,-,-,-,-
+Pest Threads,60,0,0,0,0,Standard,-,-,-,-,-,-
+Scarlet Aeonia,40,0,0,0,0,Standard,-,-,-,-,-,-
+Scarlet Aeonia,362,0,0,0,0,Standard,-,-,-,-,-,-
+Scarlet Aeonia,60,0,0,0,0,Standard,Rot,150,-,-,-,-
+The Flame of Frenzy,0,0,107,0,0,Standard,Madness,21,-,Frenzied Flame Seal,-,1.2
+The Flame of Frenzy,0,0,107,0,0,Standard,Madness,21,-,Frenzied Flame Seal,-,1.2
+The Flame of Frenzy - Self-Madness,0,0,0,0,0,Standard,Madness,4,-,Frenzied Flame Seal,-,1.2
+The Flame of Frenzy (Charged),0,0,124,0,0,Standard,Madness,28,-,Frenzied Flame Seal,-,1.2
+The Flame of Frenzy (Charged),0,0,124,0,0,Standard,Madness,28,-,Frenzied Flame Seal,-,1.2
+The Flame of Frenzy - Self-Madness (Charged),0,0,0,0,0,Standard,Madness,4,-,Frenzied Flame Seal,-,1.2
+Unendurable Frenzy,0,0,125,0,0,Standard,Madness,40,-,Frenzied Flame Seal,-,1.2
+Unendurable Frenzy,0,0,125,0,0,Standard,Madness,40,-,Frenzied Flame Seal,-,1.2
+Unendurable Frenzy - Self-Madness,0,0,0,0,0,Standard,Madness,3,-,Frenzied Flame Seal,-,1.2
+Frenzied Burst,0,0,250,0,0,Standard,Madness,90,-,Frenzied Flame Seal,-,1.2
+Frenzied Burst - Self-Madness,,,,,,Standard,Madness,20,-,Frenzied Flame Seal,-,1.2
+Frenzied Burst (Charged),0,0,309,0,0,Standard,Madness,105,-,Frenzied Flame Seal,-,1.2
+Frenzied Burst -Self-Madness (Charged),,,,,,Standard,Madness,30,-,Frenzied Flame Seal,-,1.2
+Howl of Shabriri,22,0,0,0,0,Standard,Madness,35,-,Frenzied Flame Seal,-,1.2
+Howl of Shabriri - Self-Madness,0,0,0,0,0,Standard,Madness,6,-,Frenzied Flame Seal,-,1.2
+Inescapable Frenzy,70,0,0,0,0,Standard,Madness,50,-,Frenzied Flame Seal,-,1.2
+Inescapable Frenzy,70,0,0,0,0,Standard,Madness,50,-,Frenzied Flame Seal,-,1.2
+Inescapable Frenzy - Self-Madness,0,0,0,0,0,Standard,Madness,14,-,Frenzied Flame Seal,-,1.2
+Inescapable Frenzy - Self-Madness,0,0,0,0,0,Standard,Madness,9,-,Frenzied Flame Seal,-,1.2
+Dragonfire,0,0,144,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Agheel's Flame,0,0,169,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Magma Breath,0,0,223,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Magma Breath,0,0,34,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Magma Breath,0,0,223,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Theodorix's Magma,0,0,315,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Theodorix's Magma,0,0,40,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Theodorix's Magma,0,0,315,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Glintstone Breath,0,159,0,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Smarag's Glintstone Breath,0,188,0,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Rotten Breath,131,0,0,0,0,Standard,Rot,65,-,Dragon Communion Seal,-,1.15
+Ekzykes's Decay,155,0,0,0,0,Standard,Rot,65,-,Dragon Communion Seal,-,1.15
+Dragonice,0,135,0,0,0,Standard,Frost,110,-,Dragon Communion Seal,-,1.15
+Borealis's Mist,0,158,0,0,0,Standard,Frost,110,-,Dragon Communion Seal,-,1.15
+Placidusax's Ruin,0,0,356,0,0,Standard,-,-,-,-,-,-
+Placidusax's Ruin,0,0,356,0,0,Standard,-,-,-,-,-,-
+Placidusax's Ruin,0,0,0,241,0,Standard,-,-,-,-,-,-
+Dragonclaw,395,0,0,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Dragonclaw,410,0,0,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Dragonclaw,395,0,0,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Dragonclaw,410,0,0,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Dragonclaw,253,0,0,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Dragonclaw,263,0,0,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Dragonmaw,628,0,0,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15
+Greyoll's Roar,320,0,0,0,0,Standard,-,-,-,Dragon Communion Seal,-,1.15

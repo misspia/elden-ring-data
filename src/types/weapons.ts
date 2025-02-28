@@ -129,3 +129,15 @@ export type PhysicalDamageTypeRaw =
   | "Strike/Pierce";
 
 export type PhysicalDamageType = Omit<PhysicalDamageTypeRaw, "-">;
+
+export type StatusEffectRaw =
+  | "-"
+  | "Bleed"
+  | "Death"
+  | "Frost"
+  | "Madness"
+  | "Poison"
+  | "Rot"
+  | "Sleep";
+
+export type StatusEffect = Omit<StatusEffectRaw, "-">;

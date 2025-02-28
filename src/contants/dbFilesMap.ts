@@ -9,6 +9,7 @@ import { levelUpCostFormatter } from "@/formatters/levelUpCost";
 import { weaponsEffectsFormatter } from "@/formatters/weaponsEffects";
 import { consumablesEffectsFormatter } from "@/formatters/consumablesEffects";
 import { greatRunesEffectsFormatter } from "@/formatters/greatRunesEffects";
+import { spellDamagesFormatter } from "@/formatters/spellDamages";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -82,10 +83,18 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   /**
    * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=69936079#gid=69936079
    */
+  // {
+  //   csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Great Runes.csv",
+  //   json: "great-runes-effects.json",
+  //   formatter: greatRunesEffectsFormatter,
+  // },
+  /**
+   * https://docs.google.com/spreadsheets/d/1ybiI1WgyRs67kGklUXeroi58KDab2KsU_hKutBORiW0/edit?gid=1699546889#gid=1699546889
+   */
   {
-    csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Great Runes.csv",
-    json: "great-runes-effects.json",
-    formatter: greatRunesEffectsFormatter,
+    csv: "Elden Ring Weapon Data Sheet (1.09) - Spell_Data.csv",
+    json: "spell-damages.json",
+    formatter: spellDamagesFormatter,
   },
 ];
 

@@ -68,3 +68,10 @@ Thanks to [sovietspaceship](https://github.com/sovietspaceship) for compiling th
 
 -  [Elden Ring PvP](https://discord.com/erpvp) PvP-oriented server with leaderboards, fight clubs and tourneys
 -  [?ServerName?](https://discord.gg/mT2JJjx) Server dedicated to modding
+
+## Other Comminity Resources
+
+- [Bosses checklist](https://docs.google.com/spreadsheets/d/16W-7iKQ5hUTo5EGw4BWL6tec4HVWqjNorrwmaSnhLIY/edit?gid=764704990#gid=764704990)
+  -[Original Reddit post](https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/)
+- [Bosses chart (categorized)](https://www.reddit.com/r/Eldenring/comments/13ypwet/updated_chart_of_all_the_elden_ring_bosses/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+- [Bosess with nice images](https://eldenring.fandom.com/wiki/Bosses)
