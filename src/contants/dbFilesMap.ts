@@ -14,6 +14,7 @@ import { weaponsAffinitiesFormatter } from "@/formatters/weaponsAffinities";
 import { armorsFormatter } from "@/formatters/armors";
 import { magicFormatter } from "@/formatters/magic";
 import { talismansFormatter } from "@/formatters/talismans";
+import { spiritAshesFormatter } from "@/types/spiritAshes";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -130,10 +131,18 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   /**
    * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1804084520#gid=1804084520
    */
+  // {
+  //   csv: "Elden Ring Item Data Sheet (1.09) - Talismans.csv",
+  //   json: "talismans.json",
+  //   formatter: talismansFormatter,
+  // },
+  /**
+   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=525203103#gid=525203103
+   */
   {
-    csv: "Elden Ring Item Data Sheet (1.09) - Talismans.csv",
-    json: "talismans.json",
-    formatter: talismansFormatter,
+    csv: "Elden Ring Item Data Sheet (1.09) - Spirit Ashes.csv",
+    json: "spirit-ashes.json",
+    formatter: spiritAshesFormatter,
   },
 ];
 
