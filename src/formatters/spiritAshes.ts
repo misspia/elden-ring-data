@@ -1,5 +1,5 @@
 import { JSONFormatter } from "@/types/files";
-import { ResistanceValue, ResistanceValueRaw } from "./stats";
+import { ResistanceValue, ResistanceValueRaw } from "@/types/stats";
 
 type UnformattedSpiritAsh = {
   Name: string;

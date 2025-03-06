@@ -1,0 +1,672 @@
+[
+  {
+    "name": "Sliver of Meat",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting herbivorous beasts",
+    "caption": "A slice of thinly carved beast flesh.\nMaterial used for crafting items.\nFound by hunting herbivorous beasts.\n\nThe dried meat toughens the constitution.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Strip of White Flesh",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting creatures bloodless creatures",
+    "caption": "Thin strips of flesh taken from a bloodless creature.\nMaterial used for crafting items.\n\nThe dried meat toughens the constitution, boosting resistance. It's known for its long-lasting effect.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Beast Liver",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting herbivorous beasts",
+    "caption": "The fresh liver of a beast; a luscious fruit of life.\nMaterial used for crafting items.\nFound by hunting herbivorous beasts.\n\nDried liver boosts damage negation.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Lump of Flesh",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting carnivorous beasts",
+    "caption": "A lump of beast flesh filled with rich juices.\nMaterial used for crafting items.\nFound by hunting carnivorous beasts.\n\nMeat suitable for a rustic feast.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Turtle Neck Meat",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting turtles",
+    "caption": "A splendid, lengthy cut of turtle neck meat.\nMaterial used for crafting items.\n\nConsidered an especially nutritious ingredient In the south of the Lands Between.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Beast Blood",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting carnivorous beasts",
+    "caption": "Fresh beast blood, glinting with gold.\nMaterial used for crafting items.\nFound by hunting carnivorous beasts.\n\nThis glimmering blood never rots or decays.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 50
+  },
+  {
+    "name": "Albinauric Bloodclot",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by killing Albinaurics",
+    "caption": "The thick, coagulated blood of the Albinaurics.\nMaterial used for crafting items.\n\nAlbinaurics are lifeforms made by human hands.\nThus, many believe them to live impure lives, untouched by the Erdtree's grace.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Budding Horn",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting herbivorous beasts",
+    "caption": "A rarely-seen specimen of a young, budding horn.\nMaterial used for crafting items.\nFound by hunting herbivorous beasts.\n\nThis horn began to sprout on a beast that typically bears no horn. Perhaps it's a vestige of the primordial crucible.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Old Fang",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting carnivorous beasts",
+    "caption": "A rarely-seen specimen of beast fang.\nMaterial used for crafting items.\nFound by hunting carnivorous beasts.\n\nThese multiple, overlapping fangs grow from a single root. Perhaps they're a vestige of the primordial crucible.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 50
+  },
+  {
+    "name": "Flight Pinion",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting birds",
+    "caption": "Flight feather of birds.\n\nMaterial used for crafting items.\n\nCommonly used for arrow fletchings.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Stormhawk Feather",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by killing stormhawks",
+    "caption": "A feather from a hawk that lived as one with the storms.\nMaterial used for crafting items.\n\nThese feathers, enveloped in swirling winds, are often used for arrow fletching.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 50
+  },
+  {
+    "name": "Four-Toed Fowl Foot",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting birds",
+    "caption": "A four-toed fowl's foot.\nMaterial used for crafting items.\n\nIn the Lands Between, having three digits is seen as a bad omen. As such, the four-toed fowl's foot is a gift of great luck indeed.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Slumbering Egg",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting owls",
+    "caption": "Owl eggs that will never hatch.\nMaterial used for crafting items.\n\nPrized as a symbol of the most sublime slumber.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Crab Eggs",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting large crabs",
+    "caption": "Eggs of large crabs which dwell in the shallows.\nMaterial used for crafting items.\n\nA nutritious foodstuff that warms from within.\nThe flavor is exquisite.\nOnly those of comfort and means know the truth:\na crab's eggs are more delectable than its meat.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Land Octopus Ovary",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting land octopuses",
+    "caption": "Puffy, milky white ovary of a land octopus.\nMaterial used for crafting items.\n\nLand octopuses eat humans in order to bear young, and theirs is the blood that runs through these ovaries.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Thin Beast Bones",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting beasts",
+    "caption": "Thin, hard beast bones.\nMaterial used for crafting items.\nFound by hunting beasts.\n\nCommonly used to make disposable weapons.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Hefty Beast Bone",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting particularly large beasts",
+    "caption": "Thick, solid beast bones.\nMaterial used for crafting items.\nFound by hunting particularly large beasts.\n\nCommonly used to make disposable weapons.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Human Bone Shard",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting Those Who Live in Death",
+    "caption": "Fragment of bone with dun mottling.\nMaterial used for crafting items.\nFound by hunting Those Who Live in Death.\n\nLamentably brittle, it crumbles at the lightest caress.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Great Dragonfly Head",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by hunting large dragonflies",
+    "caption": "Head of a large dragonfly.\nMaterial used for crafting items.\n\nLong believed to have the ability to neutralize poisons.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Gold Firefly",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found near waters close to Minor Erdtrees",
+    "caption": "Firefly that gives off a golden light.\nMaterial used in crafting items.\nFound near bodies of water close to Minor Erdtrees.\n\nThe light of fireflies is believed to have an alluring magic. Golden light is considered to invite runes.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Silver Firefly",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found near cold waters untouched by sunlight",
+    "caption": "Firefly that gives off a silvery light.\nMaterial used in crafting items.\nFound near bodies of cold water untouched by sunlight.\n\nThe light of fireflies is believed to have an alluring magic. Silver light is considered to invite riches.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Glintstone Firefly",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Widely found in Liurnia Lake",
+    "caption": "A firefly whose glowing tail has hardened into\nglintstone, widely found in Liurnia Lake.\nMaterial used for crafting items.\n\nAlas, now that its tail is glintstone,\nit can no longer beguile potential mates.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Smoldering Butterfly",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found near wildfires and elsewhere",
+    "caption": "An eternally burning butterfly found near wildfires and elsewhere.\nMaterial used for crafting items.\n\nServes as the kindling for a number of items.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Aeonian Butterfly",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found in the Swamp of Aeonia",
+    "caption": "A butterfly with withered, scarlet wings found in the Swamp of Aeonia.\n\nMaterial used for crafting items.\n\nAccording to myth, these butterflies were once the wings of the Goddess of Rot herself.",
+    "rarity": "Purple",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Nascent Butterfly",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Exceedingly rare to find",
+    "caption": "An arcane butterfly with translucent wings.\nMaterial used for crafting items. Exceedingly rare to find.\n\nThis butterfly appears as if it's just emerged from its cocoon for its entire life.",
+    "rarity": "Purple",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Golden Centipede",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found near churches and similar",
+    "caption": "The golden, desiccated remains of a centipede.\nMaterial used for crafting items.\n\nKept as a fetish by Golden Order fundamentalists, especially the hunters of Those Who Live in Death.\nAs such, they're found near churches and similar.",
+    "rarity": "Purple",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Living Jar Shard",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by killing living jars",
+    "caption": "A fragment of a living jar, hardened after its death.\nMaterial used for crafting items.\n\nSuch fragments command a high price due to the magical power locked within. This leaves the living jars unfortunate targets for poachers.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 200
+  },
+  {
+    "name": "Silver Tear Husk",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found in and around the Eternal City",
+    "caption": "A hardened husk shed by a formless life form known as the Silver Tear, found in and around the Eternal City.\nMaterial used for crafting items.\n\nThe Silver Tear makes mockery of life, reborn again and again into imitation.\nPerhaps, one day, it will be reborn a lord...",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Gold-Tinged Excrement",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Often hidden in woods and thickets",
+    "caption": "Someone's excrement. It has a golden tinge.\nMaterial used for crafting items.\nOften hidden in woods and thickets.\n\nGold-tinged excrement is a highly stable substance; it doesn't dry out, nor does it lose its customary warmth or scent. For better or for worse, it remains as it is.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Blood-Tainted Excrement",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found in the land of the new dynasty",
+    "caption": "The bloody excrement of a carnivorous beast.\nMaterial used for crafting items.\nFound in the land of the new dynasty.\n\nMixed inside with half-digested flesh are dense colonies of tiny eggs of unknown but assuredly revolting origin.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Yellow Ember",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found in lands afflicted by frenzy",
+    "caption": "An ember taken from the eye socket of a corpse.\nMaterial used for crafting items.\n\nA sign that the deceased suffered from the flame of frenzy. This grape has ripened and burst.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Rowa Fruit",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Easily found everywhere in the Lands Between",
+    "caption": "Berry-like red fruits that grow in shrubs.\nMaterial used for crafting items.\n\nEasily found everywhere in the Lands Between, it has a wide variety of uses.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Golden Rowa",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Easily found near the Erdtree",
+    "caption": "A Rowa fruit tinted with gold.\nMaterial used for crafting items.\n\nEasily found near the Erdtree.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Rimed Rowa",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found in frigid highlands",
+    "caption": "A berry-like fruit, thought to be the original strain of Rowa.\nMaterial used for crafting items.\nFound in frigid highlands.\n\nThis hardy species takes root even when frozen solid.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Herba",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found in thickets and elsewhere",
+    "caption": "Evergreen leaves that give off a faint light.\nMaterial used for crafting items.\n\nThis very common medicinal plant can be found in thickets and elsewhere.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Dewkissed Herba",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found in and around the Eternal City",
+    "caption": "A herb that grows in the false night in and around the Eternal City.\nMaterial used for crafting items.\n\nSoaked in arcane dew, it gives off the faint glow of starlight.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Arteria Leaf",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Exceedingly rare to find",
+    "caption": "Dark red leaves with thick, swollen veins.\nMaterial used for crafting items.\nExceedingly rare to find.\n\nA faint pulse can be felt in the veins.\nStirs the blood, providing an enlivening effect.",
+    "rarity": "Purple",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Mushroom",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Thrives in damp thickets and elsewhere",
+    "caption": "A fungal growth that thrives in damp thickets and elsewhere. Material used for crafting items.\n\nIts thick, spongy flesh makes it a key component in throwing pots.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Toxic Mushroom",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Grows in rotten lands",
+    "caption": "A mushroom covered in toxic mold that grows in rotten lands. Material used for crafting items.\n\nA skilled hand can repurpose its toxic mold into an effective ward against scarlet rot.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Melted Mushroom",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found in and around the Eternal City",
+    "caption": "A mushroom that grows in the false night in and around the Eternal City.\nMaterial used for crafting items.\n\nIt drips with a viscous fluid that behaves much like oil.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Erdleaf Flower",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found throughout the Lands Between",
+    "caption": "A dusky yellow flower that has started to fade to brown, found throughout the Lands Between.\nMaterial used for crafting items.\n\nSaid to be fed by leaves that fell from the Erdtree in days of antiquity.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Faded Erdleaf Flower",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Blooms in rotten lands",
+    "caption": "An Erdleaf flower that has faded to a pale scarlet, found blooming in rotten lands.\nMaterial used in crafting items.\n\nSaid to be fed by leaves that fell from the Erdtree in days of antiquity.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Fire Blossom",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Blooms on the Mountaintops of the Giants",
+    "caption": "A half-ashen and smoldering flower that blooms on the Mountaintops of the Giants.\nMaterial used for crafting items.\n\nFertilized by the sparks from the forge at the peak where burns the flame of ruin.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Poisonbloom",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Blooms in toxic terrain",
+    "caption": "Flower that grows in toxic terrain.\nMaterial used for crafting items.\n\nDripping with a deep-green poisonous liquid.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Fulgurbloom",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Blooms in lightning-struck lands",
+    "caption": "Yellow flower that grows in lightning-struck lands.\nMaterial used for crafting items.\n\nImbued with traces of lightning's essence.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Altus Bloom",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Blooms on the Altus Plateau",
+    "caption": "A golden-tinged flower from a succulent plant that blooms on the Altus Plateau.\nMaterial used for crafting items.\n\nSaid to be a funereal flower in an era long past, before the Erdtree grew.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Bloodrose",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Blooms in blood-soaked soil",
+    "caption": "Blood-slick roses that bloom in blood-soaked soil.\nMaterial used for crafting items.\n\nParticularly beloved by those who serve the Lord of Blood. Glory to his inevitable reign.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Grave Violet",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Blooms in graveyards",
+    "caption": "A purple flower that blooms in graveyards.\nMaterial used for crafting items.\n\nThe hue of ghostflame, it's believed to be useful in calling forth spirits.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Tarnished Golden Sunflower",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found near Minor Erdtrees",
+    "caption": "A large flower that blooms facing the Erdtree.\nMaterial used for crafting items.\nFound near Minor Erdtrees.\n\nThough wilted and faded, it still retains holy essence.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Golden Sunflower",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found near Minor Erdtrees",
+    "caption": "A golden sunflower that grows facing the Erdtree.\nMaterial used for crafting items.\nFound near Minor Erdtrees.\n\nAt the foot of the Erdtree, they retain their color, along with a powerful holy essence.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Trina's Lily",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Exceedingly rare to find",
+    "caption": "A light-purple water lily that is on the verge of wilting.\nMaterial used for crafting items.\nExceedingly rare to find.\n\nA symbol of faith in St. Trina.\nDulls the senses, preventing agitation.",
+    "rarity": "Purple",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Miquella's Lily",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Exceedingly rare to find",
+    "caption": "A delicate water lily of unalloyed gold that has started to fade and wilt.\nMaterial used for crafting items.\nExceedingly rare to find.\n\nA flower signifying faith in the Haligtree.\nThought to be beloved by the Empyrean Miquella in his youth.",
+    "rarity": "Purple",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Crystal Bud",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Widely found in Liurnia Lake",
+    "caption": "A young plant, crystalized before it could mature.\nMaterial used for crafting items.\n\nWidely found in Liurnia Lake.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Rimed Crystal Bud",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Widely found in cold regions",
+    "caption": "A young plant, frozen into a crystal before it could mature. Material used for crafting items.\n\nWidely found in cold regions.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Sacramental Bud",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Exceedingly rare to find",
+    "caption": "An immature bud containing fresh blood.\nMaterial used for crafting items.\n\nBelieved to originate long ago from a strain of buds cultivated with youthful, sacramental blood.",
+    "rarity": "Purple",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Eye of Yelough",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Grown in lands afflicted by frenzy",
+    "caption": "A shrub fruit bursting with ripened pulp.\nMaterial used for crafting items.\n\nGrown in lands afflicted by frenzy, it's used for its pain-relieving properties... Though it's also known to be a dangerous intoxicant.",
+    "rarity": "Purple",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Miranda Powder",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found by killing miranda flowers",
+    "caption": "Pollen from a man-eating miranda flower.\nMaterial used for crafting items.\n\nThroughout history, perfumers have prized this extremely fragrant form of miranda pollen, not yet scattered into the air.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Root Resin",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Secreted from the roots of the Greattree. Can also be found near trees on the surface.",
+    "caption": "Resin secreted from the roots of the Greattree.\nCan also be found near trees on the surface.\nMaterial used in crafting items.\n\nThe roots of the Greattree were once linked to those of the Erdtree, or so they say, and it is for this reason catacombs are built around Greattree roots.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Cave Moss",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Gives off pale light in dark caves",
+    "caption": "Faintly luminescent moss that grows in dark caves.\nMaterial used in crafting items.\n\nA fundamental ingredient for medicinal boluses.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Budding Cave Moss",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Gives off pale light in dark caves",
+    "caption": "Faintly luminescent moss that grows in dark caves, speckled with tiny, yellow flowers.\n\nMaterial used for crafting items.\n\nIt is primarily used in perfumes.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Crystal Cave Moss",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Gives off pale light in dark caves",
+    "caption": "Faintly luminescent moss that grows in dark caves, laced with fine crystals.\n\nMaterial used for crafting items.\n\nAmong mosses, it possesses unique medicinal properties.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "String",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Often carried by demi-humans",
+    "caption": "Boasting no special qualities, this is merely a goodly length of string.\n\nMaterial used for crafting items.\nOften carried by demi-humans.\n\nUsed to make certain items easier to use.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Sanctuary Stone",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found near the remains of fallen ruins, but rarely",
+    "caption": "A rare piece of stone fragment found near places where ruins have fallen from the sky.\nMaterial used for crafting items.\n\nIt feeds and strengthens the light as it shines.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Cracked Crystal",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Widely found in crystal tunnels",
+    "caption": "A cracked, impure, degraded, and altogether unremarkable crystal.\nMaterial used for crafting items.\n\nWidely found in crystal tunnels.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Volcanic Stone",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found on Mt. Gelmir",
+    "caption": "A smoldering rock containing hot gas.\nMaterial used for crafting items.\n\nFound on Mt. Gelmir.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 10
+  },
+  {
+    "name": "Formic Rock",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found near Ainsel River and other places where giant ants live",
+    "caption": "Rock formed from solidified giant ant venom. Highly acidic. Material used for crafting items.\n\nFound near Ainsel River and other places where giant ants live.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Gravel Stone",
+    "effect": "Material used for crafting items",
+    "obtainedBy": "Found in lands once beset by ancient dragons",
+    "caption": "A small clump of sharp, pointed stones.\nMaterial used for crafting items.\n\nSuch compound stones, found in lands once beset by ancient dragons, are said to be the scales of those very beasts.",
+    "rarity": "Purple",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  }
+]
