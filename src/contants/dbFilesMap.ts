@@ -18,6 +18,7 @@ import { spiritAshesFormatter } from "@/formatters/spiritAshes";
 import { craftingMaterialsFormatter } from "@/formatters/craftingMaterials";
 import { ammunitionFormatter } from "@/formatters/ammunition";
 import { consumableWeaponsFormatter } from "@/formatters/consumableWeapons";
+import { bolsteringMaterialsFormatter } from "@/formatters/bolsteringMaterials";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -170,6 +171,14 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
     csv: "Elden Ring Item Data Sheet (1.09) - Other Weapons.csv",
     json: "consumable-weapons.json",
     formatter: consumableWeaponsFormatter,
+  },
+  /**
+   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=478384990#gid=478384990
+   */
+  {
+    csv: "Elden Ring Item Data Sheet (1.09) - Bolstering Materials.csv",
+    json: "bolstering-materials.json",
+    formatter: bolsteringMaterialsFormatter,
   },
 ];
 

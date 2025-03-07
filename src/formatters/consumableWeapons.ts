@@ -1,5 +1,4 @@
 import { JSONFormatter } from "@/types/files";
-import { DropRarity, DropRarityRaw } from "@/types/items";
 import { OtherWeaponTypeRaw, PhysicalDamageTypeRaw } from "@/types/weapons";
 
 type UnformattedConsumableWeapon = {

@@ -1,0 +1,228 @@
+Name,Icon,Info,Caption,Drop Type,No. Held Max,Storage Max,Sell Price,ID,Icon ID,Sort Group ID,Sort ID
+Sacred Tear,,Improves Sacred Flask's potency,"Blessing of the Erdtree, worshiped in the churches of all lands; this is but a faint vestige.
+
+Increases the potency of a Sacred Flask's restorative effects.
+(Can be used after resting at a site of grace.)
+
+During the age of the Erdtree, these tears were used to spread the faith, for theirs was once a certain blessing.",Purple,99,600,-,10020,00384,10,150000
+Golden Seed,,Increases Sacred Flask's number of uses,"A golden seed, found at the base of an illusory tree.
+
+Increases a Sacred Flask's number of uses.
+(Can be used after resting at a site of grace.)
+
+When the Elden Ring was shattered, these seeds flew from the Erdtree, scattering across the various lands, as if life itself knew that its end had come.",Purple,99,600,-,10010,00383,10,150010
+Smithing Stone [1],,Reinforce armaments up to +3,"Stone used to smith a variety of armaments. A shard found in plenty.
+
+Strengthens armaments up to +3.
+
+Smithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",White (Large),999,999,100,10100,02000,20,151000
+Smithing Stone [2],,Reinforce armaments up to +6,"Stone used to smith a variety of armaments. A large shard found in plenty.
+
+Strengthens armaments up to +6.
+
+Smithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",White (Large),999,999,200,10101,02001,20,151010
+Smithing Stone [3],,Reinforce armaments up to +9,"Stone used to smith a variety of armaments. A particularly hard specimen.
+
+Strengthens armaments up to +9.
+
+Smithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",White (Large),999,999,300,10102,02002,20,151020
+Smithing Stone [4],,Reinforce armaments up to +12,"Stone used to smith a variety of armaments. A large and particularly hard specimen.
+
+Strengthens armaments up to +12.
+
+Smithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",White (Large),999,999,400,10103,02003,20,151030
+Smithing Stone [5],,Reinforce armaments up to +15,"Stone used to smith a variety of armaments. A rare specimen, it is tinged with gold.
+
+Strengthens armaments up to +15.
+
+Mined near the foot of the Erdtree, these stones are said to have been used to bolster the strength of the Royal forces.",White (Large),999,999,500,10104,02004,20,151040
+Smithing Stone [6],,Reinforce armaments up to +18,"Stone used to smith a variety of armaments. A larger rare specimen, it is tinged with gold.
+
+Strengthens armaments up to +18.
+
+Mined near the foot of the Erdtree, these stones are said to have been used to bolster the strength of the Royal forces.",White (Large),999,999,600,10105,02005,20,151050
+Smithing Stone [7],,Reinforce armaments up to +21,"Stone used to smith a variety of armaments. Found in a polar region, it is semi-vitrified.
+
+Strengthens armaments up to +21.
+
+Thought to have been used to hone the weapons of the champions of the War against the Giants at the birth of the Erdtree.",White (Large),999,999,700,10106,02006,20,151060
+Smithing Stone [8],,Reinforce armaments up to +24,"Stone used to smith a variety of armaments. Found in a polar region, it is semi-vitrified.
+
+Strengthens armaments up to +24.
+
+Thought to have been used to hone the weapons of the champions of the War against the Giants at the birth of the Erdtree.",White (Large),999,999,800,10107,02007,20,151070
+Ancient Dragon Smithing Stone,,Reinforce armaments to +25,"Smithing stone made by polishing a golden Gravel Stone. A scale of the Ancient Dragonlord, and hidden treasure of Farum Azula.
+
+Strengthens armaments to +25.
+
+The Ancient Dragonlord's seat is said to lie beyond time. This stone lightly twists time, allowing the creation of a weapon capable of slaying a god.",Gold,999,999,1000,10140,02008,20,151080
+Somber Smithing Stone [1],,Reinforce special armaments to +1,"Shard of smithing stone drained of color.
+
+Strengthens special armaments to +1.
+
+Special armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",White (Large),999,999,200,10160,02010,30,152000
+Somber Smithing Stone [2],,Reinforce special armaments to +2,"Large shard of smithing stone drained of color.
+
+Strengthens special armaments to +2.
+
+Special armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",White (Large),999,999,400,10161,02011,30,152010
+Somber Smithing Stone [3],,Reinforce special armaments to +3,"Hard smithing stone drained of color.
+
+Strengthens special armaments to +3.
+
+Special armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",White (Large),999,999,600,10162,02012,30,152020
+Somber Smithing Stone [4],,Reinforce special armaments to +4,"Large hard smithing stone drained of color.
+
+Strengthens special armaments to +4.
+
+Special armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",White (Large),999,999,800,10163,02013,30,152030
+Somber Smithing Stone [5],,Reinforce special armaments to +5,"Gold smithing stone drained of color.
+
+Strengthens special armaments to +5.
+
+Special armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",White (Large),999,999,1000,10164,02014,30,152040
+Somber Smithing Stone [6],,Reinforce special armaments to +6,"Large gold smithing stone drained of color.
+
+Strengthens special armaments to +6.
+
+Special armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",White (Large),999,999,1200,10165,02015,30,152050
+Somber Smithing Stone [7],,Reinforce special armaments to +7,"Polar smithing stone drained of color.
+
+Strengthens special armaments to +7.
+
+Special armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",White (Large),999,999,1400,10166,02016,30,152060
+Somber Smithing Stone [8],,Reinforce special armaments to +8,"Large polar smithing stone drained of color.
+
+Strengthens special armaments to +8.
+
+Special armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",White (Large),999,999,1600,10167,02017,30,152070
+Somber Smithing Stone [9],,Reinforce special armaments to +9,"Ancient smithing stone drained of color.
+
+Strengthens special armaments to +9.
+
+Special armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",White (Large),999,999,1800,10200,02020,30,152080
+Somber Ancient Dragon Smithing Stone,,Reinforce special armaments to +10,"Ancient dragonrock smithing stone drained of color. A scale of the Ancient Dragonlord, and hidden treasure of Farum Azula.
+
+Strengthens special armaments to +10.
+
+The Ancient Dragonlord's seat is said to lie beyond time. This stone lightly twists time, allowing the creation of a weapon capable of slaying a god.",Gold,999,999,2000,10168,02018,30,152090
+Grave Glovewort [1],,Strengthen ashes to +1,"White flower that blooms in catacombs.
+Each a soundless bell used to summon spirits.
+
+Strengthens ashes to +1.
+
+The art of strengthening ashes is known as spirit tuning. Only a spirit tuner may perform this deed.",White (Large),999,999,50,10900,02100,40,153000
+Grave Glovewort [2],,Strengthen ashes to +2,"White flower that blooms in catacombs.
+Each a soundless bell used to summon spirits.
+
+Strengthens ashes to +2.
+
+Spirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",White (Large),999,999,100,10901,02101,40,153010
+Grave Glovewort [3],,Strengthen ashes to +3,"White flower that blooms in catacombs.
+Each a soundless bell used to summon spirits.
+
+Strengthens ashes to +3.
+
+Spirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",White (Large),999,999,150,10902,02102,40,153020
+Grave Glovewort [4],,Strengthen ashes to +4,"White flower that blooms in catacombs.
+Each a soundless bell used to summon spirits.
+
+Strengthens ashes to +4.
+
+Spirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",White (Large),999,999,200,10903,02103,40,153030
+Grave Glovewort [5],,Strengthen ashes to +5,"White flower that blooms in catacombs.
+Each a soundless bell used to summon spirits.
+
+Strengthens ashes to +5.
+
+Spirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",White (Large),999,999,250,10904,02104,40,153040
+Grave Glovewort [6],,Strengthen ashes to +6,"White flower that blooms in catacombs.
+Each a soundless bell used to summon spirits.
+
+Strengthens ashes to +6.
+
+Spirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",White (Large),999,999,300,10905,02105,40,153050
+Grave Glovewort [7],,Strengthen ashes to +7,"White flower that blooms in catacombs.
+Each a soundless bell used to summon spirits.
+
+Strengthens ashes to +7.
+
+Spirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",White (Large),999,999,350,10906,02106,40,153060
+Grave Glovewort [8],,Strengthen ashes to +8,"White flower that blooms in catacombs.
+Each a soundless bell used to summon spirits.
+
+Strengthens ashes to +8.
+
+Spirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",White (Large),999,999,400,10907,02107,40,153070
+Grave Glovewort [9],,Strengthen ashes to +9,"White flower that blooms in catacombs.
+Each a soundless bell used to summon spirits.
+
+Strengthens ashes to +9.
+
+Spirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",White (Large),999,999,450,10908,02108,40,153080
+Great Grave Glovewort,,Strengthen ashes to +10,"White flower that blooms in catacombs.
+An especially large specimen.
+
+Strengthens ashes to +10.
+
+Since times of old, large gloveworts were used to comfort heroic spirits. Given in tribute to those who died the most glorious of deaths, in the hope their stories would become legend.",Gold,999,999,500,10909,02109,40,153090
+Ghost Glovewort [1],,Strengthen renowned ashes to +1,"White flower that blooms in catacombs.
+A spirit nestles close to it.
+
+Strengthens renowned ashes to +1.
+
+Ashes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",White (Large),999,999,100,10910,02110,40,153100
+Ghost Glovewort [2],,Strengthen renowned ashes to +2,"White flower that blooms in catacombs.
+A spirit nestles close to it.
+
+Strengthens renowned ashes to +2.
+
+Ashes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",White (Large),999,999,200,10911,02111,40,153110
+Ghost Glovewort [3],,Strengthen renowned ashes to +3,"White flower that blooms in catacombs.
+A spirit nestles close to it.
+
+Strengthens renowned ashes to +3.
+
+Ashes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",White (Large),999,999,300,10912,02112,40,153120
+Ghost Glovewort [4],,Strengthen renowned ashes to +4,"White flower that blooms in catacombs.
+A spirit nestles close to it.
+
+Strengthens renowned ashes to +4.
+
+Ashes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",White (Large),999,999,400,10913,02113,40,153130
+Ghost Glovewort [5],,Strengthen renowned ashes to +5,"White flower that blooms in catacombs.
+A spirit nestles close to it.
+
+Strengthens renowned ashes to +5.
+
+Ashes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",White (Large),999,999,500,10914,02114,40,153140
+Ghost Glovewort [6],,Strengthen renowned ashes to +6,"White flower that blooms in catacombs.
+A spirit nestles close to it.
+
+Strengthens renowned ashes to +6.
+
+Ashes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",White (Large),999,999,600,10915,02115,40,153150
+Ghost Glovewort [7],,Strengthen renowned ashes to +7,"White flower that blooms in catacombs.
+A spirit nestles close to it.
+
+Strengthens renowned ashes to +7.
+
+Ashes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",White (Large),999,999,700,10916,02116,40,153160
+Ghost Glovewort [8],,Strengthen renowned ashes to +8,"White flower that blooms in catacombs.
+A spirit nestles close to it.
+
+Strengthens renowned ashes to +8.
+
+Ashes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",White (Large),999,999,800,10917,02117,40,153170
+Ghost Glovewort [9],,Strengthen renowned ashes to +9,"White flower that blooms in catacombs.
+A spirit nestles close to it.
+
+Strengthens renowned ashes to +9.
+
+Ashes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",White (Large),999,999,900,10918,02118,40,153180
+Great Ghost Glovewort,,Strengthen renowned ashes to +10,"White flower that blooms in catacombs.
+A spirit nestles close to this grand specimen
+
+Strengthens renowned ashes to +10.
+
+Since times of old, large gloveworts were used to comfort heroic spirits. Given in tribute to those who died the most glorious of deaths, in the hope their stories would become legend.",Gold,999,999,1000,10919,02119,40,153190

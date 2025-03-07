@@ -1,1119 +1,1119 @@
 [
-  {
-    "name": "Throwing Dagger",
-    "type": "Damage",
-    "caption": "Short dagger for throwing. It has no handguard.\nThe blade is polished, and its weight is expertly balanced.\n\nThrow at enemies to deal damage.\n\nThis auxiliary weapon, used primarily to constrain an enemy's movements, can still be deadly in the right hands.",
-    "scaling": {
-      "strength": 95,
-      "dexterity": 145,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 67
-    },
-    "attackPower": {
-      "physical": 67,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "maxHeld": 40,
-    "sellPrice": 10,
-    "fpCost": 0
-  },
-  {
-    "name": "Bone Dart",
-    "type": "Damage",
-    "caption": "Animal bone sharpened into a knife for throwing.\nCraftable item.\n\nThrow at enemies to inflict damage.",
-    "scaling": {
-      "strength": 95,
-      "dexterity": 145,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 57
-    },
-    "attackPower": {
-      "physical": 57,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "maxHeld": 40,
-    "sellPrice": 10,
-    "fpCost": 0
-  },
-  {
-    "name": "Poisonbone Dart",
-    "type": "Damage",
-    "caption": "Animal bone sharpened into a knife for throwing, with a poison-laced tip.\nCraftable item.\n\nThrow at enemies to inflict damage and build up poison.",
-    "scaling": {
-      "strength": 40,
-      "dexterity": 80,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 50
-    },
-    "attackPower": {
-      "physical": 50,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "poison": 58
-    },
-    "maxHeld": 40,
-    "sellPrice": 10,
-    "fpCost": 0
-  },
-  {
-    "name": "Kukri",
-    "type": "Damage",
-    "caption": "A large knife used for throwing.\nIts curved blade is sharp enough to slice flesh cleanly.\n\nThrow at enemies to inflict damage and build up onset of blood loss.\n\nThis heavy throwing weapon is unsuitable for swift attacks, but is able to inflict heavy damage.",
-    "scaling": {
-      "strength": 155,
-      "dexterity": 185,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 87
-    },
-    "attackPower": {
-      "physical": 87,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 10
-    },
-    "baseBuildUp": {
-      "blood": 70
-    },
-    "maxHeld": 30,
-    "sellPrice": 10,
-    "fpCost": 0
-  },
-  {
-    "name": "Crystal Dart",
-    "type": "Damage",
-    "caption": "Throwing knife chiseled from impure crystal.\nCraftable item.\n\nConsumes FP. Throw at enemies to deal magic damage.\n\nLong ago, it is said that a golem crafter employed a similar crystal tool.",
-    "scaling": {
-      "strength": 40,
-      "dexterity": 80,
-      "intelligence": 135,
-      "faith": 0,
-      "arcane": 66
-    },
-    "attackPower": {
-      "physical": 66,
-      "magic": 44,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 10
-    },
-    "maxHeld": 40,
-    "sellPrice": 20,
-    "fpCost": 1
-  },
-  {
-    "name": "Fan Daggers",
-    "type": "Damage",
-    "caption": "A set of five throwing knives bundled together.\nA concealed weapon cherished by the raptor assassins.\n\nThe thin knives fan out when thrown, dealing damage to the target.\n\nEach knife deals paltry damage, but the wide range makes it suitable for constraining enemies.",
-    "scaling": {
-      "strength": 95,
-      "dexterity": 185,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 37
-    },
-    "attackPower": {
-      "physical": 37,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 2
-    },
-    "maxHeld": 40,
-    "sellPrice": 20,
-    "fpCost": 0
-  },
-  {
-    "name": "Ruin Fragment",
-    "type": "Damage",
-    "caption": "Stone fragment found near places where ruins have fallen from the sky.\nCan be used for crafting, or simply for throwing at enemies.\n\nThese shards of stone are believed to have once been part of a temple in the sky.\nThey glow with a faint light from within.",
-    "scaling": {
-      "strength": 155,
-      "dexterity": 75,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 1
-    },
-    "attackPower": {
-      "physical": 1,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "maxHeld": 999,
-    "sellPrice": 10,
-    "fpCost": 0
-  },
-  {
-    "name": "Explosive Stone",
-    "type": "Damage",
-    "caption": "A small stone with a smoldering core.\n\nExplodes when thrown at enemies, inflicting fire damage.\n\nMiners employ these stones as tools for rock blasting, but have long forgotten how to craft them.",
-    "scaling": {
-      "strength": 145,
-      "dexterity": 75,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 108,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 20
-    },
-    "maxHeld": 20,
-    "sellPrice": 50,
-    "fpCost": 0
-  },
-  {
-    "name": "Explosive Stone Clump",
-    "type": "Damage",
-    "caption": "A clump of small stones with smoldering cores.\n\nExplodes when thrown together at enemies, inflicting fire damage.\n\nMiners employ these stones as tools for rock blasting, but have long forgotten how to craft them.",
-    "scaling": {
-      "strength": 155,
-      "dexterity": 75,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 54,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "maxHeld": 20,
-    "sellPrice": 50,
-    "fpCost": 0
-  },
-  {
-    "name": "Poisoned Stone",
-    "type": "Damage",
-    "caption": "A small stone with a poison core.\n\nThrow at enemies to cause buildup of poison.\n\nMiners employ these stones as tools for pest extermination, but have long forgotten how to craft them.",
-    "scaling": {
-      "strength": 145,
-      "dexterity": 75,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 50
-    },
-    "attackPower": {
-      "physical": 50,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "poison": 100
-    },
-    "maxHeld": 20,
-    "sellPrice": 50,
-    "fpCost": 0
-  },
-  {
-    "name": "Poisoned Stone Clump",
-    "type": "Damage",
-    "caption": "A clump of small stones with poison cores.\n\nThrow together at enemies to cause buildup of poison.\n\nMiners employ these stones as tools for pest extermination, but have long forgotten how to craft them.",
-    "scaling": {
-      "strength": 155,
-      "dexterity": 75,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 32
-    },
-    "attackPower": {
-      "physical": 32,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 1
-    },
-    "baseBuildUp": {
-      "poison": 45
-    },
-    "maxHeld": 20,
-    "sellPrice": 50,
-    "fpCost": 0
-  },
-  {
-    "name": "Ancestral Infant's Head",
-    "type": "Damage",
-    "caption": "Skull of a very young ancestral spirit. Just think how many sproutings It might bear.\n\nUses FP to spray spirit vapor inflicting magic damage.\n\nThe vapor becomes a temporary geyser which deals continuous damage to everything it touches until it disappears.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 160,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 55,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "maxHeld": 1,
-    "sellPrice": null,
-    "fpCost": 27
-  },
-  {
-    "name": "Omen Bairn",
-    "type": "Damage",
-    "caption": "Doll of a curseborn bairn.\n\nUses FP to unleash wraiths that chase down foes.\n\nOmen babies have all their horns excised, causing most to perish. These fetishes are made to memorialize them.\n\n\"Please, don't hate me, or curse me. Please.\"",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 30,
-      "faith": 55,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 105,
-      "stamina": 90
-    },
-    "maxHeld": 1,
-    "sellPrice": null,
-    "fpCost": 24
-  },
-  {
-    "name": "Regal Omen Bairn",
-    "type": "Damage",
-    "caption": "Doll of a curseborn bairn from the Erdtree's royal line.\n\nUses FP to unleash many wraiths that chase down foes.\n\nOmen babies born of royalty do not have their horns excised, but instead are kept underground, unbeknownst to anyone, imprisoned for eternity.\n\nThese memorial fetishes are fashioned in secret.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 105,
-      "faith": 115,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 115,
-      "stamina": 90
-    },
-    "maxHeld": 1,
-    "sellPrice": null,
-    "fpCost": 50
-  },
-  {
-    "name": "Miranda's Prayer",
-    "type": "Damage",
-    "caption": "This statuette depicts a flower that preys on humans, posed in prayer.\n\nUses FP to call down a deluge of light.\n\nMiranda, maiden of the Flower Crucible is said to have been the very first of this breed.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 185,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 95,
-      "stamina": 10
-    },
-    "maxHeld": 1,
-    "sellPrice": null,
-    "fpCost": 43
-  },
-  {
-    "name": "Cuckoo Glintstone",
-    "type": "Damage",
-    "caption": "Lump of broken glintstone enwreathed with magic power. A \"faux sorcery\" used by the Knights of the Cuckoo. Craftable item.\n\nLaunched straight ahead, using FP. A magic bolt springs forth from the point of impact.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 135,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 92,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 15
-    },
-    "maxHeld": 10,
-    "sellPrice": 50,
-    "fpCost": 6
-  },
-  {
-    "name": "Glintstone Scrap",
-    "type": "Damage",
-    "caption": "Piece of glintstone tinged with unstable magic. Found in crystal tunnels.\n\nBreak gem, using FP to produce a magic bolt.\n\nPoor quality and thereby easily broken, a sorcerer wouldn't give it a second look.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 135,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 82,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 15
-    },
-    "maxHeld": 10,
-    "sellPrice": 100,
-    "fpCost": 4
-  },
-  {
-    "name": "Large Glintstone Scrap",
-    "type": "Damage",
-    "caption": "Large piece of glintstone tinged with unstable magic. Found in crystal tunnels.\n\nBreak gem, using FP to produce a magic bolt.\n\nPoor quality and thereby easily broken, a sorcerer wouldn't give it a second look.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 145,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 65,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 15
-    },
-    "maxHeld": 10,
-    "sellPrice": 100,
-    "fpCost": 10
-  },
-  {
-    "name": "Gravity Stone Fan",
-    "type": "Damage",
-    "caption": "Shard of rock found in the wake of a meteorite strike.\nIt is imbued with a particularly weighty magic.\n\nUses FP to emit gravitational shockwave.\n\nThe desperate ones who scavenge for these shards dub themselves \"starcallers.\"",
-    "scaling": {
-      "strength": 85,
-      "dexterity": 0,
-      "intelligence": 135,
-      "faith": 0,
-      "arcane": 160
-    },
-    "attackPower": {
-      "physical": 160,
-      "magic": 50,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 60
-    },
-    "maxHeld": 10,
-    "sellPrice": 100,
-    "fpCost": 13
-  },
-  {
-    "name": "Gravity Stone Chunk",
-    "type": "Damage",
-    "caption": "Shard of rock found in the wake of a meteorite strike.\nIt is imbued with a particularly weighty magic.\n\nThrow at enemies, using FP to cause a gravitational explosion.\n\nThe desperate ones who scavenge for these shards dub themselves \"starcallers.\"",
-    "scaling": {
-      "strength": 85,
-      "dexterity": 0,
-      "intelligence": 135,
-      "faith": 0,
-      "arcane": 247
-    },
-    "attackPower": {
-      "physical": 247,
-      "magic": 50,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 60
-    },
-    "maxHeld": 10,
-    "sellPrice": 100,
-    "fpCost": 5
-  },
-  {
-    "name": "Wraith Calling Bell",
-    "type": "Damage",
-    "caption": "Bell used by worshippers of revenants.\n\nRing bell, using FP to summon prowling wraiths. This can be done multiple times in a row.\n\nWraiths are said to be the vengeful spirits of those who died when cursed.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 30,
-      "faith": 55,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 120,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 20
-    },
-    "maxHeld": 1,
-    "sellPrice": null,
-    "fpCost": 7
-  },
-  {
-    "name": "Spark Aromatic",
-    "type": "Damage",
-    "caption": "Art of the perfumers who fought in the Shattering.\nCraftable with a perfume bottle.\n\nUses FP to broadly scatter sparks in a wide arc straight ahead.\n\nThough fire was prohibited to those who served the Erdtree, this rule was forgotten as the war drew ever on.",
-    "scaling": {
-      "strength": 25,
-      "dexterity": 140,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 352,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 20
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 5
-  },
-  {
-    "name": "Poison Spraymist",
-    "type": "Damage",
-    "caption": "Forbidden art of depraved perfumers.\nCraftable with a perfume bottle.\n\nUses FP to release a poison mist from user's mouth, causing a buildup of poison.\n\nPerfumed powder is held in the mouth to dissolve before being expelled. It was once a restorative art, or so it is said.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 0
-    },
-    "baseBuildUp": {
-      "poison": 26
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 12
-  },
-  {
-    "name": "Fire Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of incendiary materials is sealed inside.\n\nThrow at enemies to inflict fire damage.",
-    "scaling": {
-      "strength": 100,
-      "dexterity": 25,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 230,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 20
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Redmane Fire Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a ritual pot.\nEngraved with the crest of red-maned lion.\n\nThrow at enemies to inflict heavy fire damage.\n\nEven today, the survivors of Radahn's battalion employ fire to stave off the scarlet rot.",
-    "scaling": {
-      "strength": 90,
-      "dexterity": 25,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 326,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 20
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Giantsflame Fire Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a ritual pot.\nEnchanted by incantations of the Giants' Flame.\n\nConsumes FP. Throw at enemies to inflict heavy fire damage.\n\nDamage scales with faith.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 130,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 344,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 20
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 10
-  },
-  {
-    "name": "Lightning Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of fulminating materials is sealed inside.\n\nThrow at enemies to inflict lightning damage.",
-    "scaling": {
-      "strength": 25,
-      "dexterity": 90,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 260,
-      "holy": 0,
-      "stamina": 20
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Ancient Dragonbolt Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a ritual pot.\nEngraved with the crest of the ancient dragon.\n\nThrow at enemies to inflict heavy lightning damage.\n\nAllows one to wield ancient drake lightning regardless of faith. The residual power of relics is a purely natural phenomenon.",
-    "scaling": {
-      "strength": 25,
-      "dexterity": 90,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 340,
-      "holy": 0,
-      "stamina": 20
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Fetid Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of effluents is sealed inside. As the mixture ferments, toxins are produced alongside a putrid stench that seeps out once ripe.\n\nThrow at enemies to cause buildup of deadly poison.\n\nBeware though; those who carry these pots will slowly accumulate poison in their own bodies.\n\nPush someone in a privy; expect to get dung on your hands.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "poison": 250
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Swarm Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of effluents is sealed inside.\n\nThrow at enemies to set a swarm of bloodflies upon them. The vile swarm deals damage and builds up onset of blood loss. The cacophony of their wings assails the sanity of berserkers.\n\nThe maggots found in waste feed on blood and turn into vicious flies that are pitiably short-lived.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 116
-    },
-    "attackPower": {
-      "physical": 116,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Holy Water Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nEnchanted by incantations of the Golden Order.\n\nConsumes FP. Throw at enemies to inflict holy damage.\n\nHighly effective against Those Who Live in Death, even preventing them from rising again.\nThe Golden Order has no mercy for those who trespass beyond life's bounds.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 140,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 167,
-      "stamina": 20
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 5
-  },
-  {
-    "name": "Sacred Order Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a ritual pot.\nEnchanted by incantations of the Golden Order.\n\nConsumes FP. Throw at enemies to inflict heavy holy damage.\n\nHighly effective against Those Who Live in Death, even preventing them from rising again.\nThe Golden Order has no mercy for those who trespass beyond life's bounds.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 140,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 312,
-      "stamina": 20
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 11
-  },
-  {
-    "name": "Poison Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of poisonous materials is sealed inside.\n\nThrow at enemies to cause buildup of poison.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "poison": 200
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Roped Fire Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of incendiary materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrow at rearward enemies to inflict fire damage.",
-    "scaling": {
-      "strength": 100,
-      "dexterity": 25,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 230,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 10
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Roped Lightning Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of fulminating materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrow at rearward enemies to inflict lightning damage.",
-    "scaling": {
-      "strength": 25,
-      "dexterity": 90,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 260,
-      "holy": 0,
-      "stamina": 10
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Roped Fetid Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of effluents is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrow at rearward enemies to cause buildup of deadly poison.\n\nBeware though; those who carry these pots will slowly accumulate poison in their own bodies.\n\nPush someone in a privy; expect to get dung on your hands.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "poison": 250
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Roped Poison Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of poisonous materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrow at rearward enemies to cause buildup of poison.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "poison": 200
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Roped Magic Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of magically resonant materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nConsumes FP. Throw at rearward enemies to inflict magic damage.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 90,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 322,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 10
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 3
-  },
-  {
-    "name": "Roped Fly Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of effluents is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrow at rearward enemies to release a swarm of flies. Their fangs inflict countless painful lacerations on the victim while the grating sound of their wings assails their sanity.\n\nThe maggots found in waste feed on blood and turn into vicious flies that are pitiably short-lived.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 116
-    },
-    "attackPower": {
-      "physical": 116,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "blood": 70
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Roped Volcano Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nPowdered volcanic rock is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrown at rearward enemies to disperse a cloud of heat, dealing continuous damage to those caught inside for a short duration.",
-    "scaling": {
-      "strength": 60,
-      "dexterity": 25,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 82,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 3
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Roped Holy Water Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nEnchanted by incantations of the Golden Order, and a short rope that aids throwing has been secured around the pot.\n\nConsumes FP. Throw at rearward enemies to inflict holy damage.\n\nHighly effective against Those Who Live in Death, even preventing them from rising again.\nThe Golden Order has no mercy for those who trespass beyond life's bounds.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 165,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 150,
-      "holy": 0,
-      "stamina": 10
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 5
-  },
-  {
-    "name": "Volcano Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nPowdered volcanic rock is sealed inside.\n\nThrow at enemies to disperse a cloud of heat, dealing continuous damage to those caught inside for a short duration.",
-    "scaling": {
-      "strength": 60,
-      "dexterity": 25,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 82,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 3
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  },
-  {
-    "name": "Sleep Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nEnchanted by the incantations of St. Trina.\n\nConsumes FP. Throw enemies to cause buildup of sleep.\n\nLike a lullaby, or a quagmire, its light-purple haze irresistibly draws its victims down into sleep. Sweet dreams.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "sleep": 29
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 9
-  },
-  {
-    "name": "Rancor Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nEnchanted by the ancient death hex.\n\nConsumes FP. Throw at enemies to spawn vengeful spirits that chase down foes.\n\nIn times of old, the dead were burned with ghostflame, and from those cinders arose vengeful spirits.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 30,
-      "faith": 30,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 139,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 5
-  },
-  {
-    "name": "Magic Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a cracked pot.\nA cocktail of magically resonant materials is sealed inside. Called a \"faux sorcery\" in Raya Lucaria.\n\nConsumes FP. Throw at enemies to inflict magic damage.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 90,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 322,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 20
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 3
-  },
-  {
-    "name": "Academy Magic Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a ritual pot.\nEnchanted by Raya Lucaria sorceries.\n\nConsumes FP. Throw at enemies to inflict heavy magic damage.\n\nThis pot, considered a \"faux sorcery,\" was employed to protect the academy.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 90,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 405,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 20
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 6
-  },
-  {
-    "name": "Freezing Pot",
-    "type": "Damage",
-    "caption": "Craftable item prepared using a ritual pot.\nEngraved with the crest of the Carian Royals.\n\nThrow at enemies to cause buildup of frost.\n\nOriginates from the cold, dark moon of Ranni, the Carian princess.",
-    "scaling": {
-      "strength": 0,
-      "dexterity": 0,
-      "intelligence": 0,
-      "faith": 0,
-      "arcane": 0
-    },
-    "attackPower": {
-      "physical": 0,
-      "magic": 119,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 20
-    },
-    "baseBuildUp": {
-      "frost": 380
-    },
-    "maxHeld": 10,
-    "sellPrice": null,
-    "fpCost": 0
-  }
+    {
+        "name": "Throwing Dagger",
+        "type": "Damage",
+        "caption": "Short dagger for throwing. It has no handguard.\nThe blade is polished, and its weight is expertly balanced.\n\nThrow at enemies to deal damage.\n\nThis auxiliary weapon, used primarily to constrain an enemy's movements, can still be deadly in the right hands.",
+        "scaling": {
+            "strength": 95,
+            "dexterity": 145,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 67
+        },
+        "attackPower": {
+            "physical": 67,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "maxHeld": 40,
+        "sellPrice": 10,
+        "fpCost": 0
+    },
+    {
+        "name": "Bone Dart",
+        "type": "Damage",
+        "caption": "Animal bone sharpened into a knife for throwing.\nCraftable item.\n\nThrow at enemies to inflict damage.",
+        "scaling": {
+            "strength": 95,
+            "dexterity": 145,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 57
+        },
+        "attackPower": {
+            "physical": 57,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "maxHeld": 40,
+        "sellPrice": 10,
+        "fpCost": 0
+    },
+    {
+        "name": "Poisonbone Dart",
+        "type": "Damage",
+        "caption": "Animal bone sharpened into a knife for throwing, with a poison-laced tip.\nCraftable item.\n\nThrow at enemies to inflict damage and build up poison.",
+        "scaling": {
+            "strength": 40,
+            "dexterity": 80,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 50
+        },
+        "attackPower": {
+            "physical": 50,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "poison": 58
+        },
+        "maxHeld": 40,
+        "sellPrice": 10,
+        "fpCost": 0
+    },
+    {
+        "name": "Kukri",
+        "type": "Damage",
+        "caption": "A large knife used for throwing.\nIts curved blade is sharp enough to slice flesh cleanly.\n\nThrow at enemies to inflict damage and build up onset of blood loss.\n\nThis heavy throwing weapon is unsuitable for swift attacks, but is able to inflict heavy damage.",
+        "scaling": {
+            "strength": 155,
+            "dexterity": 185,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 87
+        },
+        "attackPower": {
+            "physical": 87,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 10
+        },
+        "baseBuildUp": {
+            "blood": 70
+        },
+        "maxHeld": 30,
+        "sellPrice": 10,
+        "fpCost": 0
+    },
+    {
+        "name": "Crystal Dart",
+        "type": "Damage",
+        "caption": "Throwing knife chiseled from impure crystal.\nCraftable item.\n\nConsumes FP. Throw at enemies to deal magic damage.\n\nLong ago, it is said that a golem crafter employed a similar crystal tool.",
+        "scaling": {
+            "strength": 40,
+            "dexterity": 80,
+            "intelligence": 135,
+            "faith": 0,
+            "arcane": 66
+        },
+        "attackPower": {
+            "physical": 66,
+            "magic": 44,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 10
+        },
+        "maxHeld": 40,
+        "sellPrice": 20,
+        "fpCost": 1
+    },
+    {
+        "name": "Fan Daggers",
+        "type": "Damage",
+        "caption": "A set of five throwing knives bundled together.\nA concealed weapon cherished by the raptor assassins.\n\nThe thin knives fan out when thrown, dealing damage to the target.\n\nEach knife deals paltry damage, but the wide range makes it suitable for constraining enemies.",
+        "scaling": {
+            "strength": 95,
+            "dexterity": 185,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 37
+        },
+        "attackPower": {
+            "physical": 37,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 2
+        },
+        "maxHeld": 40,
+        "sellPrice": 20,
+        "fpCost": 0
+    },
+    {
+        "name": "Ruin Fragment",
+        "type": "Damage",
+        "caption": "Stone fragment found near places where ruins have fallen from the sky.\nCan be used for crafting, or simply for throwing at enemies.\n\nThese shards of stone are believed to have once been part of a temple in the sky.\nThey glow with a faint light from within.",
+        "scaling": {
+            "strength": 155,
+            "dexterity": 75,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 1
+        },
+        "attackPower": {
+            "physical": 1,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "maxHeld": 999,
+        "sellPrice": 10,
+        "fpCost": 0
+    },
+    {
+        "name": "Explosive Stone",
+        "type": "Damage",
+        "caption": "A small stone with a smoldering core.\n\nExplodes when thrown at enemies, inflicting fire damage.\n\nMiners employ these stones as tools for rock blasting, but have long forgotten how to craft them.",
+        "scaling": {
+            "strength": 145,
+            "dexterity": 75,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 108,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 20
+        },
+        "maxHeld": 20,
+        "sellPrice": 50,
+        "fpCost": 0
+    },
+    {
+        "name": "Explosive Stone Clump",
+        "type": "Damage",
+        "caption": "A clump of small stones with smoldering cores.\n\nExplodes when thrown together at enemies, inflicting fire damage.\n\nMiners employ these stones as tools for rock blasting, but have long forgotten how to craft them.",
+        "scaling": {
+            "strength": 155,
+            "dexterity": 75,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 54,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "maxHeld": 20,
+        "sellPrice": 50,
+        "fpCost": 0
+    },
+    {
+        "name": "Poisoned Stone",
+        "type": "Damage",
+        "caption": "A small stone with a poison core.\n\nThrow at enemies to cause buildup of poison.\n\nMiners employ these stones as tools for pest extermination, but have long forgotten how to craft them.",
+        "scaling": {
+            "strength": 145,
+            "dexterity": 75,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 50
+        },
+        "attackPower": {
+            "physical": 50,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "poison": 100
+        },
+        "maxHeld": 20,
+        "sellPrice": 50,
+        "fpCost": 0
+    },
+    {
+        "name": "Poisoned Stone Clump",
+        "type": "Damage",
+        "caption": "A clump of small stones with poison cores.\n\nThrow together at enemies to cause buildup of poison.\n\nMiners employ these stones as tools for pest extermination, but have long forgotten how to craft them.",
+        "scaling": {
+            "strength": 155,
+            "dexterity": 75,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 32
+        },
+        "attackPower": {
+            "physical": 32,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 1
+        },
+        "baseBuildUp": {
+            "poison": 45
+        },
+        "maxHeld": 20,
+        "sellPrice": 50,
+        "fpCost": 0
+    },
+    {
+        "name": "Ancestral Infant's Head",
+        "type": "Damage",
+        "caption": "Skull of a very young ancestral spirit. Just think how many sproutings It might bear.\n\nUses FP to spray spirit vapor inflicting magic damage.\n\nThe vapor becomes a temporary geyser which deals continuous damage to everything it touches until it disappears.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 160,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 55,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "maxHeld": 1,
+        "sellPrice": null,
+        "fpCost": 27
+    },
+    {
+        "name": "Omen Bairn",
+        "type": "Damage",
+        "caption": "Doll of a curseborn bairn.\n\nUses FP to unleash wraiths that chase down foes.\n\nOmen babies have all their horns excised, causing most to perish. These fetishes are made to memorialize them.\n\n\"Please, don't hate me, or curse me. Please.\"",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 30,
+            "faith": 55,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 105,
+            "stamina": 90
+        },
+        "maxHeld": 1,
+        "sellPrice": null,
+        "fpCost": 24
+    },
+    {
+        "name": "Regal Omen Bairn",
+        "type": "Damage",
+        "caption": "Doll of a curseborn bairn from the Erdtree's royal line.\n\nUses FP to unleash many wraiths that chase down foes.\n\nOmen babies born of royalty do not have their horns excised, but instead are kept underground, unbeknownst to anyone, imprisoned for eternity.\n\nThese memorial fetishes are fashioned in secret.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 105,
+            "faith": 115,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 115,
+            "stamina": 90
+        },
+        "maxHeld": 1,
+        "sellPrice": null,
+        "fpCost": 50
+    },
+    {
+        "name": "Miranda's Prayer",
+        "type": "Damage",
+        "caption": "This statuette depicts a flower that preys on humans, posed in prayer.\n\nUses FP to call down a deluge of light.\n\nMiranda, maiden of the Flower Crucible is said to have been the very first of this breed.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 185,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 95,
+            "stamina": 10
+        },
+        "maxHeld": 1,
+        "sellPrice": null,
+        "fpCost": 43
+    },
+    {
+        "name": "Cuckoo Glintstone",
+        "type": "Damage",
+        "caption": "Lump of broken glintstone enwreathed with magic power. A \"faux sorcery\" used by the Knights of the Cuckoo. Craftable item.\n\nLaunched straight ahead, using FP. A magic bolt springs forth from the point of impact.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 135,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 92,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 15
+        },
+        "maxHeld": 10,
+        "sellPrice": 50,
+        "fpCost": 6
+    },
+    {
+        "name": "Glintstone Scrap",
+        "type": "Damage",
+        "caption": "Piece of glintstone tinged with unstable magic. Found in crystal tunnels.\n\nBreak gem, using FP to produce a magic bolt.\n\nPoor quality and thereby easily broken, a sorcerer wouldn't give it a second look.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 135,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 82,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 15
+        },
+        "maxHeld": 10,
+        "sellPrice": 100,
+        "fpCost": 4
+    },
+    {
+        "name": "Large Glintstone Scrap",
+        "type": "Damage",
+        "caption": "Large piece of glintstone tinged with unstable magic. Found in crystal tunnels.\n\nBreak gem, using FP to produce a magic bolt.\n\nPoor quality and thereby easily broken, a sorcerer wouldn't give it a second look.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 145,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 65,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 15
+        },
+        "maxHeld": 10,
+        "sellPrice": 100,
+        "fpCost": 10
+    },
+    {
+        "name": "Gravity Stone Fan",
+        "type": "Damage",
+        "caption": "Shard of rock found in the wake of a meteorite strike.\nIt is imbued with a particularly weighty magic.\n\nUses FP to emit gravitational shockwave.\n\nThe desperate ones who scavenge for these shards dub themselves \"starcallers.\"",
+        "scaling": {
+            "strength": 85,
+            "dexterity": 0,
+            "intelligence": 135,
+            "faith": 0,
+            "arcane": 160
+        },
+        "attackPower": {
+            "physical": 160,
+            "magic": 50,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 60
+        },
+        "maxHeld": 10,
+        "sellPrice": 100,
+        "fpCost": 13
+    },
+    {
+        "name": "Gravity Stone Chunk",
+        "type": "Damage",
+        "caption": "Shard of rock found in the wake of a meteorite strike.\nIt is imbued with a particularly weighty magic.\n\nThrow at enemies, using FP to cause a gravitational explosion.\n\nThe desperate ones who scavenge for these shards dub themselves \"starcallers.\"",
+        "scaling": {
+            "strength": 85,
+            "dexterity": 0,
+            "intelligence": 135,
+            "faith": 0,
+            "arcane": 247
+        },
+        "attackPower": {
+            "physical": 247,
+            "magic": 50,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 60
+        },
+        "maxHeld": 10,
+        "sellPrice": 100,
+        "fpCost": 5
+    },
+    {
+        "name": "Wraith Calling Bell",
+        "type": "Damage",
+        "caption": "Bell used by worshippers of revenants.\n\nRing bell, using FP to summon prowling wraiths. This can be done multiple times in a row.\n\nWraiths are said to be the vengeful spirits of those who died when cursed.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 30,
+            "faith": 55,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 120,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 20
+        },
+        "maxHeld": 1,
+        "sellPrice": null,
+        "fpCost": 7
+    },
+    {
+        "name": "Spark Aromatic",
+        "type": "Damage",
+        "caption": "Art of the perfumers who fought in the Shattering.\nCraftable with a perfume bottle.\n\nUses FP to broadly scatter sparks in a wide arc straight ahead.\n\nThough fire was prohibited to those who served the Erdtree, this rule was forgotten as the war drew ever on.",
+        "scaling": {
+            "strength": 25,
+            "dexterity": 140,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 352,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 20
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 5
+    },
+    {
+        "name": "Poison Spraymist",
+        "type": "Damage",
+        "caption": "Forbidden art of depraved perfumers.\nCraftable with a perfume bottle.\n\nUses FP to release a poison mist from user's mouth, causing a buildup of poison.\n\nPerfumed powder is held in the mouth to dissolve before being expelled. It was once a restorative art, or so it is said.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 0
+        },
+        "baseBuildUp": {
+            "poison": 26
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 12
+    },
+    {
+        "name": "Fire Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of incendiary materials is sealed inside.\n\nThrow at enemies to inflict fire damage.",
+        "scaling": {
+            "strength": 100,
+            "dexterity": 25,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 230,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 20
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Redmane Fire Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a ritual pot.\nEngraved with the crest of red-maned lion.\n\nThrow at enemies to inflict heavy fire damage.\n\nEven today, the survivors of Radahn's battalion employ fire to stave off the scarlet rot.",
+        "scaling": {
+            "strength": 90,
+            "dexterity": 25,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 326,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 20
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Giantsflame Fire Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a ritual pot.\nEnchanted by incantations of the Giants' Flame.\n\nConsumes FP. Throw at enemies to inflict heavy fire damage.\n\nDamage scales with faith.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 130,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 344,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 20
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 10
+    },
+    {
+        "name": "Lightning Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of fulminating materials is sealed inside.\n\nThrow at enemies to inflict lightning damage.",
+        "scaling": {
+            "strength": 25,
+            "dexterity": 90,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 260,
+            "holy": 0,
+            "stamina": 20
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Ancient Dragonbolt Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a ritual pot.\nEngraved with the crest of the ancient dragon.\n\nThrow at enemies to inflict heavy lightning damage.\n\nAllows one to wield ancient drake lightning regardless of faith. The residual power of relics is a purely natural phenomenon.",
+        "scaling": {
+            "strength": 25,
+            "dexterity": 90,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 340,
+            "holy": 0,
+            "stamina": 20
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Fetid Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of effluents is sealed inside. As the mixture ferments, toxins are produced alongside a putrid stench that seeps out once ripe.\n\nThrow at enemies to cause buildup of deadly poison.\n\nBeware though; those who carry these pots will slowly accumulate poison in their own bodies.\n\nPush someone in a privy; expect to get dung on your hands.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "poison": 250
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Swarm Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of effluents is sealed inside.\n\nThrow at enemies to set a swarm of bloodflies upon them. The vile swarm deals damage and builds up onset of blood loss. The cacophony of their wings assails the sanity of berserkers.\n\nThe maggots found in waste feed on blood and turn into vicious flies that are pitiably short-lived.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 116
+        },
+        "attackPower": {
+            "physical": 116,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Holy Water Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nEnchanted by incantations of the Golden Order.\n\nConsumes FP. Throw at enemies to inflict holy damage.\n\nHighly effective against Those Who Live in Death, even preventing them from rising again.\nThe Golden Order has no mercy for those who trespass beyond life's bounds.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 140,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 167,
+            "stamina": 20
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 5
+    },
+    {
+        "name": "Sacred Order Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a ritual pot.\nEnchanted by incantations of the Golden Order.\n\nConsumes FP. Throw at enemies to inflict heavy holy damage.\n\nHighly effective against Those Who Live in Death, even preventing them from rising again.\nThe Golden Order has no mercy for those who trespass beyond life's bounds.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 140,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 312,
+            "stamina": 20
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 11
+    },
+    {
+        "name": "Poison Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of poisonous materials is sealed inside.\n\nThrow at enemies to cause buildup of poison.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "poison": 200
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Roped Fire Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of incendiary materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrow at rearward enemies to inflict fire damage.",
+        "scaling": {
+            "strength": 100,
+            "dexterity": 25,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 230,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 10
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Roped Lightning Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of fulminating materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrow at rearward enemies to inflict lightning damage.",
+        "scaling": {
+            "strength": 25,
+            "dexterity": 90,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 260,
+            "holy": 0,
+            "stamina": 10
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Roped Fetid Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of effluents is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrow at rearward enemies to cause buildup of deadly poison.\n\nBeware though; those who carry these pots will slowly accumulate poison in their own bodies.\n\nPush someone in a privy; expect to get dung on your hands.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "poison": 250
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Roped Poison Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of poisonous materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrow at rearward enemies to cause buildup of poison.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "poison": 200
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Roped Magic Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of magically resonant materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nConsumes FP. Throw at rearward enemies to inflict magic damage.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 90,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 322,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 10
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 3
+    },
+    {
+        "name": "Roped Fly Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of effluents is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrow at rearward enemies to release a swarm of flies. Their fangs inflict countless painful lacerations on the victim while the grating sound of their wings assails their sanity.\n\nThe maggots found in waste feed on blood and turn into vicious flies that are pitiably short-lived.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 116
+        },
+        "attackPower": {
+            "physical": 116,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "blood": 70
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Roped Volcano Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nPowdered volcanic rock is sealed inside, and a short rope that aids throwing has been secured around the pot.\n\nThrown at rearward enemies to disperse a cloud of heat, dealing continuous damage to those caught inside for a short duration.",
+        "scaling": {
+            "strength": 60,
+            "dexterity": 25,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 82,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 3
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Roped Holy Water Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nEnchanted by incantations of the Golden Order, and a short rope that aids throwing has been secured around the pot.\n\nConsumes FP. Throw at rearward enemies to inflict holy damage.\n\nHighly effective against Those Who Live in Death, even preventing them from rising again.\nThe Golden Order has no mercy for those who trespass beyond life's bounds.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 165,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 150,
+            "holy": 0,
+            "stamina": 10
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 5
+    },
+    {
+        "name": "Volcano Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nPowdered volcanic rock is sealed inside.\n\nThrow at enemies to disperse a cloud of heat, dealing continuous damage to those caught inside for a short duration.",
+        "scaling": {
+            "strength": 60,
+            "dexterity": 25,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 82,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 3
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    },
+    {
+        "name": "Sleep Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nEnchanted by the incantations of St. Trina.\n\nConsumes FP. Throw enemies to cause buildup of sleep.\n\nLike a lullaby, or a quagmire, its light-purple haze irresistibly draws its victims down into sleep. Sweet dreams.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "sleep": 29
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 9
+    },
+    {
+        "name": "Rancor Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nEnchanted by the ancient death hex.\n\nConsumes FP. Throw at enemies to spawn vengeful spirits that chase down foes.\n\nIn times of old, the dead were burned with ghostflame, and from those cinders arose vengeful spirits.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 30,
+            "faith": 30,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 139,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 5
+    },
+    {
+        "name": "Magic Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a cracked pot.\nA cocktail of magically resonant materials is sealed inside. Called a \"faux sorcery\" in Raya Lucaria.\n\nConsumes FP. Throw at enemies to inflict magic damage.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 90,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 322,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 20
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 3
+    },
+    {
+        "name": "Academy Magic Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a ritual pot.\nEnchanted by Raya Lucaria sorceries.\n\nConsumes FP. Throw at enemies to inflict heavy magic damage.\n\nThis pot, considered a \"faux sorcery,\" was employed to protect the academy.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 90,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 405,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 20
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 6
+    },
+    {
+        "name": "Freezing Pot",
+        "type": "Damage",
+        "caption": "Craftable item prepared using a ritual pot.\nEngraved with the crest of the Carian Royals.\n\nThrow at enemies to cause buildup of frost.\n\nOriginates from the cold, dark moon of Ranni, the Carian princess.",
+        "scaling": {
+            "strength": 0,
+            "dexterity": 0,
+            "intelligence": 0,
+            "faith": 0,
+            "arcane": 0
+        },
+        "attackPower": {
+            "physical": 0,
+            "magic": 119,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 20
+        },
+        "baseBuildUp": {
+            "frost": 380
+        },
+        "maxHeld": 10,
+        "sellPrice": null,
+        "fpCost": 0
+    }
 ]

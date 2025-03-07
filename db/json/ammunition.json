@@ -1,1070 +1,1070 @@
 [
-  {
-    "name": "Arrow",
-    "type": "Arrow",
-    "caption": "Arrows used with small and long bows.\nUnremarkable in any way, shape or form.\n",
-    "attackPower": {
-      "physical": 45,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Fire Arrow",
-    "type": "Arrow",
-    "caption": "Arrow with the tip set alight.\nDeals fire damage.\n",
-    "attackPower": {
-      "physical": 15,
-      "magic": 0,
-      "fire": 95,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Serpent Arrow",
-    "type": "Arrow",
-    "caption": "Arrow carved to resemble a flying snake. Used in tandem with the Serpent Bow.\n\nLoyal minions of the Formless Serpents, their fangs are daubed with deadly poison.",
-    "attackPower": {
-      "physical": 30,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "poison": 78
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Bone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from thin animal bones. Craftable item.\n\nThe feather fletching adds distance to the arrow's flight.\n",
-    "attackPower": {
-      "physical": 35,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "St. Trina's Arrow",
-    "type": "Arrow",
-    "caption": "Arrow carved to resemble a withered water lily. Afflicts targets with a powerful sleep effect.\n\nPriests of St. Trina use these arrows to spread their teachings. The sweet oblivion of sleep can become quite the habit.",
-    "attackPower": {
-      "physical": 30,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "sleep": 96
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Shattershard Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Rainbow Stone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones tipped with chips of Rainbow Stone. Colored light shines at the point of impact.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Golden Arrow",
-    "type": "Arrow",
-    "caption": "Carved arrows made in tandem with the Erdtree Bow. Deals holy damage.\n\nHighly effective against Those Who Live in Death, and able to prevent them from rising again.",
-    "attackPower": {
-      "physical": 15,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 95,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Dwelling Arrow",
-    "type": "Arrow",
-    "caption": "Arrow in which the spirits of small animals are thought to dwell. \nDeals magic damage.\n\nUsed by the master hunters of the ancestral followers. ",
-    "attackPower": {
-      "physical": 15,
-      "magic": 95,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Bone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from thin animal bones. Craftable item.\n\nThough the tip is certainly sharp, it does not fly particularly true.\n",
-    "attackPower": {
-      "physical": 35,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Firebone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is set alight before firing. Deals fire damage.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 10,
-      "magic": 0,
-      "fire": 90,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Firebone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is set alight before firing. Deals fire damage.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 10,
-      "magic": 0,
-      "fire": 90,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Poisonbone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with venom. Afflicts targets with poison.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "poison": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Poisonbone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with venom. Afflicts targets with poison.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "poison": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Sleepbone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with a water lily tincture. Afflicts targets with sleep.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "sleep": 84
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Sleepbone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with a water lily tincture. Afflicts targets with sleep.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "sleep": 84
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Stormwing Bone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones fletched with stormhawk feathers. Craftable item.\n\nFlies enshrouded in storm winds, breaking enemy stances and guards with ease.",
-    "attackPower": {
-      "physical": 55,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 45
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Lightningbone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 10,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 90,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Lightningbone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 10,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 90,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Rainbow Stone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones tipped with chips of Rainbow Stone. Colored light shines at the point of impact.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Shattershard Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Spiritflame Arrow",
-    "type": "Arrow",
-    "caption": "Arrow set alight with ghostflame before firing. Deals magic damage while also afflicting foes with frost.\n\nUsed by the Company of the Fallen Hawk, once ordered to explore the Eternal City.",
-    "attackPower": {
-      "physical": 30,
-      "magic": 40,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "frost": 65
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Magicbone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with a glintstone tincture. Deals magic damage.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 10,
-      "magic": 90,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Magicbone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with a glintstone tincture. Deals magic damage.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 10,
-      "magic": 90,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Haligbone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with a golden tincture. Deals holy damage.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 10,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 90,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Haligbone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with a golden tincture. Deals holy damage.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 10,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 90,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Bloodbone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with a blood tincture. Afflicts targets with blood loss.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "blood": 55
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Bloodbone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with a blood tincture. Afflicts targets with blood loss.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "blood": 55
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Coldbone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones with a frozen tip. Afflicts targets with frost.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 10,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "frost": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Coldbone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones with a frozen tip. Afflicts targets with frost.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 10,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "frost": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Rotbone Arrow (Fletched)",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "blood": 50
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Rotbone Arrow",
-    "type": "Arrow",
-    "caption": "Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "blood": 50
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Great Arrow",
-    "type": "Greatarrow",
-    "caption": "A greatarrow as large as a spear for use with greatbows. Used by archers of monstrous strength employed by a lord's army.",
-    "attackPower": {
-      "physical": 100,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 30,
-    "sellPrice": 10
-  },
-  {
-    "name": "Golem's Great Arrow",
-    "type": "Greatarrow",
-    "caption": "Greatarrow of black stone crafted by a civilization now gone to ruin. Used by the Guardian Golem.\n\nThis hefty arrow is enrobed in tempestuous winds, allowing it to break enemy stances and guards with ease.",
-    "attackPower": {
-      "physical": 105,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 90
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 30,
-    "sellPrice": 10
-  },
-  {
-    "name": "Golden Great Arrow",
-    "type": "Greatarrow",
-    "caption": "Carved greatarrows made together with the Erdtree Greatbow. Deals holy damage.\n\nImbued with an oath-sworn incantation, which boosts the attack and defense of the archer and their nearby allies.",
-    "attackPower": {
-      "physical": 40,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 110,
-      "stamina": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 30,
-    "sellPrice": 10
-  },
-  {
-    "name": "Golem's Magic Arrow",
-    "type": "Greatarrow",
-    "caption": "Greatarrow of black stone crafted by a civilization now gone to ruin. Imbued with its ancient magic.\n\nDeals magic damage.",
-    "attackPower": {
-      "physical": 40,
-      "magic": 125,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 30,
-    "sellPrice": 10
-  },
-  {
-    "name": "Radahn's Spear",
-    "type": "Greatarrow",
-    "caption": "Greatarrows used by General Radahn during the festival of combat. These are in fact the many spears with which he was stabbed by the Cleanrot Knights.\n\nImbued with Radahn's gravitational power.",
-    "attackPower": {
-      "physical": 100,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 30,
-    "sellPrice": 10
-  },
-  {
-    "name": "Bone Great Arrow (Fletched)",
-    "type": "Greatarrow",
-    "caption": "Greatarrow as large as a spear whittled from stout animal bones.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
-    "attackPower": {
-      "physical": 90,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 30,
-    "sellPrice": 1
-  },
-  {
-    "name": "Bone Great Arrow",
-    "type": "Greatarrow",
-    "caption": "Greatarrow as large as a spear whittled from stout animal bones.\n\nThough the tip is certainly sharp, it does not fly particularly true.",
-    "attackPower": {
-      "physical": 90,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 30,
-    "sellPrice": 1
-  },
-  {
-    "name": "Bolt",
-    "type": "Bolt",
-    "caption": "Ammunition used for crossbows.\nA widespread, common type of bolt.",
-    "attackPower": {
-      "physical": 50,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Lightning Bolt",
-    "type": "Bolt",
-    "caption": "Bolt tipped with a shard of Gravel Stone. Deals powerful lightning damage.\n\nUsed by worshippers of the ancient dragons.",
-    "attackPower": {
-      "physical": 20,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 80,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Perfumer's Bolt",
-    "type": "Bolt",
-    "caption": "Bolt created with perfumer techniques. Used by nobles' guards and the like.\n\nThe point of impact explodes with sparks, dealing fire damage.",
-    "attackPower": {
-      "physical": 15,
-      "magic": 0,
-      "fire": 65,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Black-Key Bolt",
-    "type": "Bolt",
-    "caption": "Bolts used in Crepus' Black-Key Crossbow, an assassin's tool of exquisite craftsmanship.\n\nThe intricate spiral tip bores deep, injecting scarlet rot far into the flesh of its target.",
-    "attackPower": {
-      "physical": 30,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "rot": 60
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Burred Bolt",
-    "type": "Bolt",
-    "caption": "Bolt covered in thorns. One of the most horrific weapons used in the Shattering. Afflicts target with blood loss.\n\nDifficult to remove once buried in flesh, causing appalling damage to the body.",
-    "attackPower": {
-      "physical": 30,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "blood": 65
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Meteor Bolt",
-    "type": "Bolt",
-    "caption": "Enchanted work of craft made in tandem with the Full Moon Crossbow. The tip is embedded with glintstone.\n\nLike a shooting star, these bolts leave a beautiful trail when fired. Deals magic damage.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 80,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Explosive Bolt",
-    "type": "Bolt",
-    "caption": "Bolt tipped with a shard of Explosive Stone. Explodes on impact, dealing fire damage.",
-    "attackPower": {
-      "physical": 15,
-      "magic": 0,
-      "fire": 70,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Golden Bolt",
-    "type": "Bolt",
-    "caption": "Bolt blessed with an incantation of the Erdtree. Deals powerful holy damage.\n\nOnce used by guards of the Capital.",
-    "attackPower": {
-      "physical": 20,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 80,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Lordsworn's Bolt",
-    "type": "Bolt",
-    "caption": "Well-crafted bolt with an illustrious design, wielded by regulars of a lord's army.\n\nDeals more damage than its commonplace cousin.",
-    "attackPower": {
-      "physical": 65,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Bone Bolt",
-    "type": "Bolt",
-    "caption": "Bolt carved from a thin animal bone. Craftable item.\n\nThough the tip is certainly sharp, it does not fly particularly true.",
-    "attackPower": {
-      "physical": 40,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Firebone Bolt",
-    "type": "Bolt",
-    "caption": "Bolt carved from animal bone. The tip is set alight before firing. Deals fire damage.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 15,
-      "magic": 0,
-      "fire": 75,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Lightningbone Bolt",
-    "type": "Bolt",
-    "caption": "Bolt crafted from animal bone with a lightning-infused tip. Deals lightning damage.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 15,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 75,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Magicbone Bolt",
-    "type": "Bolt",
-    "caption": "Bolt carved from animal bone. The tip is daubed with a glintstone tincture. Deals magic damage.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 15,
-      "magic": 75,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Haligbone Bolt",
-    "type": "Bolt",
-    "caption": "Bolt carved from animal bone. The tip is daubed with a golden tincture. Deals holy damage.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 15,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 75,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Poisonbone Bolt",
-    "type": "Bolt",
-    "caption": "Bolt carved from animal bone. The tip is daubed with venom. Afflicts targets with poison.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "poison": 66
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Bloodbone Bolt",
-    "type": "Bolt",
-    "caption": "Bolt carved from animal bone. The tip is daubed with a blood tincture. Afflicts targets with blood loss.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "blood": 50
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Coldbone Bolt",
-    "type": "Bolt",
-    "caption": "Bolt carved from animal bone with a frozen tip. Afflicts targets with frost.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 20,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "frost": 65
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Rotbone Bolt",
-    "type": "Bolt",
-    "caption": "Bolt carved from animal bone. The tip is daubed with rot. Afflicts targets with scarlet rot.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "rot": 55
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Sleepbone Bolt",
-    "type": "Bolt",
-    "caption": "Bolt carved from animal bone. The tip is daubed with a waterlily tincture. Afflicts targets with sleep.\n\nCraftable item.",
-    "attackPower": {
-      "physical": 25,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "baseBuildUp": {
-      "sleep": 90
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 1
-  },
-  {
-    "name": "Flaming Bolt",
-    "type": "Bolt",
-    "caption": "Bolt with a fiercely burned tip. Deals powerful fire damage.\n\nUsed by survivors of Radahn's army to stave off the scarlet rot.",
-    "attackPower": {
-      "physical": 20,
-      "magic": 0,
-      "fire": 80,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 5
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 99,
-    "sellPrice": 10
-  },
-  {
-    "name": "Ballista Bolt",
-    "type": "Greatbolt",
-    "caption": "Greatbolt as large as a spear for use with Hand Ballista.",
-    "attackPower": {
-      "physical": 160,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 70
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 20,
-    "sellPrice": 10
-  },
-  {
-    "name": "Lightning Greatbolt",
-    "type": "Greatbolt",
-    "caption": "Greatbolt tipped with a clump of Gravel Stone shards.\n\nDeals powerful lightning damage.",
-    "attackPower": {
-      "physical": 50,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 150,
-      "holy": 0,
-      "stamina": 70
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 20,
-    "sellPrice": 10
-  },
-  {
-    "name": "Explosive Greatbolt",
-    "type": "Greatbolt",
-    "caption": "Greatbolt tipped with a clump of Explosive Stone shards.\n\nDetonates a large explosion on impact, dealing fire damage.",
-    "attackPower": {
-      "physical": 50,
-      "magic": 0,
-      "fire": 150,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 70
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 20,
-    "sellPrice": 10
-  },
-  {
-    "name": "Bone Ballista Bolt",
-    "type": "Greatbolt",
-    "caption": "Greatbolt as large as a spear carved from stout animal bones. Craftable item.\n\nThough the tip is certainly sharp, it does not fly particularly true.",
-    "attackPower": {
-      "physical": 150,
-      "magic": 0,
-      "fire": 0,
-      "lightning": 0,
-      "holy": 0,
-      "stamina": 70
-    },
-    "physicalDamageType": "Pierce",
-    "maxHeld": 20,
-    "sellPrice": 1
-  }
+    {
+        "name": "Arrow",
+        "type": "Arrow",
+        "caption": "Arrows used with small and long bows.\nUnremarkable in any way, shape or form.\n",
+        "attackPower": {
+            "physical": 45,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Fire Arrow",
+        "type": "Arrow",
+        "caption": "Arrow with the tip set alight.\nDeals fire damage.\n",
+        "attackPower": {
+            "physical": 15,
+            "magic": 0,
+            "fire": 95,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Serpent Arrow",
+        "type": "Arrow",
+        "caption": "Arrow carved to resemble a flying snake. Used in tandem with the Serpent Bow.\n\nLoyal minions of the Formless Serpents, their fangs are daubed with deadly poison.",
+        "attackPower": {
+            "physical": 30,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "poison": 78
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Bone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from thin animal bones. Craftable item.\n\nThe feather fletching adds distance to the arrow's flight.\n",
+        "attackPower": {
+            "physical": 35,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "St. Trina's Arrow",
+        "type": "Arrow",
+        "caption": "Arrow carved to resemble a withered water lily. Afflicts targets with a powerful sleep effect.\n\nPriests of St. Trina use these arrows to spread their teachings. The sweet oblivion of sleep can become quite the habit.",
+        "attackPower": {
+            "physical": 30,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "sleep": 96
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Shattershard Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Rainbow Stone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones tipped with chips of Rainbow Stone. Colored light shines at the point of impact.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Golden Arrow",
+        "type": "Arrow",
+        "caption": "Carved arrows made in tandem with the Erdtree Bow. Deals holy damage.\n\nHighly effective against Those Who Live in Death, and able to prevent them from rising again.",
+        "attackPower": {
+            "physical": 15,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 95,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Dwelling Arrow",
+        "type": "Arrow",
+        "caption": "Arrow in which the spirits of small animals are thought to dwell. \nDeals magic damage.\n\nUsed by the master hunters of the ancestral followers. ",
+        "attackPower": {
+            "physical": 15,
+            "magic": 95,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Bone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from thin animal bones. Craftable item.\n\nThough the tip is certainly sharp, it does not fly particularly true.\n",
+        "attackPower": {
+            "physical": 35,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Firebone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is set alight before firing. Deals fire damage.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 10,
+            "magic": 0,
+            "fire": 90,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Firebone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is set alight before firing. Deals fire damage.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 10,
+            "magic": 0,
+            "fire": 90,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Poisonbone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with venom. Afflicts targets with poison.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "poison": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Poisonbone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with venom. Afflicts targets with poison.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "poison": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Sleepbone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with a water lily tincture. Afflicts targets with sleep.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "sleep": 84
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Sleepbone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with a water lily tincture. Afflicts targets with sleep.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "sleep": 84
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Stormwing Bone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones fletched with stormhawk feathers. Craftable item.\n\nFlies enshrouded in storm winds, breaking enemy stances and guards with ease.",
+        "attackPower": {
+            "physical": 55,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 45
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Lightningbone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 10,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 90,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Lightningbone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 10,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 90,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Rainbow Stone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones tipped with chips of Rainbow Stone. Colored light shines at the point of impact.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Shattershard Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Spiritflame Arrow",
+        "type": "Arrow",
+        "caption": "Arrow set alight with ghostflame before firing. Deals magic damage while also afflicting foes with frost.\n\nUsed by the Company of the Fallen Hawk, once ordered to explore the Eternal City.",
+        "attackPower": {
+            "physical": 30,
+            "magic": 40,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "frost": 65
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Magicbone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with a glintstone tincture. Deals magic damage.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 10,
+            "magic": 90,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Magicbone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with a glintstone tincture. Deals magic damage.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 10,
+            "magic": 90,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Haligbone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with a golden tincture. Deals holy damage.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 10,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 90,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Haligbone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with a golden tincture. Deals holy damage.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 10,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 90,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Bloodbone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with a blood tincture. Afflicts targets with blood loss.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "blood": 55
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Bloodbone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with a blood tincture. Afflicts targets with blood loss.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "blood": 55
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Coldbone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones with a frozen tip. Afflicts targets with frost.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 10,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "frost": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Coldbone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones with a frozen tip. Afflicts targets with frost.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 10,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "frost": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Rotbone Arrow (Fletched)",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "blood": 50
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Rotbone Arrow",
+        "type": "Arrow",
+        "caption": "Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "blood": 50
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Great Arrow",
+        "type": "Greatarrow",
+        "caption": "A greatarrow as large as a spear for use with greatbows. Used by archers of monstrous strength employed by a lord's army.",
+        "attackPower": {
+            "physical": 100,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 30,
+        "sellPrice": 10
+    },
+    {
+        "name": "Golem's Great Arrow",
+        "type": "Greatarrow",
+        "caption": "Greatarrow of black stone crafted by a civilization now gone to ruin. Used by the Guardian Golem.\n\nThis hefty arrow is enrobed in tempestuous winds, allowing it to break enemy stances and guards with ease.",
+        "attackPower": {
+            "physical": 105,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 90
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 30,
+        "sellPrice": 10
+    },
+    {
+        "name": "Golden Great Arrow",
+        "type": "Greatarrow",
+        "caption": "Carved greatarrows made together with the Erdtree Greatbow. Deals holy damage.\n\nImbued with an oath-sworn incantation, which boosts the attack and defense of the archer and their nearby allies.",
+        "attackPower": {
+            "physical": 40,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 110,
+            "stamina": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 30,
+        "sellPrice": 10
+    },
+    {
+        "name": "Golem's Magic Arrow",
+        "type": "Greatarrow",
+        "caption": "Greatarrow of black stone crafted by a civilization now gone to ruin. Imbued with its ancient magic.\n\nDeals magic damage.",
+        "attackPower": {
+            "physical": 40,
+            "magic": 125,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 30,
+        "sellPrice": 10
+    },
+    {
+        "name": "Radahn's Spear",
+        "type": "Greatarrow",
+        "caption": "Greatarrows used by General Radahn during the festival of combat. These are in fact the many spears with which he was stabbed by the Cleanrot Knights.\n\nImbued with Radahn's gravitational power.",
+        "attackPower": {
+            "physical": 100,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 30,
+        "sellPrice": 10
+    },
+    {
+        "name": "Bone Great Arrow (Fletched)",
+        "type": "Greatarrow",
+        "caption": "Greatarrow as large as a spear whittled from stout animal bones.\n\nCraftable item. The fletching adds distance to the arrow's flight.",
+        "attackPower": {
+            "physical": 90,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 30,
+        "sellPrice": 1
+    },
+    {
+        "name": "Bone Great Arrow",
+        "type": "Greatarrow",
+        "caption": "Greatarrow as large as a spear whittled from stout animal bones.\n\nThough the tip is certainly sharp, it does not fly particularly true.",
+        "attackPower": {
+            "physical": 90,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 30,
+        "sellPrice": 1
+    },
+    {
+        "name": "Bolt",
+        "type": "Bolt",
+        "caption": "Ammunition used for crossbows.\nA widespread, common type of bolt.",
+        "attackPower": {
+            "physical": 50,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Lightning Bolt",
+        "type": "Bolt",
+        "caption": "Bolt tipped with a shard of Gravel Stone. Deals powerful lightning damage.\n\nUsed by worshippers of the ancient dragons.",
+        "attackPower": {
+            "physical": 20,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 80,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Perfumer's Bolt",
+        "type": "Bolt",
+        "caption": "Bolt created with perfumer techniques. Used by nobles' guards and the like.\n\nThe point of impact explodes with sparks, dealing fire damage.",
+        "attackPower": {
+            "physical": 15,
+            "magic": 0,
+            "fire": 65,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Black-Key Bolt",
+        "type": "Bolt",
+        "caption": "Bolts used in Crepus' Black-Key Crossbow, an assassin's tool of exquisite craftsmanship.\n\nThe intricate spiral tip bores deep, injecting scarlet rot far into the flesh of its target.",
+        "attackPower": {
+            "physical": 30,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "rot": 60
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Burred Bolt",
+        "type": "Bolt",
+        "caption": "Bolt covered in thorns. One of the most horrific weapons used in the Shattering. Afflicts target with blood loss.\n\nDifficult to remove once buried in flesh, causing appalling damage to the body.",
+        "attackPower": {
+            "physical": 30,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "blood": 65
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Meteor Bolt",
+        "type": "Bolt",
+        "caption": "Enchanted work of craft made in tandem with the Full Moon Crossbow. The tip is embedded with glintstone.\n\nLike a shooting star, these bolts leave a beautiful trail when fired. Deals magic damage.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 80,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Explosive Bolt",
+        "type": "Bolt",
+        "caption": "Bolt tipped with a shard of Explosive Stone. Explodes on impact, dealing fire damage.",
+        "attackPower": {
+            "physical": 15,
+            "magic": 0,
+            "fire": 70,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Golden Bolt",
+        "type": "Bolt",
+        "caption": "Bolt blessed with an incantation of the Erdtree. Deals powerful holy damage.\n\nOnce used by guards of the Capital.",
+        "attackPower": {
+            "physical": 20,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 80,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Lordsworn's Bolt",
+        "type": "Bolt",
+        "caption": "Well-crafted bolt with an illustrious design, wielded by regulars of a lord's army.\n\nDeals more damage than its commonplace cousin.",
+        "attackPower": {
+            "physical": 65,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Bone Bolt",
+        "type": "Bolt",
+        "caption": "Bolt carved from a thin animal bone. Craftable item.\n\nThough the tip is certainly sharp, it does not fly particularly true.",
+        "attackPower": {
+            "physical": 40,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Firebone Bolt",
+        "type": "Bolt",
+        "caption": "Bolt carved from animal bone. The tip is set alight before firing. Deals fire damage.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 15,
+            "magic": 0,
+            "fire": 75,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Lightningbone Bolt",
+        "type": "Bolt",
+        "caption": "Bolt crafted from animal bone with a lightning-infused tip. Deals lightning damage.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 15,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 75,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Magicbone Bolt",
+        "type": "Bolt",
+        "caption": "Bolt carved from animal bone. The tip is daubed with a glintstone tincture. Deals magic damage.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 15,
+            "magic": 75,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Haligbone Bolt",
+        "type": "Bolt",
+        "caption": "Bolt carved from animal bone. The tip is daubed with a golden tincture. Deals holy damage.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 15,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 75,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Poisonbone Bolt",
+        "type": "Bolt",
+        "caption": "Bolt carved from animal bone. The tip is daubed with venom. Afflicts targets with poison.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "poison": 66
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Bloodbone Bolt",
+        "type": "Bolt",
+        "caption": "Bolt carved from animal bone. The tip is daubed with a blood tincture. Afflicts targets with blood loss.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "blood": 50
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Coldbone Bolt",
+        "type": "Bolt",
+        "caption": "Bolt carved from animal bone with a frozen tip. Afflicts targets with frost.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 20,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "frost": 65
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Rotbone Bolt",
+        "type": "Bolt",
+        "caption": "Bolt carved from animal bone. The tip is daubed with rot. Afflicts targets with scarlet rot.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "rot": 55
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Sleepbone Bolt",
+        "type": "Bolt",
+        "caption": "Bolt carved from animal bone. The tip is daubed with a waterlily tincture. Afflicts targets with sleep.\n\nCraftable item.",
+        "attackPower": {
+            "physical": 25,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "baseBuildUp": {
+            "sleep": 90
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 1
+    },
+    {
+        "name": "Flaming Bolt",
+        "type": "Bolt",
+        "caption": "Bolt with a fiercely burned tip. Deals powerful fire damage.\n\nUsed by survivors of Radahn's army to stave off the scarlet rot.",
+        "attackPower": {
+            "physical": 20,
+            "magic": 0,
+            "fire": 80,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 5
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 99,
+        "sellPrice": 10
+    },
+    {
+        "name": "Ballista Bolt",
+        "type": "Greatbolt",
+        "caption": "Greatbolt as large as a spear for use with Hand Ballista.",
+        "attackPower": {
+            "physical": 160,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 70
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 20,
+        "sellPrice": 10
+    },
+    {
+        "name": "Lightning Greatbolt",
+        "type": "Greatbolt",
+        "caption": "Greatbolt tipped with a clump of Gravel Stone shards.\n\nDeals powerful lightning damage.",
+        "attackPower": {
+            "physical": 50,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 150,
+            "holy": 0,
+            "stamina": 70
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 20,
+        "sellPrice": 10
+    },
+    {
+        "name": "Explosive Greatbolt",
+        "type": "Greatbolt",
+        "caption": "Greatbolt tipped with a clump of Explosive Stone shards.\n\nDetonates a large explosion on impact, dealing fire damage.",
+        "attackPower": {
+            "physical": 50,
+            "magic": 0,
+            "fire": 150,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 70
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 20,
+        "sellPrice": 10
+    },
+    {
+        "name": "Bone Ballista Bolt",
+        "type": "Greatbolt",
+        "caption": "Greatbolt as large as a spear carved from stout animal bones. Craftable item.\n\nThough the tip is certainly sharp, it does not fly particularly true.",
+        "attackPower": {
+            "physical": 150,
+            "magic": 0,
+            "fire": 0,
+            "lightning": 0,
+            "holy": 0,
+            "stamina": 70
+        },
+        "physicalDamageType": "Pierce",
+        "maxHeld": 20,
+        "sellPrice": 1
+    }
 ]
