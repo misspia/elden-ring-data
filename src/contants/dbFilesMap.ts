@@ -16,6 +16,8 @@ import { magicFormatter } from "@/formatters/magic";
 import { talismansFormatter } from "@/formatters/talismans";
 import { spiritAshesFormatter } from "@/formatters/spiritAshes";
 import { craftingMaterialsFormatter } from "@/formatters/craftingMaterials";
+import { ammunitionFormatter } from "@/formatters/ammunition";
+import { consumableWeaponsFormatter } from "@/formatters/consumableWeapons";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -148,10 +150,26 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   /**
    * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=958920399#gid=958920399
    */
+  // {
+  //   csv: "Elden Ring Item Data Sheet (1.09) - Crafting Materials.csv",
+  //   json: "crafting-materials.json",
+  //   formatter: craftingMaterialsFormatter,
+  // },
+  /**
+   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1491084983#gid=1491084983
+   */
   {
-    csv: "Elden Ring Item Data Sheet (1.09) - Crafting Materials.csv",
-    json: "crafting-materials.json",
-    formatter: craftingMaterialsFormatter,
+    csv: "Elden Ring Item Data Sheet (1.09) - Other Weapons.csv",
+    json: "ammunition.json",
+    formatter: ammunitionFormatter,
+  },
+  /**
+   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1491084983#gid=1491084983
+   */
+  {
+    csv: "Elden Ring Item Data Sheet (1.09) - Other Weapons.csv",
+    json: "consumable-weapons.json",
+    formatter: consumableWeaponsFormatter,
   },
 ];
 

@@ -141,3 +141,12 @@ export type StatusEffectRaw =
   | "Sleep";
 
 export type StatusEffect = Omit<StatusEffectRaw, "-">;
+
+export type OtherWeaponTypeRaw =
+  | "Arrow"
+  | "Bolt"
+  | "Greatarrow"
+  | "Greatbolt"
+  | "Tool";
+
+export type AmmunitionType = Omit<OtherWeaponTypeRaw, "Tool">;
