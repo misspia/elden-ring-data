@@ -1,0 +1,1343 @@
+Name,Icon,Info 1,Info 2,Caption,Consumable/Reusable,Drop Type,No. Held Max,Storage Max,Can Deposit,Sell Price,Equippable,Lost in NG+,Enabled while Riding,Obtainable,Goods Type,SpEffect ID,ID,Icon ID,Sort Group ID,Sort ID
+Godrick's Great Rune,,Raises all attributes,-,"A Great Rune of the shardbearer Godrick.
+Its blessing raises all attributes.
+
+This Great Rune is known as the anchor ring, found in the center of the Elden Ring.
+
+The first demigods were The Elden Lord Godfrey and his offspring, the golden lineage.",Reusable,Gold,1,0,No,-,No,Yes,Yes,Yes,15,-,191,03201,10,200000
+Rykard's Great Rune,,Restores HP upon attacking enemies,-,"A Great Rune of the shardbearer Rykard.
+Its blessing restores HP upon defeating enemies.
+
+Rykard was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika.
+
+But Rykard fed himself to the blasphemous serpent, Great Rune and all.",Reusable,Gold,1,0,No,-,No,Yes,Yes,Yes,15,-,194,03203,10,200010
+Radahn's Great Rune,,"Raises maximum HP, FP and stamina",-,"A Great Rune of the shardbearer Radahn.
+Its blessing raises maximum HP, FP and Stamina.
+
+Radahn was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika.
+
+The Great Rune burns, to resist the encroachment of the scarlet rot.",Reusable,Gold,1,0,No,-,No,Yes,Yes,Yes,15,-,192,03204,10,200020
+Morgott's Great Rune,,Greatly raises maximum HP,-,"A Great Rune of the shardbearer Morgott.
+Its blessing greatly raises maximum HP.
+
+This Great Rune is the anchor ring that houses the base, and proves two things:
+
+That the Omen King was born of the golden lineage, and that he was indeed the Lord of Leyndell.",Reusable,Gold,1,0,No,-,No,Yes,Yes,Yes,15,-,193,03200,10,200030
+Mohg's Great Rune,,Grants a blessing of blood to phantoms,-,"A Great Rune of the shardbearer Mohg.
+Its blessing grants a blessing of blood to summoned phantoms, and imparts a Phantom Great Rune upon successful invasion.
+
+Mohg and Morgott are twin brothers, and their Great Runes are naturally similar.
+
+But Mohg's rune is soaked in accursed blood, from his devout love for the wretched mire that he was born into far below the earth.",Reusable,Gold,1,0,No,-,No,Yes,Yes,Yes,15,-,195,03205,10,200040
+Malenia's Great Rune,,Attacks recover HP after damage is taken,-,"A Great Rune of the shardbearer Malenia.
+The blessing of this half-rotted rune reduces the healing power of Flask of Crimson Tears.
+
+And yet, due to the infusion of Malenia's spirit of resistance, attacks made immediately after receiving damage will partially recover HP.
+
+Malenia is daughter to Queen Marika and Radagon, and her Great Rune should have been the most sacred of all.",Reusable,Gold,1,0,No,-,No,Yes,Yes,Yes,15,-,196,03206,10,200050
+Great Rune of the Unborn,,Used to perfect rebirth,-,"Amber egg clutched by Rennala, Queen of the Full Moon.
+Great Rune of unborn demigods.
+
+Perfects those who have been born anew.
+
+Children born anew by Rennala are all frail and short-lived. Imperfect beings, each and all.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,10080,03202,10,200060
+Crimson Crystal Tear,,Restores half of total HP in mixed physick,Restores half of max HP,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction restores half of one's maximum HP.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3505,11002,00402,20,201000
+Crimson Crystal Tear,,Restores half of total HP in mixed physick,Restores half of max HP,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction restores half of one's maximum HP.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3505,11003,00403,20,201010
+Crimsonspill Crystal Tear,,Temporarily boosts max HP in mixed physick,Temporarily raises max HP,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily raises one's maximum HP.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3500,11000,00400,20,201020
+Crimsonburst Crystal Tear,,Steadily restores HP for a time in mixed physick,Steadily restores HP for a time,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction gradually restores one's HP over time.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511009,11009,00409,20,201030
+Cerulean Crystal Tear,,Restores half of total FP in mixed physick,Restores half of max FP,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction restores half of one's maximum FP.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3506,11004,00404,20,201040
+Cerulean Crystal Tear,,Restores half of total FP in mixed physick,Restores half of max FP,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction restores half of one's maximum FP.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3506,11005,00405,20,201050
+Greenspill Crystal Tear,,Temporarily boosts stamina in mixed physick,Temporarily raises max stamina,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily raises one's maximum stamina.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3501,11001,00401,20,201060
+Greenburst Crystal Tear,,Temporarily boosts stamina recovery speed in mixed physick,Temporarily boosts stamina recovery speed,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts stamina recovery speed.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511010,11010,00410,20,201070
+Strength-knot Crystal Tear,,Temporarily boosts strength in mixed physick,Temporarily boosts strength,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts one's strength.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3515,11021,00421,20,201080
+Dexterity-knot Crystal Tear,,Temporarily boosts dexterity in mixed physick,Temporarily boosts dexterity,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts one's dexterity.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3516,11022,00422,20,201090
+Intelligence-knot Crystal Tear,,Temporarily boosts intelligence in mixed physick,Temporarily boosts intelligence,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts one's intelligence.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3517,11023,00423,20,201100
+Faith-knot Crystal Tear,,Temporarily boosts faith in mixed physick,Temporarily boosts faith,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts one's faith.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3518,11024,00424,20,201110
+Opaline Hardtear,,Temporarily boosts all damage negation in physick,Temporarily boosts all damage negation,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts all forms of damage negation.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511011,11011,00411,20,201120
+Speckled Hardtear,,Boosts resistance and heals status in mixed physick,Heals status and raises resistance,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily raises all resistances and heals all status ailments.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3603,11006,00406,20,201130
+Leaden Hardtear,,Temporarily boosts poise in mixed physick,Temporarily boosts poise,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts one's poise.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3519,11018,00418,20,201140
+Magic-Shrouding Cracked Tear,,Temporarily boosts magic attacks in mixed physick,Temporarily boosts magic attacks,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts the power of one's magic attacks.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511029,11029,00429,20,201150
+Flame-Shrouding Cracked Tear,,Temporarily boosts fire attacks in mixed physick,Temporarily boosts fire attacks,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts the power of one's fire attacks.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511028,11028,00428,20,201160
+Lightning-Shrouding Cracked Tear,,Temporarily boosts lightning attacks in mixed physick,Temporarily boosts lightning attacks,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts the power of one's lightning attacks.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511030,11030,00430,20,201170
+Holy-Shrouding Cracked Tear,,Temporarily boosts holy attacks in mixed physick,Temporarily boosts holy attacks,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily boosts the power of one's holy attacks.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511031,11031,00431,20,201180
+Stonebarb Cracked Tear,,Makes attacks more likely to break enemy stances in a mixed physick,Temporarily makes stance break easier,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction makes one's attacks more likely to break enemy stances. However, the effect lasts only for a short time.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511026,11026,00426,20,201190
+Spiked Cracked Tear,,Enhances charged attacks for a time in mixed physick,Temporarily boosts charged attack power,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction increases the power of charged attacks for a certain duration.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511014,11014,00414,20,201200
+Thorny Cracked Tear,,Makes consecutive attacks grow stronger in mixed physick,Temporarily boosts successive attack power,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction makes consecutive attacks grow stronger the longer they continue. However, the effect lasts only for a short time.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3550,11013,00413,20,201210
+Twiggy Cracked Tear,,Briefly stop rune loss on death in mixed physick,Temporarily stops rune loss on death,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction prevents one's runes from being lost upon death. However, the effect lasts only for a short time.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511019,11019,00419,20,201220
+Winged Crystal Tear,,Temporarily reduces equip load in mixed physick,Temporarily reduces equip load,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+Temporarily reduces equipment load.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511012,11012,00412,20,201230
+Windy Crystal Tear,,Enhances dodge rolls for a time in mixed physick,Temporarily increases rolling efficiency,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction increases the effectiveness of dodge rolls for a certain duration. However, damage taken is also increased during the concoction's effect.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511015,11015,00415,20,201240
+Crimson Bubbletear,,Restores HP when near death in mixed physick,Restores HP when near death,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction automatically heals one's HP in the moment before death.
+
+However, this effect only occurs once, and will expire after a certain duration.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3512,11007,00407,20,201250
+Crimsonwhorl Bubbletear,,Converts damage received into HP in mixed physick,Converts damage received into HP,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction converts incoming damage into recovered HP instead. However, physical damage cannot be converted.
+
+This effect is only brief and will quickly expire.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3580,11020,00420,20,201260
+Opaline Bubbletear,,Significantly negates damage in mixed physick,Significantly negates damage received,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+Provides significant damage negation.
+
+However, this effect only occurs once, and will expire after a certain duration.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,3507,11008,00408,20,201270
+Cerulean Hidden Tear,,Eliminates all FP consumption in mixed physick,Eliminates all FP consumption,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction eliminates all FP consumption.
+
+However, this effect is only brief and will quickly expire.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511060,11025,00425,20,201280
+Purifying Crystal Tear,,Purifies the Lord of Blood's curse in a mixed physick,Purifies the curse of the Lord of Blood,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction purifies the curse from Mohg, Lord of Blood's terrifying rite of blood.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511027,11027,00427,20,201290
+Ruptured Crystal Tear,,Causes concoction to explode in mixed physick,Causes an explosion,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+Causes the resulting concoction to explode.
+
+A defective crystal tear which possesses absolutely no medicinal qualities. A lesson said to be learned the hard way for some; faith can be a volatile matter, after all.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511070,11016,00416,20,201300
+Ruptured Crystal Tear,,Causes concoction to explode in mixed physick,Causes an explosion,"A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+Causes the resulting concoction to explode.
+
+A defective crystal tear which possesses absolutely no medicinal qualities. A lesson said to be learned the hard way for some; faith can be a volatile matter, after all.",Reusable,Purple,1,1,No,-,No,No,No,Yes,10,511078,11017,00417,20,201310
+Cracked Pot,,Container required for crafting cracked pot items,-,"This empty pot somehow mends itself when broken.
+Essential vessel for crafting cracked pot items.
+
+The materials and magics sealed within deploy their effects when the pot is thrown.",Consumable,Purple,20,0,No,-,No,No,Yes,Yes,11,-,9500,00504,30,202000
+Ritual Pot,,Container required for crafting ritual pot items,-,"This empty pot somehow mends itself when broken.
+Special item with greater durability than a cracked pot.
+
+Essential vessel for crafting ritual pot items.
+
+The materials and magics sealed within deploy their effects when the pot is thrown.",Consumable,Purple,10,0,No,-,No,No,Yes,Yes,11,-,9501,03010,30,202010
+Perfume Bottle,,Container required for crafting perfume items,-,"Glass bottles used by perfumers. Used to seal various scent compounds.
+
+Essential vessel for crafting perfume items.
+
+The art of perfuming was once jealously guarded in the capital, but after the perfumers were drafted into service during the Shattering, the art became widely practiced throughout the Lands Between.",Consumable,Purple,10,0,No,-,No,No,Yes,Yes,11,-,9510,00443,30,202020
+Memory Stone,,Increases memory slots,-,"A black, lightly beguiling stone.
+Prized by the sorcerers who produce them.
+
+Increases memory slots.
+
+Said to be a fragment of the black moon that once hung above the Eternal City.",Consumable,Purple,8,0,No,-,No,No,Yes,Yes,1,-,10030,00553,30,202030
+Talisman Pouch,,Increases talisman equip slots,-,"Small, withered bag, knitted by hand. Bestowed upon the ruling lord, or those attempting to become lord, by the elderly Finger Reader.
+
+Increases talisman equip slots.
+
+As the voices of the Two Fingers, Finger Readers are said to live lives eternal, and one is even supposed to have served as a wetnurse to royalty.",Consumable,Purple,3,0,No,-,No,No,Yes,Yes,1,-,10040,00554,30,202040
+Mending Rune of Perfect Order,,Can be used to mend the shattered Elden Ring,-,"Rune discovered by the noble Goldmask.
+Used to restore the fractured Elden Ring when brandished by the Elden Lord.
+
+A rune of transcendental ideology which will attempt to perfect the Golden Order.
+
+The current imperfection of the Golden Order, or instability of ideology, can be blamed upon the fickleness of the gods no better than men. That is the fly in the ointment.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8182,03116,40,203000
+Mending Rune of the Death-Prince,,Can be used to mend the shattered Elden Ring,-,"Rune gestated by Fia, the Deathbed Companion.
+Used to restore the fractured Elden Ring when brandished by the Elden Lord.
+
+Formed of the two hallowbrand half-wheels combined, it will embed the principle of life within Death into Order. 
+
+The Golden Order was created by confining Destined Death. Thus, this new Order will be one of Death restored.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8183,03117,40,203010
+Mending Rune of the Fell Curse,,Can be used to mend the shattered Elden Ring,-,"Loathsome rune gestated by the Dung Eater.
+Used to restore the fractured Elden Ring when brandished by the Elden Lord.
+
+The reviled curse will last eternally, and the world's children, grandchildren, and every generation hence, will be its pustules.
+
+If Order is defiled entirely, defilement is defilement no more, and for every curse, a cursed blessing.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8184,03118,40,203020
+Godrick's Great Rune,,"Godrick's Great Rune, devoid of any benediction",-,"The Great Rune of the shardbearer Godrick, devoid of any benediction.
+
+Seek the Divine Tower of Limgrave, which stands beyond the great bridge from Stormveil Castle.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8148,03078,40,203030
+Rykard's Great Rune,,"Rykard's Great Rune, devoid of any benediction",-,"The Great Rune of the shardbearer Rykard, devoid of any benediction.
+
+Seek the Divine Tower of West Altus, which stands upon the precipice at the coast southwest of Leyndell.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8151,03081,40,203040
+Radahn's Great Rune,,"Radahn's Great Rune, devoid of any benediction",-,"The Great Rune of the shardbearer Radahn, devoid of any benediction.
+
+Seek the Divine Tower of Caelid, which stands upon the precipice at the Dragonbarrow's shore.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8149,03079,40,203050
+Morgott's Great Rune,,"Morgott's Great Rune, devoid of any benediction",-,"The Great Rune of the shardbearer Morgott, devoid of any benediction.
+
+Seek the Divine Tower of East Altus, which stands beyond the great bridge from Leyndell's eastern ward.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8150,03080,40,203060
+Mohg's Great Rune,,"Mohg's Great Rune, devoid of any benediction",-,"The Great Rune of the shardbearer Mohg, devoid of any benediction.
+
+Seek the Divine Tower of East Altus, which stands beyond the great bridge from Leyndell's eastern ward.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8152,03082,40,203070
+Malenia's Great Rune,,"Malenia's Great Rune, devoid of any benediction",-,"The Great Rune of the shardbearer Malenia, devoid of any benediction.
+
+Seek the Isolated Divine Tower, which stands beyond the lost great bridge.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8153,03083,40,203080
+Stonesword Key,,Use to break one imp statue seal,-,"A sword-shaped stone key.
+
+Breaks the seal on imp statues, but remains embedded in the statue after use, meaning it can only be used once as an item.
+
+Think well before using one.",Consumable,Purple,99,600,Yes,-,No,No,Yes,Yes,1,-,8000,00228,40,203090
+Imbued Sword Key,,"Unseals sending gate, but disappears upon use",-,"Stone key shaped like a sword.
+A special item, imbued with rich blue magic.
+
+Breaks the seal on the imp statues guarding the sending gates enshrined in each belfry, but remains embedded in the statue after use, meaning it can only be used once as an item.
+
+Think well before using one.",Consumable,Purple,99,1,No,-,No,Yes,Yes,Yes,1,-,8186,03198,40,203100
+Rusty Key,,Opens a locked door in Stormveil Castle,-,"Rusted iron key.
+
+Opens a locked door in Stormveil Castle.",Reusable,White (Large),1,1,No,-,No,Yes,Yes,Yes,1,-,8010,00229,40,203110
+Drawing-Room Key,,Key to the Volcano Manor drawing room,-,"Key to Volcano Manor's drawing room.
+
+The door can be found in the westward corridor, upon the left hand side.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8134,03062,40,203120
+Sewer-Gaol Key,,Unlocks sewer-gaol door beneath Leyndell,-,"Filthy key received from the Dung Eater.
+
+Unlocks sewer-gaol door said to lie beneath Leyndell, the Royal Capital.",Reusable,White (Large),1,1,No,-,No,Yes,Yes,Yes,1,-,8197,03227,40,203130
+Discarded Palace Key,,Key to treasure chest for Carian Princesses,-,"A key discarded by Lunar Princess Ranni alongside her very flesh.
+
+Opens a treasure chest passed down to Carian Princesses.
+
+It is said to be found in the Grand Library of Raya Lucaria with her mother Rennala.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8199,03279,40,203140
+Academy Glintstone Key,,Key to open the academy's two sealed gates,-,"Key to the seals binding both gates to the Academy of Raya Lucaria.
+
+Activates warp magic bound within the seals.
+
+A glintstone key will remember its user, meaning once used it can never be passed on to another. The academy does not welcome the indolent.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8109,03006,40,203150
+Sellian Sealbreaker,,Can release Master Lusat from his confinement,-,"Glintstone key received from the sorceress Sellen.
+
+Capable of breaking the seal that keeps Master Lusat confined.
+
+Sellia, Town of Sorcery can be found in Caelid. This key was said to have been found in the possession of a Sellian sorcerer.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8169,03103,40,203160
+Carian Inverted Statue,,Key revealing the hidden form of Carian Study Hall,-,"Statuette of a scholar, with ground and sky inverted.
+
+Reveals the hidden form of the Carian Study Hall, which connects to the divine tower.
+
+To unveil the secret, affix it to the pedestal of the celestial globe.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8111,03060,40,203170
+Dectus Medallion (Left),,Join medallions to operate Grand Lift of Dectus,-,"Left half of a split medallion depicting the Erdtree.
+
+Brandishing the medallion with both halves conjoined will activate the Grand Lift of Dectus, connecting the Altus Plateau to Liurnia.
+
+The right half is said to reside in Fort Faroth in the Dragonbarrow, far to the east.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8105,03000,40,203180
+Dectus Medallion (Right),,Join medallions to operate Grand Lift of Dectus,-,"Right half of a split medallion depicting the Erdtree.
+
+Brandishing the medallion with both halves conjoined will activate the Grand Lift of Dectus, connecting the Altus Plateau to Liurnia.
+
+The left half is said to reside in the coastal Fort Haight to the far west.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8106,03001,40,203190
+Rold Medallion,,Operates Grand Lift of Rold,-,"Conjoined split medallion depicting the Flame Peak.
+
+Brandishing the medallion activates the Grand Lift of Rold, connecting Leyndell to the Mountaintops of the Giants.
+
+The forge of the flame of ruin is said to be found upon their peaks, and it is here Melina wishes to travel in resuming your journey together.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8107,03002,40,203200
+Haligtree Secret Medallion (Left),,Join medallions to operate Grand Lift of Rold,-,"Left half of a split medallion depicting the Haligtree.
+
+Brandishing the medallion with both halves conjoined will activate the Grand Lift of Rold, granting access to a hidden path.
+
+In other words, this secret medallion will guide the bearer to the land of Miquella's Haligtree.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8175,03270,40,203210
+Haligtree Secret Medallion (Right),,Join medallions to operate Grand Lift of Rold,-,"Right half of a split medallion depicting the Haligtree.
+
+Brandishing the medallion with both halves conjoined will activate the Grand Lift of Rold, granting access to a hidden path.
+
+In other words, this secret medallion will guide the bearer to the land of Miquella's Haligtree.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8176,03271,40,203220
+Chrysalids' Memento,,Broach wrapped in red velvet,-,"Memento left by the chrysalids sacrificed for grafting. A brooch wrapped in red velvet. Traces of blood are visible.
+
+Faintly visible spirits try to convey something, but their voices cannot be heard.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8171,03105,50,204000
+The Stormhawk King,,Ashes of a hawk which heeds no summons,-,"Ashes of a hawk revered by all others as sovereign back in the days when Stormveil's winds still raged like no other.
+
+This ancient monarch is proud however, refusing to answer anyone's summons.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8194,03273,50,204010
+Irina's Letter,,Letter addressed to the commander of Castle Morne,-,"Letter given by Irina, addressed to her father, the commander of Castle Morne.
+
+Gorgeous silken handkerchief, lightly stained with blood. Words can be made out within.",Reusable,White (Large),1,1,No,-,No,Yes,Yes,Yes,1,-,8131,03059,50,204020
+Shabriri Grape,,"Yellowing, oozing eyeball of the infirm",-,"A yellowing, oozing eyeball of the infirm. The surface is shriveled, and the inside is squishy, not unlike a large, overly-ripe grape.
+
+Give to the blind maiden to guide her to the distant light.",Consumable,Purple,99,999,No,-,No,Yes,No,Yes,1,-,1240,03052,50,204030
+Fingerprint Grape,,"Eyeball of the knight Vyke, inflamed yellow",-,"Eyeball of the knight Vyke, inflamed yellow.
+Seared with a repulsive fingerprint burn akin to those that marred his entire body.
+
+If offered to the blind maiden, it will lead her to the source of the distant light, allowing her to become a Finger Maiden.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8126,03054,50,204040
+Rya's Necklace,,"Rya's necklace, stolen by a blackguard",-,"Necklace stolen from Rya by the blackguard.
+Features a relief of a dignified looking woman from a foreign country.
+
+It appears to hold great significance for Rya.",Reusable,White (Large),1,1,No,-,No,Yes,Yes,Yes,1,-,8136,03064,50,204050
+Serpent's Amnion,,Amnion from a womb that bore unintended offspring,-,"Amnion from the mother's womb which cradled the poor unwanted offspring of a repellant birthing ritual.
+
+It will never dry out, remaining damp indefinitely.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8129,03057,50,204060
+Tonic of Forgetfulness,,Tonic that banishes distress and bitter memories,-,"Tonic in a small brass vial.
+
+Banishes distress and bitter memories.
+
+A gift bestowed by Rykard, sworn to blasphemy, to Lady Tanith, who unfortunately had no use for it. ""My Lord, there could be no greater distress than to forget you.""",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8128,03056,50,204070
+Dancer's Castanets,,Castanets used by dancers from distant lands,-,"Castanets used by dancers from foreign lands. Received from Patches.
+
+The passionate dance comprises no seductiveness, but merely a dignified beauty.",Reusable,White (Large),1,1,No,-,No,Yes,Yes,Yes,1,-,8168,03102,50,204080
+Unalloyed Gold Needle,,Intricate needle of unalloyed gold,-,"An intricately crafted needle of unalloyed gold.
+Removed by Millicent from her flesh. Bears no trace of befouled blood, but is faintly moist with dew.
+
+""There is something I must return to Malenia. The dignity, the sense of self, that allowed her to resist the call of the scarlet rot.""",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8196,03275,50,204090
+Unalloyed Gold Needle,,Snapped intricate needle of unalloyed gold,-,"An intricately crafted needle of unalloyed gold, snapped in half.
+
+A ritual implement crafted to ward away the meddling of outer gods, it is thought capable of forestalling the incurable rotting sickness.
+
+Sage Gowry has designs for this needle.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8975,03231,50,204100
+Unalloyed Gold Needle,,Repaired intricate needle of unalloyed gold,-,"An intricately crafted needle of unalloyed gold. Once snapped in half, it has been repaired by Sage Gowry.
+
+A ritual implement crafted to ward away the meddling of outer gods, it is thought capable of forestalling the incurable rotting sickness.
+
+""Now, all you need do is deliver the needle to Millicent, convalescing in the church atop the cliff just beyond Sellia.""",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8976,03232,50,204110
+Valkyrie's Prosthesis,,Golden prosthesis used by the one-armed Valkyrie,-,"Golden prosthesis once used by the one-armed valkyrie.
+A masterwork of craftsmanship, with practice and skill it can be used as proficiently as a real arm.
+
+When Maleigh Marais, Lord of the Shaded Castle, embraced this prosthesis, he claimed to feel the presence of his personal goddess.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8977,03233,50,204120
+Alexander's Innards,,Keepsake of the warrior jar Alexander,-,"A keepsake of the warrior jar Alexander.
+Found at the core of the dead flesh that once filled the great jar.
+
+The jars contain dregs inherited from those who came before. Thus are warriors passed from jar to jar, carrying dreams of greatness.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8222,03284,50,204130
+Lord of Blood's Favor,,Pure white oath-cloth given by Varré,-,"Pure white oath-cloth given by Varré. The final trial to be anointed a Knight of Mohg, Lord of Blood.
+
+""Soak the cloth with a maiden's blood... The blood of anyone's maiden will do. You are maidenless, after all.""",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8154,03087,50,204140
+Lord of Blood's Favor,,"Bloodied white oath-cloth, dyed in a maiden's blood",-,"Fully reddened oath-cloth, dyed in a maiden's blood.
+
+The final trial is complete. Luminary Mohg is sure to welcome you into his service, as a knight who will lay the foundations for his dynasty.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8155,03088,50,204150
+Weathered Dagger,,"Dagger received from Fia, Deathbed Companion",-,"Dagger received from Fia, the Deathbed Companion.
+
+She wishes for it to be returned to its rightful owner.
+
+It was once a special weapon of gold and silver intertwined, but is now worn down and marred by a black gash.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8980,03222,50,204160
+Black Knifeprint,,Mark of the Night of the Black Knives ritual,-,"On the Night of the Black Knives, someone stole a fragment of Death from Maliketh, the Black Blade, and imbued its power into the assassins' daggers.
+
+This mark is evidence of the ritual, and hides the truth of the conspiracy.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8172,03106,50,204170
+Cursemark of Death,,Cursemark carved into Lunar Princess Ranni's discarded flesh,-,"Cursemark carved into the discarded flesh of Ranni the Witch. Also known as the half-wheel wound of the centipede.
+
+This cursemark was carved at the moment of Death of the first demigod, and should have taken the shape of a circle.
+
+However, two demigods perished at the same time, breaking the cursemark into two half-wheels.
+
+Ranni was the first of the demigods whose flesh perished, while the Prince of Death perished in soul alone.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8191,03228,50,204180
+Seedbed Curse,,Curse grown on a body defiled by the Dung Eater,-,"Curse grown on a corpse killed and defiled by the Dung Eater.
+A tender pox afflicted with omen horns.
+
+The Dung Eater cultivates the seedbed curse on corpses.
+
+By doing so he prevents dead souls returning to the Erdtree, leaving them forever cursed. One of the most loathsome things found in all the Lands Between.",Consumable,Purple,99,1,No,-,No,Yes,Yes,Yes,1,-,8193,03272,50,204190
+Academy Glintstone Key,,Key to open the academy's two sealed gates,-,"Key to the seals binding both gates to the Academy of Raya Lucaria.
+
+Activates warp magic bound within the seals.
+
+This glintstone key is still brand new, unused by anyone.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8174,03006,50,204200
+Sellen's Primal Glintstone,,Glintstone from within Sellen's body,-,"Glintstone from within the sorceress Sellen's body.
+Seemingly half-alive, blood vessels are visible within.
+
+In essence, a primal glintstone is a sorcerer's soul. If transplanted into a compatible new body after their original body dies, the sorcerer will rise again.
+
+""My apprentice, do you think it distasteful?""",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8144,03072,50,204210
+Seluvis's Potion,,Small flask received from Preceptor Seluvis,-,"Small flask received from Preceptor Seluvis containing a cloudy tonic of bluish black.
+
+""Find Nepheli, and ensure she drinks it.""",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8164,03098,50,204220
+Seluvis's Introduction,,Letter of introduction addressed to Sellen,-,"Scroll bearing a royal coat of arms.
+A letter of introduction written by Preceptor Seluvis.
+
+Addressed to a glintstone sorceress by the name of Sellen.
+
+The contents of the scroll cannot be discerned.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8143,03071,50,204230
+Amber Starlight,,Ingredient used in special draught,-,"An ephemeral sliver that gives off a pale amber glow.
+What remains of a passing flash of starlight.
+
+If the stars command our fates, then amber-hued stars must command the fates of the gods. Such is the belief that inspired the use of these shards to prepare a most special draught.
+
+Cannot be consumed by mere humans.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8142,03283,50,204240
+Amber Draught,,Glistening amber draught made for a scheme,-,"Small flask received from Preceptor Seluvis containing a gleaming amber draught for use in a scheme.
+
+""Give it to Ranni and ensure she drinks it. And we'll be in a position to claim the very finest puppet ever crafted.""",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8166,03100,50,204250
+Fingerslayer Blade,,Hidden treasure of the Eternal City of Nokron,-,"The hidden treasure of the Eternal City of Nokron; a blade said to have been born of a corpse.
+
+This blood-drenched fetish is proof of the high treason committed by the Eternal City and symbolizes its downfall.
+
+Cannot be wielded by those without a fate, but is said to be able to harm the Greater Will and its vassals.",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8159,03093,50,204260
+Miniature Ranni,,Doll resembling Ranni the Witch,-,"A doll resembling Ranni the Witch.
+From head to toe every detail is perfect.
+
+This unresponsive doll seems pleasantly cool.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8146,03074,50,204270
+Miniature Ranni,,Doll resembling Ranni the Witch,-,"A doll resembling Ranni the Witch.
+From head to toe every detail is perfect.
+
+The chilliness is gone, feeling now like an empty husk.
+
+There is no response.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8187,03224,50,204280
+Dark Moon Ring,,Ring of Lunar Princess Ranni's cold oath,-,"Ring depicting a leaden full moon. Symbolic of a cold oath, the ring is supposed to be given by Lunar Princess Ranni to her consort.
+
+Ranni is an Empyrean, meaning her consort would by rights earn the title of lord.
+
+A warning is engraved within; ""Whoever thou mayest be, take not the ring from this place, the solitude beyond the night is better mine alone.""",Reusable,Gold,1,1,No,-,No,Yes,Yes,Yes,1,-,8121,03050,50,204290
+Deathroot,,Beast Clergyman seeks and devours these,-,"A source that gives rise to Those Who Live in Death.
+
+The Beast Clergyman, found at Bestial Sanctum in the distant east, collects and devours these roots.
+
+On the night of the dire plot the stolen Rune of Death enabled the first Death of a demigod. Later, the Rune of Death spread across the Lands Between through the underground roots of the Greattree, sprouting in the form of Deathroot.",Consumable,Purple,99,600,Yes,-,No,Yes,No,Yes,1,-,2090,00557,50,204300
+Beast Eye,,Said to tremble when close to Deathroot,-,"Claw-marked stone eye received from Gurranq, Beast Clergyman.
+
+It is said to tremble when near Deathroot.
+
+The murky violet iris writhes as if alive.
+""I am not sated... Feed me more...Death...""",Reusable,Purple,1,1,No,-,No,Yes,No,Yes,1,-,8979,00637,50,204310
+Dragon Heart,,Gain power of the dragon at the Dragon Communion altar,-,"Dragon heart seized by a dragon tracker.
+Riddled with Gravel Stone, this grotesque organ continues to beat vivaciously.
+
+An offering used in the Dragon Communion. Consume a dragon's heart at the altar to make its power yours.
+
+While a terrible and savage-looking thing, the heart has a peculiar beauty to it.",Consumable,Purple,99,600,Yes,-,No,No,Yes,Yes,1,-,10060,03230,50,204320
+Lost Ashes of War,,Used to duplicate Ashes of War,-,"Empty ashes of war, devoid of any memories of battle.
+
+Unable to apply any kind of affinity in their current state, but can be used by Smithing Master Hewg of the Roundtable Hold to recreate other ashes.
+
+Thus does the copy pass into becoming the genuine article.",Consumable,White (Large),99,600,Yes,500,No,No,Yes,Yes,1,-,10070,03223,50,204330
+Celestial Dew,,Carry out Absolution at the Church of Vows,-,"A hidden Tear found in the Eternal City.
+Also known as a Night Tear.
+
+Allows one to carry out an Absolution at the Church of Vows, reversing all antagonizations.
+
+Once upon a time, the stars of the night sky guided fate, and this is a recollection of those times.",Consumable,Purple,99,600,Yes,100,No,No,Yes,Yes,1,-,2130,00624,50,204340
+Larval Tear,,Material needed by Rennala to grant rebirth,-,"Core of a creature of mimicry known as a silver tear.
+As much a substance as it is a living organism.
+
+Material required by the amber egg cradled by Rennala, Queen of the Full Moon, to birth people anew.
+
+Being born anew allows the reallocation of attributes boosted by leveling up.",Consumable,Purple,99,600,No,-,No,No,Yes,Yes,1,-,8185,03075,50,204350
+Crafting Kit,,Enables the practice of item crafting,-,"Leather bag containing a pestle and mortar, small blade, and various other tools.
+
+Enables item crafting from the main menu.
+
+Provides both means to fight and means to survive.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8500,00259,60,205000
+Nomadic Warrior's Cookbook [1],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Bone Arrow
+- Bone Arrow (Fletched)
+- Bone Bolt",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9300,03119,60,205010
+Nomadic Warrior's Cookbook [2],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Glowstone
+- Invigorating Cured Meat
+- Invigorating White Cured Meat",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9311,03119,60,205020
+Nomadic Warrior's Cookbook [3],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Pickled Turtle Neck
+- Poisonbone Arrow
+- Poisonbone Arrow (Fletched)
+- Poisonbone Bolt",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9301,03119,60,205030
+Nomadic Warrior's Cookbook [4],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Fetid Pot
+- Roped Fetid Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9380,03119,60,205040
+Nomadic Warrior's Cookbook [5],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Beastlure Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9383,03119,60,205050
+Nomadic Warrior's Cookbook [6],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Blood Grease
+- Drawstring Blood Grease
+- Bloodbone Arrow
+- Bloodbone Arrow (Fletched)
+- Bloodbone Bolt",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9302,03119,60,205060
+Nomadic Warrior's Cookbook [7],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Soft Cotton
+- Stanching Boluses
+- Rainbow Stone Arrow",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9305,03119,60,205070
+Nomadic Warrior's Cookbook [8],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Poison Grease
+- Drawstring Poison Grease",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9388,03119,60,205080
+Nomadic Warrior's Cookbook [9],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Rancor Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9343,03119,60,205090
+Nomadic Warrior's Cookbook [10],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Stormwing Bone Arrow",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9303,03119,60,205100
+Nomadic Warrior's Cookbook [11],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Crystal Dart
+- Spellproof Dried Liver
+- Shattershard Arrow",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9322,03119,60,205110
+Nomadic Warrior's Cookbook [12],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Cursed-Blood Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9306,03119,60,205120
+Nomadic Warrior's Cookbook [13],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Bone Great Arrow
+- Bone Great Arrow (Fletched)
+- Bone Ballista Bolt",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9308,03119,60,205130
+Nomadic Warrior's Cookbook [14],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Poison Pot
+- Roped Poison Pot
+- Poisonbone Dart",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9387,03119,60,205140
+Nomadic Warrior's Cookbook [15],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Rotbone Arrow
+- Rotbone Arrow (Fletched)
+- Rotbone Bolt",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9390,03119,60,205150
+Nomadic Warrior's Cookbook [16],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Thawfrost Boluses
+- Stimulating Boluses",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9329,03119,60,205160
+Nomadic Warrior's Cookbook [17],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Soap
+- Oil Pot
+- Roped Oil Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9310,03119,60,205170
+Nomadic Warrior's Cookbook [18],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Dappled Cured Meat
+- Dappled White Cured Meat",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9327,03119,60,205180
+Nomadic Warrior's Cookbook [19],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Sweet Raisin
+- Warming Stone",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9307,03119,60,205190
+Nomadic Warrior's Cookbook [20],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Volcano Pot
+- Roped Volcano Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9323,03119,60,205200
+Nomadic Warrior's Cookbook [21],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Alluring Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9312,03119,60,205210
+Nomadic Warrior's Cookbook [22],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Rot Pot
+- Rot Grease
+- Drawstring Rot Grease",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9389,03119,60,205220
+Nomadic Warrior's Cookbook [23],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Frozen Raisin
+- Clarifying Cured Meat
+- Clarifying White Cured Meat",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9309,03119,60,205230
+Nomadic Warrior's Cookbook [24],,Expands crafting repertoire,-,"A record of crafting techniques left by roaming nomad warriors.
+Contains knowledge for surviving in the face of utter scarcity.
+
+Acquire the knowledge to craft the following:
+
+- Swarm Pot
+- Roped Fly Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9391,03119,60,205240
+Armorer's Cookbook [1],,Expands crafting repertoire,-,"A record of crafting techniques left by an armorer who served the great general Radahn.
+Contains knowledge of dealing with rot; the application of fire in particular.
+
+Acquire the knowledge to craft the following:
+
+- Fire Grease
+- Drawstring Fire Grease
+- Fireproof Dried Liver",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9320,03120,60,205250
+Armorer's Cookbook [2],,Expands crafting repertoire,-,"A record of crafting techniques left by an armorer who served the great general Radahn.
+Contains knowledge of dealing with rot; the application of fire in particular.
+
+Acquire the knowledge to craft the following:
+
+- Firebone Arrow
+- Firebone Arrow (Fletched)
+- Firebone Bolt
+- Neutralizing Boluses",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9321,03120,60,205260
+Armorer's Cookbook [3],,Expands crafting repertoire,-,"A record of crafting techniques left by an armorer who served the great general Radahn.
+Contains knowledge of dealing with rot; the application of fire in particular.
+
+Acquire the knowledge to craft the following:
+
+- Exalted Flesh",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9328,03120,60,205270
+Armorer's Cookbook [4],,Expands crafting repertoire,-,"A record of crafting techniques left by an armorer who served the great general Radahn.
+Contains knowledge of dealing with rot; the application of fire in particular.
+
+Acquire the knowledge to craft the following:
+
+- Redmane Fire Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9326,03120,60,205280
+Armorer's Cookbook [5],,Expands crafting repertoire,-,"A record of crafting techniques left by an armorer who served the great general Radahn.
+Contains knowledge of dealing with rot; the application of fire in particular.
+
+Acquire the knowledge to craft the following:
+
+- Immunizing Cured Meat
+- Immunizing White Cured Meat",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9331,03120,60,205290
+Armorer's Cookbook [6],,Expands crafting repertoire,-,"A record of crafting techniques left by an armorer who served the great general Radahn.
+Contains knowledge of dealing with rot; the application of fire in particular.
+
+Acquire the knowledge to craft the following:
+
+- Preserving Boluses",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9330,03120,60,205300
+Armorer's Cookbook [7],,Expands crafting repertoire,-,"A record of crafting techniques left by an armorer who served the great general Radahn.
+Contains knowledge of dealing with rot; the application of fire in particular.
+
+Acquire the knowledge to craft the following:
+
+- Giantsflame Fire Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9325,03120,60,205310
+Glintstone Craftsman's Cookbook [1],,Expands crafting repertoire,-,"A record of crafting techniques left by a glintstone craftsman who served the academy.
+Contains information on ""faux sorceries,"" such as they were called.
+
+Acquire the knowledge to craft the following:
+
+- Cuckoo Glintstone",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9341,03121,60,205320
+Glintstone Craftsman's Cookbook [2],,Expands crafting repertoire,-,"A record of crafting techniques left by a glintstone craftsman who served the academy.
+Contains information on ""faux sorceries,"" such as they were called.
+
+Acquire the knowledge to craft the following:
+
+- Freezing Grease",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9345,03121,60,205330
+Glintstone Craftsman's Cookbook [3],,Expands crafting repertoire,-,"A record of crafting techniques left by a glintstone craftsman who served the academy.
+Contains information on ""faux sorceries,"" such as they were called.
+
+Acquire the knowledge to craft the following:
+
+- Albinauric Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9348,03121,60,205340
+Glintstone Craftsman's Cookbook [4],,Expands crafting repertoire,-,"A record of crafting techniques left by a glintstone craftsman who served the academy.
+Contains information on ""faux sorceries,"" such as they were called.
+
+Acquire the knowledge to craft the following:
+
+- Magic Pot
+- Roped Magic Pot
+- Shield Grease",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9340,03121,60,205350
+Glintstone Craftsman's Cookbook [5],,Expands crafting repertoire,-,"A record of crafting techniques left by a glintstone craftsman who served the academy.
+Contains information on ""faux sorceries,"" such as they were called.
+
+Acquire the knowledge to craft the following:
+
+- Magic Grease
+- Drawstring Magic Grease
+- Magicbone Arrow
+- Magicbone Arrow (Fletched)
+- Magicbone Bolt",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9342,03121,60,205360
+Glintstone Craftsman's Cookbook [6],,Expands crafting repertoire,-,"A record of crafting techniques left by a glintstone craftsman who served the academy.
+Contains information on ""faux sorceries,"" such as they were called.
+
+Acquire the knowledge to craft the following:
+
+- Freezing Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9346,03121,60,205370
+Glintstone Craftsman's Cookbook [7],,Expands crafting repertoire,-,"A record of crafting techniques left by a glintstone craftsman who served the academy.
+Contains information on ""faux sorceries,"" such as they were called.
+
+Acquire the knowledge to craft the following:
+
+- Coldbone Arrow
+- Coldbone Arrow (Fletched)
+- Coldbone Bolt",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9347,03121,60,205380
+Glintstone Craftsman's Cookbook [8],,Expands crafting repertoire,-,"A record of crafting techniques left by a glintstone craftsman who served the academy.
+Contains information on ""faux sorceries,"" such as they were called.
+
+Acquire the knowledge to craft the following:
+
+- Academy Magic Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9344,03121,60,205390
+Missionary's Cookbook [1],,Expands crafting repertoire,-,"A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
+
+Acquire the knowledge to craft the following:
+
+- Holy Water Pot
+- Roped Holy Water Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9361,03122,60,205400
+Missionary's Cookbook [2],,Expands crafting repertoire,-,"A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
+
+Acquire the knowledge to craft the following:
+
+- Scriptstone
+- Grace Mimic
+- Gold-Pickled Fowl Foot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9360,03122,60,205410
+Missionary's Cookbook [3],,Expands crafting repertoire,-,"A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
+
+Acquire the knowledge to craft the following:
+
+- Silver-Pickled Fowl Foot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9365,03122,60,205420
+Missionary's Cookbook [4],,Expands crafting repertoire,-,"A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
+
+Acquire the knowledge to craft the following:
+
+- Holy Grease
+- Drawstring Holy Grease
+- Haligbone Arrow
+- Haligbone Arrow (Fletched)
+- Haligbone Bolt",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9364,03122,60,205430
+Missionary's Cookbook [5],,Expands crafting repertoire,-,"A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
+
+Acquire the knowledge to craft the following:
+
+- Sacred Order Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9363,03122,60,205440
+Missionary's Cookbook [6],,Expands crafting repertoire,-,"A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
+
+Acquire the knowledge to craft the following:
+
+- Holyproof Dried Liver",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9313,03122,60,205450
+Missionary's Cookbook [7],,Expands crafting repertoire,-,"A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.
+
+Acquire the knowledge to craft the following:
+
+- Rejuvenating Boluses",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9423,03122,60,205460
+Ancient Dragon Apostle's Cookbook [1],,Expands crafting repertoire,-,"A record of crafting techniques taught by the capital's ancient dragon cult.
+Details techniques that harness lightning, the weapon of the ancient dragons.
+
+Acquire the knowledge to craft the following:
+
+- Lightning Grease
+- Drawstring Lightning Grease
+- Lightningbone Arrow
+- Lightningbone Arrow (Fletched)
+- Lightningbone Bolt",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9400,03124,60,205470
+Ancient Dragon Apostle's Cookbook [2],,Expands crafting repertoire,-,"A record of crafting techniques taught by the capital's ancient dragon cult.
+Details techniques that harness lightning, the weapon of the ancient dragons.
+
+Acquire the knowledge to craft the following:
+
+- Lightning Pot
+- Roped Lightning Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9401,03124,60,205480
+Ancient Dragon Apostle's Cookbook [3],,Expands crafting repertoire,-,"A record of crafting techniques taught by the capital's ancient dragon cult.
+Details techniques that harness lightning, the weapon of the ancient dragons.
+
+Acquire the knowledge to craft the following:
+
+- Dragonwound Grease",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9403,03124,60,205490
+Ancient Dragon Apostle's Cookbook [4],,Expands crafting repertoire,-,"A record of crafting techniques taught by the capital's ancient dragon cult.
+Details techniques that harness lightning, the weapon of the ancient dragons.
+
+Acquire the knowledge to craft the following:
+
+- Ancient Dragonbolt Pot
+- Lightningproof Dried Liver",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9402,03124,60,205500
+Perfumer's Cookbook [1],,Expands crafting repertoire,-,"A record of crafting techniques left by a military perfumer.
+Contains martial techniques beyond the repertoire of an ordinary physician.
+
+Acquire the knowledge to craft the following:
+
+- Spark Aromatic
+- Uplifting Aromatic",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9384,03123,60,205510
+Perfumer's Cookbook [2],,Expands crafting repertoire,-,"A record of crafting techniques left by a depraved perfumer.
+Contains perilous techniques no ordinary physician would attempt.
+
+Acquire the knowledge to craft the following:
+
+- Poison Spraymist
+- Bloodboil Aromatic",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9385,03123,60,205520
+Perfumer's Cookbook [3],,Expands crafting repertoire,-,"A record of crafting techniques left by a depraved perfumer.
+Contains perilous techniques no ordinary physician would attempt.
+
+Acquire the knowledge to craft the following:
+
+- Ironjar Aromatic",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9386,03123,60,205530
+Perfumer's Cookbook [4],,Expands crafting repertoire,-,"A record of crafting techniques left by a depraved perfumer.
+Contains perilous techniques no ordinary physician would attempt.
+
+Acquire the knowledge to craft the following:
+
+- Acid Spraymist",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9392,03123,60,205540
+Fevor's Cookbook [1],,Expands crafting repertoire,-,"A record of crafting techniques left by a man who was utterly captivated by St. Trina. He continued the search for her in his slumber.
+
+Acquire the knowledge to craft the following:
+
+- Sleep Pot",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9420,03125,60,205550
+Fevor's Cookbook [2],,Expands crafting repertoire,-,"A record of crafting techniques left by a man who was utterly captivated by St. Trina. He continued the search for her in his slumber.
+
+Acquire the knowledge to craft the following:
+
+- Soporific Grease
+- Drawstring Soporific Grease
+- Sleepbone Arrow
+- Sleepbone Arrow (Fletched)
+- Sleepbone Bolt",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9422,03125,60,205560
+Fevor's Cookbook [3],,Expands crafting repertoire,-,"A record of crafting techniques left by a man who was utterly captivated by St. Trina. He continued the search for her in his slumber.
+
+Acquire the knowledge to craft the following:
+
+- Bewitching Branch",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9421,03125,60,205570
+Frenzied's Cookbook [1],,Expands crafting repertoire,-,"A record of crafting techniques left by those afflicted by the madness of the flame of frenzy.
+Contains techniques discovered in desperation.
+
+Acquire the knowledge to craft the following:
+
+- Clarifying Boluses",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9440,03126,60,205580
+Frenzied's Cookbook [2],,Expands crafting repertoire,-,"A record of crafting techniques left by those afflicted by the madness of the flame of frenzy.
+Contains techniques discovered in desperation.
+
+Acquire the knowledge to craft the following:
+
+- Frenzyflame Stone",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,9441,03126,60,205590
+Spirit Calling Bell,,Bell that summons various spirits from ashen items,-,"A bell capable of summoning various spirits
+from ashen remains. It usually requires FP to use.
+
+Spirits can only be summoned in the vicinity of a rebirth monument. When summoning is possible, the monument icon will be visible on the left side of the screen.
+
+Only one type of spirit may be summoned at once, and none may be summoned during multiplayer.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8158,03092,60,205600
+Whetstone Knife,,Can add new battle arts and affinities to weapons,-,"Whetstone with a cipher inscription, made to look like a small knifeblade.
+
+Allows the use of ashes of war at a site of grace to bestow new battle arts and affinities to armaments as skills.
+
+The battle arts and affinities will depend on the ashes of war used.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8590,03090,60,205610
+Iron Whetblade,,Grants choice of affinity upgrade to weapon,-,"Iron whetblade with a cipher engraved. Can be used as a whetstone knife.
+
+When applying an affinity using ashes of war, an additional affinity of heavy, keen, or quality can be chosen.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8970,03020,60,205620
+Glintstone Whetblade,,Grants choice of affinity upgrade to weapon,-,"Glintstone whetblade with a cipher engraved. Can be used as a whetstone knife.
+
+When applying an affinity using physical or magic-type ashes of war, an additional affinity of magic or frost can be chosen.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8973,03023,60,205630
+Red-Hot Whetblade,,Grants choice of affinity upgrade to weapon,-,"Red-hot whetblade with a cipher engraved. Can be used as a whetstone knife.
+
+When applying an affinity using physical or flame-type ashes of war, an additional affinity of fire or flame art can be chosen.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8971,03021,60,205640
+Sanctified Whetblade,,Grants choice of affinity upgrade to weapon,-,"Sanctified whetblade with a cipher engraved. Can be used as a whetstone knife.
+
+When applying an affinity using physical or golden-type ashes of war, an additional affinity of sacred or lightning can be chosen.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8972,03022,60,205650
+Black Whetblade,,Grants choice of affinity upgrade to weapon,-,"Black whetblade with a cipher engraved. Can be used as a whetstone knife.
+
+When applying an affinity using physical or occult-type ashes of war, an additional affinity of poison, blood, or occult can be chosen.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8974,03024,60,205660
+Sewing Needle,,Boc the demi-human's prized sewing needle,-,"A large sewing needle, curved like a fang.
+Boc the demi-human's prized possession.",Reusable,White (Large),1,1,No,-,No,Yes,Yes,Yes,1,-,8161,03095,60,205670
+Gold Sewing Needle,,Special sewing needle for demigod attire,-,"Sewing needle made of gold.
+Unique item made to alter demigod attire.
+
+One of the tools brought by Radagon when he entered into marriage with Rennala, Queen of the Full Moon, and joined the Carian line.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8162,03096,60,205680
+Tailoring Tools,,Enables armor adjustment at sites of grace,-,"A portable set of tailoring tools.
+
+Enables armor alterations at sites of grace.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8163,03097,60,205690
+Golden Tailoring Tools,,Allows demigod garb alteration at sites of grace,-,"Tailoring tools made from gold.
+Tools brought with the red-haired Radagon when he married into the Carian line.
+
+With these, even demigod attire can be altered at a site of grace.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8188,03225,60,205700
+"Map: Limgrave, West",,Map of Limgrave's western region,-,"Map of the western region of Limgrave.
+
+The demesne of Limgrave, far south of the Erdtree, is bordered to the northwest by the cliffs of Stormveil, and under its ever-clouded skies roll the great steppes of the pale lands.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8600,00261,70,207000
+"Map: Limgrave, East",,Map of Limgrave's eastern region,-,"Map of the eastern region of Limgrave.
+
+Other than the Mistwood which envelops the south, it is known for its lands which lead to Caelid, a path trod by many a soldier in the past.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8602,00263,70,207010
+Map: Weeping Peninsula,,Map of Weeping peninsula,-,"Map of the Weeping Peninsula.
+
+The peninsula, to Limgrave's south, is named for its unceasing rainfall, redolent of lament. ",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8601,00262,70,207020
+"Map: Liurnia, West",,Map of Liurnia's western region,-,"Map of Liurnia's western region.
+
+The majority of Liurnia, known for its vast forests and ever-present fog, is sinking into a lake. The western coast has always been closely associated with Carian royalty.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8605,00264,70,207030
+"Map: Liurnia, East",,Map of Liurnia's eastern region,-,"Map of Liurnia's eastern region.
+
+The majority of Liurnia, known for its vast forests and ever-present fog, is sinking into a lake. The eastern coast is home to a highroad running north and south.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8603,00266,70,207040
+"Map: Liurnia, North",,Map of Liurnia's northern region,-,"Map of Liurnia's northern region.
+
+The Academy of Raya Lucaria towers over the north, while at its base spreads the town built around it, now flooded. Two highroads end their journeys here.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8604,00265,70,207050
+Map: Altus Plateau,,Map of Altus Plateau and environs,-,"Map of Altus Plateau and environs.
+
+The Altus Plateau, where the Erdtree's base can be found, contains the Royal Capital of Leyndell to the east, and Mt. Gelmir to the west. Scars from the Shattering remain apparent to this day.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8606,00268,70,207060
+"Map: Leyndell, Royal Capital",,Map of Leyndell Capital and environs,-,"Map of the Royal Capital of Leyndell and environs.
+
+Leyndell, City of the Erdtree, is a metropolis enclosed by double ramparts. The inner wall remains unbreached to this day.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8607,00269,70,207070
+Map: Mt. Gelmir,,Map of Mt. Gelmir and environs,-,"Map of Mt. Gelmir and environs.
+
+Mt. Gelmir, which houses the Volcano Manor at its summit, is characterized by sheer cliffs and ominous skies. These qualities only became more pronounced after the Shattering.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8608,00267,70,207080
+Map: Caelid,,Map of Caelid and environs,-,"Map of Caelid and environs.
+
+Caelid, known as the locale of the last battle between General Radahn and Malenia, Blade of Miquella, is a vast land consummately marred by scarlet rot.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8609,00271,70,207090
+Map: Dragonbarrow,,Map of Dragonbarrow and environs,-,"Map of Dragonbarrow and environs.
+
+The dragons that escaped the scarlet rot made a nest of the plateau to Caelid's north. Thus it was named ""Dragonbarrow,"" and none dare to enter.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8610,00270,70,207100
+"Map: Mountaintops of the Giants, West",,Map of Western Mountaintops of the Giants,-,"Map of Western Mountaintops of the Giants.
+
+Marching ground during the War against the Giants. They carved winding paths in the cliff walls right up to the summit, leading to the untrodden snow-laden region beyond.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8611,00273,70,207110
+"Map: Mountaintops of the Giants, East",,Map of Eastern Mountaintops of the Giants,-,"Map of Eastern Mountaintops of the Giants.
+
+The remote, desolate eastern summit is the highest point in all the Lands Between, overlooking even the Flame Peak to the south.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8612,00279,70,207120
+Map: Consecrated Snowfield,,Map of Consecrated Snowfield and environs,-,"Map of Consecrated Snowfield and environs.
+
+The route through this land, crossed east to west by a frozen river, leads to Miquella's Haligtree. This is the path taken by those unchosen, though it is a trial all the same.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8618,00272,70,207130
+Map: Ainsel River,,Map of Ainsel River and environs,-,"Map of Ainsel River and environs.
+
+Two great rivers flow beneath the Lands Between, the Siofra and the Ainsel. This vast region is said to be the grave of civilizations that flourished before the Erdtree.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8613,00275,70,207140
+Map: Lake of Rot,,Map of Lake of Rot and environs,-,"Map of Lake of Rot and environs.
+
+A great lake of standing water downstream of the Ainsel River. It is said that the divine essence of an outer god is sealed away in this land. ",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8614,00274,70,207150
+Map: Siofra River,,Map of Siofra River and environs,-,"Map of Siofra River and environs.
+
+Two great rivers flow beneath the Lands Between, the Siofra and the Ainsel. This vast region is said to be the grave of civilizations that flourished before the Erdtree.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8615,00276,70,207160
+Map: Mohgwyn Palace,,Map of Mohgwyn Palace and environs,-,"Map of Mohgwyn Palace and environs.
+
+In the lightless depths lies the grave of an ancient civilization. It is here Mohg, the Lord of Blood, is building his palace, to be the seat of his coming dynasty named Mohgwyn. And whatever nightmares that may bring.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8616,00277,70,207170
+Map: Deeproot Depths,,Map of Deeproot Depths and environs,-,"Map of Deeproot Depths and environs.
+
+At the very depths of the Erdtree's majestic roots lies the source of the Ainsel and the Siofra rivers. Here too begins the network of Greattree roots that spread throughout the Lands Between.",Reusable,Purple,1,1,No,-,No,No,Yes,Yes,1,-,8617,00278,70,207180
+Kal?'s Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Merchant Kalé's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8920,03142,80,208000
+Nomadic Merchant's Bell Bearing [1],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8921,03142,80,208010
+Nomadic Merchant's Bell Bearing [2],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8922,03142,80,208020
+Nomadic Merchant's Bell Bearing [3],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8923,03142,80,208030
+Nomadic Merchant's Bell Bearing [4],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8924,03142,80,208040
+Nomadic Merchant's Bell Bearing [5],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8925,03142,80,208050
+Nomadic Merchant's Bell Bearing [6],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8928,03142,80,208060
+Nomadic Merchant's Bell Bearing [7],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8930,03142,80,208070
+Nomadic Merchant's Bell Bearing [8],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8931,03142,80,208080
+Nomadic Merchant's Bell Bearing [9],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8932,03142,80,208090
+Nomadic Merchant's Bell Bearing [10],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8933,03142,80,208100
+Isolated Merchant's Bell Bearing [1],,Offer to Twin Maiden Husks for new item access,-,"An isolated merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8926,03142,80,208110
+Isolated Merchant's Bell Bearing [2],,Offer to Twin Maiden Husks for new item access,-,"An isolated merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8927,03142,80,208120
+Isolated Merchant's Bell Bearing [3],,Offer to Twin Maiden Husks for new item access,-,"An isolated merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8935,03142,80,208130
+Hermit Merchant's Bell Bearing [1],,Offer to Twin Maiden Husks for new item access,-,"Bell bearing of a hermetic merchant, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8929,03142,80,208140
+Hermit Merchant's Bell Bearing [2],,Offer to Twin Maiden Husks for new item access,-,"Bell bearing of a hermetic merchant, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8936,03142,80,208150
+Hermit Merchant's Bell Bearing [3],,Offer to Twin Maiden Husks for new item access,-,"Bell bearing of a hermetic merchant, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8938,03142,80,208160
+Abandoned Merchant's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Bell bearing of a merchant left behind, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8937,03142,80,208170
+Imprisoned Merchant's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"An imprisoned merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8939,03142,80,208180
+Smithing-Stone Miner's Bell Bearing [1],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a miner who once dug for smithing stone.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Smithing Stone [1]
+- Smithing Stone [2]
+- Glintstone Scrap",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8951,03142,80,208190
+Smithing-Stone Miner's Bell Bearing [2],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a miner who once dug for smithing stone.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Smithing Stone [3]
+- Smithing Stone [4]
+- Explosive Stone",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8952,03142,80,208200
+Smithing-Stone Miner's Bell Bearing [3],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a miner who once dug for smithing stone.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Smithing Stone [5]
+- Smithing Stone [6]",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8953,03142,80,208210
+Smithing-Stone Miner's Bell Bearing [4],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a miner who once dug for smithing stone.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Smithing Stone [7]
+- Smithing Stone [8]
+- Ruin Fragment",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8954,03142,80,208220
+Somberstone Miner's Bell Bearing [1],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a miner who once dug for somber smithing stone.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Somber Smithing Stone [1]
+- Somber Smithing Stone [2]
+- Glintstone Scrap",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8955,03142,80,208230
+Somberstone Miner's Bell Bearing [2],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a miner who once dug for somber smithing stone.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Somber Smithing Stone [3]
+- Somber Smithing Stone [4]
+- Cracked Crystal",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8956,03142,80,208240
+Somberstone Miner's Bell Bearing [3],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a miner who once dug for somber smithing stone.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Somber Smithing Stone [5]
+- Somber Smithing Stone [6]",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8957,03142,80,208250
+Somberstone Miner's Bell Bearing [4],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a miner who once dug for somber smithing stone.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Somber Smithing Stone [7]
+- Somber Smithing Stone [8]
+- Sanctuary Stone",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8958,03142,80,208260
+Somberstone Miner's Bell Bearing [5],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a miner who once dug for somber smithing stone.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Somber Smithing Stone [9]",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8959,03142,80,208270
+Glovewort Picker's Bell Bearing [1],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a forager who once picked grave glovewort flowers.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Grave Glovewort [1]
+- Grave Glovewort [2]
+- Grave Glovewort [3]",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8960,03142,80,208280
+Glovewort Picker's Bell Bearing [2],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a forager who once picked grave glovewort flowers.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Grave Glovewort [4]
+- Grave Glovewort [5]
+- Grave Glovewort [6]",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8961,03142,80,208290
+Glovewort Picker's Bell Bearing [3],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a forager who once picked grave glovewort flowers.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Grave Glovewort [7]
+- Grave Glovewort [8]
+- Grave Glovewort [9]",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8962,03142,80,208300
+Ghost-Glovewort Picker's Bell Bearing [1],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a forager who once picked ghost glovewort flowers.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Ghost Glovewort [1]
+- Ghost Glovewort [2]
+- Ghost Glovewort [3]",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8963,03142,80,208310
+Ghost-Glovewort Picker's Bell Bearing [2],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a forager who once picked ghost glovewort flowers.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Ghost Glovewort [4]
+- Ghost Glovewort [5]
+- Ghost Glovewort [6]",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8964,03142,80,208320
+Ghost-Glovewort Picker's Bell Bearing [3],,Offer to Twin Maiden Husks for new item access,-,"The bell bearing of a forager who once picked ghost glovewort flowers.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Ghost Glovewort [7]
+- Ghost Glovewort [8]
+- Ghost Glovewort [9]",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8965,03142,80,208330
+Bone Peddler's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Bell bearing of an unfortunate bone peddler who was slain by the Bell Bearing Hunter.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Thin Animal Bones
+- Hefty Beast Bone",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8945,03142,90,209000
+Meat Peddler's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Bell bearing of an unfortunate meat peddler who was slain by the Bell Bearing Hunter.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Sliver of Meat
+- Lump of Flesh
+- Turtle Neck Meat",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8946,03142,90,209010
+Medicine Peddler's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Bell bearing of an unfortunate medicine peddler who was slain by the Bell Bearing Hunter.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Neutralizing Boluses
+- Stanching Boluses
+- Thawfrost Boluses
+- Stimulating Boluses",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8947,03142,90,209020
+Gravity Stone Peddler's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Bell bearing of an unfortunate gravity stone peddler who was slain by the Bell Bearing Hunter.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+
+- Gravity Stone Fan
+- Gravity Stone Chunk",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8948,03142,90,209030
+Sellen's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Sorceress Sellen's bell bearing, found upon her perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8913,03143,90,209040
+Seluvis's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Preceptor Seluvis's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8911,03146,90,209050
+Thops's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Sorcerer Thops's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8919,03143,90,209060
+Corhyn's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Brother Corhyn's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8943,03144,90,209070
+Miriel's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Miriel, Pastor of Vows' bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8917,03144,90,209080
+D's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"D's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8915,03144,90,209090
+Gowry's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Sage Gowry's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8944,03143,90,209100
+Rogier's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Rogier the Sorcerer's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8941,03145,90,209110
+Bernahl's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Knight Bernahl's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8916,03145,90,209120
+Iji's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Iji the Smithing Master's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8940,03145,90,209130
+Gostoc's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Gatekeeper Gostoc's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8918,03142,90,209140
+Pidia's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Servant Pidia's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8910,03142,90,209150
+Patches' Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"Patches' bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8912,03142,90,209160
+Blackguard's Bell Bearing,,Offer to Twin Maiden Husks for new item access,-,"The Blackguard's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8942,03142,90,209170
+Academy Scroll,,Give to a learned sorcerer to acquire new sorceries,-,"Scroll of the Academy of Raya Lucaria, the glintstone sorcerers' place of study.
+
+Can be given to a learned sorcerer to gain access to the following sorceries:
+
+- Great Glintstone Shard
+- Swift Glintstone Shard",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8866,00310,100,210000
+Conspectus Scroll,,Give to a learned sorcerer to acquire new sorceries,-,"A sorcery scroll from the Academy of Raya Lucaria.
+Details superior sorceries taught to scholars worthy of donning the stone crown and studying a certain conspectus.
+
+Can be given to a learned sorcerer to gain access to the following sorceries:
+
+- Glintstone Cometshard
+- Star Shower",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8850,00310,100,210010
+Royal House Scroll,,Give to a learned sorcerer to acquire new sorceries,-,"Sorcery scroll of the Carian royal family, the heads of the Academy of Raya Lucaria.
+
+Can be given to a learned sorcerer to gain access to the following sorceries:
+
+- Glintblade Phalanx
+- Carian Slicer",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8851,00311,100,210020
+Two Fingers' Prayerbook,,Give to a learned cleric to acquire new incantations,-,"Prayerbook containing incantations of the Two Fingers.
+An item once entrusted to Tarnished worthy of lordship.
+
+Can be given to a learned cleric to gain access to the following incantations:
+
+- Lord's Heal
+- Lord's Aid",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8858,00318,100,210030
+Assassin's Prayerbook,,Give to a learned cleric to acquire new incantations,-,"Prayerbook of the Roundtable Hold's assassins.
+
+Can be given to a learned cleric to gain access to the following incantations:
+
+- Assassin's Approach
+- Darkness",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8859,00319,100,210040
+Golden Order Principia,,Give to a learned cleric to acquire new incantations,-,"Prayerbook of the Golden Order fundamentalists.
+A dense and complex academic treatise that contains the Order's fundamental principles.
+
+Can be given to a learned cleric to gain access to the following incantations:
+
+- Radagon's Rings of Light
+- Law of Regression",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8862,00322,100,210050
+Dragon Cult Prayerbook,,Give to a learned cleric to acquire new incantations,-,"Prayerbook of the capital's ancient dragon cult.
+A text of the knights' faith that arose after the War of the Ancient Dragons.
+
+Can be given to a learned cleric to gain access to the following incantations:
+
+- Lightning Spear
+- Honed Bolt
+- Electrify Armament",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8864,00324,100,210060
+Ancient Dragon Prayerbook,,Give to a learned cleric to acquire new incantations,-,"Prayerbook of the capital's ancient dragon cult.
+A lost tome that never reached the Lands Between.
+Contains red lightning incantations.
+
+Can be given to a learned cleric to gain access to the following incantations:
+
+- Ancient Dragons' Lightning Spear
+- Ancient Dragons' Lightning Strike",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8865,00325,100,210070
+Fire Monks' Prayerbook,,Give to a learned cleric to acquire new incantations,-,"Prayerbook of the Fire Monks, who came from the Mountaintops of the Giants far to the north.
+
+Can be given to a learned cleric to gain access to the following incantations:
+
+- O, Flame!
+- Surge, O Flame!",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8855,00315,100,210080
+Giant's Prayerbook,,Give to a learned cleric to acquire new incantations,-,"Prayerbook that contains the secrets of the Fire Giants.
+Kept hidden by the prelates who monitor the Giant's Flame.
+
+Can be given to a learned cleric to gain access to the following incantations:
+
+- Giantsflame Take Thee
+- Flame, Fall Upon Them",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8856,00316,100,210090
+Godskin Prayerbook,,Give to a learned cleric to acquire new incantations,-,"Prayerbook bound in supple skin.
+Incantations of the god-slaying black flame are written within.
+
+Can be given to a learned cleric to gain access to the following incantations:
+
+- Black Flame
+- Black Flame Blade",Reusable,Purple,1,1,No,-,No,Yes,Yes,Yes,1,-,8857,00317,100,210100
+Lucent Baldachin's Blessing,,Raise in prayer to gain protection,-,"Sacred seal of a hidden shrine that looks much
+like a bedchamber. A faint light leaks through
+a crack in its fastened doors, as if the Firefly is
+beckoning to come inside.
+
+Raise in prayer to gain protection.
+
+Gaining protection consumes this item,
+but can grant unique effects.
+Take care though, these effects cannot be undone.",Consumable,White (Large),1,1,Yes,-,Yes,No,Yes,No,1,3600,8102,00000,255,0
+"Asimi, Silver Tear",,Asimi that has infected a tarnished,-,"An asimi that has infected a tarnished.
+
+An intelligent silver sludge; asimi
+infect the body of tarnished,
+granting the host power.",Reusable,White (Large),1,1,No,-,No,Yes,Yes,No,1,-,8147,00000,255,0
+Burial Crow's Letter,,Letter affixed to a graveyard crow's leg,-,"A letter affixed to a graveyard crow's leg.
+Sought after by Kalé.",Reusable,White (Large),1,1,No,-,No,Yes,Yes,No,1,-,8156,00000,255,0
+Asimi's Husk,,The shedding of an Asimi that infected a tarnished,-,The shedding of an Asimi that infected a tarnished.,Reusable,White (Large),1,1,No,-,No,Yes,Yes,No,1,-,8192,00000,255,0
+"Asimi, Silver Chrysalid",,An Asimi that infected a tarnished,-,An Asimi that infected a tarnished.,Reusable,White (Large),1,1,No,-,No,Yes,Yes,No,1,-,8195,00000,255,0
+Rya's Necklace,,Necklace worn everywhere by Irina,-,"A necklace worn and treasured by Irina.
+Given to her as a farewell gift.",Reusable,White (Large),1,1,No,-,No,Yes,Yes,No,1,-,8130,03064,255,0
+Fugitive Warrior's Recipe [5],,Fugitive warrior recipe. Adds craft able items,-,"Recipe book written by a roaming warrior, chased by someone through the Lands Between.
+Adds more craftable items.
+
+Includes techniques for survival in extreme situations and prolonged battle.",Reusable,Purple,1,1,No,-,No,No,Yes,No,1,-,9304,03119,255,0
+Iji's Confession,,Letter of confession found on Iji's corpse,-,"A letter of confession found on Iji's corpse.
+
+He declares his own guilt for having
+sealed away Blaidd.",Reusable,White (Large),1,1,No,-,No,Yes,Yes,No,1,-,8189,03226,255,0
+Missionary's Cookbook (3),,Expands crafting repertoire,-,Expands crafting repertoire,Reusable,Purple,1,1,No,-,No,No,Yes,No,1,-,9362,00000,255,999999
+Perfumer's Cookbook (1),,Expands crafting repertoire,-,Expands crafting repertoire,Reusable,Purple,1,1,No,-,No,No,Yes,No,1,-,9381,00000,255,999999
+Perfumer's Cookbook (2),,Expands crafting repertoire,-,Expands crafting repertoire,Reusable,Purple,1,1,No,-,No,No,Yes,No,1,-,9382,00000,255,999999
+Perfumer's Cookbook (13),,Expands crafting repertoire,-,"A record of crafting techniques left by a
+travelling perfumer who served in the Shattering.
+Expands crafting repertoire.
+
+Acquire the knowledge to craft the following:
+
+-Maddening Boluses",Reusable,Purple,1,1,No,-,No,No,Yes,No,1,-,9393,00000,255,999999
+-,,-,-,-,Reusable,Purple,1,1,No,-,No,Yes,Yes,No,1,-,8852,00312,255,999999
+-,,-,-,-,Reusable,Purple,1,1,No,-,No,Yes,Yes,No,1,-,8853,00313,255,999999
+-,,-,-,-,Reusable,Purple,1,1,No,-,No,Yes,Yes,No,1,-,8854,00314,255,999999
+Erdtree Prayerbook,,Scroll containing incantations,-,"Scroll containing incantations.
+Can be given to a learned cleric
+in order to learn incantations.",Reusable,Purple,1,1,No,-,No,Yes,Yes,No,1,-,8860,00320,255,999999
+Erdtree Codex,,Scroll containing incantations,-,"Scroll containing incantations.
+Can be given to a learned cleric
+in order to learn incantations.",Reusable,Purple,1,1,No,-,No,Yes,Yes,No,1,-,8861,00321,255,999999
+Golden Order Principles,,Scroll containing incantations,-,"Scroll containing incantations.
+Can be given to a learned cleric
+in order to learn incantations.",Reusable,Purple,1,1,No,-,No,Yes,Yes,No,1,-,8863,00323,255,999999
+Armorer's Cookbook (5),,Expands crafting repertoire,-,Expands crafting repertoire,Reusable,Purple,1,1,No,-,No,No,Yes,No,1,-,9324,03120,255,999999
+Nomadic Merchant's Bell Bearing [11],,Offer to Twin Maiden Husks for new item access,-,"A nomadic merchant's bell bearing, found upon his perished flesh.
+
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.",Reusable,Purple,1,1,No,-,No,Yes,Yes,No,1,-,8934,03142,255,999999
+-,,-,-,-,Reusable,Purple,1,1,No,-,No,Yes,Yes,No,1,-,8914,03147,255,999999

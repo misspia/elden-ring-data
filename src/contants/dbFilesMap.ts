@@ -19,6 +19,7 @@ import { craftingMaterialsFormatter } from "@/formatters/craftingMaterials";
 import { ammunitionFormatter } from "@/formatters/ammunition";
 import { consumableWeaponsFormatter } from "@/formatters/consumableWeapons";
 import { bolsteringMaterialsFormatter } from "@/formatters/bolsteringMaterials";
+import { keyItemsFormatter } from "@/formatters/keyItems";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -92,41 +93,41 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   //   json: "weapons-effects.json",
   //   formatter: weaponsEffectsFormatter,
   // },
-  /**
-   * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=2041613656#gid=2041613656
-   */
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=2041613656#gid=2041613656
+  //  */
   // {
   //   csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Consumables.csv",
   //   json: "consumables-effects.json",
   //   formatter: consumablesEffectsFormatter,
   // },
-  /**
-   * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=69936079#gid=69936079
-   */
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit?gid=69936079#gid=69936079
+  //  */
   // {
   //   csv: "ER - Miscellaneous Data (App Ver. 1.16) - Effects - Great Runes.csv",
   //   json: "great-runes-effects.json",
   //   formatter: greatRunesEffectsFormatter,
   // },
-  /**
-   * https://docs.google.com/spreadsheets/d/1ybiI1WgyRs67kGklUXeroi58KDab2KsU_hKutBORiW0/edit?gid=1699546889#gid=1699546889
-   */
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1ybiI1WgyRs67kGklUXeroi58KDab2KsU_hKutBORiW0/edit?gid=1699546889#gid=1699546889
+  //  */
   // {
   //   csv: "Elden Ring Weapon Data Sheet (1.09) - Spell_Data.csv",
   //   json: "spell-damages.json",
   //   formatter: spellDamagesFormatter,
   // },
-  /**
-   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1685478111#gid=1685478111
-   */
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1685478111#gid=1685478111
+  //  */
   // {
   //   csv: "Elden Ring Item Data Sheet (1.09) - Armor.csv",
   //   json: "armors.json",
   //   formatter: armorsFormatter,
   // },
-  /**
-   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=611749740#gid=611749740
-   */
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=611749740#gid=611749740
+  //  */
   // {
   //   csv: "Elden Ring Item Data Sheet (1.09) - Magic.csv",
   //   json: "magic.json",
@@ -140,17 +141,17 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   //   json: "talismans.json",
   //   formatter: talismansFormatter,
   // },
-  /**
-   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=525203103#gid=525203103
-   */
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=525203103#gid=525203103
+  //  */
   // {
   //   csv: "Elden Ring Item Data Sheet (1.09) - Spirit Ashes.csv",
   //   json: "spirit-ashes.json",
   //   formatter: spiritAshesFormatter,
   // },
-  /**
-   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=958920399#gid=958920399
-   */
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=958920399#gid=958920399
+  //  */
   // {
   //   csv: "Elden Ring Item Data Sheet (1.09) - Crafting Materials.csv",
   //   json: "crafting-materials.json",
@@ -159,26 +160,34 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   /**
    * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1491084983#gid=1491084983
    */
-  {
-    csv: "Elden Ring Item Data Sheet (1.09) - Other Weapons.csv",
-    json: "ammunition.json",
-    formatter: ammunitionFormatter,
-  },
-  /**
-   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1491084983#gid=1491084983
-   */
-  {
-    csv: "Elden Ring Item Data Sheet (1.09) - Other Weapons.csv",
-    json: "consumable-weapons.json",
-    formatter: consumableWeaponsFormatter,
-  },
+  // {
+  //   csv: "Elden Ring Item Data Sheet (1.09) - Other Weapons.csv",
+  //   json: "ammunition.json",
+  //   formatter: ammunitionFormatter,
+  // },
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1491084983#gid=1491084983
+  //  */
+  // {
+  //   csv: "Elden Ring Item Data Sheet (1.09) - Other Weapons.csv",
+  //   json: "consumable-weapons.json",
+  //   formatter: consumableWeaponsFormatter,
+  // },
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=478384990#gid=478384990
+  //  */
+  // {
+  //   csv: "Elden Ring Item Data Sheet (1.09) - Bolstering Materials.csv",
+  //   json: "bolstering-materials.json",
+  //   formatter: bolsteringMaterialsFormatter,
+  // },
   /**
    * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=478384990#gid=478384990
    */
   {
-    csv: "Elden Ring Item Data Sheet (1.09) - Bolstering Materials.csv",
-    json: "bolstering-materials.json",
-    formatter: bolsteringMaterialsFormatter,
+    csv: "Elden Ring Item Data Sheet (1.09) - Key Items.csv",
+    json: "key-items.json",
+    formatter: keyItemsFormatter,
   },
 ];
 
