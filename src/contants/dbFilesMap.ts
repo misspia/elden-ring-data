@@ -1,4 +1,4 @@
-import { CSV_BASE_PATH, JSON_BASE_PATH } from "@/contants/db";
+import { CSV_BASE_PATH, HTML_BASE_PATH, JSON_BASE_PATH } from "@/contants/db";
 import { DBFilesMap } from "@/types/files";
 import { ashesOfWarCompatibilityWeaponsFormatter } from "@/formatters/ashesOfWarCompatibilityWeapons";
 import { ashesOfWarCompatibilityAshesFormatter } from "@/formatters/ashesOfWarCompatibilityAshes";
@@ -22,6 +22,7 @@ import { bolsteringMaterialsFormatter } from "@/formatters/bolsteringMaterials";
 import { keyItemsFormatter } from "@/formatters/keyItems";
 import { multiplayerItemsFormatter } from "@/formatters/multiplayerItems";
 import { infoItemsFormatter } from "@/formatters/infoItems";
+import { craftingIngredientsFormatter } from "@/formatters/craftingIngredients";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -199,20 +200,32 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   //   json: "multiplayer-items.json",
   //   formatter: multiplayerItemsFormatter,
   // },
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=782655497#gid=782655497
+  //  */
+  // {
+  //   csv: "Elden Ring Item Data Sheet (1.09) - Info Items.csv",
+  //   json: "info-items.json",
+  //   formatter: infoItemsFormatter,
+  // },
   /**
-   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=782655497#gid=782655497
+   * https://eldenring.wiki.fextralife.com/Crafting
+   * view-source:https://eldenring.wiki.fextralife.com/Crafting
    */
   {
-    csv: "Elden Ring Item Data Sheet (1.09) - Info Items.csv",
-    json: "info-items.json",
-    formatter: infoItemsFormatter,
+    html: "view-source_https___eldenring.wiki.fextralife.com_Crafting.html",
+    json: "crafting-ingredients.json",
+    formatter: craftingIngredientsFormatter,
   },
 ];
 
-// https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=0#gid=0
+// https://www.reddit.com/r/Eldenring/search/?q=spreadsheet+crafting&cId=d968be92-f7de-4015-9af6-a34c551127f3&iId=9c78c289-0a41-4ded-9809-ee63c33bb604
+// https://eldenring.wiki.fextralife.com/Crafting
+// https://docs.google.com/spreadsheets/d/1C7nkqmrRRt5aRseJt_h_3FSGob22W-Nzmbuf8GrL-ZE/edit?gid=1504622472#gid=1504622472
 
 export const DB_FILES_MAP: DBFilesMap = DB_FILES_MAP_NAMES.map((file) => ({
-  csv: `${CSV_BASE_PATH}/${file.csv}`,
+  ...(file.csv ? { csv: `${CSV_BASE_PATH}/${file.csv}` } : {}),
+  ...(file.html ? { html: `${HTML_BASE_PATH}/${file.html}` } : {}),
   json: `${JSON_BASE_PATH}/${file.json}`,
   formatter: file.formatter,
 }));

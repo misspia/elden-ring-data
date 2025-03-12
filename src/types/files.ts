@@ -3,7 +3,8 @@ export type JSONFormatter<UnformattedJSON, FormattedJSON> = (
 ) => FormattedJSON;
 
 type DBFileMapItem<UnformattedJSON = any, FormattedJSON = any> = {
-  csv: string;
+  csv?: string;
+  html?: string;
   json: string;
   formatter: JSONFormatter<UnformattedJSON, FormattedJSON>;
 };

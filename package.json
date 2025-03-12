@@ -20,6 +20,7 @@
   "homepage": "https://github.com/misspia/elden-ring-data#readme",
   "dependencies": {
     "commander": "^13.1.0",
+    "node-html-parser": "^7.0.1",
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
