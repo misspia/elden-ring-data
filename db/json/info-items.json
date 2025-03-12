@@ -1,0 +1,826 @@
+[
+  {
+    "name": "Note: Flask of Wondrous Physick",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"A Flask of Wondrous Physick still remains in the Third Church of Marika, north of the Mistwood.\n\nCross the highway bridge and follow the animal trail north.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Waypoint Ruins",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Someone lurks among the waypoint ruins on the roads through Limgrave.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Gateway",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Fort Gael in Caelid houses a gateway that leads to Redmane Castle.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Hidden Cave",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"There is a hidden cave in the town of Sellia.\nLook beyond the graveyard at the precipice.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: The Preceptor's Secret",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Preceptor Seluvis is hiding a dirty secret in a cellar among the ruins not far from the sisters three.\n\nThe vile Graven Witch seems to be a frequent visitor to that place.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Great Coffins",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Great coffins travel the Lands Between, carrying the bodies of nameless fallen warriors.\n\nMight be a good source of armaments...\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Below the Capital",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Below the royal capital of Leyndell is a vast network of sewers.\n\nThe well in the city below reaches deep into its tunnels.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Gravity's Advantage",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Gravitational power that pulls can bring flying foes low.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Demi-human Mobs",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Slay the demi-human mob's leader first, and the rest will lose hope and panic.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Land Squirts",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Land squirts are soft where they touch the ground, and poison will cause them to rupture.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Stonedigger Trolls",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"The heads of the stonedigger trolls bear old wounds.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Revenants",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"The crawling royal revenants and their followers are all cursed.\n\nHealing powers will harm rather than mend.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Flame Chariots",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Beware the Fire Monks' chariots bearing the faces of giants.\n\nA well-aimed blow to the chimney on top may prove effective, but opportunities for a plunging attack will be rare indeed.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Walking Mausoleum",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"To stop the mausoleum's stride, you'll need to clean up around its feet first.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Unseen Assassins",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Some assassins cannot be seen with the naked eye.\n\nSeems the Erdtree sentries once carried torches that could cast light on these prowlers.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Imp Shades",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Nothing can touch the shades of imps in the heroes' graveyard.\n\nOnly Rosus's light can give them form.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Frenzied Flame Village",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"South of the Grand Lift of Dectus lies the Frenzied Flame Village, inhabited by the sick. Stay well away.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: The Lord of Frenzied Flame",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note sold by a nomadic merchant imparting knowledge in brief.\n\n\"Beneath Leyndell, at the very bottom lies our lord, lord of the frenzied. The Three Fingers who holds us in thrall.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Note: Miquella's Needle",
+    "effect": "Note imparting knowledge in brief Examine using <Examine>",
+    "caption": "Note written by a nomadic merchant succinctly detailing knowledge acquired.\n\n\"The Empyrean Miquella crafted a needle to resist the influence of outer gods.\n\nThose who have inherited the flame of frenzy, yet wish not to become its lord would do well to seek Miquella's needle.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Volcano Manor Invitation",
+    "effect": "Letter of invitation to Volcano Manor",
+    "caption": "Letter given by Rya as thanks for retrieving her necklace.\n\nContains an invitation to Volcano Manor.\n\n\"Brave Tarnished,\nSeek the Altus Plateau in the realm of the Erdtree.\n\nProve yourself by making this journey, and the Volcano Manor will fully extend its invitation. To fight, amongst a family of champions.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Letter from Volcano Manor",
+    "effect": "Request from Volcano Manor Examine using <Examine>",
+    "caption": "A written request from Volcano Manor disclosing the name of a Tarnished to be hunted.\n\n\"Old Knight Istvan\"\n\nHe can be found in Limgrave. Find the red mark on your map for the exact location.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Letter from Volcano Manor",
+    "effect": "Request from Volcano Manor Examine using <Examine>",
+    "caption": "A written request from Volcano Manor disclosing the name of a Tarnished to be hunted.\n\n\"Rileigh the Idle\"\n\nHe can be found in Altus Plateau. Find the red mark on your map for the exact location.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Red Letter",
+    "effect": "Request from Volcano Manor Examine using <Examine>",
+    "caption": "A written request from Volcano Manor disclosing the name of a Tarnished to be hunted. As the final request, the letter is vivid red.\n\n\"Juno Hoslow, Knight of Blood\"\n\nHe can be found in the Mountaintops of the Giants. Find the red mark on your map for the exact location.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Letter to Patches",
+    "effect": "Request from Volcano Manor to Patches Examine using <Examine>",
+    "caption": "A written request from Volcano Manor addressed to Patches disclosing the name of a Tarnished to be hunted.\n\n\"Great Horned Tragoth\"\n\nHe can be found at the Ruin-Strewn Precipice. Find the red mark on your map for the exact location.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Letter to Bernahl",
+    "effect": "Request from Volcano Manor to Bernahl Examine using <Examine>",
+    "caption": "A written request from Volcano Manor addressed to Bernahl disclosing the names of two Tarnished to be hunted.\n\n\"Vargram the Raging Wolf\"\n\"Errant Sorcerer Wilhelm\"\n\nBoth men can be found in the Royal Capital of Leyndell. Find the red mark on your map for the exact location.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Zorayas's Letter",
+    "effect": "Farewell letter written in an inexpert hand Examine using <Examine>",
+    "caption": "Farewell letter written in an inexpert hand.\n\n\"I wish to set out on a journey.\nSo that one day, I can carry on Mother's work.\nBe the proud daughter of Tanith of Volcano Manor.\n\nFarewell.\nYou've always been so kind. So uncompromising.\nMy champion.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Meeting Place Map",
+    "effect": "Simple map showing a meeting place Examine using <Examine>",
+    "caption": "Simple map found on a corpse.\nSeems to point to a meeting place.\n\nThe man it came from surely desired one. The sole means of gaining entry into the academy: a glintstone key.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Sellia's Secret",
+    "effect": "A piece of paper given by Sage Gowry Examine using <Examine>",
+    "caption": "Note given by Sage Gowry detailing the secret he promised.\n\nThe Town of Sellia\nhides the source.\n\nLight three flames\natop the candle towers\nto break the seal.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Mirage Riddle",
+    "effect": "Simple map taken from an imp statue Examine using <Examine>",
+    "caption": "Simple map taken from an imp statue.\n\nA riddle concerning a rise that vanishes like a mirage.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Weathered Map",
+    "effect": "A simple map, badly weathered Examine using <Examine>",
+    "caption": "A simple, badly weathered map.\nLeft discarded and forgotten for some time.\n\nDepicts streaks of amber light.",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Knifeprint Clue",
+    "effect": "Simple map showing location of black knifeprint Examine using <Examine>",
+    "caption": "A simple map given by Fia.\n\nA clue to the whereabouts of a black knifeprint.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Rogier's Letter",
+    "effect": "Letter written in a trembling hand Examine using <Examine>",
+    "caption": "Letter written in a trembling hand.\n\n\"I forgot to tell you, but it seems D has a younger brother.\n\nI heard he lies in a deep sleep in the aqueduct beside the Eternal City of Nokron.\n\nAnd it's said he stood before the Prince of Death not far beyond that spot.\"",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Note: The Preceptor's Secret",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about the preceptor's secret.\n\nFurther details are available only to paying customers.",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Weathered Map",
+    "effect": "A simple map, badly weathered",
+    "caption": "A simple, badly weathered map.\nLeft discarded and forgotten for some time.\n\nFurther details are available only to paying customers.",
+    "rarity": "Purple",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Homing Instinct Painting",
+    "effect": "Reminiscence of the painting \"Homing Instinct\" Examine using <Examine>",
+    "caption": "Work of a wandering artist.\nReminiscence of a painting titled \"Homing Instinct.\"\n\nThis painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. \n\nThe soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Flightless Bird Painting",
+    "effect": "Reminiscence of the painting \"Flightless Bird\" Examine using <Examine>",
+    "caption": "Work of a wandering artist.\nReminiscence of a painting titled \"Flightless Bird.\"\n\nThis painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. \n\nThe soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Resurrection Painting",
+    "effect": "Reminiscence of the painting \"Resurrection\" Examine using <Examine>",
+    "caption": "Work of a wandering artist.\nReminiscence of a painting titled \"Resurrection.\"\n\nThis painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. \n\nThe soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Prophecy Painting",
+    "effect": "Reminiscence of the painting \"Prophecy\" Examine using <Examine>",
+    "caption": "Work of a wandering artist.\nReminiscence of a painting titled \"Prophecy.\"\n\nThis painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. \n\nThe soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Champion's Song Painting",
+    "effect": "Reminiscence of the painting \"Champion's Song\" Examine using <Examine>",
+    "caption": "Work of a wandering artist.\nReminiscence of a painting titled \"Champion's Song.\"\n\nThis painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. \n\nThe soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Redmane Painting",
+    "effect": "Reminiscence of the painting \"Redmane\" Examine using <Examine>",
+    "caption": "Work of a wandering artist.\nReminiscence of a painting titled \"Redmane.\"\n\nThis painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. \n\nThe soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "Sorcerer Painting",
+    "effect": "Reminiscence of the painting \"Sorcerer\" Examine using <Examine>",
+    "caption": "Work of a wandering artist.\nReminiscence of a painting titled \"Sorcerer.\"\n\nThis painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. \n\nThe soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",
+    "rarity": "Purple",
+    "lostinNGPlus": true,
+    "obtainable": true
+  },
+  {
+    "name": "About the Cave of Knowledge",
+    "effect": "Information about the Cave of Knowledge\nExamine using <Examine>",
+    "caption": "Jump down the hole ahead, and you will find the Cave of Knowledge.\n\nThere, you can learn more about game controls and basic actions, as well as other tips that may be helpful during your adventures in the Lands Between.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Sites of Grace",
+    "effect": "Information about sites of grace Examine using <Examine>",
+    "caption": "Resting at a site of grace will restore your HP, FP, and cleanse any status ailments.\nIt will also refill your sacred flasks.\n\nHowever, most of the enemies you've defeated will be revived.\n\nYou can find sites of grace by going where light converges.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Guidance of Grace",
+    "effect": "Information about Guidance of Grace Examine using <Examine>",
+    "caption": "Grace exists to guide the Tarnished and lead them along the proper path.\n\nEven now, some sites of grace retain that power. Their golden rays will guide you along your way.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About the Map",
+    "effect": "Information about the map Examine using <Examine>",
+    "caption": "Use your map to check your current position, as well as the terrain and surrounding structures.\n\nYou can update your map with new information by finding Map fragments at steles along the road.\n\nYou can also use the map to freely place beacons of light to serve as landmarks as you explore.\n\n&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Fast Travel to Sites of Grace",
+    "effect": "Information about fast travel to sites of grace Examine using <Examine>",
+    "caption": "Through your map, you can instantly travel to any sites of grace that you've discovered.\n\nHowever, there are some dungeons and other areas where this cannot be done.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Roundtable Hold",
+    "effect": "Information about the Roundtable Hold Examine using <Examine>",
+    "caption": "The Roundtable Hold is a place where Tarnished gather, guided by grace. Combat is prohibited on the premises due to a pact of non-aggression.\n(This rule is in effect when the Roundtable icon is displayed.)\n\nThe Roundtable Hold is located outside of this world, and fast travel by grace is the only means of reaching it. (Use the map to travel there.)\n\n&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Death",
+    "effect": "Information about death Examine using <Examine>",
+    "caption": "Upon dying, you will be revived at the last site of grace that you visited.\n\nYou will drop any runes in your possession at the site of your death.\nIf you die again before reclaiming those runes, they will be lost forever.\n\nThe compass at the top of the screen indicates the direction of the lost runes.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Stakes of Marika",
+    "effect": "Information about Stakes of Marika Examine using <Examine>",
+    "caption": "Upon dying, you will be revived at the last site of grace that you visited.\n\nHowever, if there is a Stake of Marika near where you died, you can choose to be revived there instead.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Guarding",
+    "effect": "Information about guarding Examine using <Examine>",
+    "caption": "Use an armament in your left hand or both hands to guard against incoming attacks.\nGuarding is especially effective when done with a shield.\n\nGuarding consumes stamina.\nIf your stamina runs out, your stance will be broken.\n\n&lt;?keyicon@24?&gt;: Guard",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Dodging",
+    "effect": "Information about dodging Examine using <Examine>",
+    "caption": "You can avoid enemy attacks with a dodge roll or backstep.\nBoth of these actions consume stamina.\n\n&lt;?keyMove?&gt;+&lt;?keyicon@7?&gt;: Dodge roll\n&lt;?keyicon@7?&gt;: Backstep",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Wielding Armaments",
+    "effect": "Information about wielding armaments Examine using <Examine>",
+    "caption": "Each hand can be equipped with up to three armaments, allowing you to toggle between them.\n\nArmaments can also be two-handed, making attacks more difficult to repel with shields and boosting effective strength by 50%.\n\n&lt;?keyicon@19?&gt;: &lt;?keyActName@19?&gt;\n&lt;?keyicon@20?&gt;: &lt;?keyActName@20?&gt;\n&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: Wield with two hands",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Stance-Breaking",
+    "effect": "Information about stance-breaking Examine using <Examine>",
+    "caption": "Some attacks may break an enemy's stance, giving you a chance to perform a critical hit.\n\nCharge attacks and jump attacks make it particularly easy to break an enemy's stance.\n\nHold &lt;?keyicon@23?&gt;: Charge attack\n&lt;?keyicon@23?&gt; while jumping: Jump attack",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Guard Counters",
+    "effect": "Information about guard counters Examine using <Examine>",
+    "caption": "You can perform a counterattack immediately after blocking an enemy attack.\n\nGuard counters make it easy to break an enemy's stance.\n\n&lt;?keyicon@23?&gt; immediately after blocking an attack: Guard Counter",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Bows",
+    "effect": "Information about bows Examine using <Examine>",
+    "caption": "Equip a bow to fire arrows.\nYou can equip up to two types of arrows to choose from at once.\n\nWhen wielding a bow with two hands, hold &lt;?keyicon@24?&gt; for precision aiming.\nUse &lt;?keyControlCamera?&gt; to adjust your aim.\n\n&lt;?keyicon@22?&gt;: Fire arrow type 1\n&lt;?keyicon@23?&gt;: Fire arrow type 2\n&lt;?keyicon@24?&gt;: Precision aiming",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Skills",
+    "effect": "Information about skills Examine using <Examine>",
+    "caption": "Armaments have special abilities called skills.\n\nSkills are highly varied, and range from powerful attacks to temporary effects.\nUsing skills consumes FP.\n\n&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Sorceries and Incantations",
+    "effect": "Information about sorceries and incantations Examine using <Examine>",
+    "caption": "You can memorize sorceries and incantations at sites of grace.\n\nYou must have a staff equipped to cast sorceries, or a sacred seal equipped to cast incantations.\nCasting sorceries and incantations consumes FP.\n\n&lt;?keyicon@0017?&gt;: &lt;?keyActName@17?&gt;",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Summoning Spirits",
+    "effect": "Information about summoning spirits Examine using <Examine>",
+    "caption": "With a Spirit Calling Bell, you can use ashes to summon various spirits.\nSummoning typically consumes FP.\n\nYou can only summon one type of spirit at a time.\nYou cannot summon spirits during multiplayer.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Monument Icon",
+    "effect": "Information about Monument Icon Examine using <Examine>",
+    "caption": "You must be near a rebirth monument to summon spirits from ashes.\n\nWhen you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Horseback Riding",
+    "effect": "Information about horseback riding Examine using <Examine>",
+    "caption": "Use the Spectral Steed Whistle to summon and ride your spectral steed.\n\nIf your spectral steed dies, you can summon it again, but it will cost one Flask of Crimson Tears to do so.\n\nYou can dismount by using the whistle again or by pressing &lt;?keyicon@0009?&gt;.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Spiritspring Jumping",
+    "effect": "Information about spiritspring jumping Examine using <Examine>",
+    "caption": "Jump while on horseback near a spiritspring to ride its current high into the air.\n\nYou won't take damage from jumping into a spiritspring while on horseback, even from a great height.\n\n&lt;?keyicon@8?&gt; at a spiritspring while on horseback: Spiritspring jump",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Crouching",
+    "effect": "Information about crouching Examine using <Examine>",
+    "caption": "Crouch to make it harder for enemies to discover you.\nEspecially effective in tall grass.\n\nAttacking an enemy that hasn't noticed you will cause more damage than usual.\n\n&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Birdseye Telescopes",
+    "effect": "Information about birdseye telescopes Examine using <Examine>",
+    "caption": "Use the Birdseye Telescopes in each area to see into the distance like a bird and get a better view of your destination.\n\n&lt;?keyicon@17?&gt;: Zoom in\n&lt;?keyicon@18?&gt;: Zoom out",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Teardrop Scarabs",
+    "effect": "Information about Teardrop Scarabs Examine using <Examine>",
+    "caption": "There are both Crimson and Cerulean Teardrop Scarabs.\nDefeat them to replenish the flasks that match their type.\n\nHowever, you cannot replenish more flasks than your maximum amount allows.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Vanquishing Enemy Groups",
+    "effect": "Information about vanquishing enemy groups Examine using <Examine>",
+    "caption": "Vanquishing an enemy group will replenish your flasks.\n\nThe number and type of flasks to be replenished varies, depending on the enemy group.\n\nYou cannot replenish more flasks than your maximum amount allows.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Item Crafting",
+    "effect": "Information about item crafting Examine using <Examine>",
+    "caption": "If you have a Crafting Kit, you can make various items from materials that you find.\n\nSelect \"Item Crafting\" from the main menu to make items.\n\nYou can learn to craft more items by finding cookbooks.\n\n&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Materials",
+    "effect": "Information about materials Examine using <Examine>",
+    "caption": "In every corner of the Lands Between, you will find fruits and flowers, mushrooms and butterflies, and various other useful materials.\n\nThese materials can be used for item crafting.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Containers",
+    "effect": "Information about containers Examine using <Examine>",
+    "caption": "You will need cracked pots or other containers to craft certain items.\nYou will not be able to make more of those items than you have containers.\n\nContainers will be consumed when crafting, but they can be reused when emptied.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Flask of Wondrous Physick",
+    "effect": "Information about Flask of Wondrous Physick Examine using <Examine>",
+    "caption": "You can find crystal tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between.\n\nAt sites of grace, you can mix two crystal tears in the Flask of Wondrous Physick.\nThis will allow you to create elixirs with various custom effects.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Strengthening Armaments",
+    "effect": "Information about strengthening armaments Examine using <Examine>",
+    "caption": "At a smithing table, you can spend runes and smithing stones to strengthen your armaments.\n\nSomewhere in the Lands Between, you may meet a blacksmith who can make your armaments even stronger.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Adding Skills",
+    "effect": "Information about adding skills Examine using <Examine>",
+    "caption": "With a Whetstone Knife, you can use ashes of war to grant your armaments new skills at sites of grace.\n\nAn armament can only have one skill.\nAny skill it previously had will be removed.\n\nAn armament's type determines what skills it can have. Some special armaments have unique skills and cannot be granted new ones.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Adding Affinities",
+    "effect": "Information about adding affinities to armaments Examine using <Examine>",
+    "caption": "With a Whetstone Knife, you can use ashes of war to grant affinities to your armaments at sites of grace.\n\nThis way, you can alter an armament's attack affinity, boost attribute scaling, and more.\n\nAn armament's type determines what affinities it can have. Some special armaments, like those with unique skills, cannot be granted new affinities.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Pouches",
+    "effect": "Information about pouches Examine using <Examine>",
+    "caption": "From \"Pouch\" in the main menu, you can equip six items to your pouches.\n\nFour of those items can be used without opening the main menu.\n\n&lt;?keyicon@27?&gt;+&lt;?keyicon@17?&gt;: Use item in Pouch 1\n&lt;?keyicon@27?&gt;+&lt;?keyicon@19?&gt;: Use item in Pouch 2\n&lt;?keyicon@27?&gt;+&lt;?keyicon@20?&gt;: Use item in Pouch 3\n&lt;?keyicon@27?&gt;+&lt;?keyicon@18?&gt;: Use item in Pouch 4",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Great Runes",
+    "effect": "Information about Great Runes Examine using <Examine>",
+    "caption": "The Great Runes you receive by defeating shardbearers have lost their beneficial power.\nHowever, their power can be restored at Divine Towers throughout the Lands Between.\n\nSee the description of each Great Rune to discover which Divine Tower you should visit.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Summoning Other Players",
+    "effect": "Information about summoning other players Examine using <Examine>",
+    "caption": "Use Furlcalling Finger Remedy to reveal summon signs of players from other worlds.\n\nGold signs indicate an ally.\nRed signs indicate an adversary.\nThe multiplayer session will begin once either type has been summoned.\n(You will take the role of the Host of Fingers.)",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Cooperative Multiplayer",
+    "effect": "Information about cooperative multiplayer Examine using <Examine>",
+    "caption": "Use Tarnished's Furled Finger to write a gold summon sign.\n\nCooperative multiplayer will begin once you have been summoned by a player from another world.\n\nYou will take the role of an ally (Furled Finger) and your objective is to defeat the area boss.\n\nThe compass at the top of the screen indicates the direction of the summoner (Host of Fingers).",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Competitive Multiplayer",
+    "effect": "Information about competitive multiplayer Examine using <Examine>",
+    "caption": "Use Duelist's Furled Finger to write a red summon sign.\n\nCompetitive multiplayer will begin once you have been summoned by a player from another world.\n\nYou will take the role of an adversary (Duelist) and your objective is to defeat the Host of Fingers who summoned you.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Invasion Multiplayer",
+    "effect": "Information about invasion multiplayer Examine using <Examine>",
+    "caption": "Use Festering Bloody Finger to attempt to invade the world of another player.\n\nThe multiplayer session will begin once the invasion succeeds.\n\nYou will take the role of an invader (Bloody Finger) and your objective is to defeat the Host of Fingers of that world.\n\nIf you stray far from the Host of Fingers, the compass at the top of the screen points to their location.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Requesting Help from Hunters",
+    "effect": "Information about requesting help from hunters Examine using <Examine>",
+    "caption": "If you use a White Cipher Ring, you will automatically request for a hunter from another world to come to your rescue when your world is invaded.\n(Can also be used after you are invaded.)\n\nThe hunter will be summoned once the request succeeds, and their objective is to defeat the invader of your world.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Hunter Multiplayer",
+    "effect": "Information about hunter multiplayer Examine using <Examine>",
+    "caption": "If you use a Blue Cipher Ring, you will make yourself open to summons for rescue from other worlds.\n\nThe multiplayer session will begin once you have been summoned as a hunter, and your objective is to defeat the invader of that world.\n\nThe compass at the top of the screen indicates the direction of the summoner (Host of Fingers).",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Summoning Pools",
+    "effect": "Information about the summoning pools Examine using <Examine>",
+    "caption": "In each area, you may find effigies of martyrs.\nThese effigies are summoning pools.\n\nYou'll find it easy to summon other players at these locations, as co-op and hostile summoning signs created with small effigies gather at summoning pools.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Duels",
+    "effect": "Information about duels.\nExamine using <Examine>",
+    "caption": "To engage in combat with other players, touch the effigy of Marika in a Colosseum.\n\nDuels, in which combatants fight one on one, can be undertaken in this venue.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About United Combat and Combat Ordeals",
+    "effect": "Information about group combat.\nExamine using <Examine>",
+    "caption": "To engage in combat with other players, touch the effigy of Marika in a Colosseum.\n\nUnited Combat and Combat Ordeals can be undertaken in this venue.\n\nIn United Combat two teams of fighters clash. Combat Ordeals are all-out brawls in which every combatant is out for themselves. ",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Combat with Spirit Ashes",
+    "effect": "Information about player combat using spirit ashes.\nExamine using <Examine>",
+    "caption": "To engage in combat with other players, touch the effigy of Marika in a Colosseum.\n\nIn this venue spirit ashes are permitted for use in battle.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "About Marika's Effigy at the Roundtable",
+    "effect": "About the effigy of Marika at the Roundtable Hold.\nExamine using <Examine>",
+    "caption": "The effigy of Marika at the Roundtable Hold can be used to enter Colosseum combat.\n\nYour preferred ruleset may be chosen from those of Colosseums already visited.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": true
+  },
+  {
+    "name": "Burial Crow's Letter",
+    "effect": "Letter written about the caravans",
+    "caption": "A letter written about the caravans.\nIt seems to have been sent from the\ncapital underground.",
+    "rarity": "-",
+    "lostinNGPlus": true,
+    "obtainable": false
+  },
+  {
+    "name": "About Multiplayer",
+    "effect": "Information about multiplayer Examine using <Examine>",
+    "caption": "You will need certain items to participate in each type of multiplayer:\ncooperative, invasion, or competitive.\n\nSelect \"Multiplayer\" from the main menu to see your multiplayer items.\nYou can also use them directly from this menu.\n\n&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Hidden Cave",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about a hidden cave.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Imp Shades",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about imp shades.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Flask of Wondrous Physick",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about a Flask of Wondrous Physick.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Stonedigger Trolls",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about stonedigger trolls.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Walking Mausoleum",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about the Wandering Mausoleum.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Unseen Assassins",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about unseen assassins.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Great Coffins",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about great coffins.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Flame Chariots",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about flame chariots.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Demi-human Mobs",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about demi-human mobs.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Land Squirts",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about land squirts.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Gravity's Advantage",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about advantageous use of gravity.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Revenants",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about revenants.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Waypoint Ruins",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about waypoint ruins.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Gateway",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about a gateway.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Frenzied Flame Village",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about the Frenzied Flame Village.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  },
+  {
+    "name": "Note: Below the Capital",
+    "effect": "Note imparting knowledge in brief",
+    "caption": "A note sold by a nomadic merchant.\nContains information about the sewers below the capital.\n\nFurther details are available only to paying customers.",
+    "rarity": "-",
+    "lostinNGPlus": false,
+    "obtainable": false
+  }
+]

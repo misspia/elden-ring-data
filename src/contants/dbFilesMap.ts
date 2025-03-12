@@ -21,6 +21,7 @@ import { consumableWeaponsFormatter } from "@/formatters/consumableWeapons";
 import { bolsteringMaterialsFormatter } from "@/formatters/bolsteringMaterials";
 import { keyItemsFormatter } from "@/formatters/keyItems";
 import { multiplayerItemsFormatter } from "@/formatters/multiplayerItems";
+import { infoItemsFormatter } from "@/formatters/infoItems";
 
 /**
  * Map of original csv file name to its corresponding json output file name
@@ -190,13 +191,21 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   //   json: "key-items.json",
   //   formatter: keyItemsFormatter,
   // },
+  // /**
+  //  * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1645410556#gid=1645410556
+  //  */
+  // {
+  //   csv: "Elden Ring Item Data Sheet (1.09) - Multiplayer Items.csv",
+  //   json: "multiplayer-items.json",
+  //   formatter: multiplayerItemsFormatter,
+  // },
   /**
-   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=1645410556#gid=1645410556
+   * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=782655497#gid=782655497
    */
   {
-    csv: "Elden Ring Item Data Sheet (1.09) - Multiplayer Items.csv",
-    json: "multiplayer-items.json",
-    formatter: multiplayerItemsFormatter,
+    csv: "Elden Ring Item Data Sheet (1.09) - Info Items.csv",
+    json: "info-items.json",
+    formatter: infoItemsFormatter,
   },
 ];
 

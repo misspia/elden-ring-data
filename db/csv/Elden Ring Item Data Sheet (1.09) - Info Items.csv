@@ -1,0 +1,499 @@
+Name,Icon,Info,Caption,Drop Type,Lost in NG+,Obtainable,Goods Type,Version Added,ID,Icon ID,Sort Group ID,Sort ID
+Note: Flask of Wondrous Physick,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""A Flask of Wondrous Physick still remains in the Third Church of Marika, north of the Mistwood.
+
+Cross the highway bridge and follow the animal trail north.""",Purple,No,Yes,12,1.00,8702,00288,10,450000
+Note: Waypoint Ruins,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Someone lurks among the waypoint ruins on the roads through Limgrave.""",Purple,No,Yes,12,1.00,8712,00288,10,450010
+Note: Gateway,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Fort Gael in Caelid houses a gateway that leads to Redmane Castle.""",Purple,No,Yes,12,1.00,8713,00298,10,450020
+Note: Hidden Cave,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""There is a hidden cave in the town of Sellia.
+Look beyond the graveyard at the precipice.""",Purple,No,Yes,12,1.00,8700,00298,10,450030
+Note: The Preceptor's Secret,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Preceptor Seluvis is hiding a dirty secret in a cellar among the ruins not far from the sisters three.
+
+The vile Graven Witch seems to be a frequent visitor to that place.""",Purple,No,Yes,12,1.03,8224,00292,10,450035
+Note: Great Coffins,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Great coffins travel the Lands Between, carrying the bodies of nameless fallen warriors.
+
+Might be a good source of armaments...""",Purple,No,Yes,12,1.00,8706,00294,10,450040
+Note: Below the Capital,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Below the royal capital of Leyndell is a vast network of sewers.
+
+The well in the city below reaches deep into its tunnels.""",Purple,No,Yes,12,1.03,8717,00294,10,450040
+Note: Gravity's Advantage,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Gravitational power that pulls can bring flying foes low.""",Purple,No,Yes,12,1.00,8710,00290,10,450050
+Note: Demi-human Mobs,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Slay the demi-human mob's leader first, and the rest will lose hope and panic.""",Purple,No,Yes,12,1.00,8708,00291,10,450060
+Note: Land Squirts,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Land squirts are soft where they touch the ground, and poison will cause them to rupture.""",Purple,No,Yes,12,1.00,8709,00291,10,450070
+Note: Stonedigger Trolls,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""The heads of the stonedigger trolls bear old wounds.""",Purple,No,Yes,12,1.00,8703,00291,10,450080
+Note: Revenants,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""The crawling royal revenants and their followers are all cursed.
+
+Healing powers will harm rather than mend.""",Purple,No,Yes,12,1.00,8711,00292,10,450090
+Note: Flame Chariots,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Beware the Fire Monks' chariots bearing the faces of giants.
+
+A well-aimed blow to the chimney on top may prove effective, but opportunities for a plunging attack will be rare indeed.""",Purple,No,Yes,12,1.00,8707,00291,10,450100
+Note: Walking Mausoleum,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""To stop the mausoleum's stride, you'll need to clean up around its feet first.""",Purple,No,Yes,12,1.00,8704,00298,10,450110
+Note: Unseen Assassins,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Some assassins cannot be seen with the naked eye.
+
+Seems the Erdtree sentries once carried torches that could cast light on these prowlers.""",Purple,No,Yes,12,1.00,8705,00291,10,450120
+Note: Imp Shades,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Nothing can touch the shades of imps in the heroes' graveyard.
+
+Only Rosus's light can give them form.""",Purple,No,Yes,12,1.00,8701,00291,10,450130
+Note: Frenzied Flame Village,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""South of the Grand Lift of Dectus lies the Frenzied Flame Village, inhabited by the sick. Stay well away.""",Purple,No,Yes,12,1.00,8715,00292,10,450140
+Note: The Lord of Frenzied Flame,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note sold by a nomadic merchant imparting knowledge in brief.
+
+""Beneath Leyndell, at the very bottom lies our lord, lord of the frenzied. The Three Fingers who holds us in thrall.""",Purple,No,Yes,12,1.00,8716,00298,10,450150
+Note: Miquella's Needle,#REF!,Note imparting knowledge in brief Examine using <Examine>,"Note written by a nomadic merchant succinctly detailing knowledge acquired.
+
+""The Empyrean Miquella crafted a needle to resist the influence of outer gods.
+
+Those who have inherited the flame of frenzy, yet wish not to become its lord would do well to seek Miquella's needle.""",Purple,No,Yes,12,1.00,8714,00289,10,450160
+Volcano Manor Invitation,#REF!,Letter of invitation to Volcano Manor,"Letter given by Rya as thanks for retrieving her necklace.
+
+Contains an invitation to Volcano Manor.
+
+""Brave Tarnished,
+Seek the Altus Plateau in the realm of the Erdtree.
+
+Prove yourself by making this journey, and the Volcano Manor will fully extend its invitation. To fight, amongst a family of champions.""",Purple,Yes,Yes,12,1.00,8137,03055,10,451000
+Letter from Volcano Manor,#REF!,Request from Volcano Manor Examine using <Examine>,"A written request from Volcano Manor disclosing the name of a Tarnished to be hunted.
+
+""Old Knight Istvan""
+
+He can be found in Limgrave. Find the red mark on your map for the exact location.",Purple,Yes,Yes,12,1.00,8127,03055,10,451010
+Letter from Volcano Manor,#REF!,Request from Volcano Manor Examine using <Examine>,"A written request from Volcano Manor disclosing the name of a Tarnished to be hunted.
+
+""Rileigh the Idle""
+
+He can be found in Altus Plateau. Find the red mark on your map for the exact location.",Purple,Yes,Yes,12,1.00,8132,03055,10,451020
+Red Letter,#REF!,Request from Volcano Manor Examine using <Examine>,"A written request from Volcano Manor disclosing the name of a Tarnished to be hunted. As the final request, the letter is vivid red.
+
+""Juno Hoslow, Knight of Blood""
+
+He can be found in the Mountaintops of the Giants. Find the red mark on your map for the exact location.",Purple,Yes,Yes,12,1.00,8133,03061,10,451030
+Letter to Patches,#REF!,Request from Volcano Manor to Patches Examine using <Examine>,"A written request from Volcano Manor addressed to Patches disclosing the name of a Tarnished to be hunted.
+
+""Great Horned Tragoth""
+
+He can be found at the Ruin-Strewn Precipice. Find the red mark on your map for the exact location.",Purple,Yes,Yes,12,1.00,8167,03101,10,451040
+Letter to Bernahl,#REF!,Request from Volcano Manor to Bernahl Examine using <Examine>,"A written request from Volcano Manor addressed to Bernahl disclosing the names of two Tarnished to be hunted.
+
+""Vargram the Raging Wolf""
+""Errant Sorcerer Wilhelm""
+
+Both men can be found in the Royal Capital of Leyndell. Find the red mark on your map for the exact location.",Purple,Yes,Yes,12,1.00,8173,03101,10,451050
+Zorayas's Letter,#REF!,Farewell letter written in an inexpert hand Examine using <Examine>,"Farewell letter written in an inexpert hand.
+
+""I wish to set out on a journey.
+So that one day, I can carry on Mother's work.
+Be the proud daughter of Tanith of Volcano Manor.
+
+Farewell.
+You've always been so kind. So uncompromising.
+My champion.""",Purple,Yes,Yes,12,1.00,8221,03281,10,451060
+Meeting Place Map,#REF!,Simple map showing a meeting place Examine using <Examine>,"Simple map found on a corpse.
+Seems to point to a meeting place.
+
+The man it came from surely desired one. The sole means of gaining entry into the academy: a glintstone key.",Purple,Yes,Yes,12,1.00,8198,03277,10,451070
+Sellia's Secret,#REF!,A piece of paper given by Sage Gowry Examine using <Examine>,"Note given by Sage Gowry detailing the secret he promised.
+
+The Town of Sellia
+hides the source.
+
+Light three flames
+atop the candle towers
+to break the seal.",Purple,Yes,Yes,12,1.00,8978,03234,10,451080
+Mirage Riddle,#REF!,Simple map taken from an imp statue Examine using <Examine>,"Simple map taken from an imp statue.
+
+A riddle concerning a rise that vanishes like a mirage.",Purple,Yes,Yes,12,1.00,8660,03084,10,451090
+Weathered Map,#REF!,"A simple map, badly weathered Examine using <Examine>","A simple, badly weathered map.
+Left discarded and forgotten for some time.
+
+Depicts streaks of amber light.",Purple,No,Yes,12,1.03,8225,03286,10,451095
+Knifeprint Clue,#REF!,Simple map showing location of black knifeprint Examine using <Examine>,"A simple map given by Fia.
+
+A clue to the whereabouts of a black knifeprint.",Purple,Yes,Yes,12,1.00,8190,03280,10,451100
+Rogier's Letter,#REF!,Letter written in a trembling hand Examine using <Examine>,"Letter written in a trembling hand.
+
+""I forgot to tell you, but it seems D has a younger brother.
+
+I heard he lies in a deep sleep in the aqueduct beside the Eternal City of Nokron.
+
+And it's said he stood before the Prince of Death not far beyond that spot.""",Purple,Yes,Yes,12,1.00,8223,03281,10,451110
+Note: The Preceptor's Secret,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about the preceptor's secret.
+
+Further details are available only to paying customers.",Purple,No,No,0,1.03,8226,00000,10,451110
+Weathered Map,#REF!,"A simple map, badly weathered","A simple, badly weathered map.
+Left discarded and forgotten for some time.
+
+Further details are available only to paying customers.",Purple,No,No,0,1.03,8227,03287,10,451110
+Homing Instinct Painting,#REF!,"Reminiscence of the painting ""Homing Instinct"" Examine using <Examine>","Work of a wandering artist.
+Reminiscence of a painting titled ""Homing Instinct.""
+
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. 
+
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",Purple,Yes,Yes,12,1.00,8200,03066,10,452000
+Flightless Bird Painting,#REF!,"Reminiscence of the painting ""Flightless Bird"" Examine using <Examine>","Work of a wandering artist.
+Reminiscence of a painting titled ""Flightless Bird.""
+
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. 
+
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",Purple,Yes,Yes,12,1.00,8205,03211,10,452010
+Resurrection Painting,#REF!,"Reminiscence of the painting ""Resurrection"" Examine using <Examine>","Work of a wandering artist.
+Reminiscence of a painting titled ""Resurrection.""
+
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. 
+
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",Purple,Yes,Yes,12,1.00,8201,03207,10,452020
+Prophecy Painting,#REF!,"Reminiscence of the painting ""Prophecy"" Examine using <Examine>","Work of a wandering artist.
+Reminiscence of a painting titled ""Prophecy.""
+
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. 
+
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",Purple,Yes,Yes,12,1.00,8204,03210,10,452030
+Champion's Song Painting,#REF!,"Reminiscence of the painting ""Champion's Song"" Examine using <Examine>","Work of a wandering artist.
+Reminiscence of a painting titled ""Champion's Song.""
+
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. 
+
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",Purple,Yes,Yes,12,1.00,8202,03208,10,452040
+Redmane Painting,#REF!,"Reminiscence of the painting ""Redmane"" Examine using <Examine>","Work of a wandering artist.
+Reminiscence of a painting titled ""Redmane.""
+
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. 
+
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",Purple,Yes,Yes,12,1.00,8206,03212,10,452050
+Sorcerer Painting,#REF!,"Reminiscence of the painting ""Sorcerer"" Examine using <Examine>","Work of a wandering artist.
+Reminiscence of a painting titled ""Sorcerer.""
+
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace. 
+
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.",Purple,Yes,Yes,12,1.00,8203,03209,10,452060
+About the Cave of Knowledge,#REF!,"Information about the Cave of Knowledge
+Examine using <Examine>","Jump down the hole ahead, and you will find the Cave of Knowledge.
+
+There, you can learn more about game controls and basic actions, as well as other tips that may be helpful during your adventures in the Lands Between.",-,No,Yes,12,1.04,9142,03343,20,460000
+About Sites of Grace,#REF!,Information about sites of grace Examine using <Examine>,"Resting at a site of grace will restore your HP, FP, and cleanse any status ailments.
+It will also refill your sacred flasks.
+
+However, most of the enemies you've defeated will be revived.
+
+You can find sites of grace by going where light converges.",-,No,Yes,12,1.00,9100,03300,20,460005
+About Guidance of Grace,#REF!,Information about Guidance of Grace Examine using <Examine>,"Grace exists to guide the Tarnished and lead them along the proper path.
+
+Even now, some sites of grace retain that power. Their golden rays will guide you along your way.",-,No,Yes,12,1.00,9108,03309,20,460010
+About the Map,#REF!,Information about the map Examine using <Examine>,"Use your map to check your current position, as well as the terrain and surrounding structures.
+
+You can update your map with new information by finding Map fragments at steles along the road.
+
+You can also use the map to freely place beacons of light to serve as landmarks as you explore.
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;",-,No,Yes,12,1.00,9107,03308,20,460020
+About Fast Travel to Sites of Grace,#REF!,Information about fast travel to sites of grace Examine using <Examine>,"Through your map, you can instantly travel to any sites of grace that you've discovered.
+
+However, there are some dungeons and other areas where this cannot be done.",-,No,Yes,12,1.00,9130,03330,20,460030
+About Roundtable Hold,#REF!,Information about the Roundtable Hold Examine using <Examine>,"The Roundtable Hold is a place where Tarnished gather, guided by grace. Combat is prohibited on the premises due to a pact of non-aggression.
+(This rule is in effect when the Roundtable icon is displayed.)
+
+The Roundtable Hold is located outside of this world, and fast travel by grace is the only means of reaching it. (Use the map to travel there.)
+
+&lt;?keyicon@29?&gt;: &lt;?keyActName@29?&gt;",-,No,Yes,12,1.00,9132,03332,20,460040
+About Death,#REF!,Information about death Examine using <Examine>,"Upon dying, you will be revived at the last site of grace that you visited.
+
+You will drop any runes in your possession at the site of your death.
+If you die again before reclaiming those runes, they will be lost forever.
+
+The compass at the top of the screen indicates the direction of the lost runes.",-,No,Yes,12,1.00,9110,03311,20,460050
+About Stakes of Marika,#REF!,Information about Stakes of Marika Examine using <Examine>,"Upon dying, you will be revived at the last site of grace that you visited.
+
+However, if there is a Stake of Marika near where you died, you can choose to be revived there instead.",-,No,Yes,12,1.00,9105,03307,20,460060
+About Guarding,#REF!,Information about guarding Examine using <Examine>,"Use an armament in your left hand or both hands to guard against incoming attacks.
+Guarding is especially effective when done with a shield.
+
+Guarding consumes stamina.
+If your stamina runs out, your stance will be broken.
+
+&lt;?keyicon@24?&gt;: Guard",-,No,Yes,12,1.00,9112,03302,20,460070
+About Dodging,#REF!,Information about dodging Examine using <Examine>,"You can avoid enemy attacks with a dodge roll or backstep.
+Both of these actions consume stamina.
+
+&lt;?keyMove?&gt;+&lt;?keyicon@7?&gt;: Dodge roll
+&lt;?keyicon@7?&gt;: Backstep",-,No,Yes,12,1.00,9138,03340,20,460080
+About Wielding Armaments,#REF!,Information about wielding armaments Examine using <Examine>,"Each hand can be equipped with up to three armaments, allowing you to toggle between them.
+
+Armaments can also be two-handed, making attacks more difficult to repel with shields and boosting effective strength by 50%.
+
+&lt;?keyicon@19?&gt;: &lt;?keyActName@19?&gt;
+&lt;?keyicon@20?&gt;: &lt;?keyActName@20?&gt;
+&lt;?keyicon@27?&gt;+&lt;?keyicon@24?&gt;/&lt;?keyicon@22?&gt;: Wield with two hands",-,No,Yes,12,1.00,9140,03342,20,460090
+About Stance-Breaking,#REF!,Information about stance-breaking Examine using <Examine>,"Some attacks may break an enemy's stance, giving you a chance to perform a critical hit.
+
+Charge attacks and jump attacks make it particularly easy to break an enemy's stance.
+
+Hold &lt;?keyicon@23?&gt;: Charge attack
+&lt;?keyicon@23?&gt; while jumping: Jump attack",-,No,Yes,12,1.00,9104,03305,20,460100
+About Guard Counters,#REF!,Information about guard counters Examine using <Examine>,"You can perform a counterattack immediately after blocking an enemy attack.
+
+Guard counters make it easy to break an enemy's stance.
+
+&lt;?keyicon@23?&gt; immediately after blocking an attack: Guard Counter",-,No,Yes,12,1.00,9106,03306,20,460110
+About Bows,#REF!,Information about bows Examine using <Examine>,"Equip a bow to fire arrows.
+You can equip up to two types of arrows to choose from at once.
+
+When wielding a bow with two hands, hold &lt;?keyicon@24?&gt; for precision aiming.
+Use &lt;?keyControlCamera?&gt; to adjust your aim.
+
+&lt;?keyicon@22?&gt;: Fire arrow type 1
+&lt;?keyicon@23?&gt;: Fire arrow type 2
+&lt;?keyicon@24?&gt;: Precision aiming",-,No,Yes,12,1.00,9102,03303,20,460120
+About Skills,#REF!,Information about skills Examine using <Examine>,"Armaments have special abilities called skills.
+
+Skills are highly varied, and range from powerful attacks to temporary effects.
+Using skills consumes FP.
+
+&lt;?keyicon@25?&gt;: &lt;?keyActName@25?&gt;",-,No,Yes,12,1.00,9129,03329,20,460130
+About Sorceries and Incantations,#REF!,Information about sorceries and incantations Examine using <Examine>,"You can memorize sorceries and incantations at sites of grace.
+
+You must have a staff equipped to cast sorceries, or a sacred seal equipped to cast incantations.
+Casting sorceries and incantations consumes FP.
+
+&lt;?keyicon@0017?&gt;: &lt;?keyActName@17?&gt;",-,No,Yes,12,1.00,9101,03301,20,460140
+About Summoning Spirits,#REF!,Information about summoning spirits Examine using <Examine>,"With a Spirit Calling Bell, you can use ashes to summon various spirits.
+Summoning typically consumes FP.
+
+You can only summon one type of spirit at a time.
+You cannot summon spirits during multiplayer.",-,No,Yes,12,1.00,9111,03313,20,460150
+About Monument Icon,#REF!,Information about Monument Icon Examine using <Examine>,"You must be near a rebirth monument to summon spirits from ashes.
+
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.",-,No,Yes,12,1.00,9127,03327,20,460160
+About Horseback Riding,#REF!,Information about horseback riding Examine using <Examine>,"Use the Spectral Steed Whistle to summon and ride your spectral steed.
+
+If your spectral steed dies, you can summon it again, but it will cost one Flask of Crimson Tears to do so.
+
+You can dismount by using the whistle again or by pressing &lt;?keyicon@0009?&gt;.",-,No,Yes,12,1.00,9109,03310,20,460170
+About Spiritspring Jumping,#REF!,Information about spiritspring jumping Examine using <Examine>,"Jump while on horseback near a spiritspring to ride its current high into the air.
+
+You won't take damage from jumping into a spiritspring while on horseback, even from a great height.
+
+&lt;?keyicon@8?&gt; at a spiritspring while on horseback: Spiritspring jump",-,No,Yes,12,1.00,9118,03318,20,460180
+About Crouching,#REF!,Information about crouching Examine using <Examine>,"Crouch to make it harder for enemies to discover you.
+Especially effective in tall grass.
+
+Attacking an enemy that hasn't noticed you will cause more damage than usual.
+
+&lt;?keyicon@9?&gt;: &lt;?keyActName@9?&gt;",-,No,Yes,12,1.00,9103,03304,20,460190
+About Birdseye Telescopes,#REF!,Information about birdseye telescopes Examine using <Examine>,"Use the Birdseye Telescopes in each area to see into the distance like a bird and get a better view of your destination.
+
+&lt;?keyicon@17?&gt;: Zoom in
+&lt;?keyicon@18?&gt;: Zoom out",-,No,Yes,12,1.00,9117,03317,20,460200
+About Teardrop Scarabs,#REF!,Information about Teardrop Scarabs Examine using <Examine>,"There are both Crimson and Cerulean Teardrop Scarabs.
+Defeat them to replenish the flasks that match their type.
+
+However, you cannot replenish more flasks than your maximum amount allows.",-,No,Yes,12,1.00,9120,03320,20,460210
+About Vanquishing Enemy Groups,#REF!,Information about vanquishing enemy groups Examine using <Examine>,"Vanquishing an enemy group will replenish your flasks.
+
+The number and type of flasks to be replenished varies, depending on the enemy group.
+
+You cannot replenish more flasks than your maximum amount allows.",-,No,Yes,12,1.00,9119,03319,20,460220
+About Item Crafting,#REF!,Information about item crafting Examine using <Examine>,"If you have a Crafting Kit, you can make various items from materials that you find.
+
+Select ""Item Crafting"" from the main menu to make items.
+
+You can learn to craft more items by finding cookbooks.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;",-,No,Yes,12,1.00,9113,03314,20,460230
+About Materials,#REF!,Information about materials Examine using <Examine>,"In every corner of the Lands Between, you will find fruits and flowers, mushrooms and butterflies, and various other useful materials.
+
+These materials can be used for item crafting.",-,No,Yes,12,1.00,9134,03335,20,460240
+About Containers,#REF!,Information about containers Examine using <Examine>,"You will need cracked pots or other containers to craft certain items.
+You will not be able to make more of those items than you have containers.
+
+Containers will be consumed when crafting, but they can be reused when emptied.",-,No,Yes,12,1.00,9135,03336,20,460250
+About Flask of Wondrous Physick,#REF!,Information about Flask of Wondrous Physick Examine using <Examine>,"You can find crystal tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between.
+
+At sites of grace, you can mix two crystal tears in the Flask of Wondrous Physick.
+This will allow you to create elixirs with various custom effects.",-,No,Yes,12,1.00,9115,03315,20,460260
+About Strengthening Armaments,#REF!,Information about strengthening armaments Examine using <Examine>,"At a smithing table, you can spend runes and smithing stones to strengthen your armaments.
+
+Somewhere in the Lands Between, you may meet a blacksmith who can make your armaments even stronger.",-,No,Yes,12,1.00,9131,03331,20,460270
+About Adding Skills,#REF!,Information about adding skills Examine using <Examine>,"With a Whetstone Knife, you can use ashes of war to grant your armaments new skills at sites of grace.
+
+An armament can only have one skill.
+Any skill it previously had will be removed.
+
+An armament's type determines what skills it can have. Some special armaments have unique skills and cannot be granted new ones.",-,No,Yes,12,1.00,9116,03316,20,460280
+About Adding Affinities,#REF!,Information about adding affinities to armaments Examine using <Examine>,"With a Whetstone Knife, you can use ashes of war to grant affinities to your armaments at sites of grace.
+
+This way, you can alter an armament's attack affinity, boost attribute scaling, and more.
+
+An armament's type determines what affinities it can have. Some special armaments, like those with unique skills, cannot be granted new affinities.",-,No,Yes,12,1.00,9136,03337,20,460290
+About Pouches,#REF!,Information about pouches Examine using <Examine>,"From ""Pouch"" in the main menu, you can equip six items to your pouches.
+
+Four of those items can be used without opening the main menu.
+
+&lt;?keyicon@27?&gt;+&lt;?keyicon@17?&gt;: Use item in Pouch 1
+&lt;?keyicon@27?&gt;+&lt;?keyicon@19?&gt;: Use item in Pouch 2
+&lt;?keyicon@27?&gt;+&lt;?keyicon@20?&gt;: Use item in Pouch 3
+&lt;?keyicon@27?&gt;+&lt;?keyicon@18?&gt;: Use item in Pouch 4",-,No,Yes,12,1.00,9137,03338,20,460300
+About Great Runes,#REF!,Information about Great Runes Examine using <Examine>,"The Great Runes you receive by defeating shardbearers have lost their beneficial power.
+However, their power can be restored at Divine Towers throughout the Lands Between.
+
+See the description of each Great Rune to discover which Divine Tower you should visit.",-,No,Yes,12,1.03,9141,03341,20,460305
+About Summoning Other Players,#REF!,Information about summoning other players Examine using <Examine>,"Use Furlcalling Finger Remedy to reveal summon signs of players from other worlds.
+
+Gold signs indicate an ally.
+Red signs indicate an adversary.
+The multiplayer session will begin once either type has been summoned.
+(You will take the role of the Host of Fingers.)",-,No,Yes,12,1.00,9121,03321,20,460310
+About Cooperative Multiplayer,#REF!,Information about cooperative multiplayer Examine using <Examine>,"Use Tarnished's Furled Finger to write a gold summon sign.
+
+Cooperative multiplayer will begin once you have been summoned by a player from another world.
+
+You will take the role of an ally (Furled Finger) and your objective is to defeat the area boss.
+
+The compass at the top of the screen indicates the direction of the summoner (Host of Fingers).",-,No,Yes,12,1.00,9122,03322,20,460320
+About Competitive Multiplayer,#REF!,Information about competitive multiplayer Examine using <Examine>,"Use Duelist's Furled Finger to write a red summon sign.
+
+Competitive multiplayer will begin once you have been summoned by a player from another world.
+
+You will take the role of an adversary (Duelist) and your objective is to defeat the Host of Fingers who summoned you.",-,No,Yes,12,1.00,9123,03323,20,460330
+About Invasion Multiplayer,#REF!,Information about invasion multiplayer Examine using <Examine>,"Use Festering Bloody Finger to attempt to invade the world of another player.
+
+The multiplayer session will begin once the invasion succeeds.
+
+You will take the role of an invader (Bloody Finger) and your objective is to defeat the Host of Fingers of that world.
+
+If you stray far from the Host of Fingers, the compass at the top of the screen points to their location.",-,No,Yes,12,1.00,9124,03324,20,460340
+About Requesting Help from Hunters,#REF!,Information about requesting help from hunters Examine using <Examine>,"If you use a White Cipher Ring, you will automatically request for a hunter from another world to come to your rescue when your world is invaded.
+(Can also be used after you are invaded.)
+
+The hunter will be summoned once the request succeeds, and their objective is to defeat the invader of your world.",-,No,Yes,12,1.00,9128,03328,20,460350
+About Hunter Multiplayer,#REF!,Information about hunter multiplayer Examine using <Examine>,"If you use a Blue Cipher Ring, you will make yourself open to summons for rescue from other worlds.
+
+The multiplayer session will begin once you have been summoned as a hunter, and your objective is to defeat the invader of that world.
+
+The compass at the top of the screen indicates the direction of the summoner (Host of Fingers).",-,No,Yes,12,1.00,9125,03325,20,460360
+About Summoning Pools,#REF!,Information about the summoning pools Examine using <Examine>,"In each area, you may find effigies of martyrs.
+These effigies are summoning pools.
+
+You'll find it easy to summon other players at these locations, as co-op and hostile summoning signs created with small effigies gather at summoning pools.",-,No,Yes,12,1.00,9126,03326,20,460370
+About Duels,,"Information about duels.
+Examine using <Examine>","To engage in combat with other players, touch the effigy of Marika in a Colosseum.
+
+Duels, in which combatants fight one on one, can be undertaken in this venue.",-,No,Yes,12,1.08,9150,03344,20,460380
+About United Combat and Combat Ordeals,,"Information about group combat.
+Examine using <Examine>","To engage in combat with other players, touch the effigy of Marika in a Colosseum.
+
+United Combat and Combat Ordeals can be undertaken in this venue.
+
+In United Combat two teams of fighters clash. Combat Ordeals are all-out brawls in which every combatant is out for themselves. ",-,No,Yes,12,1.08,9151,03345,20,460390
+About Combat with Spirit Ashes,,"Information about player combat using spirit ashes.
+Examine using <Examine>","To engage in combat with other players, touch the effigy of Marika in a Colosseum.
+
+In this venue spirit ashes are permitted for use in battle.",-,No,Yes,12,1.08,9152,03346,20,460400
+About Marika's Effigy at the Roundtable,,"About the effigy of Marika at the Roundtable Hold.
+Examine using <Examine>","The effigy of Marika at the Roundtable Hold can be used to enter Colosseum combat.
+
+Your preferred ruleset may be chosen from those of Colosseums already visited.",-,No,Yes,12,1.08,9153,03347,20,460410
+Burial Crow's Letter,#REF!,Letter written about the caravans,"A letter written about the caravans.
+It seems to have been sent from the
+capital underground.",-,Yes,No,12,1.00,8181,00000,255,0
+About Multiplayer,#REF!,Information about multiplayer Examine using <Examine>,"You will need certain items to participate in each type of multiplayer:
+cooperative, invasion, or competitive.
+
+Select ""Multiplayer"" from the main menu to see your multiplayer items.
+You can also use them directly from this menu.
+
+&lt;?keyicon@28?&gt;: &lt;?keyActName@28?&gt;",-,No,No,12,1.00,9195,03334,255,999999
+Note: Hidden Cave,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about a hidden cave.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8750,00000,255,999999
+Note: Imp Shades,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about imp shades.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8751,00000,255,999999
+Note: Flask of Wondrous Physick,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about a Flask of Wondrous Physick.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8752,00000,255,999999
+Note: Stonedigger Trolls,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about stonedigger trolls.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8753,00000,255,999999
+Note: Walking Mausoleum,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about the Wandering Mausoleum.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8754,00000,255,999999
+Note: Unseen Assassins,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about unseen assassins.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8755,00000,255,999999
+Note: Great Coffins,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about great coffins.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8756,00000,255,999999
+Note: Flame Chariots,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about flame chariots.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8757,00000,255,999999
+Note: Demi-human Mobs,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about demi-human mobs.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8758,00000,255,999999
+Note: Land Squirts,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about land squirts.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8759,00000,255,999999
+Note: Gravity's Advantage,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about advantageous use of gravity.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8760,00000,255,999999
+Note: Revenants,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about revenants.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8761,00000,255,999999
+Note: Waypoint Ruins,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about waypoint ruins.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8762,00000,255,999999
+Note: Gateway,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about a gateway.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8763,00000,255,999999
+Note: Frenzied Flame Village,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about the Frenzied Flame Village.
+
+Further details are available only to paying customers.",-,No,No,0,1.00,8765,00000,255,999999
+Note: Below the Capital,#REF!,Note imparting knowledge in brief,"A note sold by a nomadic merchant.
+Contains information about the sewers below the capital.
+
+Further details are available only to paying customers.",-,No,No,0,1.03,8767,00000,255,999999
