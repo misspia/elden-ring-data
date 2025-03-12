@@ -1,0 +1,110 @@
+Name,Icon,Info,Caption,Drop Type,No. Held Max,Sell Price,Consumable/Reusable,Can Discard,SpEffect ID,ID,Icon ID,Sort ID
+Furlcalling Finger Remedy,,Reveals co-op and hostile summoning signs,"Item for online play.
+(Can also be used from the Multiplayer menu.)
+Craftable item.
+
+Reveals cooperative and competitive multiplayer signs.
+Co-op summoning signs will be shown in gold, while hostile summoning signs will be shown in red.
+
+Multiplayer begins when you summon a player from another world through their sign.",White (Large),999,10,Consumable,Yes,530,150,00014,11000
+Tarnished's Furled Finger,,Creates a summon sign for cooperative multiplayer,"Item for online play.
+(Can also be used from the Multiplayer menu.)
+
+Creates a summon sign for cooperative multiplayer.
+Arrive as a cooperator (Furled Finger) with the objective of defeating the area boss of the world to which you were summoned.
+
+A finger of corpse wax, furled like a hook.
+It is a relic of those who came before, left to help those who would come after.",Purple,1,-,Reusable,No,4,100,00001,11010
+Small Golden Effigy,,Sends a co-op sign to summoning pools,"Item for online play.
+(Can also be used from the Multiplayer menu.)
+
+Send a cooperative summon sign to several nearby summoning pools (activated pools only).
+
+In cooperative multiplayer, your objective will be to defeat the area boss of the world to which you were summoned.",Purple,1,-,Reusable,No,534,109,00602,11020
+Duelist's Furled Finger,,Creates a summon sign for competitive multiplayer,"Item for online play.
+(Can also be used from the Multiplayer menu.)
+
+Creates a summon sign for competitive multiplayer.
+Arrive as an adversary (Duelist) with the objective of defeating the Host of Fingers of the world to which you were summoned.
+
+A finger of corpse wax, furled like a hook.
+The bronze adornments are the mark of a duelist.",Purple,1,-,Reusable,No,10,101,00002,11030
+Small Red Effigy,,Sends a hostile sign to summoning pools,"Item for online play.
+(Can also be used from the Multiplayer menu.)
+
+Send a competitive summon sign to several nearby summoning pools (activated pools only).
+
+In competitive multiplayer, your objective will be to defeat the Host of Fingers of the world to which you were summoned.",Purple,1,-,Reusable,No,535,110,00603,11040
+Bloody Finger,,Attempts invasion of other player's world,"Item for online play.
+(Can also be used from the Multiplayer menu.)
+
+Attempts an invasion of another player's world.
+If successful, you will arrive as an invader (Bloody Finger) with the objective of defeating the Host of Fingers of that world.
+
+Glistening blood has been siphoned into the nail of this finger. Its sickly pale skin feels nothing now, but the nail still aches with sweetest pain.",Purple,1,-,Reusable,No,11,102,00003,11050
+Recusant Finger,,Attempts invasion of other player's world,"Item for online play.
+(Can also be used from the Multiplayer menu.)
+
+Attempts an invasion of another player's world.
+If successful, you will arrive as an invader (Recusant) with the objective of defeating the Host of Fingers of that world.
+
+This furled finger is covered in snake scales.
+An heirloom of the lord of the Volcano Manor, bequeathed to Tarnished who have become family.",Purple,1,-,Reusable,No,16,112,00635,11060
+Festering Bloody Finger,,Attempts invasion of other player's world,"Item for online play.
+(Can also be used from the Multiplayer menu.)
+Consumed upon use.
+
+Attempts an invasion of another player's world.
+If successful, you will arrive as an invader (Bloody Finger) with the objective of defeating the Host of Fingers of that world.
+
+This furled finger is blackened with blood congestion. It seems to have been chopped off rather unceremoniously.",Purple,99,100,Consumable,Yes,11,111,00008,11070
+Phantom Bloody Finger,,Attempts repeat invasion of last targeted world,"Item for online play.
+Obtained after invading another world.
+Consumed upon use.
+
+Attempts another invasion of the most recently invaded world.
+This may come in handy should separation from the Host of Fingers force a temporary retreat.",Purple,99,-,Consumable,No,536,107,00634,11080
+Phantom Recusant Finger,,Attempts repeat invasion of last targeted world,"Item for online play.
+Obtained after invading another world.
+Consumed upon use.
+
+Attempts another invasion of the most recently invaded world.
+This may come in handy should separation from the Host of Fingers force a temporary retreat.",Purple,99,-,Consumable,No,536,114,00674,11090
+Phantom Great Rune,,Give blessing of blood to enemies in invaded world,"Item for online play.
+Obtained after using the Mohg's Great Rune and invading another world.
+Consumed upon use.
+
+Enemies inside the invaded world receive a blessing of blood, which boosts their attack power when blood loss occurs nearby. Also, your HP recovers when blessed enemies defeat a player.",Purple,99,-,Consumable,No,10013500,135,00626,11110
+White Cipher Ring,,"When invaded, requests the aid of a hunter","Item for online play.
+(Can also be used from the Multiplayer menu.)
+
+Allows you to automatically request for a hunter from another world to come to your rescue when your world is invaded. (Summoning is not always possible.)
+
+One of the lost mystic codes said to have been bestowed by the Two Fingers.",Purple,1,-,Reusable,No,531,104,00600,11120
+Blue Cipher Ring,,Answers requests for summoning from hunters,"Item for online play.
+(Can also be used from the Multiplayer menu.)
+
+Puts the wearer in ready state to answer should someone in another world call for rescue. You will be summoned to their world as a hunter.
+
+During hunter multiplayer, your objective will be to defeat the invader of the summoned world.",Purple,1,-,Reusable,No,532,105,00601,11130
+Taunter's Tongue,,Lures in invaders,"Item for online play.
+(Can also be used from the Multiplayer menu.)
+
+Lures in invaders. This allows your world to be invaded without any Furled Finger cooperators present, and it also shortens the interval between windows of opportunity for invasion.
+
+Additionally, enables the arrival of a second invader to join when a cooperator is present. (With two invaders, the maximum number of cooperators becomes one.)",Purple,1,-,Reusable,No,533,108,00007,11140
+Finger Severer,,"Sends another, or oneself, home","Item for online play.
+(Can also be used from the Multiplayer menu.)
+
+Use as a Host of Fingers to select a summoned player and send them back to their world.
+
+Use when you have been summoned to another player's world to return to your own world.
+
+This phantom blade severs the link formed by a Furled Finger, but the maidens scorn those who abuse its use.",Purple,1,-,Reusable,No,7,103,00004,11150
+Tarnished's Wizened Finger,,Used to write messages to other worlds,"Item for online play.
+(Can also be used from the Messages menu.)
+
+Use to write messages. Your messages will be conveyed to other worlds, allowing other players to read them.
+
+A finger of corpse wax, so emaciated the bone is visible.
+It is a relic of those who came before, left to help those who would come after.",Purple,1,-,Reusable,No,-1,106,00005,11160

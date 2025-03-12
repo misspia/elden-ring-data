@@ -1,369 +1,369 @@
 [
-    {
-        "name": "Sacred Tear",
-        "effect": "Improves Sacred Flask's potency",
-        "caption": "Blessing of the Erdtree, worshiped in the churches of all lands; this is but a faint vestige.\n\nIncreases the potency of a Sacred Flask's restorative effects.\n(Can be used after resting at a site of grace.)\n\nDuring the age of the Erdtree, these tears were used to spread the faith, for theirs was once a certain blessing.",
-        "rarity": "Purple",
-        "maxHeld": 99,
-        "maxStorage": 600
-    },
-    {
-        "name": "Golden Seed",
-        "effect": "Increases Sacred Flask's number of uses",
-        "caption": "A golden seed, found at the base of an illusory tree.\n\nIncreases a Sacred Flask's number of uses.\n(Can be used after resting at a site of grace.)\n\nWhen the Elden Ring was shattered, these seeds flew from the Erdtree, scattering across the various lands, as if life itself knew that its end had come.",
-        "rarity": "Purple",
-        "maxHeld": 99,
-        "maxStorage": 600
-    },
-    {
-        "name": "Smithing Stone [1]",
-        "effect": "Reinforce armaments up to +3",
-        "caption": "Stone used to smith a variety of armaments. A shard found in plenty.\n\nStrengthens armaments up to +3.\n\nSmithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 100
-    },
-    {
-        "name": "Smithing Stone [2]",
-        "effect": "Reinforce armaments up to +6",
-        "caption": "Stone used to smith a variety of armaments. A large shard found in plenty.\n\nStrengthens armaments up to +6.\n\nSmithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 200
-    },
-    {
-        "name": "Smithing Stone [3]",
-        "effect": "Reinforce armaments up to +9",
-        "caption": "Stone used to smith a variety of armaments. A particularly hard specimen.\n\nStrengthens armaments up to +9.\n\nSmithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 300
-    },
-    {
-        "name": "Smithing Stone [4]",
-        "effect": "Reinforce armaments up to +12",
-        "caption": "Stone used to smith a variety of armaments. A large and particularly hard specimen.\n\nStrengthens armaments up to +12.\n\nSmithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 400
-    },
-    {
-        "name": "Smithing Stone [5]",
-        "effect": "Reinforce armaments up to +15",
-        "caption": "Stone used to smith a variety of armaments. A rare specimen, it is tinged with gold.\n\nStrengthens armaments up to +15.\n\nMined near the foot of the Erdtree, these stones are said to have been used to bolster the strength of the Royal forces.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 500
-    },
-    {
-        "name": "Smithing Stone [6]",
-        "effect": "Reinforce armaments up to +18",
-        "caption": "Stone used to smith a variety of armaments. A larger rare specimen, it is tinged with gold.\n\nStrengthens armaments up to +18.\n\nMined near the foot of the Erdtree, these stones are said to have been used to bolster the strength of the Royal forces.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 600
-    },
-    {
-        "name": "Smithing Stone [7]",
-        "effect": "Reinforce armaments up to +21",
-        "caption": "Stone used to smith a variety of armaments. Found in a polar region, it is semi-vitrified.\n\nStrengthens armaments up to +21.\n\nThought to have been used to hone the weapons of the champions of the War against the Giants at the birth of the Erdtree.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 700
-    },
-    {
-        "name": "Smithing Stone [8]",
-        "effect": "Reinforce armaments up to +24",
-        "caption": "Stone used to smith a variety of armaments. Found in a polar region, it is semi-vitrified.\n\nStrengthens armaments up to +24.\n\nThought to have been used to hone the weapons of the champions of the War against the Giants at the birth of the Erdtree.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 800
-    },
-    {
-        "name": "Ancient Dragon Smithing Stone",
-        "effect": "Reinforce armaments to +25",
-        "caption": "Smithing stone made by polishing a golden Gravel Stone. A scale of the Ancient Dragonlord, and hidden treasure of Farum Azula.\n\nStrengthens armaments to +25.\n\nThe Ancient Dragonlord's seat is said to lie beyond time. This stone lightly twists time, allowing the creation of a weapon capable of slaying a god.",
-        "rarity": "Gold",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 1000
-    },
-    {
-        "name": "Somber Smithing Stone [1]",
-        "effect": "Reinforce special armaments to +1",
-        "caption": "Shard of smithing stone drained of color.\n\nStrengthens special armaments to +1.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 200
-    },
-    {
-        "name": "Somber Smithing Stone [2]",
-        "effect": "Reinforce special armaments to +2",
-        "caption": "Large shard of smithing stone drained of color.\n\nStrengthens special armaments to +2.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 400
-    },
-    {
-        "name": "Somber Smithing Stone [3]",
-        "effect": "Reinforce special armaments to +3",
-        "caption": "Hard smithing stone drained of color.\n\nStrengthens special armaments to +3.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 600
-    },
-    {
-        "name": "Somber Smithing Stone [4]",
-        "effect": "Reinforce special armaments to +4",
-        "caption": "Large hard smithing stone drained of color.\n\nStrengthens special armaments to +4.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 800
-    },
-    {
-        "name": "Somber Smithing Stone [5]",
-        "effect": "Reinforce special armaments to +5",
-        "caption": "Gold smithing stone drained of color.\n\nStrengthens special armaments to +5.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 1000
-    },
-    {
-        "name": "Somber Smithing Stone [6]",
-        "effect": "Reinforce special armaments to +6",
-        "caption": "Large gold smithing stone drained of color.\n\nStrengthens special armaments to +6.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 1200
-    },
-    {
-        "name": "Somber Smithing Stone [7]",
-        "effect": "Reinforce special armaments to +7",
-        "caption": "Polar smithing stone drained of color.\n\nStrengthens special armaments to +7.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 1400
-    },
-    {
-        "name": "Somber Smithing Stone [8]",
-        "effect": "Reinforce special armaments to +8",
-        "caption": "Large polar smithing stone drained of color.\n\nStrengthens special armaments to +8.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 1600
-    },
-    {
-        "name": "Somber Smithing Stone [9]",
-        "effect": "Reinforce special armaments to +9",
-        "caption": "Ancient smithing stone drained of color.\n\nStrengthens special armaments to +9.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 1800
-    },
-    {
-        "name": "Somber Ancient Dragon Smithing Stone",
-        "effect": "Reinforce special armaments to +10",
-        "caption": "Ancient dragonrock smithing stone drained of color. A scale of the Ancient Dragonlord, and hidden treasure of Farum Azula.\n\nStrengthens special armaments to +10.\n\nThe Ancient Dragonlord's seat is said to lie beyond time. This stone lightly twists time, allowing the creation of a weapon capable of slaying a god.",
-        "rarity": "Gold",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 2000
-    },
-    {
-        "name": "Grave Glovewort [1]",
-        "effect": "Strengthen ashes to +1",
-        "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +1.\n\nThe art of strengthening ashes is known as spirit tuning. Only a spirit tuner may perform this deed.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 50
-    },
-    {
-        "name": "Grave Glovewort [2]",
-        "effect": "Strengthen ashes to +2",
-        "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +2.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 100
-    },
-    {
-        "name": "Grave Glovewort [3]",
-        "effect": "Strengthen ashes to +3",
-        "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +3.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 150
-    },
-    {
-        "name": "Grave Glovewort [4]",
-        "effect": "Strengthen ashes to +4",
-        "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +4.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 200
-    },
-    {
-        "name": "Grave Glovewort [5]",
-        "effect": "Strengthen ashes to +5",
-        "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +5.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 250
-    },
-    {
-        "name": "Grave Glovewort [6]",
-        "effect": "Strengthen ashes to +6",
-        "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +6.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 300
-    },
-    {
-        "name": "Grave Glovewort [7]",
-        "effect": "Strengthen ashes to +7",
-        "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +7.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 350
-    },
-    {
-        "name": "Grave Glovewort [8]",
-        "effect": "Strengthen ashes to +8",
-        "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +8.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 400
-    },
-    {
-        "name": "Grave Glovewort [9]",
-        "effect": "Strengthen ashes to +9",
-        "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +9.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 450
-    },
-    {
-        "name": "Great Grave Glovewort",
-        "effect": "Strengthen ashes to +10",
-        "caption": "White flower that blooms in catacombs.\nAn especially large specimen.\n\nStrengthens ashes to +10.\n\nSince times of old, large gloveworts were used to comfort heroic spirits. Given in tribute to those who died the most glorious of deaths, in the hope their stories would become legend.",
-        "rarity": "Gold",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 500
-    },
-    {
-        "name": "Ghost Glovewort [1]",
-        "effect": "Strengthen renowned ashes to +1",
-        "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +1.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 100
-    },
-    {
-        "name": "Ghost Glovewort [2]",
-        "effect": "Strengthen renowned ashes to +2",
-        "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +2.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 200
-    },
-    {
-        "name": "Ghost Glovewort [3]",
-        "effect": "Strengthen renowned ashes to +3",
-        "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +3.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 300
-    },
-    {
-        "name": "Ghost Glovewort [4]",
-        "effect": "Strengthen renowned ashes to +4",
-        "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +4.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 400
-    },
-    {
-        "name": "Ghost Glovewort [5]",
-        "effect": "Strengthen renowned ashes to +5",
-        "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +5.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 500
-    },
-    {
-        "name": "Ghost Glovewort [6]",
-        "effect": "Strengthen renowned ashes to +6",
-        "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +6.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 600
-    },
-    {
-        "name": "Ghost Glovewort [7]",
-        "effect": "Strengthen renowned ashes to +7",
-        "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +7.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 700
-    },
-    {
-        "name": "Ghost Glovewort [8]",
-        "effect": "Strengthen renowned ashes to +8",
-        "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +8.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 800
-    },
-    {
-        "name": "Ghost Glovewort [9]",
-        "effect": "Strengthen renowned ashes to +9",
-        "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +9.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
-        "rarity": "White",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 900
-    },
-    {
-        "name": "Great Ghost Glovewort",
-        "effect": "Strengthen renowned ashes to +10",
-        "caption": "White flower that blooms in catacombs.\nA spirit nestles close to this grand specimen\n\nStrengthens renowned ashes to +10.\n\nSince times of old, large gloveworts were used to comfort heroic spirits. Given in tribute to those who died the most glorious of deaths, in the hope their stories would become legend.",
-        "rarity": "Gold",
-        "maxHeld": 999,
-        "maxStorage": 999,
-        "sellPrice": 1000
-    }
+  {
+    "name": "Sacred Tear",
+    "effect": "Improves Sacred Flask's potency",
+    "caption": "Blessing of the Erdtree, worshiped in the churches of all lands; this is but a faint vestige.\n\nIncreases the potency of a Sacred Flask's restorative effects.\n(Can be used after resting at a site of grace.)\n\nDuring the age of the Erdtree, these tears were used to spread the faith, for theirs was once a certain blessing.",
+    "rarity": "Purple",
+    "maxHeld": 99,
+    "maxStorage": 600
+  },
+  {
+    "name": "Golden Seed",
+    "effect": "Increases Sacred Flask's number of uses",
+    "caption": "A golden seed, found at the base of an illusory tree.\n\nIncreases a Sacred Flask's number of uses.\n(Can be used after resting at a site of grace.)\n\nWhen the Elden Ring was shattered, these seeds flew from the Erdtree, scattering across the various lands, as if life itself knew that its end had come.",
+    "rarity": "Purple",
+    "maxHeld": 99,
+    "maxStorage": 600
+  },
+  {
+    "name": "Smithing Stone [1]",
+    "effect": "Reinforce armaments up to +3",
+    "caption": "Stone used to smith a variety of armaments. A shard found in plenty.\n\nStrengthens armaments up to +3.\n\nSmithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Smithing Stone [2]",
+    "effect": "Reinforce armaments up to +6",
+    "caption": "Stone used to smith a variety of armaments. A large shard found in plenty.\n\nStrengthens armaments up to +6.\n\nSmithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 200
+  },
+  {
+    "name": "Smithing Stone [3]",
+    "effect": "Reinforce armaments up to +9",
+    "caption": "Stone used to smith a variety of armaments. A particularly hard specimen.\n\nStrengthens armaments up to +9.\n\nSmithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 300
+  },
+  {
+    "name": "Smithing Stone [4]",
+    "effect": "Reinforce armaments up to +12",
+    "caption": "Stone used to smith a variety of armaments. A large and particularly hard specimen.\n\nStrengthens armaments up to +12.\n\nSmithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 400
+  },
+  {
+    "name": "Smithing Stone [5]",
+    "effect": "Reinforce armaments up to +15",
+    "caption": "Stone used to smith a variety of armaments. A rare specimen, it is tinged with gold.\n\nStrengthens armaments up to +15.\n\nMined near the foot of the Erdtree, these stones are said to have been used to bolster the strength of the Royal forces.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 500
+  },
+  {
+    "name": "Smithing Stone [6]",
+    "effect": "Reinforce armaments up to +18",
+    "caption": "Stone used to smith a variety of armaments. A larger rare specimen, it is tinged with gold.\n\nStrengthens armaments up to +18.\n\nMined near the foot of the Erdtree, these stones are said to have been used to bolster the strength of the Royal forces.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 600
+  },
+  {
+    "name": "Smithing Stone [7]",
+    "effect": "Reinforce armaments up to +21",
+    "caption": "Stone used to smith a variety of armaments. Found in a polar region, it is semi-vitrified.\n\nStrengthens armaments up to +21.\n\nThought to have been used to hone the weapons of the champions of the War against the Giants at the birth of the Erdtree.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 700
+  },
+  {
+    "name": "Smithing Stone [8]",
+    "effect": "Reinforce armaments up to +24",
+    "caption": "Stone used to smith a variety of armaments. Found in a polar region, it is semi-vitrified.\n\nStrengthens armaments up to +24.\n\nThought to have been used to hone the weapons of the champions of the War against the Giants at the birth of the Erdtree.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 800
+  },
+  {
+    "name": "Ancient Dragon Smithing Stone",
+    "effect": "Reinforce armaments to +25",
+    "caption": "Smithing stone made by polishing a golden Gravel Stone. A scale of the Ancient Dragonlord, and hidden treasure of Farum Azula.\n\nStrengthens armaments to +25.\n\nThe Ancient Dragonlord's seat is said to lie beyond time. This stone lightly twists time, allowing the creation of a weapon capable of slaying a god.",
+    "rarity": "Gold",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 1000
+  },
+  {
+    "name": "Somber Smithing Stone [1]",
+    "effect": "Reinforce special armaments to +1",
+    "caption": "Shard of smithing stone drained of color.\n\nStrengthens special armaments to +1.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 200
+  },
+  {
+    "name": "Somber Smithing Stone [2]",
+    "effect": "Reinforce special armaments to +2",
+    "caption": "Large shard of smithing stone drained of color.\n\nStrengthens special armaments to +2.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 400
+  },
+  {
+    "name": "Somber Smithing Stone [3]",
+    "effect": "Reinforce special armaments to +3",
+    "caption": "Hard smithing stone drained of color.\n\nStrengthens special armaments to +3.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 600
+  },
+  {
+    "name": "Somber Smithing Stone [4]",
+    "effect": "Reinforce special armaments to +4",
+    "caption": "Large hard smithing stone drained of color.\n\nStrengthens special armaments to +4.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 800
+  },
+  {
+    "name": "Somber Smithing Stone [5]",
+    "effect": "Reinforce special armaments to +5",
+    "caption": "Gold smithing stone drained of color.\n\nStrengthens special armaments to +5.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 1000
+  },
+  {
+    "name": "Somber Smithing Stone [6]",
+    "effect": "Reinforce special armaments to +6",
+    "caption": "Large gold smithing stone drained of color.\n\nStrengthens special armaments to +6.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 1200
+  },
+  {
+    "name": "Somber Smithing Stone [7]",
+    "effect": "Reinforce special armaments to +7",
+    "caption": "Polar smithing stone drained of color.\n\nStrengthens special armaments to +7.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 1400
+  },
+  {
+    "name": "Somber Smithing Stone [8]",
+    "effect": "Reinforce special armaments to +8",
+    "caption": "Large polar smithing stone drained of color.\n\nStrengthens special armaments to +8.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 1600
+  },
+  {
+    "name": "Somber Smithing Stone [9]",
+    "effect": "Reinforce special armaments to +9",
+    "caption": "Ancient smithing stone drained of color.\n\nStrengthens special armaments to +9.\n\nSpecial armaments with unique characteristics cannot be strengthened with colored smithing stones. Number of steps and amount strengthened differ from standard equipment.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 1800
+  },
+  {
+    "name": "Somber Ancient Dragon Smithing Stone",
+    "effect": "Reinforce special armaments to +10",
+    "caption": "Ancient dragonrock smithing stone drained of color. A scale of the Ancient Dragonlord, and hidden treasure of Farum Azula.\n\nStrengthens special armaments to +10.\n\nThe Ancient Dragonlord's seat is said to lie beyond time. This stone lightly twists time, allowing the creation of a weapon capable of slaying a god.",
+    "rarity": "Gold",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 2000
+  },
+  {
+    "name": "Grave Glovewort [1]",
+    "effect": "Strengthen ashes to +1",
+    "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +1.\n\nThe art of strengthening ashes is known as spirit tuning. Only a spirit tuner may perform this deed.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 50
+  },
+  {
+    "name": "Grave Glovewort [2]",
+    "effect": "Strengthen ashes to +2",
+    "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +2.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Grave Glovewort [3]",
+    "effect": "Strengthen ashes to +3",
+    "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +3.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 150
+  },
+  {
+    "name": "Grave Glovewort [4]",
+    "effect": "Strengthen ashes to +4",
+    "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +4.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 200
+  },
+  {
+    "name": "Grave Glovewort [5]",
+    "effect": "Strengthen ashes to +5",
+    "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +5.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 250
+  },
+  {
+    "name": "Grave Glovewort [6]",
+    "effect": "Strengthen ashes to +6",
+    "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +6.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 300
+  },
+  {
+    "name": "Grave Glovewort [7]",
+    "effect": "Strengthen ashes to +7",
+    "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +7.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 350
+  },
+  {
+    "name": "Grave Glovewort [8]",
+    "effect": "Strengthen ashes to +8",
+    "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +8.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 400
+  },
+  {
+    "name": "Grave Glovewort [9]",
+    "effect": "Strengthen ashes to +9",
+    "caption": "White flower that blooms in catacombs.\nEach a soundless bell used to summon spirits.\n\nStrengthens ashes to +9.\n\nSpirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 450
+  },
+  {
+    "name": "Great Grave Glovewort",
+    "effect": "Strengthen ashes to +10",
+    "caption": "White flower that blooms in catacombs.\nAn especially large specimen.\n\nStrengthens ashes to +10.\n\nSince times of old, large gloveworts were used to comfort heroic spirits. Given in tribute to those who died the most glorious of deaths, in the hope their stories would become legend.",
+    "rarity": "Gold",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 500
+  },
+  {
+    "name": "Ghost Glovewort [1]",
+    "effect": "Strengthen renowned ashes to +1",
+    "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +1.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 100
+  },
+  {
+    "name": "Ghost Glovewort [2]",
+    "effect": "Strengthen renowned ashes to +2",
+    "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +2.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 200
+  },
+  {
+    "name": "Ghost Glovewort [3]",
+    "effect": "Strengthen renowned ashes to +3",
+    "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +3.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 300
+  },
+  {
+    "name": "Ghost Glovewort [4]",
+    "effect": "Strengthen renowned ashes to +4",
+    "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +4.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 400
+  },
+  {
+    "name": "Ghost Glovewort [5]",
+    "effect": "Strengthen renowned ashes to +5",
+    "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +5.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 500
+  },
+  {
+    "name": "Ghost Glovewort [6]",
+    "effect": "Strengthen renowned ashes to +6",
+    "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +6.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 600
+  },
+  {
+    "name": "Ghost Glovewort [7]",
+    "effect": "Strengthen renowned ashes to +7",
+    "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +7.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 700
+  },
+  {
+    "name": "Ghost Glovewort [8]",
+    "effect": "Strengthen renowned ashes to +8",
+    "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +8.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 800
+  },
+  {
+    "name": "Ghost Glovewort [9]",
+    "effect": "Strengthen renowned ashes to +9",
+    "caption": "White flower that blooms in catacombs.\nA spirit nestles close to it.\n\nStrengthens renowned ashes to +9.\n\nAshes which keep their renown even after death cannot be strengthened by merely corporeal glovewort.",
+    "rarity": "White",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 900
+  },
+  {
+    "name": "Great Ghost Glovewort",
+    "effect": "Strengthen renowned ashes to +10",
+    "caption": "White flower that blooms in catacombs.\nA spirit nestles close to this grand specimen\n\nStrengthens renowned ashes to +10.\n\nSince times of old, large gloveworts were used to comfort heroic spirits. Given in tribute to those who died the most glorious of deaths, in the hope their stories would become legend.",
+    "rarity": "Gold",
+    "maxHeld": 999,
+    "maxStorage": 999,
+    "sellPrice": 1000
+  }
 ]
