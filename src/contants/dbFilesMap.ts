@@ -4,7 +4,7 @@ import { ashesOfWarCompatibilityWeaponsFormatter } from "@/formatters/ashesOfWar
 import { ashesOfWarCompatibilityAshesFormatter } from "@/formatters/ashesOfWarCompatibilityAshes";
 import { bossesFormatter } from "@/formatters/bosses";
 import { playerBossesFormatter } from "@/formatters/playerBosses";
-import { weaponsFormatter } from "@/formatters/weapons";
+import { weaponStatsFormatter } from "@/formatters/weaponStats";
 import { levelUpCostFormatter } from "@/formatters/levelUpCost";
 import { weaponsEffectsFormatter } from "@/formatters/weaponsEffects";
 import { consumablesEffectsFormatter } from "@/formatters/consumablesEffects";
@@ -64,8 +64,8 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
   //  */
   // {
   //   csv: "Elden Ring Weapon Data Sheet (1.09) - Raw_Data.csv",
-  //   json: "weapons.json",
-  //   formatter: weaponsFormatter,
+  //   json: "weapon-stats.json",
+  //   formatter: weaponStatsFormatter,
   // },
   // /**
   //  * https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit?gid=0#gid=0
@@ -195,7 +195,7 @@ export const DB_FILES_MAP_NAMES: DBFilesMap = [
    */
   {
     csv: "Elden Ring Item Data Sheet (1.09) - Multiplayer Items.csv",
-    json: "multiplater-items.json",
+    json: "multiplayer-items.json",
     formatter: multiplayerItemsFormatter,
   },
 ];

@@ -7,7 +7,7 @@ import {
   WeaponType,
 } from "@/types/weapons";
 
-type UnformattedWeapon = {
+type UnformattedWeaponStats = {
   ID: string;
   Name: string;
   "Reinforce Type ID": string;
@@ -44,7 +44,7 @@ type UnformattedWeapon = {
   "Required (Arc)": string;
   "Weapon Type": WeaponType;
   "Physical Damage Type": PhysicalDamageTypeRaw;
-  Caption: string;
+  Caption: string; // caption is always empty
   Weight: string;
   "Attack Power (Critical)": string;
   "2H Str Bonus": "Yes" | "No";
@@ -59,12 +59,10 @@ type Effect = {
   value: number;
 };
 
-type FormattedWeapon = {
-  id: string;
+type FormattedWeaponStats = {
   name: string;
   type: WeaponType;
   physicalDamageType: PhysicalDamageType;
-  caption: string;
   weight: number;
   attackPowerCritical: number;
   strengthBonus2Hand: boolean;
@@ -116,17 +114,15 @@ const addEffect = (type: WeaponEffectRaw, value: string): Effect[] =>
       ]
     : [];
 
-export const weaponsFormatter: JSONFormatter<
-  UnformattedWeapon[],
-  FormattedWeapon[]
-> = (json) => {
-  return json.map((weapon) => ({
-    id: weapon.ID,
+export const weaponStatsFormatter: JSONFormatter<
+  UnformattedWeaponStats[],
+  FormattedWeaponStats[]
+> = (json) =>
+  json.map((weapon) => ({
     name: weapon.Name,
     type: weapon["Weapon Type"],
     physicalDamageType: weapon["Physical Damage Type"],
-    caption: weapon.Caption,
-    weight: parseInt(weapon.Weight),
+    weight: parseFloat(weapon.Weight),
     attackPowerCritical: parseInt(weapon["Attack Power (Critical)"]),
     strengthBonus2Hand: weapon["2H Str Bonus"] === "Yes",
     basePoiseAttack: parseInt(weapon["Base Poise Attack"]),
@@ -169,4 +165,3 @@ export const weaponsFormatter: JSONFormatter<
       arcane: parseInt(weapon["Required (Arc)"]),
     },
   }));
-};

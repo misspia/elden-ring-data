@@ -127,7 +127,7 @@ export const weaponsAffinitiesFormatter: JSONFormatter<
               name: weapon["Default Weapon Skill"],
               fpCost: parseInt(weapon["Default Weapon Skill FP Cost"]),
             },
-      weight: parseInt(weapon.Weight),
+      weight: parseFloat(weapon.Weight),
       sellPrice:
         parseInt(weapon["Sell Price"]) < 0
           ? undefined

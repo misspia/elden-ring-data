@@ -42,7 +42,7 @@ export const talismansFormatter: JSONFormatter<
     effect: talisman.Info,
     caption: talisman.Caption,
     level: parseInt(talisman.Level),
-    weight: parseInt(talisman.Weight),
+    weight: parseFloat(talisman.Weight),
     sellPrice: parseInt(talisman["Sell Price"]),
     achievement: talisman.Achievement === "Yes",
   }));
